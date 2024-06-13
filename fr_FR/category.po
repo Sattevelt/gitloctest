@@ -12,34 +12,34 @@ msgstr ""
 "X-Generator: Poedit 3.4.2\n"
 
 msgid "PRODUCT_CONFIG_TITLE"
-msgstr "Guide choisir"
+msgstr "Aide à la sélection"
 
 msgid "PRODUCT_CONFIG_MAIN_QUESTION"
-msgstr "Quel radiateur vous convient ?"
+msgstr "Quel radiateur vous convient le mieux ?"
 
 msgid "PRODUCT_CONFIG_DESCRIPTION"
-msgstr "En trois étapes, nous calculons la puissance requise pour votre radiateur."
+msgstr "Nous calculons la puissance requise pour votre radiateur en 3 étapes."
 
 msgid "PRODUCT_CONFIG_DIMENSIONS_ROOM"
-msgstr "Dimensions de lespace ?"
+msgstr "Dimensions de la pièce ?"
 
 msgid "PRODUCT_CONFIG_ROOM_TYPE"
 msgstr "Type d'espace ?"
 
 msgid "PRODUCT_CONFIG_ISOLATED_ROOM"
-msgstr "Pièce isolée ?"
+msgstr "Espace isolé ?"
 
 msgid "PRODUCT_CONFIG_SHOW_RESULTS"
-msgstr "Voir résultats"
+msgstr "Voir les résultats"
 
 msgid "PRODUCT_CONFIG_SHOW"
-msgstr "Calculer capacité"
+msgstr "Calculer la capacité"
 
 msgid "PRODUCT_CONFIG_HIDE"
-msgstr "Cacher calculs"
+msgstr "Masquer le calcul"
 
 msgid "PRODUCT_CONFIG_VALIDATION_ROOM_TYPE"
-msgstr "Espace"
+msgstr "Chambre"
 
 msgid "PRODUCT_CONFIG_VALIDATION_ISOLATION"
 msgstr "Isolation"
@@ -54,7 +54,7 @@ msgid "PRODUCT_CONFIG_VALIDATION_HEIGHT"
 msgstr "Hauteur"
 
 msgid "QUICK-LINK-CHOICE-HELP"
-msgstr "Guide choisir"
+msgstr "Aide à la sélection"
 
 msgid "QUICK-LINK-BESTSELLERS"
 msgstr "Meilleures ventes"
