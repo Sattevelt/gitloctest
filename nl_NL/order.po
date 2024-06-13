@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "SCHEDULE_TITLE"
+msgstr "Inplannen bestelling Sanitairwinkel.nl"
+
+msgid "SCHEDULE_PLIEGER"
+msgstr ""
+"<p><strong>Geachte heer / mevrouw %s %s,</strong></p>"
+"					<p>Bij deze willen we u laten weten dat uw bestelling inmiddels voorradig is, deze kunnen wij zo spoedig mogelijk bezorgen.</p>"
+"					<p>U kunt via onderstaande link zelf een voorkeur datum aangeven.</p>"
+"					<p style=\"color:red;\">Nadat uw een bezorgdatum heeft geselecteerd, ontvangt u hiervan een bevestiging."
+"					<br />Helaas is het niet mogelijk om een tijdsindicatie van levering aan te geven."
+"					<br />Gelieve hier rekening mee te houden op de dag van levering.</p>"
+
+msgid "SCHEDULE_GALVANO"
+msgstr ""
+"<p><strong>Geachte heer / mevrouw %s %s,</strong></p>"
+"					<p>Bij deze willen we u laten weten dat uw bestelling inmiddels voorradig is, deze kunnen wij zo spoedig mogelijk bezorgen.</p>"
+"					<p>U kunt via onderstaande link zelf een voorkeur datum aangeven.</p>"
+"					<p style=\"color:red;\">Nadat uw een bezorgdatum heeft geselecteerd, ontvangt u hiervan een bevestiging."
+"					<br />Helaas is het niet mogelijk om een tijdsindicatie van levering aan te geven."
+"					<br />Gelieve hier rekening mee te houden op de dag van levering.</p>"
+"Vermeld bij uw contact altijd dat het een Sanitairwinkel order betreft met referentie %d"
+
+msgid "SCHEDULE_DOLLEVOET"
+msgstr ""
+"<p><strong>Geachte heer / mevrouw %s %s,</strong></p>"
+"					<p>Bij deze willen we u laten weten dat uw bestelling inmiddels voorradig is, deze kunnen wij zo spoedig mogelijk bezorgen.</p>"
+"					<p>U kunt via onderstaande link zelf een voorkeur datum aangeven.</p>"
+"					<p style=\"color:red;\">"
+"					Het is helaas niet mogelijk om een dagdeel of tijdstip in te plannen. <br>"
+"					Wel kunt u <em>op de dag van levering vanaf 8:00 uur in de ochtend</em> bellen met onze transporteur (Expeditie Dollevoet).<br> "
+"					Zij kunnen dan een indicatie van het levertijdstip geven.<br /> Het telefoonnummer van de transporteur is: <strong>073 522 5767</strong>."
+"					</p>"
+
+msgid "SCHEDULE_KLANT"
+msgstr ""
+"<p><strong>Geachte heer / mevrouw %s %s,</strong></p>"
+"					<p>Bij deze willen we u laten weten dat uw bestelling inmiddels voorradig is.</p>"
+"					<p>U kunt hieronder een voorkeur datum aangeven.</p>	"
+"					<p>U kunt uw producten bij het volgende adres afhalen:<br /><br />"
+"					<strong>Sanitairwinkel<br />"
+"					Graafsebaan 141<br />"
+"					5248 NL Rosmalen (gemeente 's-Hertogenbosch)<br />"
+"					Noord Brabant</strong>"
+"					</p>"
+
+msgid "SCHEDULE_INVALID_URL"
+msgstr "Geen geldige url gevonden."
+
+msgid "SCHEDULE_THANKS"
+msgstr ""
+"<p>Bedankt voor het inplannen van uw bestelling.<br />"
+"				Binnen 24 uur ontvangt u een bevestiging van de door u gekozen datum.</p>"
+"				<a href=\"/\">Sanitairwinkel.nl</a>"
+
+msgid "STATUS_INVALID_DATA"
+msgstr "De ingevulde gegevens zijn niet correct!"
+
+msgid "STATUS"
+msgstr "Bestelstatus - Vraag hier je bestelstatus op"
+
+msgid "ENTER_ORDERDATA"
+msgstr "Vul hieronder je bestelgegevens in:"
+
+msgid "ADD_DATE"
+msgstr "Geplaatst op"
+
+msgid "PRICE"
+msgstr "Bestelbedrag"
+
+msgid "TOTAL_DISCOUNT"
+msgstr "Totale korting"
+
+msgid "DISCLAIMER"
+msgstr ""
+"Disclaimer:"
+"Sanitairwinkel heeft met de grootste zorg uw bovenstaande bestelstatus samengesteld, dit blijft echter een indicatie."
+
+msgid "QUESTION"
+msgstr ""
+"<h2 class=\"clean-head\">Heeft u een vraag?</h2>"
+"			Bekijk onze <a href=\"https://service.sawiday.com/hc/nl\" target=\"_blank\">klantenservicepagina's</a>. Hier vindt u informatie over uiteenlopende onderwerpen. Of neem direct contact met ons op per <a class=\"bestelstatus_contact\" rel=\"%d\" style=\"cursor: pointer;\">email</a>/telefoon."
+"			U kunt <a href=\"javascript:window.print();\">deze pagina printen</a> voor uw administratie."
+
+msgid "YOUR_OPINION"
+msgstr "Uw mening telt!"
+
+msgid "PAYMENT_METHOD"
+msgstr "U heeft ervoor gekozen uw betaling te voldoen per <b>%s</b>."
+
+msgid "PAYMENT_METHOD_IDEAL"
+msgstr "Wanneer u de betaling nog niet heeft voldaan, verzoeken wij u dit zo spoedig mogelijk te doen. Let erop dat een verlate betaling consequenties heeft voor de levertijd."
+
+msgid "PAYMENT_METHOD_SHOWROOM"
+msgstr "U kunt in onze showroom pinnen of contant betalen."
+
+msgid "PAYMENT_METHOD_REMBOURS"
+msgstr ""
+
+msgid "PAYMENT_METHOD_PREPAID"
+msgstr "U kunt het bedrag o.v.v. %d overmaken naar rekening %s t.n.v. Rorix B.V. Let erop dat een verlate betaling consequenties heeft voor de levertijd."
+
+msgid "PAYMENT_METHOD_CREDITCARD"
+msgstr "Het bedrag wordt over omstreeks 5 werkdagen van uw creditcard afgeschreven."
+
+msgid "PAYMENT_METHOD_CANCELLED"
+msgstr "Uw betalingsverplichtingen komen hiermee te vervallen. Eventuele betaalde bedragen worden binnen 14 dagen naar u retour gestort."
+
+msgid "PAYED"
+msgstr "U heeft uw betaling reeds voldaan per <b>%s</b>"
+
+msgid "PAYMENT_STATUS"
+msgstr "Uw order is op dit moment <b>%s</b> betaald."
+
+msgid "DELIVERY_METHOD"
+msgstr "U heeft ervoor gekozen uw bestelling <b>%s</b>.<br />"
+
+msgid "PICKUP"
+msgstr "af te halen"
+
+msgid "DELIVERY"
+msgstr "te laten bezorgen"
+
+msgid "DELIVERY_METHOD_PICKUP"
+msgstr ""
+"Zodra uw bestelling volledig aanwezig is in onze vestiging, nemen wij met u contact op. "
+"					Afhalen van uw bestelling is mogelijk op maandag t/m vrijdag tussen 10:00 en 17:00 uur en op zaterdag tussen 10:00 en 12:00. "
+"					U kunt uw bestelling afhalen op het volgende adres:"
+
+msgid "DELIVERY_IMMEDIATELY"
+msgstr ""
+"Zodra uw bestelling wordt overgedragen aan de bezorgdienst ontvangt u een nieuwe e-mail met daarin de status van uw bestelling. "
+"							De verwachte bezorgdatum op dit moment is %s. Bij de betaalmethoden ‘vooruitbetaling’, ’iDEAL’ en ‘creditcard’ geldt hier een voorwaarde dat de betaling is voldaan."
+
+msgid "DELIVERY_DATE"
+msgstr ""
+"U heeft aangegeven uw bestelling te willen ontvangen op %s. "
+"							Zodra uw bestelling wordt overgedragen aan de bezorgdienst ontvangt u een nieuwe e-mail met daarin de status van uw bestelling. "
+"							Bij de betaalmethoden ‘vooruitbetaling’, ’iDEAL’ en ‘creditcard’ geldt hier een voorwaarde dat de betaling is voldaan."
+
+msgid "DELIVERY_APPOINTMENT"
+msgstr "Zodra uw bestelling volledig aanwezig is in ons centraal magazijn, ontvangt u een nieuwe e-mail met daarin het verzoek tot het inplannen van een bezorgdatum."
+
+msgid "PAYMENT_STATUS_PAYED_YES"
+msgstr "Uw order is op dit moment <b>wel</b> betaald."
+
+msgid "PAYMENT_STATUS_PAYED_NO"
+msgstr "Uw order is op dit moment <b>niet</b> betaald."
+
+msgid "EXPECTED_IN_WAREHOUSE"
+msgstr "Verwacht in magazijn"
+
+msgid "PRODUCTS_DELAYED"
+msgstr "De volgende producten zijn nog niet aanwezig in ons magazijn:"
+
+msgid "SCHEDULE_OTHER"
+msgstr ""
+"<p><strong>Geachte heer / mevrouw %s %s,</strong></p>"
+"					<p>Bij deze willen we u laten weten dat uw bestelling inmiddels voorradig is, deze kunnen wij zo spoedig mogelijk bezorgen.</p>"
+"					<p>U kunt via onderstaande link zelf een voorkeur datum aangeven.</p>"
+"					<p style=\"color:red;\">Nadat uw een bezorgdatum heeft geselecteerd, ontvangt u hiervan een bevestiging."
+"					<br />Helaas is het niet mogelijk om een tijdsindicatie van levering aan te geven."
+"					<br />Gelieve hier rekening mee te houden op de dag van levering.</p>"
+
+msgid "INPLANNEN_ERROR_LABEL"
+msgstr "Sorry, wij liepen tegen de volgende fout(en) aan:"
+
+msgid "INVALID_DATA_RECEIVED"
+msgstr "Incorrecte gegevens ontvangen"
+
+msgid "TRANSPORTER_CLASS_NOT_FOUND"
+msgstr "Er ging iets mis; neem alstublieft contact op met onze klantenservice (code 1)"
+
+msgid "ORDER_NOT_FOUND"
+msgstr "Uw order kon niet gevonden worden"
+
+msgid "ORDER_ALREADY_SCHEDULED"
+msgstr "Deze order is al ingepland"
+
+msgid "ORDER_SCHEDULING_NOT_ALLOWED"
+msgstr "Deze order hoort niet ingepland te worden"
+
+msgid "DELIVERY_METHOD_PICKUP_DELIPOINT"
+msgstr "Hieronder vindt u informatie over uw gekozen afhaalpunt:"
+
+msgid "DELIVERY_EXTERNAL"
+msgstr "op te halen bij een afhaalpunt"
+
+msgid "PICKUP_ORDER_DATE"
+msgstr "U kunt uw bestelling afhalen vanaf <strong>%s</strong>."
+
+msgid "REQUEST_RETURN"
+msgstr "Retour aanvragen"
+
+msgid "EXPECTED"
+msgstr "Verwacht: %s"
+
+msgid "YOUR_OPINION_EXPLANATION"
+msgstr "Laat weten wat u van Sanitairwinkel vindt, wij willen graag onze reputatie hoog houden en waarderen feedback enorm."
+
+msgid "FRANCE_ORDER_CONTACT_US"
+msgstr ""
+
+msgid "ORDER_TYPE"
+msgstr "Type bestelling"
+
+msgid "READY_FOR_SHIPMENT"
+msgstr "Klaar voor verzending"
+
+msgid "MISSING_ORDER_DATA"
+msgstr "Incorrecte leveringsgegevens ontvangen"
+
+msgid "UNAUTHORIZED_DELIVERY_NOT_IN_ORDER"
+msgstr "Deze levering hoort niet bij deze order"
+
+msgid "INVALID_DELIVERY_DATA"
+msgstr "Onbekende levering"
+
+msgid "SCHEDULING_FAILED"
+msgstr "Levering kon niet ingepland worden"
+
+msgid "MISSING_OR_INVALID_SCHEDULING_DATE"
+msgstr "Geen of incorrecte leverdatum gekozen"
+
+msgid "TRACK_AND_TRACE"
+msgstr "Track & Trace"
+
+msgid "FINALIZE_PAYMENT"
+msgstr "Betaling voltooien"
+
+msgid "QR_BUTTON_EXPLANATION"
+msgstr "Door op onderstaande knop te klikken kunt u de QR code scannen."
+
+msgid "PAY_WITH_ANOTHER_PAYMENT_METHOD"
+msgstr "Eventueel kunt u uw betaalmethode aanpassen en online betalen via <a href='%1$s'>deze</a> link."
+
+msgid "ORDER_PAYMENT_NOT_PAID_TITLE"
+msgstr "Bestelling betalen"
+
+msgid "ORDER_PAYMENT_NOT_PAID_TEXT"
+msgstr ""
+"<p>Je bestelling is nog niet betaald, op deze pagina kun je je bestelling "
+"                alsnog afronden.</p><p>Bij vragen kun je altijd contact opnemen met onze klantenservice "
+"                (<strong>073 522 0688</strong>).</p>"
+
+msgid "ORDER_PAYMENT_PAID_TITLE"
+msgstr "Bestelling reeds betaald"
+
+msgid "ORDER_PAYMENT_PAID_TEXT"
+msgstr ""
+"<p>Je bestelling is volgens onze informatie reeds betaald, je hoeft niets meer "
+"                te doen.</p><p>Bij vragen kun je altijd contact opnemen met onze klantenservice "
+"                (<strong>073 522 0688</strong>).</p>"
+
+msgid "ORDER_PAYMENT_CANCELLED_TITLE"
+msgstr "Bestelling geannuleerd"
+
+msgid "ORDER_PAYMENT_CANCELLED_TEXT"
+msgstr ""
+"<p>Je bestelling is volgens onze informatie geannuleerd, "
+"                je kunt geen betaling meer uitvoeren.</p><p>Bij vragen kun je altijd contact opnemen met onze "
+"                klantenservice (<strong>073 522 0688</strong>).</p>"
+
+msgid "LOGIN_TEXT_1"
+msgstr "<p>Vul hieronder e-mailadres en bestelnummer in om in te loggen.</p>"
+
+msgid "LOGIN_TEXT_2"
+msgstr "<h2>Lukt het niet om in te loggen?</h2><p>Controleer uw e-mailadres op typefouten en raadpleeg uw bestelbevestiging voor het juiste bestelnummer.</p>"
+
+msgid "TRACK_AND_TRACE_POPUP_TITLE"
+msgstr "Track&Trace gegevens"
+
+msgid "TRACK_AND_TRACE_POPUP_TEXT"
+msgstr "Bekijk hieronder uw track&trace code(s)"
+
+msgid "CONDITIONS_SIGN_ERROR_NO_CONDITIONS_FOUND"
+msgstr "Er zijn geen voorwaarden voor deze bestelling gevonden. Zijn de voorwaarden al via een ander device ondertekend?"
+
+msgid "CONDITIONS_SIGN_ERROR_GENERATING_DOCUMENT"
+msgstr "Er was een probleem bij het opslaan van de ondertekening. Probeer a.u.b. de fallback methode."
+
+msgid "CONDITIONS_SIGN_SUCCES"
+msgstr "Uw handtekening is succesvol opgeslagen."
+
+msgid "CONDITIONS_GET_NO_STORE_FOUND"
+msgstr "Het is niet gelukt om de huidige vestiging te bepalen."
+
+msgid "CONDITIONS_GET_NO_CONDITIONS_FOUND"
+msgstr "Er zijn geen voorwaarden voor deze bestelling gevonden. Zijn de voorwaarden al via een ander device ondertekend?"
+
+msgid "INFO_BLOCKED_PAYMENT_LINK"
+msgstr ""
+""
+"                    Betaallink niet beschikbaar, omdat de order is gefactureerd."
+"                    De klant dient de bestelling te voldoen per bankoverboeking."
+"                    Rekeningnummer: NL62 ABNA 0508 4878 97 t.n.v. Sawiday te Rosmalen."
+"                "
+
+msgid "ORDER_PAYMENT_INVOICED_TITLE"
+msgstr "Bestelling gefactureerd"
+
+msgid "ORDER_PAYMENT_INVOICED_TEXT"
+msgstr ""
+""
+"                    Je bestelling is inmiddels gefactureerd, waardoor de betaallink niet meer actief is.<br/>"
+"                    We hebben je een e-mail gestuurd met de factuur en betaalinstructies om de betaling te voldoen.<br/>"
+"                    <br/>"
+"                    Bij vragen kun je altijd contact opnemen met onze klantenservice (<strong>073 522 0688</strong>)."
+"                "
+
+msgid "ORDER_STATUS_LINK_SEND_MESSAGE_SUCCESS"
+msgstr "Er is een mail verstuurd met daarin een url voor het ophalen van de bestelgegevens."
+
+msgid "ORDER_STATUS_LINK_SEND_MESSAGE_FAILURE"
+msgstr "Het versturen van een email is mislukt. Probeer het nogmaals of neem contact op met de klantenservice"
+
+msgid "ORDER_STATUS_TEXT"
+msgstr "<p>Vul hieronder uw bestelgegevens in.</p>"
+
+msgid "ORDER_PAYPEMNT_NOT_PAID_TERMS"
+msgstr "Door op de knop Afrekenen te klikken gaat u akkoord met onze"
+

@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "NEWSLETTER_UNSUBSCRIBE_TITLE"
+msgstr "Geen nieuwsbrief meer ontvangen"
+
+msgid "UNSUBSCRIBE_OPTION_1"
+msgstr "Geen tijd om te lezen"
+
+msgid "UNSUBSCRIBE_OPTION_2"
+msgstr "Ik krijg al zoveel e-mail"
+
+msgid "UNSUBSCRIBE_OPTION_3"
+msgstr "Geen interesse"
+
+msgid "UNSUBSCRIBE_OPTION_4"
+msgstr "Anders, namelijk"
+
+msgid "SUBSCRIBE"
+msgstr "Inschrijven"
+
+msgid "ADD_SUBSCRIPTION_DATA"
+msgstr "Vul onderstaande gegevens in en blijf op de hoogte van acties, inspiratie en trends!"
+
+msgid "STOP_SUBSCRIPTION_DATA"
+msgstr "Vul onderstaande gegevens in om je uit te schrijven voor onze nieuwsbrief."
+
+msgid "STOP_SUBSCRIPTION_REASON"
+msgstr "Reden van uitschrijven"
+
+msgid "STOP_SUBSCRIPTION_REASON_ADDITION"
+msgstr "Toelichting"
+
+msgid "REASON_NO_TIME_TO_READ"
+msgstr "Geen tijd om te lezen"
+
+msgid "REASON_TOO_MANY_EMAILS"
+msgstr "Ik krijg al zoveel e-mail"
+
+msgid "REASON_NO_INTEREST"
+msgstr "Geen interesse"
+
+msgid "REASON_ANOTHER_REASON"
+msgstr "Anders, namelijk"
+
+msgid "UNSUBSCRIBE"
+msgstr "Uitschrijven"
+
+msgid "YES_SUBSCRIBE_ME"
+msgstr " Ja, ik schrijf me in voor nieuwsbrief en speciale kortingsmails (maximaal 2 per maand en je kunt je op ieder moment uitschrijven)"
+
+msgid "NEWSLETTER_SIGNUP_TITLE"
+msgstr "Ja, ik meld me aan voor de nieuwsbrief"
+

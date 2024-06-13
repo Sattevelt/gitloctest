@@ -1,0 +1,1017 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "EMAIL"
+msgstr "E-mailadres"
+
+msgid "NAME"
+msgstr "Naam"
+
+msgid "ALTER"
+msgstr "Wijzigen"
+
+msgid "PREVIEW"
+msgstr "Bekijk voorbeeld"
+
+msgid "ENTER_EMAILADDRESS"
+msgstr "Vul hier uw e-mailadres in"
+
+msgid "COPYRIGHT"
+msgstr "Sawiday.be"
+
+msgid "SHOWROOMMODELS"
+msgstr "Showroommodellen"
+
+msgid "IMAGE"
+msgstr "Afbeelding"
+
+msgid "PHONENUMBER"
+msgstr "Telefoonnummer"
+
+msgid "PRODUCT"
+msgstr "Product"
+
+msgid "BRAND"
+msgstr "Merk"
+
+msgid "QUESTION"
+msgstr "Vraag"
+
+msgid "SKU"
+msgstr "Artikelnummer"
+
+msgid "MESSAGE"
+msgstr "Bericht"
+
+msgid "SHIPPINGCOSTS"
+msgstr "Verzending"
+
+msgid "DELIVERY_DATE"
+msgstr "Afleverdatum"
+
+msgid "CATEGORY"
+msgstr "Categorie"
+
+msgid "BRANDS"
+msgstr "Merken"
+
+msgid "SERIE"
+msgstr "Serie"
+
+msgid "YES"
+msgstr "Ja"
+
+msgid "NO"
+msgstr "Neen"
+
+msgid "ADD"
+msgstr "Toevoegen"
+
+msgid "PRICE"
+msgstr "Prijs"
+
+msgid "SLOGAN"
+msgstr "Sawiday.be, Dé online Sanitair Winkel met badkamer showroom"
+
+msgid "SHOPPINGCART"
+msgstr "Winkelwagen"
+
+msgid "DESCRIPTION"
+msgstr "Omschrijving"
+
+msgid "INITIALS"
+msgstr "Voorletters"
+
+msgid "SURNAME_PREFIX"
+msgstr "Tussenvoegsel"
+
+msgid "YOUR_DATA"
+msgstr "Uw gegevens"
+
+msgid "SERVICE"
+msgstr "Service"
+
+msgid "MAXIMUM_SIZE"
+msgstr "(maximale grootte %s)"
+
+msgid "SEARCH"
+msgstr "Zoeken"
+
+msgid "DATA"
+msgstr "Gegevens"
+
+msgid "OVERVIEW"
+msgstr "Overzicht"
+
+msgid "DONE"
+msgstr "Klaar"
+
+msgid "AMOUNT"
+msgstr "Aantal"
+
+msgid "SALUTATION"
+msgstr "Aanhef"
+
+msgid "DIMENSION"
+msgstr "Afmeting"
+
+msgid "COLOR"
+msgstr "Kleur"
+
+msgid "NEXT"
+msgstr "Volgende"
+
+msgid "PREVIOUS"
+msgstr "Vorige"
+
+msgid "SHOWROOM"
+msgstr "Showroom"
+
+msgid "STATUS"
+msgstr "Status"
+
+msgid "GREETING"
+msgstr "heer, mevrouw"
+
+msgid "PRODUCTS"
+msgstr "Producten"
+
+msgid "TOTAL_PRICE"
+msgstr "Totaalbedrag"
+
+msgid "REQUIRED_FIELDS"
+msgstr "Verplichte velden"
+
+msgid "SANITAIRWINKEL"
+msgstr "Sawiday"
+
+msgid "BACK"
+msgstr "Terug"
+
+msgid "SHOWROOMS"
+msgstr "Showrooms"
+
+msgid "CUSTOMER_SERVICE"
+msgstr "Klantendienst"
+
+msgid "MONDAY"
+msgstr "Maandag"
+
+msgid "TUESDAY"
+msgstr "Dinsdag"
+
+msgid "WEDNESDAY"
+msgstr "Woensdag"
+
+msgid "THURSDAY"
+msgstr "Donderdag"
+
+msgid "FRIDAY"
+msgstr "Vrijdag"
+
+msgid "SATURDAY"
+msgstr "Zaterdag"
+
+msgid "BUSINESS_HOURS"
+msgstr "Openingstijden"
+
+msgid "NOT"
+msgstr "Niet"
+
+msgid "WEL"
+msgstr "wel"
+
+msgid "GRADE"
+msgstr "Cijfer"
+
+msgid "FROM"
+msgstr "uit"
+
+msgid "CITY"
+msgstr "Woonplaats"
+
+msgid "OFFER"
+msgstr "Aanbieding"
+
+msgid "OFFERS"
+msgstr "Aanbiedingen"
+
+msgid "SHARE"
+msgstr "Delen"
+
+msgid "TWEET"
+msgstr "Tweeten"
+
+msgid "DELETE"
+msgstr "Verwijderen"
+
+msgid "FREE"
+msgstr "Gratis"
+
+msgid "DISCOUNT"
+msgstr "Jouw voordeel"
+
+msgid "HOME"
+msgstr "Home"
+
+msgid "EDIT"
+msgstr "Aanpassen"
+
+msgid "BILLING_ADDRESS"
+msgstr "Factuuradres"
+
+msgid "COMPANY_NAME"
+msgstr "Bedrijfsnaam"
+
+msgid "ADDRESS"
+msgstr "Adres"
+
+msgid "DELIVERY_ADDRESS"
+msgstr "Bezorgadres"
+
+msgid "ZIPCODE"
+msgstr "Postcode"
+
+msgid "HOUSE_NO"
+msgstr "Huisnummer + toevoeging"
+
+msgid "STREET"
+msgstr "Straat"
+
+msgid "SITE_TAG"
+msgstr "sawiday_be"
+
+msgid "AND"
+msgstr "en"
+
+msgid "CONTACT"
+msgstr "Contact"
+
+msgid "GLOSSARY"
+msgstr "Begrippenlijst"
+
+msgid "SUBTOTAL"
+msgstr "Subtotaal"
+
+msgid "BROWSE"
+msgstr "Bladeren"
+
+msgid "NUMBER"
+msgstr "nummer"
+
+msgid "CONTACT_DATA"
+msgstr "Contactgegevens"
+
+msgid "BUNDEL"
+msgstr "Bundel"
+
+msgid "CANCEL"
+msgstr "Annuleren"
+
+msgid "ALL"
+msgstr "Alle"
+
+msgid "WEEK"
+msgstr "week"
+
+msgid "WEEKS"
+msgstr "weken"
+
+msgid "AANMELDEN"
+msgstr "Aanmelden"
+
+msgid "CAT_USP_1"
+msgstr "Alle topmerken"
+
+msgid "CAT_USP_2"
+msgstr "Veel items in de showroom"
+
+msgid "CAT_USP_3"
+msgstr "Veelal gratis thuisbezorgd"
+
+msgid "CAT_USP_4"
+msgstr "Deskundig advies"
+
+msgid "BESTELNR_DESCRIPTION"
+msgstr "Vul hier uw bestelnummer in, dat op uw factuur staat vermeld."
+
+msgid "BESTELNR"
+msgstr "Bestelnummer"
+
+msgid "DATE_FORMAT"
+msgstr "dd-mm-jjjj"
+
+msgid "FIRSTNAME"
+msgstr "Voornaam"
+
+msgid "SANITAIRWINKEL_SPACES"
+msgstr "Sawiday"
+
+msgid "OPENED_UNTIL"
+msgstr "Geopend tot"
+
+msgid "OCLOCK"
+msgstr "uur"
+
+msgid "VNV_KOOPAVOND"
+msgstr "<p class=\"blue\">Vanavond</p><p class=\"orange\">koopavond</p>"
+
+msgid "KOOPAVOND_HOVER"
+msgstr "Vandaag is deze showroom geopend tot 20:00 uur."
+
+msgid "PREVIEW_BUNDLE"
+msgstr "Voorbeeldweergave van uw samenstelling"
+
+msgid "BUNDLE_PRODUCT_NOT_CHOOSABLE"
+msgstr "Bij de huidige samenstelling kunt u dit product niet kiezen."
+
+msgid "CLOSE"
+msgstr "Sluiten"
+
+msgid "TODAY"
+msgstr "Vandaag"
+
+msgid "JANUARY"
+msgstr "januari"
+
+msgid "FEBRUARY"
+msgstr "februari"
+
+msgid "MARCH"
+msgstr "maart"
+
+msgid "APRIL"
+msgstr "april"
+
+msgid "MAY"
+msgstr "mei"
+
+msgid "JUNE"
+msgstr "juni"
+
+msgid "JULY"
+msgstr "juli"
+
+msgid "AUGUST"
+msgstr "augustus"
+
+msgid "SEPTEMBER"
+msgstr "september"
+
+msgid "OCTOBER"
+msgstr "oktober"
+
+msgid "NOVEMBER"
+msgstr "november"
+
+msgid "DECEMBER"
+msgstr "december"
+
+msgid "JANUARY_SHORT"
+msgstr "jan"
+
+msgid "FEBRUARY_SHORT"
+msgstr "feb"
+
+msgid "MARCH_SHORT"
+msgstr "maa"
+
+msgid "APRIL_SHORT"
+msgstr "apr"
+
+msgid "MAY_SHORT"
+msgstr "mei"
+
+msgid "JUNE_SHORT"
+msgstr "jun"
+
+msgid "JULY_SHORT"
+msgstr "jul"
+
+msgid "AUGUST_SHORT"
+msgstr "aug"
+
+msgid "SEPTEMBER_SHORT"
+msgstr "sep"
+
+msgid "OCTOBER_SHORT"
+msgstr "okt"
+
+msgid "NOVEMBER_SHORT"
+msgstr "nov"
+
+msgid "DECEMBER_SHORT"
+msgstr "dec"
+
+msgid "SUNDAY"
+msgstr "Zondag"
+
+msgid "MONDAY_SHORT"
+msgstr "maa"
+
+msgid "TUESDAY_SHORT"
+msgstr "din"
+
+msgid "WEDNESDAY_SHORT"
+msgstr "woe"
+
+msgid "THURSDAY_SHORT"
+msgstr "don"
+
+msgid "FRIDAY_SHORT"
+msgstr "vri"
+
+msgid "SATURDAY_SHORT"
+msgstr "zat"
+
+msgid "SUNDAY_SHORT"
+msgstr "zon"
+
+msgid "MONDAY_SHORTEST"
+msgstr "ma"
+
+msgid "TUESDAY_SHORTEST"
+msgstr "di"
+
+msgid "WEDNESDAY_SHORTEST"
+msgstr "wo"
+
+msgid "THURSDAY_SHORTEST"
+msgstr "do"
+
+msgid "FRIDAY_SHORTEST"
+msgstr "vr"
+
+msgid "SATURDAY_SHORTEST"
+msgstr "za"
+
+msgid "SUNDAY_SHORTEST"
+msgstr "zo"
+
+msgid "WEEK_SHORT"
+msgstr "Wk"
+
+msgid "NO_WEEKEND_DELIVERY"
+msgstr "Geen levering mogelijk op deze dag, kies een andere dag"
+
+msgid "NO_DELIVERY_ON_THIS_DAY"
+msgstr "Geen levering mogelijk op deze dag, kies een andere dag"
+
+msgid "VALIDATION_ENTER_EMAILADDRESS"
+msgstr "Vul uw e-mailadres in"
+
+msgid "RATINGS"
+msgstr "Beoordelingen"
+
+msgid "LINK"
+msgstr "link"
+
+msgid "STORE_EMAIL"
+msgstr "info@sawiday.be"
+
+msgid "BELGIUM"
+msgstr "België"
+
+msgid "EXPAND"
+msgstr "Uitklappen"
+
+msgid "SELECT"
+msgstr "Selecteer"
+
+msgid "CAT_SUBCAT_DETAILS"
+msgstr "Bekijk subcategorie"
+
+msgid "CAT_READ_MORE"
+msgstr "Meer over %s"
+
+msgid "MORE"
+msgstr "Meer"
+
+msgid "LESS"
+msgstr "Minder"
+
+msgid "ADDED"
+msgstr "Toegevoegd"
+
+msgid "CLOSED"
+msgstr "Gesloten"
+
+msgid "OPEN"
+msgstr "Bereikbaar"
+
+msgid "NO_INFORMATION"
+msgstr "Geen informatie"
+
+msgid "TOTAL"
+msgstr "Totaal"
+
+msgid "META_TITLE_SEARCH"
+msgstr "Zoeken op %s | Sawiday"
+
+msgid "ADDRESS_NOT_FOUND"
+msgstr "Adres niet gevonden"
+
+msgid "SHOWROOM_KALMTHOUT_URL"
+msgstr "/klantenservice/showroom-schoten/"
+
+msgid "AUTOCOMPLETE_ERROR"
+msgstr "Fout: De opgegeven adresgegevens konden niet gevonden worden voor automatische aanvulling."
+
+msgid "REFERENCE"
+msgstr "Referentie"
+
+msgid "FORGOTTEN_PASSWORD"
+msgstr "Wachtwoord vergeten?"
+
+msgid "PASSWORD"
+msgstr "Wachtwoord"
+
+msgid "DELIVERY_INDICATION_TOOLTIP_POSTNL"
+msgstr ""
+
+msgid "DELIVERY_INDICATION_TOOLTIP_SPREUWEL"
+msgstr ""
+
+msgid "SOCIAL_MEDIA_URL_FACEBOOK"
+msgstr "https://www.facebook.com/Sawiday.be"
+
+msgid "SOCIAL_MEDIA_URL_YOUTUBE"
+msgstr "https://www.youtube.com/channel/UCOfx2AGL8AoYWYaZ8nTQvbA"
+
+msgid "SOCIAL_MEDIA_URL_TWITTER"
+msgstr ""
+
+msgid "SOCIAL_MEDIA_URL_PINTEREST"
+msgstr "https://www.pinterest.com/Sanitairwinkel/"
+
+msgid "SOCIAL_MEDIA_URL_GOOGLEPLUS"
+msgstr "https://plus.google.com/+sawiday/posts"
+
+msgid "SOCIAL_SHARE_PRODUCT"
+msgstr "Deel dit product via:"
+
+msgid "LOGIN_NO_POST"
+msgstr "Geen gebruikersnaam of wachtwoord opgegeven"
+
+msgid "DATE"
+msgstr "Datum"
+
+msgid "PASSWORD_PLACEHOLDER"
+msgstr "Wachtwoord"
+
+msgid "CONFIRM_PASSWORD_PLACEHOLDER"
+msgstr "Wachtwoord nogmaals"
+
+msgid "CLOSED_TODAY"
+msgstr "Vandaag gesloten"
+
+msgid "OPEN_FROM_TO"
+msgstr "Vandaag open van %s - %s uur"
+
+msgid "NO_OPENINGHOUR_EXCEPTIONS"
+msgstr "<i>Er zijn geen uitzonderingen gevonden.</i>"
+
+msgid "DEVIATING_OPENING_TIMES"
+msgstr "Afwijkende openingstijden"
+
+msgid "SCROLL_TO_TOP"
+msgstr "Naar boven"
+
+msgid "DEAR"
+msgstr "Beste"
+
+msgid "PAYMENT_STATUS"
+msgstr "Betaalstatus"
+
+msgid "REMARKS"
+msgstr "Opmerkingen"
+
+msgid "ORDER_STATUS"
+msgstr "Bestelstatus"
+
+msgid "SOCIAL_MEDIA_URL_INSTAGRAM"
+msgstr "https://www.instagram.com/sawiday.be"
+
+msgid "EXPECTED_DELIVERY_DATE"
+msgstr "Verwachte leverdatum"
+
+msgid "EXPECTED_PICKUP_DATE"
+msgstr "Verwachte afhaaldatum"
+
+msgid "TRANSPORTER"
+msgstr "Transporteur"
+
+msgid "DELIVERED_ON"
+msgstr "Afgeleverd op"
+
+msgid "TO_BE_DETERMINED"
+msgstr "Nader te bepalen"
+
+msgid "VISIT_US"
+msgstr "Bezoek ons"
+
+msgid "REVIEWS_OPTIONAL_PLURAL"
+msgstr "Review(s)"
+
+msgid "COMPARE_HEADING"
+msgstr "Producten vergelijken"
+
+msgid "COMPARE_QUESTION"
+msgstr "Heeft u nog vragen of informatie nodig over een product?"
+
+msgid "COMPARE_CONTACT_US"
+msgstr "Neem dan contact op!"
+
+msgid "COMPARE_NOT_MOBILE"
+msgstr "Deze pagina is niet voor mobile devices geschikt"
+
+msgid "COMPARE_COMPARE"
+msgstr "Vergelijk"
+
+msgid "COMPARE_PRODUCTS"
+msgstr "Producten"
+
+msgid "COMPARE_SHOW"
+msgstr "Bekijk vergelijking"
+
+msgid "COMPARE_MAX_PRODUCTS"
+msgstr "In deze productvergelijker kun je maximaal 3 producten vergelijken"
+
+msgid "COMPARE_FREE_SPOT"
+msgstr "Deze plek is nog vrij in de vergelijker"
+
+msgid "BACK_TO_HOMEPAGE"
+msgstr "Terug naar de homepage"
+
+msgid "DELIVERED"
+msgstr "Afgeleverd"
+
+msgid "COMPARE_MORE_PRODUCTS"
+msgstr "Voeg meer producten toe om een vergelijking te maken."
+
+msgid "PICKUP_DATE"
+msgstr "afhaaldatum"
+
+msgid "VIEW_ORDER_STATUS"
+msgstr "Bestelstatus"
+
+msgid "PICK_YOUR_DELIVERY_DATE"
+msgstr "Kies uw bezorgdatum"
+
+msgid "OWN_DELIVERY_SERVICE"
+msgstr "eigen bezorgdienst"
+
+msgid "SUPPLIER"
+msgstr "leverancier"
+
+msgid "PRODUCT_CONFIG"
+msgstr "Keuzehulp"
+
+msgid "PRODUCT_CONFIG_BUTTON_OPEN"
+msgstr "Open de keuzehulp"
+
+msgid "PRODUCT_CONFIG_BUTTON_CLOSE"
+msgstr "Sluit de keuzehulp"
+
+msgid "PRODUCT_CONFIG_ERROR"
+msgstr "Maak een keuze"
+
+msgid "PRODUCT_CONFIG_RESULTS"
+msgstr "Bekijk de resultaten"
+
+msgid "PRODUCT_CONFIG_TOILET_TITLE"
+msgstr "Welke toiletzitting past op mijn toilet?"
+
+msgid "PRODUCT_CONFIG_TOILET_Q1"
+msgstr "Selecteer toiletzitting op basis van de vorm."
+
+msgid "PRODUCT_CONFIG_TOILET_Q2"
+msgstr "Hoe moet u uw toiletzitting monteren?"
+
+msgid "PRODUCT_CONFIG_TOILET_Q3"
+msgstr "Meet uw toiletcloset en voer de maten in mm in."
+
+msgid "PRODUCT_CONFIG_TOILET_Q3_POPUP_LINK"
+msgstr "Hulp bij opmeten van uw toilet"
+
+msgid "PRODUCT_CONFIG_TOILET_Q3_POPUP_TEXT"
+msgstr ""
+"Opdat uw toiletzitting perfect op het toiletcloset past, is het essentieel dat u het toiletcloset correct meet."
+"Maat 1: Meet de afstand vanaf het midden van elk gat."
+"Maat 2: Meet de afstand tussen de buitenzijden, in het midden van het gat van het toiletcloset."
+"Maat 3: Meet de afstand van de gaten tot de voorkant van het toiletcloset."
+
+msgid "PRODUCT_CONFIG_TOILET_Q3_INPUT1"
+msgstr "Maat in mm"
+
+msgid "PRODUCT_CONFIG_TOILET_Q3_INPUT2"
+msgstr "Maat in cm"
+
+msgid "PRODUCT_CONFIG_TOILET_Q3_INPUT3"
+msgstr "Maat in cm"
+
+msgid "MORE_INFORMATION"
+msgstr "Meer informatie"
+
+msgid "READ_MORE"
+msgstr "Verder lezen"
+
+msgid "CATEGORIES"
+msgstr "Bekijk assortiment"
+
+msgid "INFORMATION"
+msgstr "Informatie"
+
+msgid "DATE_OF_BIRTH"
+msgstr "Geboortedatum"
+
+msgid "BACK_TO"
+msgstr "Naar"
+
+msgid "ARIA_PAGINATION_GO_TO_PAGE"
+msgstr "Ga naar pagina "
+
+msgid "ARIA_PAGINATION_CURRENT_PAGE"
+msgstr "Huidige pagina, pagina"
+
+msgid "ARIA_PAGINATION_GO_TO_PREV_PAGE"
+msgstr "Ga naar de vorige pagina"
+
+msgid "ARIA_PAGINATION_GO_TO_NEXT_PAGE"
+msgstr "Ga naar de volgende pagina"
+
+msgid "ARIA_PAGINATION_NAVIGATION"
+msgstr "Paginatie navigatie"
+
+msgid "READ_LESS"
+msgstr "Minder lezen"
+
+msgid "PAYMENT_LINK"
+msgstr "Betaallink"
+
+msgid "CAT_USP_BAR"
+msgstr ""
+"    <a href=\"/nl-be/showrooms/\">"
+"        <span class=\"house top-icon\"></span>"
+"        <span class=\"text-grey-base\">%s moderne showrooms met meer dan 3000 m² inspiratie</span> "
+"    </a>"
+
+msgid "PICK_SUB_CATEGORY"
+msgstr "Kies (sub)categorie"
+
+msgid "FILTER_AND_SORT"
+msgstr "Filteren en sorteren"
+
+msgid "SHOW_X_ARTICLES"
+msgstr "Toon %s producten"
+
+msgid "DATE_PREFERENCE"
+msgstr "Voorkeur datum"
+
+msgid "PICK_A_CATEGORY"
+msgstr "Kies (sub)categorie"
+
+msgid "FILTER_WITHIN_X_ARTICLES"
+msgstr "Filter binnen %d producten"
+
+msgid "MONTH"
+msgstr "Maand"
+
+msgid "YEAR"
+msgstr "Jaar"
+
+msgid "TO"
+msgstr "tot"
+
+msgid "MORE_CATEGORIES"
+msgstr "categorieën"
+
+msgid "QUOTATION_NO"
+msgstr "Offertenummer"
+
+msgid "ACCEPT_QUOTATION_MESSAGE"
+msgstr ""
+"<p><b>Bedankt voor uw bestelling en vertrouwen in Sawiday!</b>"
+"<br><br>"
+"Wat betreft de verdere verwerking van uw bestelling zullen wij zo spoedig mogelijk contact met u opnemen.</p>"
+
+msgid "MODIFY_QUOTATION_MESSAGE"
+msgstr "Bedankt voor uw reactie, deze is in goede orde ontvangen en wij zullen zo spoedig mogelijk contact met u opnemen."
+
+msgid "SAWIDAY_NAMECHANGE_POPUP_TITLE"
+msgstr "Welkom!"
+
+msgid "SAWIDAY_NAMECHANGE_POPUP_CONTENT"
+msgstr "<p>We hebben goed nieuws: met ingang van 2 november wijzigt Sanitairwinkel.be haar naam naar Sawiday.be. Één universele naam die zowel voor onze Nederlandstalige en Franstalige klanten herkenbaar is.</p><p>Verder verandert er niets, u kunt zodoende rekenen op dezelfde kwaliteit en service die u van ons gewend bent. Tot die tijd kunt u gewoon bestellen op <a href=\"https://www.sawiday.be/\">www.sawiday.be</a></p>"
+
+msgid "SAWIDAY_NAMECHANGE_POPUP_BUTTONTEXT"
+msgstr "Ga door naar site"
+
+msgid "DAYTIME_MONDAY"
+msgstr "Maandag"
+
+msgid "DAYTIME_MONDAYDAYTIME"
+msgstr "Maandag overdag"
+
+msgid "DAYTIME_MONDAYMORNING"
+msgstr "Maandagochtend"
+
+msgid "DAYTIME_MONDAYAFTERNOON"
+msgstr "Maandagmiddag"
+
+msgid "DAYTIME_MONDAYEVENING"
+msgstr "Maandagavond"
+
+msgid "DAYTIME_MONDAYNIGHT"
+msgstr "Maandagnacht"
+
+msgid "DAYTIME_TUESDAY"
+msgstr "Dinsdag"
+
+msgid "DAYTIME_TUESDAYDAYTIME"
+msgstr "Dinsdag overdag"
+
+msgid "DAYTIME_TUESDAYMORNING"
+msgstr "Dinsdagmorgen"
+
+msgid "DAYTIME_TUESDAYAFTERNOON"
+msgstr "Dinsdagmiddag"
+
+msgid "DAYTIME_TUESDAYEVENING"
+msgstr "Dinsdagavond"
+
+msgid "DAYTIME_TUESDAYNIGHT"
+msgstr "Dinsdagnacht"
+
+msgid "DAYTIME_WEDNESDAY"
+msgstr "Woensdag"
+
+msgid "DAYTIME_WEDNESDAYDAYTIME"
+msgstr "Woensdag overdag"
+
+msgid "DAYTIME_WEDNESDAYMORNING"
+msgstr "Woensdagmorgen"
+
+msgid "DAYTIME_WEDNESDAYAFTERNOON"
+msgstr "Woensdagmiddag"
+
+msgid "DAYTIME_WEDNESDAYEVENING"
+msgstr "Woensdagavond"
+
+msgid "DAYTIME_WEDNESDAYNIGHT"
+msgstr "Woensdagnacht"
+
+msgid "DAYTIME_THURSDAY"
+msgstr "Donderdag"
+
+msgid "DAYTIME_THURSDAYDAYTIME"
+msgstr "Donderdag overdag"
+
+msgid "DAYTIME_THURSDAYMORNING"
+msgstr "Donderdagmorgen"
+
+msgid "DAYTIME_THURSDAYAFTERNOON"
+msgstr "Donderdagmiddag"
+
+msgid "DAYTIME_THURSDAYEVENING"
+msgstr "Donderdagavond"
+
+msgid "DAYTIME_THURSDAYNIGHT"
+msgstr "Donderdagnacht"
+
+msgid "DAYTIME_FRIDAY"
+msgstr "Vrijdag"
+
+msgid "DAYTIME_FRIDAYDAYTIME"
+msgstr "Vrijdag overdag"
+
+msgid "DAYTIME_FRIDAYMORNING"
+msgstr "Vrijdagochtend"
+
+msgid "DAYTIME_FRIDAYAFTERNOON"
+msgstr "Vrijdagmiddag"
+
+msgid "DAYTIME_FRIDAYEVENING"
+msgstr "Vrijdagavond"
+
+msgid "DAYTIME_FRIDAYNIGHT"
+msgstr "Vrijdagnacht"
+
+msgid "DAYTIME_SATURDAY"
+msgstr "Zaterdag"
+
+msgid "DAYTIME_SATURDAYDAYTIME"
+msgstr "Zaterdag overdag"
+
+msgid "DAYTIME_SATURDAYMORNING"
+msgstr "Zaterdagochtend"
+
+msgid "DAYTIME_SATURDAYAFTERNOON"
+msgstr "Zaterdagmiddag"
+
+msgid "DAYTIME_SATURDAYEVENING"
+msgstr "Zaterdagavond"
+
+msgid "DAYTIME_SATURDAYNIGHT"
+msgstr "Zaterdagnacht"
+
+msgid "DAYTIME_SUNDAY"
+msgstr "Zondag"
+
+msgid "DAYTIME_SUNDAYDAYTIME"
+msgstr "Zondag overdag"
+
+msgid "DAYTIME_SUNDAYMORNING"
+msgstr "Zondagochtend"
+
+msgid "DAYTIME_SUNDAYAFTERNOON"
+msgstr "Zondagmiddag"
+
+msgid "DAYTIME_SUNDAYEVENING"
+msgstr "Zondagavond"
+
+msgid "DAYTIME_SUNDAYNIGHT"
+msgstr "Zondagnacht"
+
+msgid "DAYTIME_TODAY"
+msgstr "Vandaag"
+
+msgid "DAYTIME_TODAYDAYTIME"
+msgstr "Vandaag overdag"
+
+msgid "DAYTIME_TODAYMORNING"
+msgstr "Vanochtend"
+
+msgid "DAYTIME_TODAYAFTERNOON"
+msgstr "Vanmiddag"
+
+msgid "DAYTIME_TODAYEVENING"
+msgstr "Vanavond"
+
+msgid "DAYTIME_TODAYNIGHT"
+msgstr "Vannacht"
+
+msgid "DAYTIME_TOMORROW"
+msgstr "Morgen"
+
+msgid "DAYTIME_TOMORROWDAYTIME"
+msgstr "Morgen overdag"
+
+msgid "DAYTIME_TOMORROWMORNING"
+msgstr "Morgenochtend"
+
+msgid "DAYTIME_TOMORROWAFTERNOON"
+msgstr "Morgenmiddag"
+
+msgid "DAYTIME_TOMORROWEVENING"
+msgstr "Morgenavond"
+
+msgid "DAYTIME_TOMORROWNIGHT"
+msgstr "Morgennacht"
+
+msgid "DAYTIME_UNKNOWN"
+msgstr "Onbekend"
+
+msgid "DAYTIME_DELIVERY"
+msgstr "Bezorging overdag"
+
+msgid "CANCELLED"
+msgstr "Geannuleerd"
+
+msgid "ORDER_NO"
+msgstr "Bestelnummer"
+
+msgid "COMPANY_DETAILS"
+msgstr "Bedrijfsgegevens"
+
+msgid "REVIEW_RATING_BANNER"
+msgstr "uit <span>%s</span> reviews"
+
+msgid "MORE_IMAGES"
+msgstr "Bekijk nog %1$d afbeelding"
+
+msgid "MORE_IMAGES_PLURAL"
+msgstr "Bekijk nog %1$d afbeeldingen"
+
+msgid "LESS_IMAGES"
+msgstr "Bekijk minder afbeeldingen"
+
+msgid "NUMBER_OF_BOXES"
+msgstr "Aantal dozen"
+
+msgid "SOCIAL_MEDIA_URL_TIKTOK"
+msgstr "https://www.tiktok.com/@sanitairwinkel"
+
+msgid "SHOW_MORE_OPTIONS"
+msgstr "Toon meer opties"
+

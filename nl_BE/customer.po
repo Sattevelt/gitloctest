@@ -1,0 +1,415 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "CUSTOMER_NAV_LOGIN"
+msgstr "Inloggen"
+
+msgid "CUSTOMER_NAV_MY_ACCOUNT"
+msgstr "Account"
+
+msgid "CUSTOMER_NAV_MY_ACCOUNT_MENU"
+msgstr "Mijn account menu"
+
+msgid "CUSTOMER_NAV_LOGOUT"
+msgstr "Uitloggen"
+
+msgid "CUSTOMER_NAV_1"
+msgstr "Gegevens & voorkeuren"
+
+msgid "CUSTOMER_NAV_2"
+msgstr "Zakelijke kortingen"
+
+msgid "SUCCESSFUL_SAVED"
+msgstr "Opslaan is gelukt."
+
+msgid "DEFAULT_ADDRESS_CHANGED"
+msgstr "Het standaard adres is gewijzigd."
+
+msgid "MINIMUM_ADDRESS_AMOUNT"
+msgstr "Minimaal één adres is verplicht"
+
+msgid "REMOVING_DEFAULT_ADDRESS_WARNING"
+msgstr "Standaard adres mag niet verwijderd worden"
+
+msgid "ADDRESS_REMOVED"
+msgstr "Het adres is verwijderd"
+
+msgid "DEFAULT_DELIVERY_ADDRESS"
+msgstr "Standaard bezorgadres"
+
+msgid "DEFAULT_BILLING_ADDRESS"
+msgstr "Standaard factuuradres"
+
+msgid "CUSTOMER_ACCOUNT_PERSONAL_DETAILS_TITLE"
+msgstr "Persoonlijke gegevens"
+
+msgid "CUSTOMER_ACCOUNT_PREFERENCES_TITLE"
+msgstr "Voorkeuren"
+
+msgid "CUSTOMER_ACCOUNT_PAYMENT_METHOD"
+msgstr "Betaalmethode"
+
+msgid "CUSTOMER_ACCOUNT_PRICES"
+msgstr "Prijzen"
+
+msgid "CUSTOMER_ACCOUNT_PRICES_INCL_VAT"
+msgstr "Incl. BTW tonen"
+
+msgid "CUSTOMER_ACCOUNT_PRICES_EXCL_VAT"
+msgstr "Excl. BTW tonen"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_TITLE"
+msgstr "Gegevens &amp; voorkeuren"
+
+msgid "CUSTOMER_ACCOUNT_SUB_TITLE_DETAILS"
+msgstr "Persoonlijke gegevens"
+
+msgid "CUSTOMER_ACCOUNT_SUB_TITLE_PREFERENCES"
+msgstr "Voorkeuren"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_CLIENT_NUMBER"
+msgstr "Klantnummer"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_CLIENT_NAME"
+msgstr "Naam"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_CLIENT_ADDRESS"
+msgstr "Adres"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_CLIENT_EMAIL"
+msgstr "E-mailadres"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_CLIENT_PHONENUMBER"
+msgstr "Telefoonnummer"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_LINK_CHANGE_DETAILS"
+msgstr "Persoonlijke gegevens aanpassen"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_LINK_CHANGE_ADDRESSBOOK"
+msgstr "Adresboek beheren"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_LINK_CHANGE_PASSWORD"
+msgstr "Wachtwoord wijzigen"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_RECEIVE_NEWSLETTER"
+msgstr "Nieuwsbrief ontvangen"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_LINK_CHANGE_PREFERENCES"
+msgstr "Voorkeuren wijzigen"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_OVERVIEW_TITLE"
+msgstr "Adresboek"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_ADD_NEW_ADDRESS"
+msgstr "Nieuw adres toevoegen"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_STANDARD_DELIVERY_ADDRESS"
+msgstr "Standaard bezorgadres"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_SET_STANDARD_DELIVERY_ADDRESS"
+msgstr "Maak standaard bezorgadres"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_STANDARD_BILLING_ADDRESS"
+msgstr "Standaard factuuradres"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_SET_STANDARD_BILLING_ADDRESS"
+msgstr "Maak standaard factuuradres"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_NEW_TITLE"
+msgstr "Adres toevoegen"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_EDIT_TITLE"
+msgstr "Adres wijzigen"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_OVERVIEW_MODAL_DELETE_TITLE"
+msgstr "Adres verwijderen"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_OVERVIEW_MODAL_DELETE_SUBTITLE"
+msgstr "Weet je zeker dat je dit adres wilt verwijderen?"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_OVERVIEW_MODAL_DELETE_TEXT"
+msgstr "Deze actie kan niet ongedaan gemaakt worden."
+
+msgid "CUSTOMER_NAV_3"
+msgstr "Bestellingen"
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_TITLE"
+msgstr "Bestellingen"
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_BUTTON_RETURN"
+msgstr "Retour aanvraag"
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_BUTTON_STATUS"
+msgstr "Bekijk bestelling"
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_BUTTON_SERVICE"
+msgstr "Service aanvraag"
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_CURRENT_ORDERS"
+msgstr "Lopende bestellingen"
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_COMPLETED_ORDERS"
+msgstr "Afgeronde bestellingen"
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_NO_CURRENT_ORDERS"
+msgstr "Er zijn momenteel geen lopende bestellingen."
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_NO_COMPLETED_ORDERS"
+msgstr "Er zijn nog geen afgeronde bestellingen."
+
+msgid "CUSTOMER_ACCOUNT_EXISTS_PENDING"
+msgstr "U heeft al een account dat nog geverifieerd moet worden. (<a href=\"#\" id=\"resendActivation\" data-url=\"%s\" data-email=\"%s\">stuur activatie mail opnieuw</a>)"
+
+msgid "CUSTOMER_ACCOUNT_EXISTS_PENDING_ERROR"
+msgstr "Er kon geen e-mail naar u verzonden worden. Probeer het later alstublieft nogmaals."
+
+msgid "CUSTOMER_ACCOUNT_EXISTS_PENDING_SENT"
+msgstr "De activatie e-mail is zojuist naar u verzonden. Controleer uw Inbox of eventueel uw map Ongewenste E-mail."
+
+msgid "CUSTOMER_REGISTRATION_PAGE_TITLE"
+msgstr "Mijn account registratie"
+
+msgid "CUSTOMER_REGISTRATION_PAGE_KEYWORDS"
+msgstr ""
+
+msgid "CUSTOMER_REGISTRATION_PAGE_DESCRIPTION"
+msgstr ""
+
+msgid "REGISTRATION_TITLE"
+msgstr "Account aanmaken"
+
+msgid "REGISTRATION_TEXT"
+msgstr ""
+
+msgid "ACCOUNT_CREATED"
+msgstr "Het account is aangemaakt. Je ontvangt binnen enkele minuten een activatie e-mail."
+
+msgid "NEW_ACCOUNT_TITLE"
+msgstr "Nieuw bij Sawiday?"
+
+msgid "NEW_ACCOUNT_TEXT"
+msgstr ""
+
+msgid "COMPANY_NAME"
+msgstr "Bedrijfsnaam"
+
+msgid "VAT_NUMBER"
+msgstr "BTW-nummer"
+
+msgid "CUSTOMER_REFERENCE"
+msgstr "Uw referentie"
+
+msgid "CUSTOMER_TAV_ABBREVIATION"
+msgstr "t.a.v."
+
+msgid "B2B_PRICING_ALERT_INC_DISCOUNTS"
+msgstr "De getoonde prijzen zijn inclusief zakelijke korting."
+
+msgid "B2B_PRICING_ALERT_EXC_VAT"
+msgstr "De getoonde prijzen zijn exclusief btw."
+
+msgid "B2B_PRICING_ALERT_EXC_VAT_INC_DISCOUNTS"
+msgstr "De getoonde prijzen zijn inclusief zakelijke korting en exclusief btw."
+
+msgid "EMAIL_CHANGE_FAILED_HEADER"
+msgstr "Email wijziging is niet gelukt"
+
+msgid "EMAIL_CHANGE_FAILED_TEXT"
+msgstr "Wij kunnen uw email helaas niet aanpassen vanwege:"
+
+msgid "EMAIL_CHANGE_SUCCEEDED_TEXT"
+msgstr "Uw email is veranderd"
+
+msgid "EMAIL_CHANGE_SUCCEEDED_HEADER"
+msgstr "Email verandering gelukt!"
+
+msgid "EMAIL_ALREADY_IN_USE"
+msgstr "Email is al in gebruik"
+
+msgid "EMAIL_CHANGE_NOTICE"
+msgstr "Na wijzigen van het e-mailadres sturen we u een e-mail naar het nieuwe adres om deze te bevestigen."
+
+msgid "EMAIL_CHANGE_PENDING"
+msgstr "(nieuwe e-mailadres nog niet bevestigd)"
+
+msgid "CUSTOMER_ACCOUNT_DISCOUNT_TITLE"
+msgstr "Zakelijke kortingen"
+
+msgid "CUSTOMER_ACCOUNT_BASE_DISCOUNT"
+msgstr "Basiskorting"
+
+msgid "CUSTOMER_ACCOUNT_BASE_DISCOUNT_DESCRIPTION"
+msgstr ""
+"Deze korting geldt op het hele assortiment, tenzij voor het merk of product "
+"                    een specifiek kortingspercentage is ingevuld"
+
+msgid "CUSTOMER_ACCOUNT_BRAND_DISCOUNT_HEADER"
+msgstr "Korting per merk"
+
+msgid "CUSTOMER_ACCOUNT_PRODUCT_DISCOUNT_HEADER"
+msgstr "Korting per product"
+
+msgid "CUSTOMER_ACCOUNT_DISCOUNT_PRODUCT"
+msgstr "Product"
+
+msgid "CUSTOMER_ACCOUNT_DISCOUNT_REGULAR_PRICE"
+msgstr "Reguliere prijs"
+
+msgid "CUSTOMER_ACCOUNT_DISCOUNT_PRODUCT_NUMBER"
+msgstr "Productnummer"
+
+msgid "CUSTOMER_ACCOUNT_DISCOUNT_NET_PRICE"
+msgstr "Netto prijs"
+
+msgid "CUSTOMER_ACCOUNT_DISCOUNT_BRAND"
+msgstr "Merk"
+
+msgid "CUSTOMER_ACCOUNT_DISCOUNT_DISCOUNT"
+msgstr "Korting"
+
+msgid "USP_1"
+msgstr "Sneller bestellen"
+
+msgid "USP_2"
+msgstr "Je verlanglijst altijd opslaan"
+
+msgid "USP_3"
+msgstr "Al je bestellingen inzien"
+
+msgid "ACCOUNT_ADVANTAGES"
+msgstr "Voordelen Account"
+
+msgid "NO_ACCOUNT_YET"
+msgstr "Nog geen account?"
+
+msgid "ACCOUNT_ADVANTAGE_LIST"
+msgstr "Met een account kun je:"
+
+msgid "ACCOUNT_ADVANTAGES_LIST"
+msgstr "Nog geen account?"
+
+msgid "B2B_CREDIT_WARNING_CHECKOUT"
+msgstr "Mocht u niet voldoende krediet hebben, kan de bestelling wel worden geplaatst. De bestelling zal echter niet direct worden uitgeleverd. Controleer goed of uw krediet toereikend is. Zo niet, neem dan contact op met uw contactpersoon."
+
+msgid "B2B_CREDIT_WARNING_ORDER_STATUS_DELIVERY"
+msgstr ""
+"Let op: De gekozen leverdatum is onder voorbehoud dat deze order binnen het "
+"                kredietlimiet valt! Controleer hiervoor de status van je kredietlimiet."
+
+msgid "ACCOUNT_ORDER_AMOUNTS"
+msgstr "Bedragen"
+
+msgid "ACCOUNT_ORDER_CREDIT_LIMIT"
+msgstr "Kredietlimiet"
+
+msgid "ACCOUNT_ORDER_CREDIT_USED"
+msgstr "Openstaande bedragen"
+
+msgid "ACCOUNT_ORDER_CREDIT_REMAINDER"
+msgstr "Restant"
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_NO_CREDIT_ORDERS"
+msgstr "Er zijn geen openstaande bestellingen."
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_CREDIT_ORDERS"
+msgstr "Openstaande bestellingen"
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_DEBIT_AMOUNT_REMAINING"
+msgstr "Open"
+
+msgid "B2B_CREDIT_WARNING_DESCRIPTION"
+msgstr "Krediet Overschreden"
+
+msgid "CUSTOMER_ACCOUNT_GREET"
+msgstr "Hoi"
+
+msgid "CUSTOMER_ACCOUNT_GREET_SUBTITLE"
+msgstr "We hebben alles hier voor je verzameld!"
+
+msgid "CUSTOMER_ACCOUNT_INTRO"
+msgstr ""
+"Welkom in je accountomgeving. Hier kun je alles terugvinden rondom lopende en "
+"                eerdere bestellingen. Ook kun je in deze omgeving je verlanglijstje terugvinden én je profiel "
+"                bijwerken. Zo ben je op één plek helemaal op de hoogte van alles!"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW"
+msgstr "Mijn account overzicht"
+
+msgid "CUSTOMER_WISHLISTS"
+msgstr "Verlanglijsten"
+
+msgid "CUSTOMER_WISHLISTS_SUBTITLE"
+msgstr "Je opgeslagen artikelen"
+
+msgid "CUSTOMER_QUOTATIONS"
+msgstr "Offertes"
+
+msgid "CUSTOMER_QUOTATIONS_SUBTITLE"
+msgstr "Al je offertes"
+
+msgid "CUSTOMER_PROFILE"
+msgstr "Profiel"
+
+msgid "CUSTOMER_PROFILE_SUBTITLE"
+msgstr "Voor je gegevens, adressen en voorkeuren"
+
+msgid "CUSTOMER_SERVICE"
+msgstr "Service"
+
+msgid "CUSTOMER_SERVICE_SUBTITLE"
+msgstr "Klopt er iets niet? Laat het ons weten"
+
+msgid "CUSTOMER_ORDERS_SUBTITLE"
+msgstr "Overzicht van je bestellingen."
+
+msgid "CUSTOMER_SIDEBAR_HOME"
+msgstr "webshop Home"
+
+msgid "CUSTOMER_MENU_ITEM_PREFIX"
+msgstr "Naar"
+
+msgid "CUSTOMER_MENU_OVERVIEW"
+msgstr "Overzicht"
+
+msgid "CUSTOMER_NAV_TO_PROFILE"
+msgstr "Naar profiel"
+
+msgid "CUSTOMER_ADDRESSES"
+msgstr "Adressen"
+
+msgid "CUSTOMER_NAV_TO_ORDERS"
+msgstr "Naar bestellingen"
+
+msgid "ORDER_SUMMARY_ORDER_DATE"
+msgstr "Besteldatum"
+
+msgid "ORDER_SUMMARY_ORDER_DISCOUNT"
+msgstr "Korting"
+
+msgid "CUSTOMER_NAV_TO_WISHLIST"
+msgstr "Naar verlanglijsten"
+
+msgid "SERVICE_ITEMS"
+msgstr "Artikelen"
+
+msgid "SERVICE_ORDERNUMBER"
+msgstr "Bestelnummer"
+
+msgid "ORDER_SERVICENUMBER"
+msgstr "Servicenummer"
+
+msgid "ORDER_STATUS_TEXT_SERVICE"
+msgstr ""
+"<p>Hartelijk dank voor je bestelling bij Sanitairwinkel. Hieronder vind je de "
+"                gegevens met betrekking tot je servicebestelling.</p>"
+

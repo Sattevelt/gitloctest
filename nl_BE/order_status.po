@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "SALUTATION"
+msgstr "Hallo %s"
+
+msgid "ORDER_STATUS_TEXT_1"
+msgstr ""
+"<p>Hartelijk dank voor je bestelling bij Sawiday. Hieronder vind je de gegevens met "
+"                betrekking tot je bestelling.</p>"
+
+msgid "ORDER_STATUS_TEXT_2"
+msgstr ""
+
+msgid "ORDER_STATUS_TEXT_3"
+msgstr ""
+
+msgid "DEPOSIT"
+msgstr "Aanbetaling"
+
+msgid "COMPLY"
+msgstr "Nog te voldoen"
+
+msgid "DELIVERY_TITLE"
+msgstr "Levering %d"
+
+msgid "POPUP_DATEPICKER_TITLE"
+msgstr "Kies je bezorgdatum"
+
+msgid "POPUP_DATEPICKER_TEXT"
+msgstr "Maak een keuze"
+
+msgid "EXPECTED_DELIVERY_DATE"
+msgstr "Verwachte leverdatum"
+
+msgid "DELIVERED_ON"
+msgstr "Afgeleverd op"
+
+msgid "TO_BE_DETERMINED"
+msgstr "Nader te bepalen"
+
+msgid "PRODUCTS_TITLE"
+msgstr "Producten (%d)"
+
+msgid "TRACE_ORDER"
+msgstr "Volg je bestelling"
+
+msgid "STATUS_DEFAULT"
+msgstr "Bestelling ontvangen"
+
+msgid "STATUS_TO_BE_SCHEDULED"
+msgstr "Inplannen"
+
+msgid "STATUS_ON_CALL"
+msgstr "Op afroep"
+
+msgid "STATUS_SCHEDULED"
+msgstr "Ingepland"
+
+msgid "STATUS_READY_FOR_TRANSPORT"
+msgstr "Gereed voor verzending"
+
+msgid "STATUS_READY_FOR_PICKUP"
+msgstr "Gereed voor afhalen"
+
+msgid "STATUS_COMPLETED"
+msgstr "Afgerond"
+
+msgid "STATUS_CANCELLED"
+msgstr "Geannuleerd"
+
+msgid "STATUS_IN_PROGRESS"
+msgstr "In verwerking"
+
+msgid "ON_CALL_LINK"
+msgstr "Zet je bestelling op afroep"
+
+msgid "ON_CALL_LINK_POPUP"
+msgstr "<p>Je kunt aangeven tot welke datum de bestelling opgeslagen mag worden in ons magazijn. <span class=\"text-action font-weight-bold\">Let op:</span> dit betreft nog geen bezorgdatum.</p>"
+
+msgid "STATUS_ON_CALL_POPUP"
+msgstr "<p>Je bestelling staat opgeslagen in ons magazijn in afwachting van de gewenste bezorgdatum. De afroepdatum die je hebt geselecteerd betreft nog geen bezorgdatum. Dit is de datum tot wanneer we de bestelling opslaan in afwachting van je wijziging en keuze voor de gewenste bezorgdatum.</p><h2>1: Verwachte afroepdatum</h2><p>De datum tot wanneer we de bestelling opslaan in ons magazijn. Dit kan tot maximaal 6 maanden na de eerste melding dat de bestelling compleet is.</p><h2>2: De datum nadert</h2><p>Als de verwachte afroepdatum die je hebt gekozen is verstreken ontvang je een mail van de complete bestelling. Je kunt dan de datum veranderen of een gewenste bezorgdatum selecteren.</p><h2>3: Definitieve bezorgdatum inplannen</h2><p>Weet je de definitieve bezorgdatum? Dan kun je dit via de bestelstatus aanpassen en de bezorgdatum selecteren in de kalender.</p>"
+
+msgid "INDICATION_DATE"
+msgstr "Verwachte afroepdatum"
+
+msgid "POPUP_DATEPICKER_ON_CALL_TITLE"
+msgstr "Kies je verwachte afroepdatum"
+
+msgid "POPUP_DATEPICKER_ON_CALL_TEXT"
+msgstr "<p>Je kunt aangeven tot welke datum de bestelling opgeslagen mag worden in ons magazijn. <span class=\"text-action font-weight-bold\">Let op:</span> dit betreft nog geen bezorgdatum.</p>"
+
+msgid "POPUP_DATEPICKER_EDIT_TITLE"
+msgstr "Afroep of bezorgdatum inplannen"
+
+msgid "POPUP_DATEPICKER_EDIT_TEXT"
+msgstr "<p>Maak hier je keuze</p>"
+
+msgid "DATE_OPTION_ON_CALL"
+msgstr "Kies je verwachte afroepdatum"
+
+msgid "DATE_OPTION_DELIVERY"
+msgstr "Kies je bezorgdatum"
+
+msgid "EDIT_DATE"
+msgstr "Wijzig datum"
+

@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "404_TITLE"
+msgstr "Fout! - sanitairwinkel.nl"
+
+msgid "404_KEYWORDS"
+msgstr "404, fout, foutmelding"
+
+msgid "404_DESCRIPTION"
+msgstr "U bent op de verkeerde pagina beland. Ga naar Sanitairwinkel.nl voor de goede pagina."
+
+msgid "REVIEW_TITLE"
+msgstr "Sanitairwinkel reviews en ervaringen"
+
+msgid "REVIEW_KEYWORDS"
+msgstr "review, beoordeling, mening, klant"
+
+msgid "REVIEW_DESCRIPTION"
+msgstr "Veilig en vertrouwd kopen? Lees onze reviews en laat onze tevreden klanten u overtuigen."
+
+msgid "BRANDS_TITLE"
+msgstr "Alle A-merk sanitair tegen betaalbare prijzen"
+
+msgid "BRANDS_KEYWORDS"
+msgstr "merk, merken, brands, sanitair, grohe, hansgrohe, saniclass, duravit, riho, sphinx, villeroy en boch, mocoori, laufen, plieger"
+
+msgid "BRANDS_DESCRIPTION"
+msgstr "Bent u op zoek naar sanitair? Op onze merkenpagina vindt u alle A-merken op het gebied van sanitair tegen betaalbare prijzen. Bestel eenvoudig en snel online!"
+
+msgid "CONTACT_TITLE"
+msgstr "Sanitairwinkel. Altijd goed bereikbaar. Neem nu contact met ons op."
+
+msgid "CONTACT_DESCRIPTION"
+msgstr "Sanitairwinkel is 6 dagen per week geopend en altijd goed bereikbaar. Neem contact met ons op."
+
+msgid "CONTACT_KEYWORDS"
+msgstr "fax, email, telefoonnummer, contact, contactgegevens"
+
+msgid "ORDERSTATUS_TITLE"
+msgstr "Bestelstatus – Volg de bestelstatus van uw bestelling"
+
+msgid "ORDERSTATUS_DESCRIPTION"
+msgstr "Besteld bij Sanitairwinkel? Volg eenvoudig uw bestelling via onze website. Log nu direct in met uw bestelnummer en emailadres!"
+
+msgid "ORDERSTATUS_KEYWORDS"
+msgstr "badkamer, sanitair, sanitair winkel, ligbaden, kranen, douchecabines, radiators, douchepanelen, bad, douche, badkamers, baden, radiator, mengkraan, kraan"
+
+msgid "HOME_TITLE"
+msgstr "Sanitairwinkel ® Dé sanitair specialist"
+
+msgid "HOME_KEYWORDS"
+msgstr "sanitair, badkamer, winkel, sanitairwinkel, showroom, kopen, online"
+
+msgid "HOME_DESCRIPTION"
+msgstr "Sanitairwinkel is dé sanitair expert met alles voor badkamer en toilet. Deskundig advies en veel inspiratie. Shop online of bezoek onze showrooms."
+
+msgid "GLOSSARY_TITLE"
+msgstr "Begrippenlijst - alles over sanitair - sanitairwinkel"
+
+msgid "GLOSSARY_DESCRIPTION"
+msgstr "Vind hier alle informatie en moeilijke woorden omtrent badkamers en sanitair. Alle woorden staan op alfabetische volgorde gesorteerd."
+
+msgid "GLOSSARY_KEYWORDS"
+msgstr "begrippen, begrippenlijst, moeilijke woorden"
+
+msgid "SERVICE_REQUEST_TITLE"
+msgstr "Service aanvraag - voordelige badkamers bij sanitairwinkel.nl"
+
+msgid "SERVICE_REQUEST_DESCRIPTION"
+msgstr "Sanitairwinkel.nl levert badkamers en sanitair via webwinkel en showrooms in Rosmalen, Amsterdam en Rotterdam. ★★★★★ Winnaar FD award snelst groeiend bedrijf! Een badkamer koop je bij Sanitairwinkel"
+
+msgid "SERVICE_REQUEST_KEYWORDS"
+msgstr "badkamer, sanitair, sanitair winkel, ligbaden, kranen, douchecabines, radiators, douchepanelen, bad, douche, badkamers, baden, radiator, mengkraan, kraan"
+
+msgid "BUSINESS_TITLE"
+msgstr "Sanitairwinkel voor de zakelijke markt - voordelige badkamers bij Sanitairwinkel"
+
+msgid "BUSINESS_DESCRIPTION"
+msgstr "Sanitairwinkel biedt ook oplossingen voor zakelijke afnemers. Topmerken voor iedereen!"
+
+msgid "BUSINESS_KEYWORDS"
+msgstr "sanitairwinkel, bedrijven, zakelijk"
+
+msgid "SEARCH_TITLE"
+msgstr "Zoekresultaten voor %s | Sanitairwinkel"
+
+msgid "SEARCH_DESCRIPTION"
+msgstr "Sanitairwinkel is dé sanitair expert met ruim 100.000 producten. Shop online of bezoek onze showrooms. Lage prijzen en beste service."
+
+msgid "COMPARE_QUOTE_TITLE"
+msgstr "Badkamer offerte | Vraag hem aan bij Sanitairwinkel"
+
+msgid "COMPARE_QUOTE_DESCRIPTION"
+msgstr "Een scherpe badkamer offerte ontvangen? Upload je verkregen offerte of de tekening van je nieuwe badkamer en wij bieden jou de beste deal!"
+
+msgid "FLOWBOX_PAGE_META_TITLE"
+msgstr "De mooie badkamers van onze klanten | Inspiratie Sanitairwinkel"
+
+msgid "FLOWBOX_PAGE_META_KEYWORDS"
+msgstr ""
+
+msgid "FLOWBOX_PAGE_META_DESCRIPTION"
+msgstr "De mooiste badkamers staan bij onze klanten thuis. Die mooie badkamers delen we graag met je ter inspiratie. Bekijk ze hier! #mijnsanitair"
+
+msgid "CUSTOMER_ACCOUNT_TITLE"
+msgstr "Mijn account | Sanitairwinkel"
+

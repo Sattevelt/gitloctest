@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "REQUEST_PAGE_INTRO"
+msgstr ""
+"Geef hieronder aan welke producten u retour wilt sturen. U kunt selecteren welke en hoeveel producten u retour wilt sturen. Tevens vragen wij om aan te geven welke reden de retour heeft."
+"<br>"
+"Hierna ontvangt u het retourformulier voor de gekozen producten."
+"<br>"
+"<p>Voor retour moet er worden voldaan aan de volgende voorwaarden:</p>"
+"<ul>"
+"<li>Binnen 30 kalenderdagen na levering moet het product worden geretourneerd of moet de koper hebben aangegeven van de koop af te zien;</li>"
+"<li>Het product moet compleet en onbeschadigd retour worden gestuurd;</li>"
+"<li>Het product moet ongebruikt en niet gemonteerd zijn (uitproberen zoals in de winkel kan mag);</li>"
+"<li>Het product moet in de originele (onbeschreven) verpakking worden geretourneerd, indien redelijkerwijs mogelijk;</li>"
+"<li>Producten die speciaal voor u zijn vervaardigd zijn uitgezonderd van het herroepingsrecht.</li>"
+"</ul>"
+"<p>Vind <a href=\"https://service.sawiday.com/hc/nl/sections/9878562534301-Annuleren-retour\">hier</a> meer informatie over het retour sturen van producten.</p>"
+""
+
+msgid "REQUEST_AMOUNT_SHORT"
+msgstr "Aant. retour"
+
+msgid "REQUEST_REASON_SPECIFIC_PLACEHOLDER"
+msgstr "namelijk:"
+
+msgid "REQUEST_BUTTON"
+msgstr "Vraag retour aan"
+
+msgid "REQUEST_OVERVIEW"
+msgstr "U heeft aangeven de volgende producten te willen retourneren:"
+
+msgid "REQUEST_IBAN_EXPLANATION"
+msgstr "Voor het terugstorten van het bedrag hebben we uw IBAN nummer nodig:"
+
+msgid "REQUEST_IBAN_NUMBER"
+msgstr "Iban nummer"
+
+msgid "REQUEST_SEND"
+msgstr "Verstuur"
+
+msgid "REQUEST_THANK_YOU_PAGE_TITLE"
+msgstr "Bedankt voor uw retouraanvraag"
+
+msgid "REQUEST_THANK_YOU_PAGE_CONTENT"
+msgstr ""
+"<p>Bedankt voor uw retouraanvraag.<br>"
+"Wij hebben het retourformulier naar uw e-mailadres gestuurd.</p>"
+
+msgid "REQUEST_NO_PRODUCTS_FOUND"
+msgstr "Geen producten gevonden"
+
+msgid "REQUEST_NO_PRODUCTS_FOUND_EXPLAINED"
+msgstr ""
+"<p>Er zijn in uw order geen producten gevonden die in aanmerking komen voor een retourzending.<br>"
+"                Dit kan komen omdat de artikelen nog niet (volledig) geleverd zijn of omdat ze reeds al zijn geretourneerd.</p>"
+"                <p>Als u hier vragen over heeft kunt u uiteraard via mail of telefoon contact opnemen met onze<p><a href=\"https://service.sawiday.com/hc/nl\">klantenservice</a></p>.</p>"
+
+msgid "SELECT_REASON"
+msgstr "Selecteer een reden"
+
+msgid "REQUEST_REASON_LABEL"
+msgstr "Reden van retour"
+
+msgid "REQUEST_ERROR_NO_SELECTION"
+msgstr "Selecteer minimaal 1 product om retour te sturen."
+
+msgid "RETURN_EXCLUDED"
+msgstr "Uitgesloten van retourrecht"
+

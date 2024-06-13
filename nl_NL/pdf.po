@@ -1,0 +1,882 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "RETOUR_HEADER"
+msgstr "Retourbewijs"
+
+msgid "RETOUR_ADDRESS_HEADER"
+msgstr "Adresgegevens"
+
+msgid "RETOUR_CUSTOMER_NAME"
+msgstr "Naam"
+
+msgid "RETOUR_CUSTOMER_ADDRESS"
+msgstr "Adres"
+
+msgid "RETOUR_CUSTOMER_EMAIL"
+msgstr "Email"
+
+msgid "RETOUR_CUSTOMER_TELEPHONE"
+msgstr "Telefoon"
+
+msgid "RETOUR_CUSTOMER_COMPANYNAME"
+msgstr "Bedrijfsnaam"
+
+msgid "RETOUR_CUSTOMER_VATNUMBER"
+msgstr "BTW nummer"
+
+msgid "RETOUR_HELPED_BY"
+msgstr "Geholpen door:"
+
+msgid "RETOUR_ORDER_NUMBER"
+msgstr "Bestelnummer:"
+
+msgid "RETOUR_DATE"
+msgstr "Retourdatum:"
+
+msgid "RETOUR_PRODUCT_AMOUNT"
+msgstr "Aantal"
+
+msgid "RETOUR_PRODUCT_SKU"
+msgstr "Artikelnummer"
+
+msgid "RETOUR_PRODUCT_DESCRIPTION"
+msgstr "Omschrijving"
+
+msgid "RETOUR_PRODUCT_TOTAL_INCL_VAT"
+msgstr "Totaal (incl. BTW)"
+
+msgid "RETOUR_PAYMENT_INFO"
+msgstr "Het totaalbedrag van de retour wordt binnen 14 dagen teruggeboekt op uw rekening."
+
+msgid "INVOICE_HEADER"
+msgstr "Factuur"
+
+msgid "INVOICE_SHIPPING_ADDRESS_HEADER"
+msgstr "Factuuradres"
+
+msgid "INVOICE_ADDRESS_HEADER"
+msgstr "Adresgegevens"
+
+msgid "INVOICE_CUSTOMER_NAME"
+msgstr "Naam"
+
+msgid "INVOICE_CUSTOMER_ADDRESS"
+msgstr "Adres"
+
+msgid "INVOICE_CUSTOMER_EMAIL"
+msgstr "Email"
+
+msgid "INVOICE_CUSTOMER_TELEPHONE"
+msgstr "Telefoon"
+
+msgid "INVOICE_CUSTOMER_COMPANYNAME"
+msgstr "Bedrijfsnaam"
+
+msgid "INVOICE_CUSTOMER_VATNUMBER"
+msgstr "BTW nummer"
+
+msgid "INVOICE_HELPED_BY"
+msgstr "Geholpen door"
+
+msgid "INVOICE_PAYMENT_METHOD"
+msgstr "Betaalmethode"
+
+msgid "INVOICE_NUMBER"
+msgstr "Factuurnummer"
+
+msgid "INVOICE_DATE"
+msgstr "Factuurdatum"
+
+msgid "INVOICE_CUSTOMER_SHIPPING_ADDRESS_HEADER"
+msgstr "Bezorgadres"
+
+msgid "INVOICE_CUSTOMER_SHIPPING_NAME"
+msgstr "Naam"
+
+msgid "INVOICE_CUSTOMER_SHIPPING_ADDRESS"
+msgstr "Adres"
+
+msgid "INVOICE_PRODUCT_SKU"
+msgstr "Artikelnummer"
+
+msgid "INVOICE_PRODUCT_NAME"
+msgstr "Product"
+
+msgid "INVOICE_PRODUCT_PRICE_PER_UNIT"
+msgstr "Stuksprijs"
+
+msgid "INVOICE_PRODUCT_AMOUNT"
+msgstr "Aantal"
+
+msgid "INVOICE_PRODUCT_PRICE_INCL_VAT"
+msgstr "Prijs (incl. BTW)"
+
+msgid "INVOICE_TOTAL_GROUP"
+msgstr "Totaal"
+
+msgid "INVOICE_SUBTOTAL_EX_DISCOUNT"
+msgstr "Subtotaal:"
+
+msgid "INVOICE_SHIPPING_COSTS"
+msgstr "Verzendkosten:"
+
+msgid "INVOICE_DISCOUNT"
+msgstr "Korting:"
+
+msgid "INVOICE_PAYMENT_COSTS"
+msgstr "Betaalkosten:"
+
+msgid "INVOICE_VAT"
+msgstr "BTW"
+
+msgid "INVOICE_TOTAL_INCL_VAT"
+msgstr "Totaal (Incl. BTW):"
+
+msgid "INVOICE_PAID_IN_ADVANCE"
+msgstr "Factuurbedrag:"
+
+msgid "INVOICE_PAYABLE"
+msgstr "Resterend bedrag"
+
+msgid "INVOICE_ORDER_ID"
+msgstr "Bestelnummer"
+
+msgid "ORDER_TERMS_AND_CONDITIONS"
+msgstr ""
+"<!-- main conditions div -->"
+"                    <div class=\"conditions\">"
+""
+"                    <h1>VOORWAARDEN BESTELLINGEN</h1>"
+""
+"                    <!-- left column -->"
+"                    <div class=\"leftColumn\">"
+"                                        <h2>Algemene voorwaarden</h2>"
+"					<p>Op alle bestellingen zijn onze"
+"					<a href=\"https://www.sanitairwinkel.nl/klantenservice/algemene-voorwaarden/\">Algemene"
+"					Voorwaarden</a> en onderstaande aanvullende voorwaarden van toepassing</p>"
+""
+"                    <h2>LEVERTIJD VAN DE BESTELLING</h2>"
+"                    <p>De levertijden van de producten kunt u terugvinden in uw offerte"
+"					of bestelling. De levertijd kan per product verschillen. Als dit het"
+"					geval is, dient u rekening te houden met de langste levertijd. Let"
+"					op! De aangegeven levertijd is ter indicatie. Er kunnen geen rechten"
+"					aan worden ontleend en de levertijd gaat in na de aanbetaling of"
+"					betaling van het volledige bedrag. Wij raden u aan om pas een derde"
+"					in te schakelen voor installatie wanneer er feitelijk geleverd is.</p>"
+""
+"                    <h2>VERZENDKOSTEN</h2>"
+"                    <p>De verzendkosten staan vermeld in uw offerte of bestelling."
+"					Er worden geen verzendkosten in rekening gebracht als het"
+"					totaalbedrag van de bestelling hoger is dan € %1$s,-.</p>"
+""
+"                    <h2>BETALING VAN UW BESTELLING</h2>"
+"                    <p>Om uw bestelling te kunnen leveren, verzoeken wij u uiterlijk"
+"					3 werkdagen voor levering te betalen. Wij vragen uw "
+"                                        een aanbetaling te doen van 10%% met een minimum "
+"                                        van € 150,- voordat wij uw bestelling in behandeling "
+"                                        nemen. Wij zullen u een email sturen met een "
+"                                        betaalinstructie. U heeft hierbij de keuze uit de "
+"                                        volgende betaalmethoden:</p>"
+"                    <ol>"
+"					<li>iDeal</li>"
+"					<li>Creditcard</li>"
+"					<li>Paypal</li>"
+"					<li>Achteraf betalen – Klarna</li>"
+"					<li>Bij het afhalen van uw bestelling in de showroom is het mogelijk"
+"					om contant, met de pin of met creditcard te betalen.</li>"
+"					<li>Vooraf overmaken, middels een SEPA bankoverschrijving.</li>"
+"						</ol>"
+"                    <p>Mocht u in gebreke blijven en na een aanmaning niet of onvolledig"
+"					betalen, dan wordt het verschuldigde bedrag met buitengerechtelijke"
+"					incassokosten verhoogd. Bekijk onze website voor meer informatie"
+"					en de aanvullende voorwaarden hierover.</p>"
+""
+"                    <h2>INPLANNEN VAN UW BESTELLING</h2>"
+"                    <p>De leverdatum wordt in overleg met u afgesproken. De bestelling"
+"					wordt geleverd op werkdagen, van maandag tot en met vrijdag tussen"
+"					07:00 en 19:00 uur. Wanneer u de afspraak wilt verplaatsen, dan"
+"					kunt u dit tot 24 uur voor de levering aangeven. Als u op de"
+"					afgesproken dag niet aanwezig bent, zal de bestelling na overleg"
+"					opnieuw worden aangeboden. Hiervoor worden extra verzendkosten van"
+"					€29,95 berekend, omdat we voor grote en zware producten een extern"
+"					transportbedrijf inhuren. Dit geldt niet voor pakketpost.</p>"
+""
+"                    <!-- end left column -->"
+"                    </div>"
+""
+"                    <!-- right column -->"
+"                    <div class=\"rightColumn\">"
+""
+"                    <h2>LEVERING VAN UW BESTELLING</h2>"
+"                    <p>Uw bestelling wordt geleverd tot aan de eerste drempel van uw"
+"					woning of het gebouw waarin u woont. De bestelling dient u zelf in"
+"					uw woning te verplaatsen.</p>"
+""
+"                    <h2>SERVICE NA LEVERING</h2>"
+"                    <p>Bij levering dient u alle artikelen direct te controleren op schade"
+"					en volledigheid. Wanneer de levering incompleet of beschadigd is,"
+"					dient u dit binnen 48 uur na levering te melden. Schade of"
+"					onvolledigheden kunt u melden via een serviceaanvraag op"
+"					www.sanitairwinkel.nl/serviceaanvraag/. U ontvangt op werkdagen binnen"
+"					24 uur een reactie op uw serviceaanvraag. Alle producten die"
+"					Sanitairwinkel verkoopt, hebben een geldige fabrieksgarantie. Mocht"
+"					u hiervan gebruik willen maken, dan kunt u de serviceaanvraag invullen"
+"					met uw gegevens. Dit geldt ook wanneer u een garantie-pakket bij ons"
+"					heeft aangeschaft.</p>"
+""
+"                    <h2>SHOWROOMMODEL/OUTLET STORE</h2>"
+"                    <p>Onderstaande voorwaarden zijn van toepassing op artikelnummers"
+"					beginnend met SHOW- of STORE-."
+"                    <ul>"
+"                    <li>Showroommodellen of outlet store producten kunnen alleen worden"
+"					afgehaald in de vestiging waar het artikel zich bevindt en worden"
+"					dus niet verzonden.</li>"
+"                    <li>Controleer het product goed op eventuele gebreken. Er kan bij"
+"					deze producten geen aanspraak worden gemaakt op garantie. Na afname"
+"					van een showroommodel of outlet store product is retourneren dan ook"
+"					niet mogelijk.</li>"
+"                    </ul>"
+"                    </p>"
+""
+"					<h2>TWEEDEKANS</h2>"
+"                    <p>Op tweedekans producten, dat zijn producten met artikelnummers"
+"					beginnend met OUT, zijn de algemene voorwaarden van toepassing.</p>"
+""
+"					<h2>RETOURNEREN</h2>"
+"                    <p>Producten kunt u binnen 30 dagen na ontvangst retourneren. U dient"
+"					hierbij rekening te houden met een aantal voorwaarden. U bent zelf"
+"					verantwoordelijk voor het retour sturen van een product, dit mag naar:</p>"
+""
+"					<p>Sanitairwinkel<br>"
+"					Zandzuigerstraat 10a<br>"
+"					5222AH ’s-Hertogenbosch</p>"
+""
+"					<p>Het risico op schade en vermissing is voor u. Het product moet"
+"					ongebruikt en onbeschadigd in de originele verpakking geretourneerd worden."
+"					</p>"
+""
+"                    <!-- end right column -->"
+"                    </div>"
+""
+"                    <!-- end main conditions div -->"
+"                    </div>"
+
+msgid "QUOTATION_TERMS_AND_CONDITIONS"
+msgstr ""
+"<!-- main conditions div -->"
+"<div class=\"conditions\">"
+""
+"<h1>VOORWAARDEN OFFERTES</h1>"
+""
+"<!-- left column -->"
+"<div class=\"leftColumn\">"
+""
+"<h2>GELDIGHEIDSDUUR OFFERTE</h2>"
+"<p>Deze offerte is geldig tot 1 maand na de offertedatum. Als u na"
+"deze geldigheidsduur gebruik wilt maken van de offerte, dan bekijken"
+"we deze graag opnieuw en passen we indien noodzakelijk de offerte"
+"aan.</p>"
+""
+"<h2>OFFERTE BEVESTIGEN</h2>"
+"<p>U kunt deze offerte bevestigen per e-mail,  telefoon, online"
+"of in de showroom van Sanitairwinkel. Wanneer u de offerte heeft"
+"bevestigd, zetten we deze om in een bestelling. Per e-mail ontvangt"
+"u vervolgens een orderbevestiging van de bestelling. Zodra we uw"
+"aanbetaling hebben ontvangen zal de levertijd ingaan."
+"Door akkoord te gaan met de offerte, gaat u akkoord met onze"
+"<a href=\"https://www.sanitairwinkel.nl/klantenservice/algemene-voorwaarden/\">Algemene Voorwaarden</a>"
+"en onderstaande aanvullende voorwaarden.</p>"
+""
+"<h2>www.sanitairwinkel.nl</h2>"
+""
+"<!-- end left column -->"
+"</div>"
+""
+"<!-- right column -->"
+"<div class=\"rightColumn\">"
+""
+"<h2>SHOWROOMMODEL</h2>"
+"<p>"
+"<ul>"
+"<li>Het reserveren van showroommodellen is slechts 1 dag"
+"mogelijk.</li>"
+"<li>Showroommodellen kunnen alleen worden afgehaald, in"
+"de vestiging waar het artikel zich bevindt, en worden niet"
+"verzonden.</li>"
+"<li>Controleer het showroommodel goed, het kan licht beschadigd"
+"zijn. Er kan bij deze producten geen aanspraak gemaakt"
+"worden op garantie. Na afname van een showroommodel is"
+"retourneren dan ook niet mogelijk.</li>"
+"</ul>"
+"</p>"
+""
+"<!-- end right column -->"
+"</div>"
+""
+"<!-- end main conditions div -->"
+"</div>"
+
+msgid "QUOTATION_HEADER"
+msgstr "Offerte"
+
+msgid "QUOTATION_ADDRESS_HEADER"
+msgstr "Adresgegevens"
+
+msgid "QUOTATION_CUSTOMER_NAME"
+msgstr "Naam"
+
+msgid "QUOTATION_CUSTOMER_ADDRESS"
+msgstr "Adres"
+
+msgid "QUOTATION_CUSTOMER_MAIL"
+msgstr "Email"
+
+msgid "QUOTATION_CUSTOMER_TELEPHONE"
+msgstr "Telefoon"
+
+msgid "QUOTATION_HELPED_BY"
+msgstr "Geholpen door"
+
+msgid "QUOTATION_DATE"
+msgstr "Datum"
+
+msgid "QUOTATION_ID"
+msgstr "Offertenummer"
+
+msgid "QUOTATION_PRODUCT_SKU"
+msgstr "Artikelnummer"
+
+msgid "QUOTATION_PRODUCT_NAME"
+msgstr "Product"
+
+msgid "QUOTATION_PRODUCT_DELIVERYTIME"
+msgstr "Levertijd"
+
+msgid "QUOTATION_PRODUCT_PRICE_PER_UNIT"
+msgstr "Onze prijs"
+
+msgid "QUOTATION_PRODUCT_AMOUNT"
+msgstr "Aantal"
+
+msgid "QUOTATION_PRODUCT_TOTAL_INCL_VAT"
+msgstr "Totaal (incl. B.T.W.)"
+
+msgid "QUOTATION_TOTAL_GROUP"
+msgstr "Totaal"
+
+msgid "QUOTATION_SHIPPING_COSTS"
+msgstr "Verzendkosten"
+
+msgid "QUOTATION_SUBTOTAL"
+msgstr "Subtotaal"
+
+msgid "QUOTATION_DISCOUNT"
+msgstr "Extra korting"
+
+msgid "QUOTATION_VAT_PERCENTAGE"
+msgstr "BTW-Tarief"
+
+msgid "QUOTATION_VAT"
+msgstr "BTW-Bedrag:"
+
+msgid "QUOTATION_TOTAL"
+msgstr "Totaal (incl. BTW)"
+
+msgid "ORDER_HEADER"
+msgstr "Bestelling"
+
+msgid "ORDER_CUSTOMER_NAME"
+msgstr "Naam"
+
+msgid "ORDER_CUSTOMER_ADDRESS"
+msgstr "Adres"
+
+msgid "ORDER_CUSTOMER_MAIL"
+msgstr "Email"
+
+msgid "ORDER_CUSTOMER_TELEPHONE"
+msgstr "Telefoon"
+
+msgid "ORDER_CUSTOMER_COMPANYNAME"
+msgstr "Bedrijfsnaam"
+
+msgid "ORDER_CUSTOMER_VAT_NUMBER"
+msgstr "BTW nummer"
+
+msgid "ORDER_REMARKS"
+msgstr "Opmerkingen:"
+
+msgid "ORDER_REMARK_PLACED_ON"
+msgstr "Geplaatst op"
+
+msgid "ORDER_DATE"
+msgstr "Datum:"
+
+msgid "ORDER_HELPED_BY"
+msgstr "Geholpen door:"
+
+msgid "ORDER_DELIVERY_DATE"
+msgstr "Datum uitlevering:"
+
+msgid "ORDER_PAYMENT_METHOD"
+msgstr "Betalingsmethode:"
+
+msgid "ORDER_ID"
+msgstr "Bestelnummer:"
+
+msgid "ORDER_INVOICE_NUMBER"
+msgstr "Factuurnummer:"
+
+msgid "ORDER_PRODUCT_AMOUNT"
+msgstr "Aantal"
+
+msgid "ORDER_PRODUCT_SKU"
+msgstr "Prod. nr."
+
+msgid "ORDER_PRODUCT_DESCRIPTION"
+msgstr "Omschrijving"
+
+msgid "ORDER_PRODUCT_LOCATION"
+msgstr "Locatie"
+
+msgid "ORDER_PRODUCT_PRICE_PER"
+msgstr "Prijs Per Eenheid"
+
+msgid "ORDER_PRODUCT_TOTAL"
+msgstr "Totaal"
+
+msgid "ORDER_SUBTOTAL"
+msgstr "Subtotaal:"
+
+msgid "ORDER_SHIPPING_COSTS"
+msgstr "Verzendkosten:"
+
+msgid "ORDER_DISCOUNT"
+msgstr "Korting:"
+
+msgid "ORDER_PAYMENT_COSTS"
+msgstr "Betaalkosten:"
+
+msgid "ORDER_VAT"
+msgstr "BTW-Tarief:"
+
+msgid "ORDER_VAT_AMOUNT"
+msgstr "BTW-Bedrag:"
+
+msgid "ORDER_TOTAL"
+msgstr "Totaal:"
+
+msgid "ORDER_PAID_IN_ADVANCE"
+msgstr "Aanbetaling:"
+
+msgid "ORDER_PAYMENT_REMAINING"
+msgstr "Te betalen:"
+
+msgid "CREDIT_INVOICE_HEADER"
+msgstr "Creditfactuur"
+
+msgid "CREDIT_INVOICE_ADDRESS_HEADER"
+msgstr "Adresgegevens"
+
+msgid "CREDIT_INVOICE_CUSTOMER_NAME"
+msgstr "Naam"
+
+msgid "CREDIT_INVOICE_CUSTOMER_ADDRESS"
+msgstr "Adres"
+
+msgid "CREDIT_INVOICE_CUSTOMER_EMAIL"
+msgstr "Email"
+
+msgid "CREDIT_INVOICE_CUSTOMER_TELEPHONE"
+msgstr "Telefoon"
+
+msgid "CREDIT_INVOICE_CUSTOMER_VATNUMBER"
+msgstr "BTW nummer"
+
+msgid "CREDIT_INVOICE_ORDER_ID"
+msgstr "Bestelnummer:"
+
+msgid "CREDIT_INVOICE_DATE"
+msgstr "Factuurdatum:"
+
+msgid "CREDIT_INVOICE_NUMBER"
+msgstr "Creditfactuurnummer:"
+
+msgid "CREDIT_INVOICE_TOTAL_EX_VAT"
+msgstr "Totaal excl. BTW:"
+
+msgid "CREDIT_INVOICE_VAT"
+msgstr "BTW:"
+
+msgid "CREDIT_INVOICE_TOTAL_IN_VAT"
+msgstr "Totaal incl. BTW:"
+
+msgid "CREDIT_INVOICE_PARENT_NUMBER"
+msgstr "Hoofdfactuurnummer:"
+
+msgid "CANCELLED"
+msgstr "geannuleerd"
+
+msgid "ORDER_SUBTOTAL_EX_DISCOUNT"
+msgstr "Subtotaal (excl. kortingen):"
+
+msgid "ORDER_TOTAL_INCL_VAT"
+msgstr "Totaal (Incl. BTW):"
+
+msgid "ORDER_PRODUCT_NAME"
+msgstr "Product"
+
+msgid "ORDER_PRODUCT_PRICE_PER_UNIT"
+msgstr "Stuksprijs"
+
+msgid "ORDER_PRODUCT_PRICE_INCL_VAT"
+msgstr "Prijs (incl. BTW)"
+
+msgid "ORDER_TOTAL_GROUP"
+msgstr "Totaal"
+
+msgid "ORDER_CUSTOMER_EMAIL"
+msgstr "Email"
+
+msgid "ORDER_SHIPPING_ADDRESS_HEADER"
+msgstr "Bezorgadres"
+
+msgid "ORDER_CUSTOMER_SHIPPING_NAME"
+msgstr "Naam"
+
+msgid "ORDER_CUSTOMER_SHIPPING_ADDRESS"
+msgstr "Adres"
+
+msgid "ORDER_CUSTOMER_SHIPPING_ADDRESS_HEADER"
+msgstr "Bezorgadres"
+
+msgid "QUOTATION_PRODUCT_TOTAL_EXCL_VAT"
+msgstr "Totaal (excl. B.T.W.)"
+
+msgid "ORDER_TOTAL_EXCL_VAT"
+msgstr "Totaal (Excl. BTW)"
+
+msgid "RETURN_FORM_TO"
+msgstr "Aan"
+
+msgid "RETURN_FORM_TITLE"
+msgstr "Formulier voor herroeping"
+
+msgid "RETURN_FORM_CUSTOMER_APPLICANT"
+msgstr "Aanvrager"
+
+msgid "RETURN_FORM_ORDERNUMBER"
+msgstr "Bestelnummer"
+
+msgid "RETURN_FORM_DELIVERYDATE"
+msgstr "Uitleverdatum"
+
+msgid "RETURN_FORM_RETURN_REFERENCE"
+msgstr "Referentie"
+
+msgid "RETURN_FORM_RETURN_AMOUNT"
+msgstr "Aantal"
+
+msgid "RETURN_FORM_RETURN_PRODUCTCODE"
+msgstr "Artikelnummer"
+
+msgid "RETURN_FORM_RETURN_DESCRIPTION"
+msgstr "Omschrijving"
+
+msgid "RETURN_FORM_FOOTER_DESCRIPTION"
+msgstr ""
+"Druk dit formulier twee maal af. Eén houdt u zelf voor uw administratie en de ander voegt u bij de retourzending."
+"Retourzendingen zonder dit formulier zullen vertragingen opleveren bij de verdere afhandeling van uw retour. "
+"Zodra wij uw retour hebben ontvangen sturen wij u per email een ontvangstbevestiging."
+""
+" <p>Wanneer u een artikel wenst te retourneren adviseren wij om deze naar ons retouradres te versturen voor een snelle afhandeling van de retour. Ook kunt u deze zelf terugbrengen in één van de showrooms (met uitzondering van onze outlet in Uden). Hier zijn geen kosten aan verbonden. <b>Het retourneren in de showrooms is mogelijk van maandag t/m vrijdag tot 18:00 uur en op zaterdag tot 12:00 uur. Op koopavonden en -zondagen is retourneren in de showroom niet mogelijk.</b></p>"
+
+msgid "QUOTATION_SUBTOTAL_EXCL_VAT"
+msgstr "Subtotaal (excl. B.T.W.)"
+
+msgid "QUOTATION_PRODUCT_PRICE_PER_UNIT_EXCL_VAT"
+msgstr "Onze prijs (excl. BTW)"
+
+msgid "QUOTATION_SHIPPING_COSTS_EXCL_VAT"
+msgstr "Verzendkosten (excl. B.T.W.)"
+
+msgid "QUOTATION_DISCOUNT_EXCL_VAT"
+msgstr "Korting (excl. B.T.W.)"
+
+msgid "CUSTOMER_TERMS_CONDITIONS_GENERAL_1"
+msgstr "Controleer na ontvangst van uw bestelling direct of de artikelen schade hebben opgelopen en of de bestelling compleet is. Wanneer de levering incompleet is of als er schade is, meld dit dan binnen 48 uur na levering via de service-aanvraag."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_GENERAL_2"
+msgstr "Wij werken met externe transporteurs die bij bezorging leveren tot aan de eerste drempel."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_GENERAL_3"
+msgstr "Bij aankoop van een douchewand of douchecabine: deze zijn door een verstelbereik iets kleiner dan de algemene maat die vermeld staat."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_GENERAL_4"
+msgstr "Door verschillende batches, tintnummers en maattolerantie kunnen wij tegels helaas niet retour nemen of annuleren. Wij kunnen geen verantwoordelijkheid nemen voor de berekening van het aantal m2 tegels."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_GENERAL_5"
+msgstr "Een artikel met een HM nummer betreft een artikel dat wij niet standaard in ons assortiment hebben. Doordat dit artikel speciaal voor u wordt besteld kan deze niet geretourneerd, geannuleerd of tussentijds gewijzigd worden."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_FOOTER"
+msgstr "Aldus digitaal ondertekend op %s."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_INTRO"
+msgstr "Klant verklaart kennis te hebben genomen van en akkoord te gaan met onderstaande aan de bestelling gerelateerde bindende voorwaarden."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_SHOWROOM_1"
+msgstr "Alléén verkrijgbaar in een showroom en niet online te bestellen."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_SHOWROOM_2"
+msgstr "Alléén af te halen, wordt niet verzonden."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_SHOWROOM_3"
+msgstr "Alléén aanwezig en af te halen in de vestiging waar het artikel zich bevindt."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_SHOWROOM_4"
+msgstr "Reserveren is mogelijk, maar slechts voor 1 werkdag."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_SHOWROOM_5"
+msgstr "Helaas kunnen we geen garantie geven op deze producten."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_SHOWROOM_6"
+msgstr "Producten kunnen niet retour worden gebracht. Inspecteer het product dus goed, er kunnen beschadigingen op zitten."
+
+msgid "INVOICE_PRODUCT_PRICE_EXCL_VAT"
+msgstr "Prijs (excl. BTW)"
+
+msgid "INVOICE_TOTAL_EXCL_VAT"
+msgstr "Totaal (Excl. BTW):"
+
+msgid "INVOICE_PRODUCT_PRICE_PER_UNIT_EXCL_VAT"
+msgstr "Stuksprijs (excl. BTW)"
+
+msgid "INVOICE_TOTAL_GROUP_EXCL_VAT"
+msgstr "Totaal (Excl. BTW):"
+
+msgid "INVOICE_SUBTOTAL_EX_DISCOUNT_EXCL_VAT"
+msgstr "Subtotaal (Excl. BTW):"
+
+msgid "INVOICE_SHIPPING_COSTS_EXCL_VAT"
+msgstr "Verzendkosten (Excl. BTW):"
+
+msgid "INVOICE_DISCOUNT_EXCL_VAT"
+msgstr "Korting (Excl. BTW):"
+
+msgid "INVOICE_PAYMENT_COSTS_EXCL_VAT"
+msgstr "Betaalkosten (Excl. BTW):"
+
+msgid "INVOICE_CUSTOMER_EMAIL_SHORT"
+msgstr "Email"
+
+msgid "INVOICE_CUSTOMER_TELEPHONE_SHORT"
+msgstr "Telefoon"
+
+msgid "INVOICE_PAYMENT_METHOD_SHORT"
+msgstr "Betaalmethode"
+
+msgid "INVOICE_ORDER_ID_SHORT"
+msgstr "Bestelnummer"
+
+msgid "INVOICE_NUMBER_SHORT"
+msgstr "Factuurnummer"
+
+msgid "INVOICE_DATE_SHORT"
+msgstr "Factuurdatum"
+
+msgid "INVOICE_SUBTOTAL_INCL_VAT"
+msgstr "Subtotaal incl. BTW"
+
+msgid "INVOICE_SUBINVOICENUMBERS"
+msgstr "Subfactuurnummer(s)"
+
+msgid "INVOICE_CREDITINVOICENUMBERS"
+msgstr "Creditfactuurnummer(s)"
+
+msgid "INVOICE_FOOTER"
+msgstr "Sanitairwinkel.nl - Sawiday Netherlands BV - Graafsebaan 141 - 5248NL - ROSMALEN - The Netherlands - Telefoon +31(0)73 522 0688<br />Fax +31(0)73 522 3605 - E-mail: info@sanitairwinkel.nl - <br />IBAN: NL62 ABNA 0508 4878 97 - BIC: ABNANL2A - BANK: ABN AMRO <br />Kamer van koophandel: 17149323 - BTW nr. NL 8220.26.016.B.03"
+
+msgid "PROFORMAINVOICE"
+msgstr "Pro-forma factuur"
+
+msgid "INVOICE_INVOICED_IN_ADVANCE"
+msgstr "Reeds gefactureerd:"
+
+msgid "QUOTATION_RECOMMENDED_PRICE_PER_UNIT"
+msgstr "Adviesprijs"
+
+msgid "QUOTATION_RECOMMENDED_PRICE_PER_UNIT_EXCL_VAT"
+msgstr "Adviesprijs (excl. BTW)"
+
+msgid "QUOTATION_SUBTOTAL_RECOMMENDED_PRICE"
+msgstr "Subtotaal adviesprijs"
+
+msgid "CUSTOMER_TERMS_CONDITIONS_GENERAL_6"
+msgstr "Bij aankoop van een eiken meubel dient u op de hoogte te zijn van ons onderhoudsvoorschrift. Water en vloeistoffen dienen direct te worden afgenomen met een droge doek om kalk en watersporen te voorkomen."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_OUTLETSTORE_1"
+msgstr "De genoemde produkten kunnen niet retour"
+
+msgid "CUSTOMER_TERMS_CONDITIONS_OUTLETSTORE_2"
+msgstr "Op de genoemde producten wordt geen garantie gegeven"
+
+msgid "CUSTOMER_TERMS_CONDITIONS_OUTLETSTORE_3"
+msgstr "Ondergetekende heeft de artikelen zelf gecontroleerd en geaccepteerd"
+
+msgid "QUOTATION_DELIVERY_DAY"
+msgstr "d"
+
+msgid "SHOWROOM_ADDITIONAL_TERMS_AND_CONDITIONS"
+msgstr ""
+"<!-- extra conditions div -->"
+"                    <div class=\"conditions\">"
+""
+"                    <h1>EXTRA VOORWAARDEN</h1>"
+""
+"                    <!-- left column -->"
+"                    <div class=\"leftColumn\">"
+"                    <h2>UITZONDERINGEN RETOURMOGELIJKHEDEN</h2>"
+"                    <p>"
+"                    <ul>"
+"                    <li>Tegels kunnen wij helaas niet retour nemen, dit i.v.m."
+"					batches, tintnummers en maattolerantie.</li>"
+"                    <li>Een artikel met een HM-nummer betreft een artikel dat"
+"					wij niet standaard in ons assortiment hebben. Doordat dit"
+"					artikel speciaal voor u wordt besteld kan deze niet"
+"					geretourneerd, geannuleerd of tussentijds gewijzigd worden.</li>"
+"                    </ul>"
+"                    </p>"
+"                     <!-- end left column -->"
+"                    </div>"
+""
+"                    <!-- right column -->"
+"                    <div class=\"rightColumn\">"
+"                    <h2>AANVULLENDE OPMERKINGEN</h2>"
+"                    <p>"
+"                    <ul>"
+"                    <li>Bij aankoop van een douchewand of douchecabine: Deze"
+"					kunnen door een verstelbereik iets kleiner zijn dan de"
+"					algemene maat die vermeld staat </li>"
+"                    <li>Wij kunnen geen verantwoordelijkheid nemen voor de"
+"					berekening van het aantal m2 tegels</li>"
+"					<li>Producteigenschappen zijn met u besproken.</li>"
+"                    </ul>"
+"                    </p>"
+"                     <!-- end right column -->"
+"                    </div>"
+""
+"                    <!-- end extra conditions div -->"
+"                    </div>"
+
+msgid "RETURN_FORM_WRT"
+msgstr "t.a.v. afdeling retouren"
+
+msgid "INVOICE_FOOTER_NEW"
+msgstr "<strong>Sawiday Netherlands B.V.</strong> is handelend onder de naam <strong>Sanitairwinkel</strong><br><strong>KVK:</strong> 17149323 <strong>• BTW:</strong> NL.8213.79.811.B01 <strong>• IBAN:</strong>NL62 ABNA 0508 4878 97 <strong>• BIC:</strong> ABNANL2A"
+
+msgid "INVOICE_VAT_NUMBER"
+msgstr "BTW-nr"
+
+msgid "INVOICE_ORDER_NUMBER"
+msgstr "Ordernummer"
+
+msgid "INVOICE_REFERENCE"
+msgstr "Uw referentie"
+
+msgid "INVOICE_ORDER_DETAILS_HEADER"
+msgstr "Bestellinggegevens"
+
+msgid "ORDER_ROW_TOTAL_INC_VAT"
+msgstr "Totaal (incl.btw)"
+
+msgid "ORDER_EX_VAT"
+msgstr "Exclusief BTW"
+
+msgid "ORDER_SUBTOTAL_NO_COLON"
+msgstr "Subtotaal"
+
+msgid "ORDER_SHIPPING_COSTS_NO_COLON"
+msgstr "Verzendkosten"
+
+msgid "ORDER_DISCOUNT_NO_COLON"
+msgstr "Korting"
+
+msgid "INVOICE_PRODUCT_SKU_SHORT"
+msgstr "Artikelnr."
+
+msgid "INVOICE_NR"
+msgstr "Factuurnr."
+
+msgid "AMOUNT_EX_VAT"
+msgstr "Bedrag excl. BTW"
+
+msgid "ORDER_VAT_AMOUNT_NO_COLON"
+msgstr "BTW-Bedrag"
+
+msgid "BENEFITS"
+msgstr "Uw voordeel"
+
+msgid "ORDER_DATE_SHORT"
+msgstr "Orderdatum"
+
+msgid "ORDER_CONFIRMATION_HEADER"
+msgstr "ORDERBEVESTIGING"
+
+msgid "ORDER_DATE_SHORT_QUOTATION"
+msgstr "Offerte datum"
+
+msgid "QUOTATION_DETAILS_HEADER"
+msgstr "Offerte gegevens."
+
+msgid "DELIVERY_INDICATION"
+msgstr "Indicatie levertijd"
+
+msgid "ORDER_ROW_TOTAL_EX_VAT"
+msgstr "Totaal (ex.btw)"
+
+msgid "PDF_INVOICED"
+msgstr "Gefactureerd"
+
+msgid "DEBIT_INVOICE_EXPIRATION_DATE"
+msgstr "Vervaldatum"
+
+msgid "DEBIT_INVOICE_EXPIRATION_DAYS"
+msgstr "Gelieve binnen %d dagen te betalen"
+
+msgid "DEBIT_INVOICE_PAY_IMMEDIATELY"
+msgstr "Gelieve per ommegaande te betalen"
+
+msgid "ORDER_MSRP_TOTAL"
+msgstr "Adviesprijs totaal"
+
+msgid "CREDIT_INVOICE_REASON"
+msgstr "Reden:"
+
+msgid "CUSTOMER_TERMS_CONDITIONS_GENERAL_7"
+msgstr "Een levering mag tot maximaal 6 weken na eerste (concept) leverafspraak uitgesteld worden. Na deze periode rekenen wij een vergoeding van 1% per maand voor het op voorraad houden van uw bestelling. Deze 1% wordt uitsluitend berekend over de artikelen welke nog niet uitgeleverd zijn."
+
+msgid "FOR"
+msgstr "voor"
+
+msgid "OF_SET"
+msgstr "van set"
+
+msgid "CUSTOMER_TERMS_CONDITIONS_FOOTER_ONLINE"
+msgstr "Online akkoord gegeven op %s"
+
+msgid "CUSTOMER_TERMS_CONDITIONS_GENERAL_9"
+msgstr ""
+"Living Colours: Dit houdt in dat het product afgewerkt is zonder oppervlakte bescherming, waardoor deze op een natuurlijke wijze van kleur verandert. Dit natuurlijke patina zorgt voor een uniek en levendig resultaat."
+"De verkleuring valt niet onder een fabrieksfout of garantie."
+

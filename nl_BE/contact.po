@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "TITLE"
+msgstr "Contactformulier"
+
+msgid "IMAGE_UPLOAD_ERROR"
+msgstr "Er is een fout opgetreden tijdens het toevoegen van de afbeeldingen"
+
+msgid "META_DESCRIPTION"
+msgstr "Neem contact op met Sawiday"
+
+msgid "SUBJECT_QUESTION_ORDER"
+msgstr "U kunt de status van uw bestelling altijd inzien op onze website bij bestelstatus."
+
+msgid "SUBJECT_COMPLAINT"
+msgstr "U ontvangt altijd binnen 5 werkdagen een reactie op uw klacht. Om uw klacht in behandeling te kunnen nemen, vragen wij u onderstaande gegevens in te vullen."
+
+msgid "SUBJECT_DAMAGE"
+msgstr "U ontvangt altijd binnen 5 werkdagen een reactie op uw schade. Om uw schade in behandeling te kunnen nemen, vragen wij u onderstaande gegevens in te vullen."
+
+msgid "SUBJECT_RETURN"
+msgstr "Het is altijd mogelijk dat het product niet voldoet aan uw verwachting. Om uw retouraanvraag in goede banen te leiden verzoeken wij u onze retourvoorwaarden goed door te nemen en daarna onderstaande gegevens in te vullen."
+
+msgid "SUBJECT_CHEAPER"
+msgstr "Mocht u, ondanks ons scherpe prijsbeleid, toch elders exact hetzelfde product goedkoper aantreffen, dan kunt u dit bij ons melden. Het kan zijn dat wij u dan een tegenaanbod doen. Na het plaatsen van een bestelling is het niet meer mogelijk om eventuele prijsverschillen bij ons te reclameren."
+
+msgid "SUBJECT_ERROR"
+msgstr "Geef alstublieft zo gedetailleerd mogelijk aan wat u deed toen de fout zichtbaar werd. Zou u tevens uw webbrowser en besturingssysteem kunnen doorgeven? Dan kunnen wij het zo snel mogelijk oplossen!"
+
+msgid "SUBJECT_PRODUCT_NOT_FOUND"
+msgstr "Niet gevonden wat u zoekt? Wij kunnen alle artikelen leveren van alle bekende merken. Bent u op zoek naar iets specifieks? Stuur ons het artikelnummer en wij geven u onze scherpste prijs!"
+
+msgid "SUBJECT_QUESTION_PRODUCT"
+msgstr "Is de informatie op onze website niet toereikend of wenst u advies? Stel uw vraag!"
+
+msgid "LABEL_COMPLAINT"
+msgstr "Omschrijving klacht"
+
+msgid "LABEL_DAMAGE"
+msgstr "Omschrijving schade"
+
+msgid "LABEL_ERROR"
+msgstr "Omschrijving fout"
+
+msgid "SUCCESS"
+msgstr ""
+"<h2>Bedankt voor uw e-mail</h2>"
+"<p>Wij nemen uw vraag zo spoedig mogelijk in behandeling.</p>"
+
+msgid "FORM_INCOMPLETE"
+msgstr "U heeft niet alle velden ingevuld die wij nodig hebben voor een correcte en snelle verwerking."
+
+msgid "SELECT_SUBJECT_GENERAL"
+msgstr "Algemene vraag"
+
+msgid "SELECT_SUBJECT_QUESTION_PRODUCT"
+msgstr "Vraag over product"
+
+msgid "SELECT_SUBJECT_QUESTION_ORDER"
+msgstr "Vraag over bestelling"
+
+msgid "SELECT_SUBJECT_PRODUCT_NOT_FOUND"
+msgstr "Product niet gevonden"
+
+msgid "SELECT_SUBJECT_COMPLAINT"
+msgstr "Klacht"
+
+msgid "SELECT_SUBJECT_DAMAGE"
+msgstr "Service aanvraag"
+
+msgid "SELECT_SUBJECT_RETURN"
+msgstr "Vraag over retourneren"
+
+msgid "SELECT_SUBJECT_CHEAPER"
+msgstr "Elders goedkoper"
+
+msgid "SELECT_SUBJECT_ERROR"
+msgstr "Fout op website"
+
+msgid "SELECT_SUBJECT"
+msgstr "Selecteer uw onderwerp"
+
+msgid "ENTER_NOTHING"
+msgstr "Vul geen gegevens in in het veld hiernaast voor correcte werking."
+
+msgid "INFORMATION_TITLE"
+msgstr "Contactinformatie"
+
+msgid "PAGE_TITLE"
+msgstr "Contact opnemen"
+
+msgid "DESCRIPTION"
+msgstr ""
+"De klantenservice van Sawiday.be staat klaar om u snel en adequaat te ondersteunen."
+"U kunt ons bereiken via e-mail, telefoon, post, en fax. Daarnaast kunt u natuurlijk langskomen bij onze showrooms."
+
+msgid "OTHER_INFORMATION"
+msgstr "Overige gegevens"
+
+msgid "PICKUP_LOCATION"
+msgstr "Afhaal locatie"
+
+msgid "SEND_REQUEST"
+msgstr "Aanvraag verzenden"
+
+msgid "CONTACT_OPEN"
+msgstr "Bezoek, bel of mail ons!"
+
+msgid "CONTACT_CLOSED"
+msgstr "Mail ons!"
+
+msgid "THANKS_MESSAGE_SENT"
+msgstr "Bedankt, uw bericht is verstuurd."
+
+msgid "CONTACT_FORM_EMAIL_CONFIRMATION_SUBJECT"
+msgstr "We hebben uw bericht ontvangen!"
+
+msgid "CONTACT_FORM_EMAIL_CONFIRMATION"
+msgstr "Beste meneer, mevrouw,<br /><br />Bij deze bevestigen wij dat uw bericht via het contactformulier succesvol naar ons verzonden is. Wij nemen zo spoedig mogelijk contact met u op.<br /><br />Met vriendelijke groet,<br />Klantenservice Sawiday.be"
+
+msgid "MAKE_APPOINTMENT"
+msgstr "Maak afspraak"
+
+msgid "CHOOSE"
+msgstr "Kies.."
+
+msgid "VISITREQUEST_ERROR"
+msgstr "Er zijn fouten opgetreden bij het verwerken van uw aanvraag:"
+
+msgid "SENDING_MAIL_FAILED"
+msgstr "Er kon geen email naar u verzonden worden. Probeer het later alstublieft nogmaals."
+
+msgid "VIDEO_CALL"
+msgstr "Mijn voorkeur gaat uit naar een telefoon gesprek i.p.v. video"
+
+msgid "UPLOAD_FILE_VISIT_REQUEST"
+msgstr "Upload hier een foto / tekening / offerte (niet verplicht wel handig)"
+
+msgid "ATTACHMENT"
+msgstr "Bijlage"
+
+msgid "ERROR_FILE_UPLOAD_BLOCKED"
+msgstr "Bestandstype %s is geblokkeerd"
+
+msgid "ERROR_FILE_UPLOAD_SIZE"
+msgstr "Bestand is te groot"
+
+msgid "ERROR_FILE_UPLOAD_NO_FILE"
+msgstr "Bestand is niet correct verstuurd"
+
+msgid "ERROR_FILE_UPLOAD_DEFAULT"
+msgstr "Bestand uploaden ging mis, probeer het opnieuw"
+
+msgid "CONTACT_US"
+msgstr "Neem contact met ons op"
+
+msgid "TIME_FRAME_QUESTION"
+msgstr "In welk tijdsbestek heb je het materiaal nodig?"
+
+msgid "TIME_FRAME_ANSWER_WITHIN_MONTH"
+msgstr "Binnen nu en één maand"
+
+msgid "TIME_FRAME_ANSWER_WITHIN_THREE_MONTHS"
+msgstr "Binnen drie maanden"
+
+msgid "TIME_FRAME_ANSWER_BETWEEN_TWO_THREE_MONTHS"
+msgstr "Tussen 3 en 6 maanden"
+
+msgid "TIME_FRAME_ANSWER_SIX_MONTHS_OR_LATER"
+msgstr "Over 6 maanden of later"
+
+msgid "STYLE_MOODBOARD_QUESTION"
+msgstr "Heb je al een stijl, moodboard of badkamer gevonden die je mooi vind?"
+
+msgid "STYLE_MOODBOARD_EXPLANATION"
+msgstr "Kopieer hier de website links en/of moodboard namen (meerdere links mogelijk)"
+
+msgid "CONTACT_FORM_B2B_TEXT"
+msgstr ""
+"<h2 class=\"heading-dot\">Contactgegevens</h2><p>Wil je meer weten over Sanitairwinkel Zakelijk? Of ontvang je liever direct een vrijblijvende offerte? Neem dan contact op via onderstaande manieren of via het contactformulier.</p><ul><li>Bel ons op: <a href=\"tel:+32033460132\">+32 (0)3 346 01 32</a>  of <a href=\"tel:+32 469105830\">+32 469 10 58 30</a></li><li>Mail ons: business@sawiday.be</li></ul><br /><h3>BEZOEKADRES</h3><p>Sawiday Belgium<br>Leuvensesteenweg 1-3 <br>1932 Zaventem (Sint-Stevens-Woluwe)</p>"
+""
+"<p>Sawiday Belgium<br>Bredabaan 1265 <br>2900 Schoten</p>"
+"<p>Sawiday Belgium<br>Genkersteenweg 215 <br>3500 Hasselt</p>"
+""
+
+msgid "MAKE_APPOINTMENT_HEADER"
+msgstr "Afspraak maken"
+

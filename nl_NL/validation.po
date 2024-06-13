@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "CANT_BE_EMPTY"
+msgstr "is een verplicht veld"
+
+msgid "INVALID_PASSWORD_FORMAT"
+msgstr "moet minimaal 1 letter en 1 cijfer bevatten"
+
+msgid "INVALID_PASSWORD_EQUALITY"
+msgstr "is niet gelijk aan het eerst ingevulde wachtwoord"
+
+msgid "INVALID_GREATERTHAN_OR_EQUALTO"
+msgstr "moet groter of gelijk aan %{count} zijn"
+
+msgid "INVALID_LESSTHAN_OR_EQUALTO"
+msgstr "moet kleiner of gelijk aan %{count} zijn"
+
+msgid "INVALID_WRONG_LENGTH"
+msgstr "bevat niet het juiste aantal tekens, dit zou %{count} moeten zijn"
+
+msgid "INVALID_NOT_INTEGER"
+msgstr "moet een getal zijn"
+
+msgid "INVALID_TOO_SHORT"
+msgstr "is te kort (het minimum is %{count} tekens)"
+
+msgid "INVALID_TOO_LONG"
+msgstr "is te lang (het maximum is %{count} tekens)"
+
+msgid "INVALID_AZ_TEXT"
+msgstr "mag alleen alfabetische karakters bevatten"
+
+msgid "INVALID_AZ_TEXT_WITH_SPACES"
+msgstr "mag alleen alfabetische karakters en spaties bevatten"
+
+msgid "IS_INVALID"
+msgstr "is niet geldig"
+
+msgid "IS_INCORRECT"
+msgstr "is niet correct"
+
+msgid "IS_INCORRECT_POSTALCODE"
+msgstr "is niet correct. Woon je in België, bestel dan op <a href=\"https://www.sawiday.be/nl-be/\">Sawiday.be/nl-be</a>"
+
+msgid "MIN_SELECT_ITEMS"
+msgstr "Selecteer minimaal %{count} item(s)"
+
+msgid "VALIDATION_ERROR_OCCURRED"
+msgstr "Er zijn een/of meerdere validatiefouten."
+
+msgid "ALREADY_IN_USE"
+msgstr "is al in gebruik"
+
+msgid "GENERAL_ERROR_OCCURED"
+msgstr "Er is helaas iets mis gegaan."
+
+msgid "IS_INCORRECT_VATNUMBER"
+msgstr " is niet valide"
+
+msgid "FILE_TOO_LARGE"
+msgstr "Bestand is te groot"
+
+msgid "ORDER_STATUS_LINK_EXPIRED_ERROR"
+msgstr "Deze link is verlopen, gebruik het onderstaande formulier om een nieuwe aan te vragen."
+
+msgid "ALREADY_IN_USE_B2B"
+msgstr "is al in gebruik. Neem contact op met 073 - 203 5055."
+
+msgid "GREATER_THAN_0"
+msgstr "moet hoger zijn dan 0"
+
+msgid "IS_INCORRECT_POSTALCODE_B2B"
+msgstr "is niet correct"
+
+msgid "ADDRESS_ALREADY_EXISTS"
+msgstr "Het ingevulde adres is al gekoppeld aan je account"
+

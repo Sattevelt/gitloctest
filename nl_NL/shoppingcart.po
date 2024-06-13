@@ -1,0 +1,752 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "ADD_PRODUCT"
+msgstr "Voeg \"%s\" toe aan uw winkelwagen"
+
+msgid "HEADER_IMAGE"
+msgstr "<img id=\"headerimg\" src=\"//static.rorix.nl/skins/1/images/logo-thuiswinkel.png\" alt=\"Thuiswinkel waarborg\" />"
+
+msgid "PRODUCT_ADDED"
+msgstr "Uw product is in uw winkelwagen geplaatst"
+
+msgid "UPS_TITLE"
+msgstr "Daarom Sanitairwinkel.nl"
+
+msgid "UPS_LIST"
+msgstr ""
+"<ul>"
+"    <li>Showrooms in Alkmaar, Amsterdam, Arnhem, Rosmalen, Rotterdam & Tilburg</li>"
+"    <li>Gratis bezorging bij besteding vanaf €%s,-</li>"
+"    <li>Op afspraak bezorgd</li>"
+"    <li>30 dagen retourrecht</li>"
+"    <li class=\"global-review-trustpilot\">Een <span class=\"ratingNumberTrustPilot tp-score\"> </span> / 5 uit <span class=\"ratingCountTrustPilot tp-reviews\"></span> beoordelingen</li>"
+"</ul>"
+
+msgid "ORDER_COMPLETED"
+msgstr "Bestelling voltooid!"
+
+msgid "FACEBOOK_SHARE_TITLE"
+msgstr "Ik heb zojuist besteld bij Sanitairwinkel"
+
+msgid "NEED_HELP_CALL"
+msgstr ""
+"Hulp nodig? Bel ons:<br />"
+"		<span>073 522 0688</span>"
+
+msgid "CHANGE_AMOUNT"
+msgstr "Wijzig aantal van \"%s\""
+
+msgid "REMOVE_PRODUCT"
+msgstr "Verwijder \"%s\" uit uw winkelwagen"
+
+msgid "TOTAL_INC_BTW"
+msgstr "Totaal (incl. BTW)"
+
+msgid "ADD_PRODUCT_FREE_SHIPPING"
+msgstr "Voeg nog € %.2f toe aan uw bestelling<br/>en deze wordt gratis thuisbezorgd."
+
+msgid "CONTENT"
+msgstr "Inhoud van uw winkelwagen"
+
+msgid "SAVE_MAIL"
+msgstr "Opslaan en mail naar uzelf"
+
+msgid "USE_DISCOUNTCODE"
+msgstr "Kortingscode gebruiken"
+
+msgid "INVALID_DISCOUNTCODE"
+msgstr "Actiecode niet correct"
+
+msgid "MAIL"
+msgstr "Winkelwagen mailen?"
+
+msgid "MAIL_EXPLANATION"
+msgstr "Vul uw emailadres in en druk op verstuur om de inhoud van uw winkelwagen te versturen naar uw eigen emailadres."
+
+msgid "LOGOS"
+msgstr ""
+"<img src=\"//static.rorix.nl/skins/1/images/winkelwagen_usp_vertrouwen.jpg\" alt=\"Thuiswinkel Waarborg en Trustpilot\" />"
+"<img src=\"//static.rorix.nl/skins/1/images/winkelwagen_usp_betalen.jpg\" alt=\"Betaalmethodes\" style=\"margin-top: 10px;\" />"
+
+msgid "SCROLLBOX_TITLE"
+msgstr "Bezorgen of afhalen"
+
+msgid "CONTINUE_ORDER"
+msgstr "Doorgaan met bestellen"
+
+msgid "EMPTY"
+msgstr ""
+"<p>Uw winkelwagen is leeg.</p>"
+"<a href=\"/\">Winkel verder</a>"
+
+msgid "EMPTY_TITLE"
+msgstr "U heeft nog geen artikelen in uw winkelwagen."
+
+msgid "OVERVIEW_TITLE"
+msgstr "Bestelling controleren & verzenden"
+
+msgid "YOUR_CART"
+msgstr "Uw winkelwagen"
+
+msgid "VAT_NUMBER"
+msgstr "BTW nummer"
+
+msgid "FILL_DETAILS"
+msgstr "Vul hier uw gegevens in"
+
+msgid "SHIPPING_DELIVER"
+msgstr "Producten laten bezorgen"
+
+msgid "SHIPPING_PICKUP"
+msgstr "Afhalen in één van de showrooms"
+
+msgid "WRAP_UP"
+msgstr "Afronden"
+
+msgid "DELIVERY_ON"
+msgstr "Bezorging op %s"
+
+msgid "ERROR_HEADER"
+msgstr "Bestelling al betaald?"
+
+msgid "ERROR_MESSAGE"
+msgstr ""
+"<h2>Bestelling betalen</h2>"
+"<div class='clear'></div>"
+"<p>Uw bestelling is nog niet betaald, op deze pagina kunt u uw bestelling alsnog afronden.</p>"
+" <p>Bij vragen kunt u te allen tijde contact opnemen met onze klantenservice (<strong>073 522 0688</strong>).</p>"
+
+msgid "DELIVERY_FASTEST"
+msgstr "Snelst mogelijke bezorging"
+
+msgid "DELIVERY_CHOOSE"
+msgstr "Uw gekozen bezorgdatum"
+
+msgid "DELIVERY_CHOOSE_OTHER"
+msgstr "Kies uw bezorgdatum"
+
+msgid "DELIVERY_APPOINTMENT"
+msgstr "Bezorging na afspraak"
+
+msgid "TOOLTIP_DELIVERY_DATE_DELAY_AMS"
+msgstr "Bij afhalen in Amsterdam dient u rekening te houden met een langere levertijd. Doorgaans dient u rekening te houden met 5 dagen vertraging."
+
+msgid "TOOLTIP_DELIVERY_DATE_FASTEST"
+msgstr "Wij sturen de bestelling, zodra deze compleet is, naar u toe. U ontvangt van ons een track en trace code"
+
+msgid "TOOLTIP_DELIVERY_DATE_CHOOSE"
+msgstr "U ontvangt per e-mail het telefoonnummer van onze transporteur. Op de dag van levering kunt u hiermee contact opnemen om te vragen hoe laat wij komen leveren"
+
+msgid "TOOLTIP_DELIVERY_DATE_APPOINTMENT"
+msgstr "Wanneer de bestelling bij ons compleet is, nemen wij contact met u op om een afspraak voor levering in te plannen"
+
+msgid "DELIVERY_DATE_ERROR"
+msgstr "Kies een bezorgdatum!"
+
+msgid "DELIVERY_SHOWROOM_ERROR"
+msgstr "Kies een showroom om uw bestelling af te halen!"
+
+msgid "DELIVERY_DATE_METHOD_ERROR"
+msgstr "Maak uw keuze voor levering!"
+
+msgid "PICK_DELIVERY_ADDRESS"
+msgstr "Ander bezorgadres?"
+
+msgid "COMMENTS"
+msgstr "Afleverinstructies (optioneel) | Instructies worden niet meegenomen bij een Post pakket bezorging"
+
+msgid "ENTER_COMMENTS"
+msgstr "Opmerkingen"
+
+msgid "NEXT_STEP"
+msgstr "Volgende stap"
+
+msgid "ZIPCODE_PLACEHOLDER"
+msgstr "1234AB"
+
+msgid "VAT_NUMBER_PLACEHOLDER"
+msgstr "NLxxxxxxxxxBxx (zonder punten)"
+
+msgid "INITIALS_PLACEHOLDER"
+msgstr "A.B.C."
+
+msgid "ADDED_TO_SHOPPINGCART"
+msgstr "Toegevoegd aan uw winkelwagen"
+
+msgid "MODIFY_SHOPPINGCART"
+msgstr "Winkelwagen wijzigen"
+
+msgid "X_ADDED_PRODUCTS_TO_SHOPPINGCART"
+msgstr "%d artikelen toegevoegd."
+
+msgid "GENDER"
+msgstr "Uw geslacht"
+
+msgid "FAMILY"
+msgstr "Fam."
+
+msgid "SIR"
+msgstr "Dhr."
+
+msgid "MADAM"
+msgstr "Mevr."
+
+msgid "SEND_CART_TO"
+msgstr "Winkelwagen wordt verstuurd naar:"
+
+msgid "SEND_CART_FAIL"
+msgstr "Er is een fout opgetreden bij het versturen van uw winkelwagen. Onze excuses voor het ongemak."
+
+msgid "PAYMENT_GATEWAY_HEADER"
+msgstr "<p>LET OP!!! Referentie veranderen!!!! U wordt binnen enkele seconden automatisch doorgestuurd naar de betaalmodule.<br />Klik op de betaalknop hieronder indien dit niet gebeurt.</p>"
+
+msgid "PAYMENT_GATEWAY_SUBMIT"
+msgstr "Betalen"
+
+msgid "PAYMENT_GATEWAY_FOOTER"
+msgstr ""
+"<p>Voor vragen of hulp kunt u contact met ons opnemen.</p>"
+"<ul style=\"list-style:none outside none; padding-left: 0;\">"
+"    <li><strong>Sanitairwinkel.nl</strong></li>"
+"    <li>Graafsebaan 141</li>"
+"    <li>5248 NL Rosmalen</li>"
+"    <li>tel. 073 522 0688 (helpdesk)</li>"
+"    <li>fax. 073 522 3605</li>"
+"    <li>e-mail: <a href=\"mailto:info@sanitairwinkel.nl\">info@sanitairwinkel.nl</a></li>"
+"</ul>"
+
+msgid "PAYMENT_GATEWAY_ORDER_ALREADY_PAID"
+msgstr "Deze bestelling is reeds betaald."
+
+msgid "PAYMENT_GATEWAY_NO_DATA_FOUND"
+msgstr "Er zijn geen gegevens gevonden."
+
+msgid "SEND_CART_EMAIL_SUBJECT"
+msgstr "Bekijk de producten van uw winkelwagen"
+
+msgid "SEND_CART_EMAIL_BODY"
+msgstr "U heeft op onze website aangegeven uw winkelwagen graag per e-mail te willen ontvangen. Bekijk hieronder de producten in uw winkelwagen."
+
+msgid "PAYMENT_GATEWAY_TECHNICAL_ERROR"
+msgstr ""
+"<p>Er is een technische fout opgetreden tijdens het verwerken van uw betaling. Neem alstublieft contact op met de klantenservice.</p>"
+"<ul style=\"list-style:none outside none; padding-left: 0;\">"
+"    <li><strong>Sanitairwinkel.nl</strong></li>"
+"    <li>Graafsebaan 141</li>"
+"    <li>5248 NL Rosmalen</li>"
+"    <li>tel. 073 522 0688 (helpdesk)</li>"
+"    <li>fax. 073 522 3605</li>"
+"    <li>e-mail: <a href=\"mailto:info@sanitairwinkel.nl\">info@sanitairwinkel.nl</a></li>"
+"</ul>"
+
+msgid "SHIPPING_BPOST"
+msgstr "Afhalen bij BPost"
+
+msgid "DISTANCE"
+msgstr "km van u vandaan"
+
+msgid "DELIVERY_POINT"
+msgstr "Afhaalpunt"
+
+msgid "YOUR_STREET"
+msgstr "Uw straat"
+
+msgid "YOUR_HOUSE_NO"
+msgstr "Uw huisnummer + toevoeging"
+
+msgid "YOUR_ZIPCODE"
+msgstr "Uw postcode"
+
+msgid "YOUR_CITY"
+msgstr "Uw woonplaats"
+
+msgid "SEARCH_DELIVERY_POINTS"
+msgstr "Zoek afhaalpunt"
+
+msgid "CHOSEN_DELIVERY_POINT"
+msgstr "Gekozen afhaalpunt"
+
+msgid "NO_ADDRESS_ENTERED"
+msgstr "Vul alstublieft een straat, huisnummer, postcode en woonplaats in."
+
+msgid "CHOOSE_PAYMENT_METHOD_ENTER_ALL"
+msgstr "Kies een betaalmethode en vul verplichte velden in"
+
+msgid "COMMUNICATION_LANGUAGE"
+msgstr "Taal"
+
+msgid "FOOTER_QUESTIONS"
+msgstr ""
+"<tr><td colspan=\"2\"><strong>Heeft u een vraag?</strong></span><br />"
+"                <span>Neem dan contact op met een van onze sanitairadviseurs via"
+"                onze <a href=\"https://www.sanitairwinkel.nl/\">site</a>, op telefoonnummer 073-5220688 of"
+"                bekijk onze <a href=\"https://service.sawiday.com/hc/nl\">klantenservicepagina's.</a>"
+"                </td></tr>"
+"         </table>"
+
+msgid "HEADER_CART_MAIL"
+msgstr ""
+"<table class=\"wrapper\">"
+"            <tr class=\"wrapper-header\">"
+"                <td><img src=\"%path%\"></td>"
+"                <td class=\"menu\">"
+"<span class=\"order\"><a href=\"https://www.sanitairwinkel.nl/bestelstatus/\">Uw bestelling</a></span> <span class=\"separator\">|</span> "
+"                    <span class=\"customerservice\"><a href=\"https://service.sawiday.com/hc/nl\">Klantenservice</a></span>"
+"                </td>"
+"            </tr>"
+
+msgid "VALID_DISCOUNTCODE"
+msgstr "Kortingscode correct"
+
+msgid "SAVE_CART_FAILED"
+msgstr "Excuses, er is een technische fout opgetreden bij het opslaan van uw winkelwagen. Onze technische afdeling is op de hoogte gebracht en zal er zo spoedig mogelijk naar kijken. Probeert u het later nogmaals. Onze excuses voor het ongemak."
+
+msgid "BUNDLE_ADDED"
+msgstr "De combinatieset is in uw winkelwagen geplaatst"
+
+msgid "BUNDLE_PRODUCT_MANDATORY"
+msgstr "Dit product is verplicht om recht te hebben op de korting van deze bundel"
+
+msgid "ERROR_HEADER_ORDER_PAID"
+msgstr "Bestelling reeds betaald"
+
+msgid "ERROR_MESSAGE_ORDER_PAID"
+msgstr ""
+"<h2>Informatie</h2>"
+"<div class='clear'></div>"
+"<p>Uw bestelling is volgens onze informatie reeds betaald, u hoeft niets meer te doen.</p>"
+" <p>Bij vragen kunt u te allen tijde contact opnemen met onze klantenservice (<strong>073 522 0688</strong>).</p>"
+
+msgid "CHOOSE_DELIPOINT"
+msgstr "Kies uw afhaalpunt"
+
+msgid "SHIPPING_DELIPOINT"
+msgstr "Afhalen bij een PostNL afhaalpunt"
+
+msgid "PICKUP_DEPENDS_ON_DELIVERY_POINT"
+msgstr "Afhankelijk van uw gekozen afhaalpunt"
+
+msgid "META_TITLE_START"
+msgstr "Winkelwagen | Sanitairwinkel"
+
+msgid "META_TITLE_DATA"
+msgstr "Gegevens | Sanitairwinkel"
+
+msgid "META_TITLE_OVERVIEW"
+msgstr "Winkelwagen | Sanitairwinkel"
+
+msgid "PICKUP_WHERE"
+msgstr "Waar wilt u uw bestelling ophalen?"
+
+msgid "PICKUPPOINTS_CLOSE_BY"
+msgstr "Ophaalpunten bij u in de buurt"
+
+msgid "CHOOSE_DIFF_DELIVERY_METHOD"
+msgstr "Kies andere aflevermethode"
+
+msgid "DELIPOINT_DELIVERY_DETAILS"
+msgstr "Ophalen bij geselecteerd adres kan vanaf <span id=\"pickupDate\">%s</span> (let op: dit is slechts een indicatie). Uw pakketje blijft 3 weken bij het afhaalpunt liggen."
+
+msgid "UPDATE_AMOUNT"
+msgstr "Bijwerken"
+
+msgid "DELIPOINT_IS_BPACK"
+msgstr ""
+"U heeft gekozen voor een BPack afhaalautomaat. U kunt uw pakketje daar afhalen vanaf <span id=\"pickupDate\">%s</span> (let op: dit is slechts een indicatie, u krijgt nog bericht wanneer het pakketje afgeleverd is). Uw pakketje blijft 5 dagen in de automaat, daarna wordt het weer naar ons teruggezonden."
+""
+"Voor meer informatie over BPack, kunt u de website van Bpost bezoeken: <a href=\"http://www.bpost.be/site/nl/professionele-oplossingen/pakjes/nationaal/pakjesautomaten/\" target=\"_blank\">http://www.bpost.be/site/nl/professionele-oplossingen/pakjes/nationaal/pakjesautomaten/</a>"
+
+msgid "ERROR_INVALID_ADDRESS"
+msgstr "Vul alstublieft een correcte straat, huisnummer en woonplaats in."
+
+msgid "ERROR_GETTING_DELIPOINTS_FAILED"
+msgstr "Er is iets mis gegaan bij het ophalen van de afhaalpunten. Ververs a.u.b. de pagina om het nogmaals te proberen."
+
+msgid "ERROR_ADDRESS_NOT_FOUND"
+msgstr "Adres niet gevonden; Vul alstublieft een correcte straat, huisnummer en woonplaats in."
+
+msgid "BEST_PICKUPPOINT"
+msgstr "Dit is het dichtstbijzijnde ophaalpunt waar u het snelst terecht kunt"
+
+msgid "ERROR_WAIT_FOR_LOAD_FINISH"
+msgstr "Wacht alstublieft tot het laden voltooid is."
+
+msgid "TOOLTIP_PICKUPPOINT"
+msgstr "U kunt in stap 2 een afhaalpunt kiezen."
+
+msgid "NO_DISCOUNT_ON_PRODUCT"
+msgstr "Code geldt niet voor de geselecteerde producten"
+
+msgid "GETTING_DELIPOINTS_FAILED_RETRY"
+msgstr "Het ophalen van afleverpunten duurt langer dan we gewend zijn. We gaan het nog een keer proberen."
+
+msgid "ERROR_NO_DELIPOINTS_FOUND"
+msgstr "Op dit adres konden helaas geen afhaalpunten gevonden worden."
+
+msgid "CUSTOMER_ACCOUNT_EXISTS"
+msgstr "U heeft al een account. Klik <a id=\"loginPopupLink\" class=\"fancybox\" href=\"#loginPopup\">hier</a> om in te loggen"
+
+msgid "LOGIN"
+msgstr "Inloggen en doorgaan"
+
+msgid "REGISTER"
+msgstr "Account aanmaken (optioneel)"
+
+msgid "REGISTER_REASON"
+msgstr "In het vervolg sneller bestellen?<br>Vul hieronder een wachtwoord in (minimaal 6 tekens, waarvan minstens 1 cijfer en letter)."
+
+msgid "CUSTOMER_ACCOUNT_EXISTS_INACTIVE"
+msgstr "U heeft al een account dat niet langer gebruikt kan worden. Neem contact op met <a href=\"%s\">onze klantenservice</a> om dit te verhelpen."
+
+msgid "CHOOSE_SHIPPING_ADDRESS"
+msgstr "Kies een van uw adressen als afleveradres"
+
+msgid "CHOOSE_BILLING_ADDRESS"
+msgstr "Kies een van uw adressen als factuuradres"
+
+msgid "ERROR_INVALID_LOGIN"
+msgstr "Ongeldig e-mail adres of wachtwoord."
+
+msgid "META_TITLE_LOGIN"
+msgstr "Inloggen"
+
+msgid "REQUEST_NEW_PASSWORD_TITLE"
+msgstr "Vraag nieuw wachtwoord aan"
+
+msgid "REQUEST_NEW_PASSWORD_DESCRIPTION"
+msgstr "Vul uw e-mailadres in en u ontvangt binnen enkele minuten een link waarmee u een nieuw wachtwoord kunt instellen."
+
+msgid "VAT_NUMBER_MESSAGE"
+msgstr ""
+
+msgid "PASSWORD_PLACEHOLDER"
+msgstr "Wachtwoord"
+
+msgid "EXTRA_ADDRESS_LINE"
+msgstr "Extra adresregel"
+
+msgid "ADDRESS_STREET_AND_NO"
+msgstr "Adres (straat en huisnummer)"
+
+msgid "DESTINATIONS_CUSTOMER_NICE_NAME"
+msgstr "Bezorgen"
+
+msgid "DESTINATIONS_DELIVERYPOINT_NICE_NAME"
+msgstr "Afhalen bij PostNL afhaalpunt"
+
+msgid "DESTINATIONS_SHOWROOM_NICE_NAME"
+msgstr "Afhalen in één van onze showrooms"
+
+msgid "HEADER_YOUR_PRODUCTS"
+msgstr "Uw artikelen:"
+
+msgid "HEADER_NUMBER"
+msgstr "Aantal:"
+
+msgid "HEADER_PRICE"
+msgstr "Prijs:"
+
+msgid "USP_1"
+msgstr ""
+
+msgid "USP_2"
+msgstr "Bezorging op afspraak"
+
+msgid "USP_3"
+msgstr "Vanaf €100,- gratis bezorging"
+
+msgid "USP_4"
+msgstr "Klantbeoordeling: %s"
+
+msgid "DELETE_PRODUCT"
+msgstr "Verwijder dit product"
+
+msgid "DISCOUNT"
+msgstr "Extra korting"
+
+msgid "SELECT_ADDRESS"
+msgstr "Selecteer hieronder één van uw adressen of kies voor een nieuw adres."
+
+msgid "SHOPPING_CART"
+msgstr "Winkelwagen"
+
+msgid "SHIPPINGCOSTS"
+msgstr "Verzending"
+
+msgid "META_TITLE_DELIVERY"
+msgstr "Leveringswijze | Sanitairwinkel"
+
+msgid "DELIVERY_STRATEGY_CHOOSE_DATE_DESCRIPTION"
+msgstr "Bezorging wanneer het u uitkomt, kies zelf een datum"
+
+msgid "DELIVERY_DATE"
+msgstr "Bezorgdatum"
+
+msgid "WE_CALL_YOU_FOR_APPOINTMENT"
+msgstr "Wij nemen contact met u op zodra uw bestelling gereed is voor verzending"
+
+msgid "SEARCHING_FOR_LOCATIONS_NEARBY"
+msgstr "We zoeken naar locaties bij u in de buurt"
+
+msgid "EDIT_LOCATION"
+msgstr "Pas locatie aan"
+
+msgid "MAP_POSITION"
+msgstr "Positie op de kaart"
+
+msgid "PICK_A_SHOWROOM"
+msgstr "Kies een showroom"
+
+msgid "DELIVERYMETHOD"
+msgstr "Levering"
+
+msgid "PAYMENTMETHOD"
+msgstr "Betaling"
+
+msgid "NEED_HELP_OPEN"
+msgstr "Klantenservice: <span class=\"jsPhoneOnMobile\">073-522 0688</span><br/>Of mail naar: <a href=\"mailto:info@sanitairwinkel.nl\">info@sanitairwinkel.nl</a>"
+
+msgid "NEED_HELP_CLOSED"
+msgstr "Mail naar: <a href=\"mailto:info@sanitairwinkel.nl\">info@sanitairwinkel.nl</a>"
+
+msgid "META_TITLE_PAYMENT"
+msgstr "Betaling | Sanitairwinkel.nl"
+
+msgid "REMOVE_ITEM_CONFIRMATION"
+msgstr "Weet u zeker dat u het product wil verwijderen?"
+
+msgid "DESTINATIONS_SHOWROOM_EXPLANATION"
+msgstr "U krijgt een mail wanneer de bestelling op te halen is."
+
+msgid "DESTINATIONS_CUSTOMER_EXPLANATION"
+msgstr "Bezorging tussen 17:00 en 22:00 uur"
+
+msgid "FOOTER_USP_1"
+msgstr "30 dagen retourrecht"
+
+msgid "FOOTER_USP_2"
+msgstr ""
+
+msgid "FOOTER_USP_3"
+msgstr "Kies zelf uw bezorgdatum"
+
+msgid "FOOTER_USP_4"
+msgstr "Veilig online betalen"
+
+msgid "GIFTCARDS"
+msgstr "Cadeaubonnen"
+
+msgid "GIFTCARD"
+msgstr "Cadeaubon"
+
+msgid "NOTICE_SUPPLIER_PROBLEM"
+msgstr ""
+
+msgid "DISCOUNT_CODE"
+msgstr "Actiecode"
+
+msgid "USE_GIFTCARD"
+msgstr "Betalen met cadeaubon"
+
+msgid "CART_FULL_TITLE"
+msgstr "Je hebt het maximale toegestane aantal producten in je winkelwagen zitten."
+
+msgid "CART_FULL_TEXT"
+msgstr "Gelieve eerste deze bestelling te plaatsen, en vervolgens een nieuwe bestelling voor de overige producten."
+
+msgid "CONFIRM_PASSWORD_PLACEHOLDER"
+msgstr "Wachtwoord nogmaals"
+
+msgid "FIND_ALTERNATIVE"
+msgstr "Vind alternatief"
+
+msgid "UNAVAILABLE_PRODUCT_REMOVED"
+msgstr "De volgende producten zijn op dit moment helaas niet meer leverbaar"
+
+msgid "EXIT_INTENT_POPUP_TITLE"
+msgstr "Mis je bestelling niet!"
+
+msgid "EXIT_INTENT_POPUP_TEXT"
+msgstr "Reken nu af en ontvang uw bestelling"
+
+msgid "EXIT_INTENT_POPUP_TEXT_PICKUP"
+msgstr "Reken nu af en haal uw bestelling af vanaf"
+
+msgid "COPERNICA_OPT_IN"
+msgstr "Stuur mij per e-mail de laatste trends en persoonlijke aanbiedingen"
+
+msgid "DELIVERY_AT_WORK"
+msgstr "Ter attentie van (optioneel)"
+
+msgid "DELIVERY_AT_WORK_PLACEHOLDER"
+msgstr "Bijv. bedrijf of afdeling"
+
+msgid "DELIVERY_AT_WORK_TOOLTIP"
+msgstr "Wilt u de bestelling op het werk laten bezorgen? Vul dan hier de bedrijfsnaam in (en eventueel de afdeling)."
+
+msgid "FIRSTNAME_PLACEHOLDER"
+msgstr "Voornaam"
+
+msgid "TEL_PLACEHOLDER"
+msgstr "Bijvoorbeeld 0612345678"
+
+msgid "EMAIL_PLACEHOLDER"
+msgstr "Voer uw e-mailadres in"
+
+msgid "HOUSE_NUMBER_PLACEHOLDER"
+msgstr "10"
+
+msgid "COMMENTS_PLACEHOLDER"
+msgstr "Voeg hier eventuele opmerkingen toe"
+
+msgid "PREVIOUS_GEGEVENS_PAGINA"
+msgstr "Vorige"
+
+msgid "NEXT_GEGEVENS_PAGINA"
+msgstr "Volgende stap"
+
+msgid "NEXT_DELIVERY_PAGE"
+msgstr "Volgende stap"
+
+msgid "YES_SUBSCRIBE_ME"
+msgstr " Ja, ik schrijf me in voor nieuwsbrief en speciale kortingsmails (maximaal 2 per maand en je kunt jezelf op ieder moment uitschrijven)"
+
+msgid "PREVIOUS_DELIVERY_PAGE"
+msgstr "Vorige stap"
+
+msgid "PREVIOUS_PAYMENT_PAGE"
+msgstr "Vorige stap"
+
+msgid "HOUSE_NUMBER_EXTENSION_PLACEHOLDER"
+msgstr "A"
+
+msgid "SEND_CART_MAIL_HEADER_TITLE"
+msgstr "Uw winkelwagen"
+
+msgid "SEND_CART_MAIL_HEADER_SUBTITLE"
+msgstr "Alles overzichtelijk!"
+
+msgid "DISCOUNTCODE"
+msgstr "Kortingscode"
+
+msgid "QR_CODE_NEXT_PAGE_MESSAGE"
+msgstr "Nadat u op afronden heb geklikt kunt uw de QR code scannen."
+
+msgid "FREE_PICKUP_IN_SHOWROOM"
+msgstr "Of gratis ophalen in onze showrooms"
+
+msgid "EMPTY_CART_TITLE"
+msgstr "Je winkelwagentje is leeg."
+
+msgid "EMPTY_CART_TEXT"
+msgstr "Maar wees gerust. Met ruim 100.000 producten hebben wij altijd het passende product voor jou."
+
+msgid "TOTAL_RECOMMENDED"
+msgstr "Totaal adviesprijs"
+
+msgid "CARD"
+msgstr "Kaart"
+
+msgid "NEW_ADDRESS"
+msgstr "Nieuw adres"
+
+msgid "FOOTER_USP_5"
+msgstr ""
+"Een <span class=\"score\">%s</span> uit "
+"                <span class=\"reviews\">%s</span> beoordelingen</span>"
+
+msgid "CUSTOMER_SERVICE_TITLE"
+msgstr "Hulp nodig bij bestellen?"
+
+msgid "GO_TO_LOGIN"
+msgstr "Ga naar de login pagina"
+
+msgid "ERROR_MESSAGE_ORDER_CANCELLED"
+msgstr "<h2>Informatie</h2><div class='clear'></div><p>Uw bestelling is volgens onze informatie geannuleerd, u kunt geen betaling meer uitvoeren.</p><p>Bij vragen kunt u te allen tijde contact opnemen met onze klantenservice (<strong>073 522 0688</strong>).</p>"
+
+msgid "SURNAME_PLACEHOLDER"
+msgstr "Achternaam"
+
+msgid "COMPANY_NAME_PLACEHOLDER"
+msgstr "Bedrijfsnaam"
+
+msgid "STREET_PLACEHOLDER"
+msgstr "Straatnaam"
+
+msgid "CITY_PLACEHOLDER"
+msgstr "Woonplaats"
+
+msgid "HOUSE_NUMBER"
+msgstr "Huisnr."
+
+msgid "HOUSE_NUMBER_EXTENSION"
+msgstr "Toevoeging"
+
+msgid "PAYMENTCOSTS"
+msgstr "Betaalkosten"
+
+msgid "INVALID_PRICE_DISCOUNTCODE"
+msgstr "Kortingscode is geldig maar niet toegepast, totaalbedrag te laag, bestel nog %s Euro om de code te activeren"
+
+msgid "VAT"
+msgstr "BTW"
+
+msgid "INVALID_GIFTCARD"
+msgstr "Cadeaubon is niet geldig"
+
+msgid "EXCL_TAX"
+msgstr "Excl. BTW"
+
+msgid "YOUR_BUSINESS_PRICE"
+msgstr "Totaal"
+
+msgid "TAX"
+msgstr "BTW"
+
+msgid "TOTAL_EXCL_BTW"
+msgstr "Totaal (Excl. BTW)"
+
+msgid "B2B_CHECKOUT_SALES_PRICE"
+msgstr "Verkoopprijs"
+
+msgid "B2B_CHECKOUT_BUSINESS_DISCOUNT"
+msgstr "Jouw zakelijk voordeel"
+
+msgid "GIFT_CARD_ENOUGH"
+msgstr ""
+
+msgid "GIFT_CARD_NOT_ENOUGH"
+msgstr ""
+
+msgid "EXIT_INTENT_POPUP_BUTTON"
+msgstr "Doorgaan met bestelling"
+
+msgid "EXIT_INTENT_POPUP_TEXT_PICKUP_WEEKS"
+msgstr "Reken nu af en haal uw bestelling af over"
+
+msgid "EXIT_INTENT_POPUP_TEXT_WEEKS"
+msgstr "Reken nu af en ontvang uw bestelling over"
+
+msgid "EXIT_INTENT_POPUP_TEXT_PICKUP_DAYS"
+msgstr "Reken nu af en haal uw bestelling af vanaf"
+
+msgid "EXIT_INTENT_POPUP_TEXT_DAYS"
+msgstr "Reken nu af en ontvang uw bestelling op"
+
+msgid "CART_MESSAGE_NOT_ENOUGH"
+msgstr "Voeg nog <span></span> aan je bestelling toe en ontvang een gratis mobiele airco zolang de voorraad strekt. De volledige actievoorwaarden zijn <a href=\"/acties/gratis-airco/\">hier</a> terug te vinden."
+
+msgid "CART_MESSAGE_ENOUGH"
+msgstr "Gefeliciteerd! Je voldoet aan de orderwaarde om een gratis airco te ontvangen van €199,99. De volledige actievoorwaarden zijn <a href=\"/acties/gratis-airco/\">hier</a> terug te vinden. LET OP: bij het invoeren van een kortingscode voldoe je niet aan de voorwaarden, waardoor de waarde van de airco niet in mindering wordt gebracht. "
+

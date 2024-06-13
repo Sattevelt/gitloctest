@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "CHANGE_NAME_ACTION"
+msgstr "Naam aanpassen"
+
+msgid "SHARE_ACTION"
+msgstr "Mail mijn verlanglijst"
+
+msgid "ENTIRE_WISHLIST_INTO_SHOPPINGCART"
+msgstr "Verlanglijst in winkelwagen"
+
+msgid "WISHLIST"
+msgstr "Verlanglijst"
+
+msgid "MY_WISHLISTS"
+msgstr "Mijn verlanglijsten"
+
+msgid "PRODUCT"
+msgstr "product"
+
+msgid "PRODUCTS"
+msgstr "producten"
+
+msgid "VIEW_WISHLIST"
+msgstr "Bekijk Verlanglijst"
+
+msgid "NEW_WISHLIST"
+msgstr "Nieuwe verlanglijst"
+
+msgid "CHANGE_NAME_TITLE"
+msgstr "Naam aanpassen"
+
+msgid "SAVE"
+msgstr "Opslaan"
+
+msgid "DELETE_WISHLIST_TITLE"
+msgstr "Verlanglijst verwijderen"
+
+msgid "DELETE_CONFORMATION_ONE"
+msgstr "Weet je het zeker? Je verlanglijst zal definitief worden verwijderd, "
+
+msgid "DELETE_CONFORMATION_TWO"
+msgstr "dit kan niet worden teruggedraaid!"
+
+msgid "SELECT_A_WISHLIST"
+msgstr "Selecteer een verlanglijst"
+
+msgid "EMPTY_WISHLIST_TITLE"
+msgstr "Je verlanglijst is nog leeg"
+
+msgid "EMPTY_WISHLIST_TEXT"
+msgstr ""
+"Maar wees gerust. Met ruim 100.000 producten hebben wij altijd het "
+"                passende product voor jou."
+
+msgid "ADD_TO_CATEGORY"
+msgstr "Toevoegen aan een categorie"
+
+msgid "ADD_TO_CATEGORY_TEXT"
+msgstr "Pas de categorie van dit product aan"
+
+msgid "CREATE_ACCOUNT_TITLE"
+msgstr "Jouw Verlanglijst"
+
+msgid "CREATE_ACCOUNT_TEXT"
+msgstr ""
+"Blij met je samengestelde verlanglijst? Log in of maak een account aan om je "
+"                verlanglijst op te slaan! Je kunt dan ook meerdere verlanglijstjes aanmaken."
+
+msgid "CREATE_ACCOUNT_BUTTON"
+msgstr "Inloggen of registreren"
+
+msgid "META_TITLE_OVERVIEW"
+msgstr "Verlanglijsten | Sawiday.be"
+
+msgid "META_TITLE_DETAILS"
+msgstr "Verlanglijst | Sawiday.be"
+
+msgid "DEFAULT_NAME"
+msgstr "Mijn verlanglijst"
+
+msgid "EMAIL_SEND_TO"
+msgstr "Verlanglijst wordt verstuurd naar: "
+
+msgid "SHARE_SOMETHING_WENT_WRONG"
+msgstr ""
+"Er is iets mis gegaan tijdens het versturen van je verlanglijst. "
+"                Onze excuses voor het ongemak."
+
+msgid "CREATE_GROUP"
+msgstr "Groep maken"
+
+msgid "EMPTY_GROUP"
+msgstr "Deze groep bevat geen producten"
+
+msgid "DELETE_GROUP_TITLE"
+msgstr "Groep verwijderen"
+
+msgid "DELETE_GROUP_MESSAGE"
+msgstr "Weet je het zeker? De groep inclusief producten zal definitief worden verwijderd"
+
+msgid "CHANGE_GROUP"
+msgstr "Verplaats naar"
+
+msgid "REQUEST_QUOTE"
+msgstr "Offerte aanvragen"
+
+msgid "REQUEST_QUOTE_SUCCESFUL"
+msgstr "De offerte is succesvol aangevraagd, een van onze medewerkers zal hierover contact met u opnemen."
+
+msgid "REQUEST_QUOTE_FAILED"
+msgstr "Er is iets misgegaan tijdens het versturen van je aanvraag. Onze excuses voor het ongemak."
+
+msgid "WISHLIST_PROFESSIONAL_PRODUCT_NOTICE"
+msgstr ""
+"Dit product wordt alleen in onze showrooms verkocht en kan daarom niet in de "
+"                winkelwagen worden geplaatst."
+
+msgid "WISHLIST_SHARE_MODAL_TEXT"
+msgstr ""
+"Raak je favoriete producten niet kwijt! Verstuur je verlanglijst naar jezelf óf een"
+"                 ander, om op een later moment eenvoudig verder te winkelen."
+
+msgid "MY_WISHLIST_OVERVIEW_INTRO"
+msgstr "Bekijk hieronder de verlanglijst(en) die je hebt samengesteld."
+
+msgid "MY_WISHLIST_DETAIL_INTRO"
+msgstr "Hieronder vind je alle mooie producten die in jouw verlanglijst zijn opgeslagen."
+
+msgid "CUSTOMER_NAV_TO_WISHLIST"
+msgstr "Naar verlanglijsten"
+
+msgid "MY_WISHLIST_TOTAL_PRODUCTS"
+msgstr "Totaal, %s producten (incl. BTW)"
+

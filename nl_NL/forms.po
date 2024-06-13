@@ -1,0 +1,392 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "DAY"
+msgstr "Dag"
+
+msgid "MONTH"
+msgstr "Maand"
+
+msgid "YEAR"
+msgstr "Jaar"
+
+msgid "ORDER_TYPE"
+msgstr "Type bestelling"
+
+msgid "PRIVATE"
+msgstr "Particulier"
+
+msgid "BUSINESS"
+msgstr "Zakelijk"
+
+msgid "SALUTATION"
+msgstr "Aanhef"
+
+msgid "FAMILY"
+msgstr "Fam."
+
+msgid "SIR"
+msgstr "Dhr."
+
+msgid "MADAM"
+msgstr "Mevr."
+
+msgid "FIRSTNAME"
+msgstr "Voornaam"
+
+msgid "FIRSTNAME_PLACEHOLDER"
+msgstr ""
+
+msgid "SURNAME"
+msgstr "Achternaam"
+
+msgid "SURNAME_PLACEHOLDER"
+msgstr ""
+
+msgid "EMAIL"
+msgstr "E-mailadres"
+
+msgid "EMAIL_PLACEHOLDER"
+msgstr ""
+
+msgid "PHONENUMBER"
+msgstr "Telefoonnummer"
+
+msgid "PHONENUMBER_PLACEHOLDER"
+msgstr "0612345678"
+
+msgid "POSTALCODE"
+msgstr "Postcode"
+
+msgid "POSTALCODE_PLACEHOLDER"
+msgstr "1234AB"
+
+msgid "HOUSENUMBER"
+msgstr "Huisnr."
+
+msgid "HOUSENUMBER_PLACEHOLDER"
+msgstr "10"
+
+msgid "HOUSENUMBER_EXTENSION"
+msgstr "Toevoeging"
+
+msgid "HOUSENUMBER_EXTENSION_PLACEHOLDER"
+msgstr "A"
+
+msgid "STREET"
+msgstr "Straat"
+
+msgid "STREET_PLACEHOLDER"
+msgstr ""
+
+msgid "EXTRA_ADDRESS_LINE"
+msgstr "Extra adresregel"
+
+msgid "EXTRA_ADDRESS_LINE_PLACEHOLDER"
+msgstr ""
+
+msgid "CITY"
+msgstr "Woonplaats"
+
+msgid "CITY_PLACEHOLDER"
+msgstr ""
+
+msgid "DIFFERENT_DELIVERY_ADDRESS"
+msgstr "Ander bezorgadres?"
+
+msgid "SUBSCRIBE_TO_NEWSLETTER"
+msgstr "Ik ontvang graag voor mij relevante aanbiedingen, tips en inspiratie via e-mail"
+
+msgid "TO_THE_ATTENTION_OF"
+msgstr "Ter attentie van"
+
+msgid "TO_THE_ATTENTION_OF_PLACEHOLDER"
+msgstr "Bijv. bedrijf of afdeling"
+
+msgid "COMPANY_NAME"
+msgstr "Bedrijfsnaam"
+
+msgid "COMPANY_NAME_PLACEHOLDER"
+msgstr ""
+
+msgid "VAT_NUMBER"
+msgstr "BTW-nummer"
+
+msgid "VAT_NUMBER_PLACEHOLDER"
+msgstr "NL012345678B01"
+
+msgid "REGISTER"
+msgstr "Maak een account aan en bestel in het vervolg sneller"
+
+msgid "REGISTER_BUTTON"
+msgstr "Registreren"
+
+msgid "PASSWORD"
+msgstr "Wachtwoord"
+
+msgid "PASSWORD_PLACEHOLDER"
+msgstr ""
+
+msgid "REPEAT_PASSWORD"
+msgstr "Wachtwoord nogmaals"
+
+msgid "REPEAT_PASSWORD_PLACEHOLDER"
+msgstr ""
+
+msgid "NEW_ADDRESS"
+msgstr "Nieuw adres aanmaken"
+
+msgid "PICK_DIFFERENT_ADDRESS_BUTTON"
+msgstr "Kies een ander adres"
+
+msgid "SELECT_BUTTON"
+msgstr "Selecteer"
+
+msgid "COMMUNICATION_LANGUAGE"
+msgstr "Taal"
+
+msgid "LOGIN_BUTTON"
+msgstr "Inloggen"
+
+msgid "DELIVERY_ADD_COMMENT"
+msgstr "Opmerking voor levering toevoegen"
+
+msgid "DELIVERY_ADD_COMMENT_PLACEHOLDER"
+msgstr ""
+
+msgid "DELIVERY_BY_NEIGHBOURS"
+msgstr "Niet bij de buren bezorgen"
+
+msgid "CONFIRM_BUTTON"
+msgstr "Bevestigen"
+
+msgid "CHANGE_DELIVERY_BUTTON"
+msgstr "Wijzig bezorgmoment"
+
+msgid "ORDER_STATUS_BUTTON"
+msgstr "Bekijk uw bestelstatus"
+
+msgid "MAKE_A_CHOICE"
+msgstr "Maak een keuze"
+
+msgid "CREDITCARD_NUMBER"
+msgstr "Kaartnummer"
+
+msgid "CREDITCARD_CARDHOLDERNAME"
+msgstr "Naam kaarthouder"
+
+msgid "CREDITCARD_EXPIRATION_DATE"
+msgstr "Vervaldatum"
+
+msgid "CREDITCARD_CCV"
+msgstr "CVC/VV"
+
+msgid "BANCONTACT_CARD_DETAILS"
+msgstr "Kaartgegevens"
+
+msgid "QR_CODE"
+msgstr "QR code"
+
+msgid "SELECT_BANK"
+msgstr "Selecteer je bank"
+
+msgid "DATE_OF_BIRTH"
+msgstr "Geboortedatum"
+
+msgid "DAY_PLACEHOLDER"
+msgstr "DD"
+
+msgid "MONTH_PLACEHOLDER"
+msgstr "10"
+
+msgid "YEAR_PLACEHOLDER"
+msgstr "2025"
+
+msgid "CONTINUE_AS_GUEST_BUTTON"
+msgstr "Doorgaan als gast"
+
+msgid "FORGOTTEN_PASSWORD_LINK"
+msgstr "Wachtwoord vergeten?"
+
+msgid "SEARCH_BUTTON"
+msgstr "Zoeken"
+
+msgid "LANGUAGE_PREFERENCE"
+msgstr "Taalvoorkeur"
+
+msgid "ENTER_INPUT_BUTTON"
+msgstr "Invoeren"
+
+msgid "ORDER_NUMBER"
+msgstr "Bestelnummer"
+
+msgid "IMAGE_PLACEHOLDER"
+msgstr "Afbeelding"
+
+msgid "SEND_REQUEST_BUTTON"
+msgstr "Aanvraag verzenden"
+
+msgid "ORDER_NUMBER_PLACEHOLDER"
+msgstr "012345"
+
+msgid "DELIVERY_DATE"
+msgstr "Afleverdatum"
+
+msgid "DATE_PLACEHOLDER"
+msgstr "DD-MM-YYYY"
+
+msgid "DESCRIPTION"
+msgstr "Omschrijving"
+
+msgid "MAXIMUM_FILE_SIZE"
+msgstr "(maximale grootte %s)"
+
+msgid "NAME"
+msgstr "Naam"
+
+msgid "DESCRIPTION_ERROR"
+msgstr "Omschrijving fout"
+
+msgid "DESCRIPTION_ERROR_PLACEHOLDER"
+msgstr "Omschrijf hier hoe de fout is ontstaan."
+
+msgid "LENGTH_CM"
+msgstr "Lengte (cm)"
+
+msgid "WIDTH_CM"
+msgstr "Breedte (cm)"
+
+msgid "HEIGHT_CM"
+msgstr "Hoogte (cm)"
+
+msgid "BEDROOM"
+msgstr "Slaapkamer"
+
+msgid "BATHROOM"
+msgstr "Badkamer"
+
+msgid "LIVINGROOM"
+msgstr "Woonkamer"
+
+msgid "STUDYROOM"
+msgstr "Studeerkamer"
+
+msgid "KITCHEN"
+msgstr "Keuken"
+
+msgid "YES"
+msgstr "Ja"
+
+msgid "NO"
+msgstr "Nee"
+
+msgid "SAVE"
+msgstr "Opslaan"
+
+msgid "ADDRESS_TYPE"
+msgstr "Type adres"
+
+msgid "CANCEL_BUTTON"
+msgstr "Annuleren"
+
+msgid "CHOOSE_DELIVERY_DATE"
+msgstr "Kies je datum"
+
+msgid "CHOOSE_DELIVERY_DATE_BUTTON"
+msgstr "Kies je bezorgdatum"
+
+msgid "PAY_ORDER_BUTTON"
+msgstr "Bestelling betalen"
+
+msgid "SUBJECT"
+msgstr "Onderwerp"
+
+msgid "SEND_BUTTON"
+msgstr "Versturen"
+
+msgid "ADDRESS"
+msgstr "Straat en huisnummer"
+
+msgid "ZIPCODE_CITY"
+msgstr "Postcode en plaats"
+
+msgid "PRODUCT_NAME"
+msgstr "Naam product"
+
+msgid "OUR_PRICE"
+msgstr "Sanitairwinkel prijs"
+
+msgid "NAME_COMPETITOR"
+msgstr "Naam concurrent"
+
+msgid "PRICE_COMPETITOR"
+msgstr "Prijs concurrent"
+
+msgid "PRODUCT_LINK"
+msgstr "Link naar product"
+
+msgid "CREATE_ACCOUNT_BUTTON"
+msgstr "Account aanmaken"
+
+msgid "ACTIVATE_BUTTON"
+msgstr " "
+
+msgid "COMPANY_REGISTRATION_NUMBER"
+msgstr "KVK nummer"
+
+msgid "COMPANY_REGISTRATION_NUMBER_PLACEHOLDER"
+msgstr "23451234"
+
+msgid "CHECKOUT_REFERENCE"
+msgstr "Uw referentie"
+
+msgid "CHECKOUT_REFERENCE_PLACEHOLDER"
+msgstr ""
+
+msgid "FILL_PASSWORD_BELOW_REQUIREMENTS"
+msgstr "Vul hieronder een wachtwoord in (minimaal 6 tekens, waarvan minstens 1 cijfer en letter)."
+
+msgid "EMAIL_FINANCE"
+msgstr "Financiële e-mail"
+
+msgid "SHOWROOM_OR_DEPARTMENT"
+msgstr "Voorkeur showroom of afdeling"
+
+msgid "SELECT_SHOWROOM_OR_DEPARTMENT"
+msgstr "Geen voorkeur"
+
+msgid "BUSINESS_DEPARTMENT"
+msgstr "Afdeling Zakelijk"
+
+msgid "CREDITCARD_CCV_POPUP"
+msgstr ""
+"Dit is de 3-cijferige verificatiecode achterop je creditcard. Heb je een American"
+"                 Express creditcard? Dan heeft deze code 4 cijfers en die vind je op de voorkant van je kaart."
+
+msgid "CONTACT_PHONE_TOOLTIP"
+msgstr ""
+"Je telefoonnummer hebben we nodig om contact met je op te nemen over de levering als"
+"                 dat nodig is."
+
+msgid "CREDITCARD_NAME_PLACEHOLDER"
+msgstr "NAAM ALS OP KAART"
+
+msgid "SAVE_DATA"
+msgstr "Gegevens opslaan"
+
+msgid "SHOWROOM_PREFERENCE"
+msgstr "Showroom voorkeur"
+
+msgid "POSTAL_NUMBER_EXTENSION"
+msgstr "Postc./Huisnr./Toev."
+

@@ -1,0 +1,1645 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "HERO_SHOWROOMS"
+msgstr "Showrooms"
+
+msgid "HERO_ABOUT_US"
+msgstr "Meer over ons"
+
+msgid "HERO_CONTACT"
+msgstr "Contact"
+
+msgid "MENU_TITLE"
+msgstr "Klantenservice menu"
+
+msgid "SHOWROOMS_TITLE_2"
+msgstr "Neem alvast een kijkje"
+
+msgid "FOOTER_QUOTE"
+msgstr "Reputatie is mooi, prestatie is beter."
+
+msgid "FOOTER_ABOUT_US"
+msgstr "Meer over ons"
+
+msgid "FOOTER_REVIEWS"
+msgstr "Door <span class=\"ratingCountTrustPilot tp-reviews\"></span> klanten is onze service beoordeeld met gemiddeld <span class=\"ratingStarsTrustPilot tp-star-count\"></span> sterren."
+
+msgid "CONTACT_BUTTON_MAIL"
+msgstr "U kunt ons mailen"
+
+msgid "CONTACT_BUTTON_CHAT"
+msgstr "Contactpagina"
+
+msgid "CONTACT_BUTTON_TELEPHONE"
+msgstr "Of natuurlijk bellen"
+
+msgid "ORDER_HEADING_1"
+msgstr "Hoe bestel ik?"
+
+msgid "ORDER_BLOCK_1"
+msgstr "Bestellen bij Sanitairwinkel kan 24 uur per dag en 7 dagen per week in onze webwinkel. Plaatst u liever een bestelling in onze showrooms, telefonisch of per e-mail dan is dat uiteraard ook mogelijk. Het bestellen in onze webwinkel gaat eenvoudig door het doorlopen van een viertal stappen."
+
+msgid "ORDER_STEP_1_HEADING"
+msgstr "Klik bij het gewenste artikel op de oranje knop ‘In winkelwagen’"
+
+msgid "ORDER_STEP_1_BLOCK"
+msgstr "U kunt vervolgens toebehoren toevoegen, daarna verder winkelen of uw winkelwagen bekijken. Tevens maakt u bij stap 1 de keuze of u de producten wilt komen afhalen of wilt laten bezorgen. Bij afhalen kunt u kiezen uit Amsterdam, Arnhem, Rotterdam of Rosmalen. Bij bezorgen wordt u in een later stadium (wanneer uw bestelling gereed is) geïnformeerd over of gevraagd naar een leverdatum. De winkelwagen kunt u in geval van twijfel ook (tijdelijk) opslaan en naar uzelf verzenden per email. Ook het invullen van een kortingscode is in deze stap mogelijk. U dient dan wel te beschikken over een dergelijke code. Deze worden niet op verzoek verschaft."
+
+msgid "ORDER_STEP_2_HEADING"
+msgstr "Kies verzendmethode"
+
+msgid "ORDER_STEP_2_BLOCK"
+msgstr "U heeft alle producten in uw winkelwagen geplaatst en uw verzendmethode gekozen. In deze stap dient u uw persoonlijke gegevens in te vullen. Deze gegevens hebben wij nodig voor de verwerking van uw bestelling en zullen niet voor andere doeleinden worden gebruikt."
+
+msgid "ORDER_STEP_3_HEADING"
+msgstr "Afrekenen"
+
+msgid "ORDER_STEP_3_BLOCK"
+msgstr "Hier ziet u een compleet overzicht van uw bestelling. Om de bestelling definitief te maken klikt u op ‘afrekenen’. Hiermee gaat u direct akkoord met Algemene Voorwaarden. Vervolgens ontvangt u per email een bevestiging van uw bestelling."
+
+msgid "ORDER_STEP_4_HEADING"
+msgstr "Bedankt en tot ziens"
+
+msgid "ORDER_STEP_4_BLOCK"
+msgstr "Dit is onze bedankpagina. U ontvangt hier een ordernummer, kunt een video bekijken hoe we uw bestelling verwerken en kunt direct de status van uw bestelling volgen."
+
+msgid "ORDER_GO_TO_ORDER_STATUS"
+msgstr "Ga direct naar uw bestelling"
+
+msgid "CONTACT_HEADER"
+msgstr "Contact"
+
+msgid "ORDER_LOGIN_HEADER_1"
+msgstr "Lukt het niet om in te loggen?"
+
+msgid "ORDER_LOGIN_BLOCK_1"
+msgstr "Controleer uw e-mailadres op typefouten en raadpleeg uw bestelbevestiging voor het juiste bestelnummer."
+
+msgid "ORDER_LOGIN_HEADER_2"
+msgstr "Hulp bij bestellen"
+
+msgid "ORDER_LOGIN_BLOCK_2"
+msgstr "Bestellen bij Sanitairwinkel kan 24 uur per dag en 7 dagen per week in onze webwinkel. Het bestellen in onze webwinkel gaat eenvoudig door het doorlopen van een viertal stappen."
+
+msgid "ORDER_LOGIN_BLOCK_2_LINK"
+msgstr "Ik wil de vier stappen graag zien >"
+
+msgid "MENU_ORDERSTATUS"
+msgstr "Bestelstatus"
+
+msgid "MENU_SERVICEREQUEST"
+msgstr "Service aanvraag"
+
+msgid "SERVICEREQUEST_HERO_QUOTE"
+msgstr "Het is onze ambitie om een nieuwe standaard neer te zetten in klantenservice."
+
+msgid "SHOWROOM_ROSMALEN_TITLE_3"
+msgstr "Neem alvast een kijkje"
+
+msgid "SHOWROOM_ROSMALEN_TITLE_4"
+msgstr "Routebeschrijving"
+
+msgid "CONTACT_TITLE"
+msgstr "Onze contactgegevens"
+
+msgid "CONTACT_INTRO"
+msgstr ""
+"Onze klantenservice staat altijd paraat om u snel en adequaat te ondersteunen. U kunt ons bereiken per mail, telefoon, Whatsapp, post en fax. Daarnaast mag u natuurlijk ook altijd langskomen in onze showrooms. <br><br> <b>Corona update:</B> Wegens drukte kan het leveren van je bestelling en een reactie van onze klantenservice iets langer duren dan normaal.  <a href=\"/corona-updates-sanitairwinkel/\">lees meer</a>"
+""
+
+msgid "CONTACT_OPTION_1_HEADING"
+msgstr "Telefoon"
+
+msgid "CONTACT_OPTION_2_HEADING"
+msgstr "E-mail"
+
+msgid "CONTACT_OPTION_3_HEADING"
+msgstr "Chat met onze service-expert"
+
+msgid "CONTACT_OPTION_4_HEADING"
+msgstr "Schrijf ons een brief"
+
+msgid "CONTACT_OPTION_5_HEADING"
+msgstr "Volg ons op social media en blijf op de hoogte"
+
+msgid "CONTACT_OPTION_6_HEADING"
+msgstr "Chat met ons"
+
+msgid "CONTACT_OPTION_3_BLOCK"
+msgstr "Start de chat hier of navigeer naar rechts onderin de pagina."
+
+msgid "CONTACT_CUSTOMER_SERVICE"
+msgstr "Klantenservice"
+
+msgid "CONTACT_FAX"
+msgstr "Fax"
+
+msgid "CONTACT_COC"
+msgstr "KvK"
+
+msgid "CONTACT_VAT"
+msgstr "Btw nr."
+
+msgid "CONTACT_IBAN"
+msgstr "IBAN"
+
+msgid "CONTACT_OTHER_INFO"
+msgstr "Overige info"
+
+msgid "MANIFEST_BLOCK_1"
+msgstr "Welkom bij Sanitairwinkel. Fijn dat u ons gevonden heeft. Of u nu komt voor een volledige badkamer, een toilet, kraan of accessoires."
+
+msgid "MANIFEST_BLOCK_2"
+msgstr "Wij hebben het allemaal!"
+
+msgid "MANIFEST_BLOCK_3"
+msgstr ""
+"Wij zijn de grootste sanitair webwinkel in de Benelux. 110.000 artikelen. Scherpe prijzen.<br/>"
+"Snelle levering.<br/>"
+"Met minimaal twee jaar garantie.<br/>"
+"<br/>"
+"<b>Voor ons is dat normaal.</b>"
+
+msgid "MANIFEST_BLOCK_4"
+msgstr ""
+"Voor u is het uitzoeken van een badkamer een hele klus.<br/>"
+"<br/>"
+"<b>Wij begrijpen dat.</b><br/>"
+"<br/>"
+"U kunt ons dus alles vragen. Dat geldt ook voor uw installateur."
+
+msgid "MANIFEST_BLOCK_5"
+msgstr ""
+"Past de verkorte sifon met afvoerplug op de wastafel met onderbouwkast?<br/>"
+"Is een Grohe regendouche te combineren met een Sealskin douchecabine?"
+
+msgid "MANIFEST_BLOCK_6"
+msgstr ""
+"Het is onze missie om u te helpen de juiste keuze te maken.<br/>"
+"<br/>"
+"<b>Dat is waar wij het allerbeste in willen zijn.</b><br/>"
+
+msgid "MANIFEST_BLOCK_7"
+msgstr "Zowel online, als in één van onze showrooms."
+
+msgid "MANIFEST_BLOCK_8"
+msgstr ""
+"Wij luisteren, denken met u mee, leven ons in en lossen het op.<br/>"
+"<br/>"
+"<b>Met persoonlijke service en deskundig advies.</b><br/>"
+"<br/>"
+"En als u bij ons door Nicky bent geholpen, dan is Nicky ook uw vaste aanspreekpunt. Van advies tot levering."
+
+msgid "MANIFEST_BLOCK_9"
+msgstr "Het is onze ambitie om een nieuwe standaard<br/>neer te zetten in klantenservice.<br/>"
+
+msgid "MANIFEST_BLOCK_10"
+msgstr "Online geven <span class=\"ratingCountTrustPilot tp-reviews\"></span> mensen ons gemiddeld een <span class=\"ratingNumberTrustPilot tp-score\"></span>. Wij zien dat als een mooie aanmoediging."
+
+msgid "MANIFEST_BLOCK_11"
+msgstr "Want reputatie is mooi. Prestatie is beter. Iedere dag weer."
+
+msgid "MANIFEST_BLOCK_12"
+msgstr "Welkom bij Sanitairwinkel"
+
+msgid "MANIFEST_NEXT_ITEM"
+msgstr "Ga naar het volgende item"
+
+msgid "PAYMENT_BLOCK_1"
+msgstr ""
+"Sanitairwinkel ondersteunt een breed scala aan betaalmethodes. Hieronder vindt u een uitgebreid overzicht. <p> <p> "
+""
+
+msgid "PAYMENT_BLOCK_2"
+msgstr ""
+"Met iDEAL rekent u veilig uw online aankoop af. U logt in bij uw bank op basis van specifieke beveiligingsmethodes, zonder dat u zich speciaal voor iDEAL hoeft aan te melden. <p>"
+"Voordelen iDEAL: <p>"
+"-	U houdt controle en overzicht op de betaling. <p>"
+"-	De betaling wordt direct ontvangen, waardoor uw bestelling sneller wordt verwerkt. <p>"
+"-	Vanaf 100 euro wordt uw bestelling gratis bezorgd. <p>"
+""
+
+msgid "PAYMENT_BLOCK_3"
+msgstr ""
+"Hoe werkt het? <p>"
+"<p>"
+"-	Als u een bestelling plaatst bij Sanitairwinkel, geeft u bij het afrekenen aan dat u via iDEAL wilt betalen. <p>"
+"-	U selecteert uw bank, waarna u wordt doorgeleid naar de inlogpagina van uw bank. <p>"
+"-	U vult uw inloggegevens in en autoriseert u de betaling. <p>"
+""
+
+msgid "PAYMENT_BLOCK_4"
+msgstr ""
+"Heeft u internetbankieren op uw smartphone? Dan kunt u met die app ook de iDEAL QR-code scannen om te betalen. U kunt iDEAL gebruiken als u klant bent bij ABN AMRO, ING, Rabobank, SNS Bank, Fortis, Friesland Bank, ASN Bank en SNS Regio bank.<p>"
+"Buckaroo is de aangewezen Betaal Service Provider voor Sanitairwinkel.nl. "
+""
+
+msgid "PAYMENT_BLOCK_5"
+msgstr ""
+"Als u geen gebruik maakt van internetbankieren, kunt u de kosten van uw bestelling ook vooruitbetalen. Vooruitbetalen houdt in dat u zelf het openstaande orderbedrag overmaakt. <p>"
+""
+"-	U maakt het openstaande bedrag over op de rekening van Buckaroo. Deze betaalprovider zorgt ervoor dat uw betaling op een veilige manier wordt verwerkt.<p>"
+"-	U vermeldt het betalingskenmerk dat u van ons per mail heeft ontvangen in de omschrijving.<p>"
+"-	Zodra Buckaroo uw betaling heeft ontvangen, krijgt Sanitairwinkel een betalingsbevestiging en wordt uw bestelling in behandeling genomen.<p>"
+"-	Vooruitbetaling is een relatief langzame manier van betalen. Houd daarom rekening met één tot drie werkdagen overboektijd.<p>"
+""
+
+msgid "PAYMENT_BLOCK_6"
+msgstr "Het is ook mogelijk om met VISA, Mastercard, Maestro of V-Pay te betalen bij Sanitairwinkel. <p>-	U vult eerst uw creditcardgegevens in en daarna autoriseert u de betaling. <p>-	Let op: betalingen met creditcard zijn bij Sanitairwinkel beperkt tot een bedrag van €5000,-.<p>"
+
+msgid "PAYMENT_BLOCK_7"
+msgstr ""
+
+msgid "PAYMENT_BLOCK_8"
+msgstr "Indien u uw bestelling ophaalt in één van onze showrooms, kunt u ook ter plekke contant of via pin betalen. "
+
+msgid "PAYMENT_BLOCK_9"
+msgstr ""
+"U kunt ervoor kiezen om uw bestelling achteraf te betalen via Klarna Factuur. U krijgt uw product dan eerst geleverd en hoeft pas 14 dagen daarna te betalen. <p>"
+"-	U voert uw gegevens veilig bij Klarna in, waarna Klarna een kredietcheck doet.  <p>"
+"-	Indien de kredietcheck positief is, starten wij direct met de verwerking van uw bestelling.  <p>"
+"-	Betalingen via Klarna zijn beperkt tot een bedrag van €750,-.  <p>"
+
+msgid "PAYMENT_HEADING_1"
+msgstr "Betalen"
+
+msgid "PAYMENT_HEADING_2"
+msgstr "iDEAL"
+
+msgid "PAYMENT_HEADING_3"
+msgstr "Vooruitbetaling"
+
+msgid "PAYMENT_HEADING_4"
+msgstr "Creditcard"
+
+msgid "PAYMENT_HEADING_5"
+msgstr ""
+
+msgid "PAYMENT_HEADING_6"
+msgstr "<b>Pin/Contant</b>"
+
+msgid "PAYMENT_HEADING_7"
+msgstr "Achteraf betalen - Klarna factuur"
+
+msgid "ORDER_STATUS_HEADING_1"
+msgstr "Vragen over uw bestelling?"
+
+msgid "ORDER_STATUS_BLOCK_1"
+msgstr "Onze klantenservice heeft door de tijd heen een breed scala aan vragen ontvangen. Wij hebben speciaal voor u de meest gestelde vragen en hun antwoorden verzameld op een speciale pagina."
+
+msgid "ORDER_STATUS_LINK_1"
+msgstr "Ik wil de veel gestelde vragen graag zien >"
+
+msgid "DELIVERY_HEADING_1"
+msgstr "Bezorgen"
+
+msgid "DELIVERY_HEADING_2"
+msgstr "Bezorgen kleine artikelen"
+
+msgid "DELIVERY_HEADING_3"
+msgstr "Bezorgen grote artikelen/pallet/pakketten"
+
+msgid "DELIVERY_HEADING_4"
+msgstr "Bezorgen op etage"
+
+msgid "DELIVERY_HEADING_5"
+msgstr "<img class=\"auto-width\" src=\"//static.rorix.nl/skins/1/images/servicecentrum/icons/svg/bezorgen-waddeneilanden.svg\" height=\"@dynamic\" width=\"@dynamic\" />Bezorgen op waddeneilanden"
+
+msgid "DELIVERY_HEADING_6"
+msgstr "Afhalen"
+
+msgid "DELIVERY_HEADING_7"
+msgstr "Levertijden"
+
+msgid "DELIVERY_HEADING_8"
+msgstr "Bezorgkosten"
+
+msgid "DELIVERY_BLOCK_1"
+msgstr "Voor sommige producten is het wel zo handig als deze bij u thuis bezorgd worden. U heeft bij Sanitairwinkel de keuze om uw producten aan huis te laten bezorgen of om deze af te halen. Bij de bezorging van onze artikelen maken we gebruik van 2 vervoerders. Afhankelijk van het gewicht, de aantallen en de grootte van het pakket wordt een vervoerder door ons geselecteerd."
+
+msgid "DELIVERY_BLOCK_2"
+msgstr "Bijna alle kleine producten worden verzonden met de pakketdienst van PostNL. De postbode komt het pakket aan huis bezorgen. Mocht u onverhoopt niet thuis zijn, dan probeert de postbode het de volgende dag nogmaals. Wanneer er dan wederom niemand thuis is, kunt u het pakket de volgende dag bij het postkantoor afhalen. De postbode laat in dit geval een notitiekaart achter. Bij producten die vanuit ons magazijn worden verzonden ontvangt u een track&trace code."
+
+msgid "DELIVERY_BLOCK_3"
+msgstr ""
+"Grote en zware producten worden veelal verzonden met een extern transportbedrijf. Er wordt alleen op werkdagen en tijdens kantooruren bezorgd. Sanitairwinkel levert alleen volledige bestellingen en geen deelleveringen. Wanneer uw bestelling compleet is, wordt u per e-mail of telefoon benaderd voor het maken van een bezorgafspraak. Indien u een datum heeft gekozen, kunt u op de dag van levering voor een tijdsindicatie telefonisch contact opnemen met onze vervoerder. Wanneer u op de afgesproken afleverafspraak niet aanwezig bent en onze vervoerder een tweede keer uw bestelling moet afleveren, dan kunnen bijkomende"
+"leveringskosten worden gerekend. Levering van deze producten is tot aan de eerste drempel."
+
+msgid "DELIVERY_BLOCK_4"
+msgstr "Onze vervoerder levert de bestelling tot aan de (eerste) drempel. Wanneer uw adres een flat betreft wordt uw bestelling beneden tot aan de drempel van het portiek afgeleverd."
+
+msgid "DELIVERY_BLOCK_5"
+msgstr "Wanneer u op één van de Waddeneilanden woont, dan wordt uw bestelling binnen de geschatte levertijd aan de vervoerder aangeboden die uw bestelling overbrengt naar het betreffende eiland. Het kan dus zijn dat uw bestelling op de Waddeneilanden een langere levertijd zal hebben. Doorgaans dient u rekening te houden met een vertraging van 2 werkdagen."
+
+msgid "DELIVERY_BLOCK_6"
+msgstr ""
+"U kunt uw bestelling altijd zelf ophalen ineen van onze showrooms. Afhalen is gratis en is mogelijk van maandag t/m vrijdag tussen 9:30 en 18:00 uur en op zaterdag van 9:30 tot 12:00. Ook bij zelf ophalen gelden onze levertijden. Het is niet mogelijk om uw bestelling gedaan op deze website af te halen in onze showroom in Schoten of Zaventem (België). Wij adviseren Belgische klanten hun bestelling te plaatsen op www.sawiday.be/nl-be. Wanneer uw bestelling klaar ligt om afgehaald te worden, brengen wij u per e-mail op de hoogte."
+""
+
+msgid "DELIVERY_BLOCK_7"
+msgstr "Bij alle artikelen worden levertijden aangegeven. Deze worden continu bijgewerkt en naar beste weten ingevuld. Zij zullen zoveel mogelijk in acht worden genomen. Zie voor meer informatie onze Algemene Voorwaarden. Door een bestelling te plaatsen gaat u akkoord met onze Algemene Voorwaarden."
+
+msgid "DELIVERY_BLOCK_8"
+msgstr "Alle bestellingen boven de € 100,- die met iDEAL of Vooraf Overmaken betaald zijn, worden gratis verstuurd! De bezorgkosten voor bestellingen lager dan €100 zijn afhankelijk van de aard en de grootte van het pakket. Wanneer u uw bestelling in een ander land dan Nederland wenst te laten bezorgen, dan dient u hierover vooraf te informeren bij onze klantenservice. Zij informeren naar de mogelijkheden en bijkomende kosten. Wij adviseren Belgische klanten hun bestelling te plaatsen op www.sawiday.be/nl-be."
+
+msgid "RETURN_BLOCK_7"
+msgstr "Bij producten die beschadigd zijn of gebruikssporen vertonen behouden wij ons het recht de schade in rekening te brengen.<br>Raadpleeg voor meer informatie onze <a href=\"%s\">algemene voorwaarden</a>."
+
+msgid "RETURN_BLOCK_8"
+msgstr ""
+"<strong>Fout</strong><br>"
+"- Niet verpakt<br>"
+"- Stickers op de originele verpakking<br>"
+"- Geen begeleidende brief"
+
+msgid "RETURN_BLOCK_9"
+msgstr ""
+"<strong>Goed</strong><br>"
+"- Verpakt<br>"
+"- Begeleidende brief"
+
+msgid "RETURN_BLOCK_10"
+msgstr ""
+"Retouren mogen onder bovenstaande voorwaarden worden verzonden worden naar:<br><br>"
+"Sanitairwinkel<br>"
+"t.a.v. afdeling klantenservice<br>"
+"Zandzuigerstraat 10A<br>"
+"5222 AH Den Bosch"
+
+msgid "RETURN_BLOCK_11"
+msgstr ""
+"Wettelijk heeft u een herroepingsrecht van 14 dagen, wij verlengen de zichttermijn van uw bestelde artikelen naar 30 dagen. Deze termijn gaat in op het moment dat alle artikelen uit de bestelling geleverd zijn. Middels een <a href=\"/retouraanvraag/\" title=\"Retouraanvraag\" target=\"_blank\">retouraanvraag</a> kunt u aangeven dat u gebruik maakt van uw herroepingsrecht.<br><br>Tijdens de bedenktijd (30 dagen na ontvangst van uw product) mag u het product gebruiken zoals u dat in de winkel zou doen. Echter, wordt het product zodanig gebruikt dat het niet meer in ‘winkelstaat’ is, dan kan het zijn dat u minder geld voor het product terugkrijgt."
+"Ook kunt u gebruikmaken van het <a href=\"/specific/www.sanitairwinkel.nl/herroeping.pdf \" title=\"Europees modelformulier\" target=\"_blank\">Europees modelformulier</a> voor herroeping, maar u bent hiertoe niet verplicht."
+
+msgid "RETURN_BLOCK_12"
+msgstr ""
+"Wanneer u een artikel wenst te retourneren dan kunt u deze zelf terug brengen in een van onze Showrooms. Hier zijn geen kosten aan verbonden. Aan het retour sturen van producten zijn helaas wel kosten gebonden. Deze worden niet door ons vergoed. Sanitairwinkel vergoedt alleen de kosten van het artikel + verzendkosten 'heen'. U bent zelf verantwoordelijk voor de retourzending. Afhankelijk van het product kunt u deze per PostNL of transportbedrijf naar Sanitairwinkel op laten sturen. Deze kosten variëren van €6,95 tot €99,95 afhankelijk van het product. <br><br>"
+""
+"Sanitairwinkel<br>"
+"t.a.v. afdeling klantenservice<br>"
+"Zandzuigerstraat 10A<br>"
+"5222 AH Den Bosch"
+""
+
+msgid "RETURN_BLOCK_13"
+msgstr ""
+"Nadat u heeft aangegeven dat u gebruik wilt maken van uw herroepingsrecht, dient u uw bestelling of"
+"het desbetreffende gedeelte daarvan binnen 14 kalenderdagen terug te sturen. </br></br> Bij het ruilen van een artikel vragen wij om het bewuste product eerst retour te sturen alvorens het nieuwe product ingepland wordt voor verzending. Het verwerken van retouren kan maximaal 2 weken duren. Zo spoedig mogelijk, uiterlijk binnen 14 dagen na ontbinding, storten we het geld terug op uw rekening. Sanitairwinkel behoudt het recht om te wachten met betalen totdat het product binnen is of u, de klant, heeft aangetoond het product te hebben verzonden. Heeft u nog vragen? Neem dan contact met ons op via de <a href=\"%s\">contactpagina</a>."
+
+msgid "RETURN_REQUEST"
+msgstr "Retour aanvragen"
+
+msgid "RETURN_DOCUMENT"
+msgstr "Herroepingsformulier downloaden"
+
+msgid "WARRANTY_HEADING_1"
+msgstr "Garantie of Klachten"
+
+msgid "WARRANTY_HEADING_2"
+msgstr "Wat te doen bij schade?"
+
+msgid "WARRANTY_HEADING_3"
+msgstr "Klachtafhandeling"
+
+msgid "WARRANTY_HEADING_4"
+msgstr "Garantie"
+
+msgid "WARRANTY_HEADING_5"
+msgstr "Thuiswinkel Waarborg"
+
+msgid "WARRANTY_BLOCK_1"
+msgstr "Lees alles over de garantie en klachten procedures van Sanitairwinkel op deze pagina."
+
+msgid "WARRANTY_BLOCK_2"
+msgstr ""
+"Schade is een zeer vervelende kwestie en helaas niet altijd te voorkomen. Al streven we daar natuurlijk gezamenlijk met het transportbedrijf wel naar. Controleer bij ontvangst van uw bestelling altijd goed de producten. Mocht er onverhoopt schade zijn ontstaan aan een van de artikelen uit"
+"uw bestelling, meld dit dan zo snel mogelijk (het liefst binnen 48 uur) na ontdekking van een gebrek"
+"via het formulier Service Aanvraag. U ontvangt op werkdagen binnen 24 uur een reactie op uw serviceaanvraag. Hoe eerder u het meldt, des te eerder de schade in behandeling kan worden genomen. Wij verzoeken foto’s mee te sturen, zodat de schade kan worden beoordeeld."
+
+msgid "WARRANTY_BLOCK_3"
+msgstr "Bij Sanitairwinkel draait alles om tevreden klanten. Mocht u onverhoopt toch een slechte ervaring hebben met uw bestelling of onze service dan horen wij dat graag. Wij doen er alles aan om uw klachten te verhelpen. U kunt uw klachten richten aan de afdeling Klantenservice. Wij behandelen uw klacht altijd binnen 5 werkdagen. U ontvangt in ieder geval binnen 14 dagen een inhoudelijke reactie op uw klacht. Onze klantenservice is bereikbaar via een service aanvraag. Voor een correcte en snelle afhandeling dient u de service aanvraag zo compleet mogelijk in te vullen. In veel gevallen helpt het om foto’s toe te voegen."
+
+msgid "WARRANTY_BLOCK_4"
+msgstr ""
+"Bent u uiteindelijk niet tevreden met het antwoord van een van onze medewerkers, dan kunt u uw klacht schriftelijk indienen bij onze directie. Dit kan uitsluitend schriftelijk naar het volgende adres: <br/><br/>"
+"<b>"
+"    Sanitairwinkel<br/>"
+"    T.a.v. de directie<br/>"
+"    5248NL Rosmalen<br />"
+"    Graafsebaan 141<br/>"
+"</b>"
+""
+"<br/>"
+"<br/>"
+"Bent u niet tevreden met de afhandeling van uw klacht? Dan kunt u deze voorleggen aan de Geschillencommissie Thuiswinkel (www.sgc.nl).Tevens kunt u uw klacht voorleggen aan de  <a href=\"http://ec.europa.eu/consumers/odr/\" target=\"_blank\">Geschillencommissie via het Europees ODR Platform</a>. (http://ec.europa.eu/consumers/odr/)."
+
+msgid "WARRANTY_BLOCK_5"
+msgstr "Alle producten die Sanitairwinkel via de webwinkel verkoopt hebben een geldige fabrieksgarantie. Per merk en product kan dit oplopen tot maar liefst 10 jaar. Mocht u hiervan gebruik willen maken, dan kunt u een service aanvraag invullen met uw gegevens en garantiegeval. Naast de fabrieksgarantie gelden onverminderd de wettelijke rechten omtrent garantie en conformiteit. Wettelijke garantie wil zeggen dat een product datgene moet doen wat u er in alle redelijkheid van mag verwachten."
+
+msgid "WARRANTY_BLOCK_6"
+msgstr "</u>Sanitairwinkel.nl is lid van de Nederlandse Thuiswinkel Organisatie. Als lid van Thuiswinkel.org mogen wij het Thuiswinkel waarborg voeren. Na 2 jaar aspirant lid te zijn geweest werd het tijd om over te stappen op een volwaardig lidmaatschap. Het Thuiswinkel waarborg is het keurmerk voor Nederlandse bedrijven die producten op afstand verkopen, in ons geval via internet. Als u in de Sanitairwinkel webwinkel een aankoop doet, kunt u ervan op aan dat wij ons houden aan de Algemene Voorwaarden Thuiswinkelen en de gedragsregels van Thuiswinkel.org hanteren. Daarnaast houden we ons en zijn we aanspreekbaar op het naleven van alle relevante wet en regelgeving met betrekking tot het verkopen via internet. Mocht uw ingediende klacht niet door Sanitairwinkel opgelost kunnen worden dan kunt u zich richten tot de geschillencommissie, www.sgc.nl.<br/><br/><a href=\"https://www.thuiswinkel.org/leden/sanitairwinkel.nl\" target=\"_blank\">Officiële verklaring lidmaatschap Sanitairwinkel.nl van Thuiswinkel.org</a>"
+
+msgid "WARRANTY_SERVICE_REQUEST"
+msgstr "Vul direct een service aanvraagformulier in"
+
+msgid "FAQ_BLOCK_1"
+msgstr "Hieronder vindt u de meest gestelde vragen. Mocht uw vraag er niet tussen staan, neem dan <a href=/contact/> contact </a> met ons op."
+
+msgid "HERO_DEFAULT_QUOTE"
+msgstr "Een badkamer uitzoeken is een hele klus. <br />Wij begrijpen dit. <br />U kunt ons dus alles vragen."
+
+msgid "FAQ_PAYMENT_QUESTION_2"
+msgstr ""
+"Hoe kan ik betalen?"
+""
+
+msgid "FAQ_PAYMENT_QUESTION_3"
+msgstr ""
+"Moet de betaling gedaan worden vóór levering?"
+""
+
+msgid "FAQ_PAYMENT_QUESTION_4"
+msgstr ""
+"Wat is het rekeningnummer van Sanitairwinkel.nl?"
+""
+
+msgid "FAQ_PAYMENT_QUESTION_5"
+msgstr ""
+
+msgid "FAQ_PAYMENT_QUESTION_6"
+msgstr ""
+"Hoe weet ik zeker dat ik heb betaald?"
+""
+
+msgid "FAQ_PAYMENT_ANSWER_1_DEPRECATED"
+msgstr ""
+"<table class=\"infotable responsive-table\">"
+"        <thead>"
+"            <tr>"
+"                <th></th>"
+"                <th>Betaalmethode</th>"
+"                <th>Betaalkosten</th>"
+"                <th>Opmerking</th>"
+"            </tr>"
+"        </thead>"
+"        <tbody>"
+"                                            <tr class=\"light\">"
+"                    <td class=\"icon-col\" data-label=\"\"><img class=\"payment-icon\" src=\"{$static_skin}images/paymentmethod/bm-ico-ideal.png\" alt=\"ico iDeal\"></td>"
+"                    <td class=\"name-col\" data-label=\"Betaalmethode\">iDeal</td>"
+"                    <td data-label=\"Betaalkosten\">"
+"                                                    Gratis"
+"                                            </td>"
+"                    <td data-label=\"Opmerking\">Va. 100,- gratis bezorgd</td>"
+"                </tr>"
+"                                            <tr class=\"dark\">"
+"                    <td class=\"icon-col\" data-label=\"\"><img class=\"payment-icon\" src=\"{$static_skin}images/paymentmethod/bm-ico-vooraf+overmaken.png\" alt=\"ico Vooraf Overmaken\"></td>"
+"                    <td class=\"name-col\" data-label=\"Betaalmethode\">Vooraf Overmaken</td>"
+"                    <td data-label=\"Betaalkosten\">"
+"                                                    Gratis"
+"                                            </td>"
+"                    <td data-label=\"Opmerking\">Va. 100,- gratis bezorgd + langere levertijd*</td>"
+"                </tr>"
+"                                            <tr class=\"light\">"
+"                    <td class=\"icon-col\" data-label=\"\"><img class=\"payment-icon\" src=\"{$static_skin}images/paymentmethod/bm-ico-showroom.png\" alt=\"ico Betalen in showroom\"></td>"
+"                    <td class=\"name-col\" data-label=\"Betaalmethode\">Betalen in showroom</td>"
+"                    <td data-label=\"Betaalkosten\">"
+"                                                    Gratis"
+"                                            </td>"
+"                    <td data-label=\"Opmerking\">Mogelijk vragen wij een aanbetaling</td>"
+"                </tr>"
+"                                                                                <tr class=\"dark\">"
+"                    <td class=\"icon-col\" data-label=\"\"><img class=\"payment-icon\" src=\"{$static_skin}images/paymentmethod/bm-ico-creditcard.png\" alt=\"ico Creditcard\"></td>"
+"                    <td class=\"name-col\" data-label=\"Betaalmethode\">Creditcard</td>"
+"                    <td data-label=\"Betaalkosten\">"
+"                                                                                                            Gratis"
+"                                            </td>"
+"                    <td data-label=\"Opmerking\">Maximaal orderbedrag is 2.000,-</td>"
+"                </tr>"
+"                                            <tr class=\"light\">"
+"                    <td class=\"icon-col\" data-label=\"\"><img class=\"payment-icon\" src=\"{$static_skin}images/paymentmethod/bm-ico-paypal.png\" alt=\"ico PayPal\"></td>"
+"                    <td class=\"name-col\" data-label=\"Betaalmethode\">PayPal</td>"
+"                    <td data-label=\"Betaalkosten\">"
+"                                                    Gratis"
+"                                            </td>"
+"                    <td data-label=\"Opmerking\">Va. 100,- gratis bezorgd</td>"
+"                </tr>"
+"                                            <tr class=\"dark\">"
+"                    <td class=\"icon-col\" data-label=\"\"><img class=\"payment-icon\" src=\"{$static_skin}images/paymentmethod/bm-ico-klarna.png\" alt=\"ico Achteraf betalen - Klarna\"></td>"
+"                    <td class=\"name-col\" data-label=\"Betaalmethode\">Achteraf betalen - Klarna</td>"
+"                    <td data-label=\"Betaalkosten\">"
+"                                                    1,95                         extra kosten"
+"                                            </td>"
+"                    <td data-label=\"Opmerking\">Maximaal orderbedrag is 750,-</td>"
+"                </tr>"
+"                                            <tr class=\"light\">"
+"                    <td class=\"icon-col\" data-label=\"\"><img class=\"payment-icon\" src=\"{$static_skin}images/paymentmethod/bm-ico-rembours.png\" alt=\"ico Rembours\"></td>"
+"                    <td class=\"name-col\" data-label=\"Betaalmethode\">Rembours</td>"
+"                    <td data-label=\"Betaalkosten\">"
+"                                                    15 euro                                                                                    extra kosten"
+"                                            </td>"
+"                    <td data-label=\"Opmerking\">Betalen aan de transporteur**</td>"
+"                </tr>"
+"                                                                                            </tbody>"
+"    </table><p> * Doorgaans betekent vooraf overmaken dat de bestelling met 1 dag wordt vertraagd.<br>"
+"** Rembourskosten komen bovenop de normale verzendkosten. Bij bestellingen vanaf €300,00 controleren wij of de bestelling daadwerkelijk door u geplaatst is. Verder vragen wij om een aanbetaling, wij nemen hiervoor contact met u op."
+
+msgid "FAQ_PAYMENT_ANSWER_2"
+msgstr ""
+"Sanitairwinkel ondersteunt een breed scala aan betaalmethodes. Hieronder vindt u een uitgebreid overzicht.<br/>"
+"<br/>"
+"<b>iDEAL</b><br/>"
+"Met iDEAL rekent u veilig uw online aankoop af. U logt in bij uw bank op basis van specifieke beveiligingsmethodes, zonder dat u zich speciaal voor iDEAL hoeft aan te melden.<br/>"
+"<br/>"
+"Voordelen iDEAL:<br/>"
+"- U houdt controle en overzicht op de betaling.<br/>"
+"- De betaling wordt direct ontvangen, waardoor uw bestelling sneller wordt verwerkt.<br/>"
+"- Vanaf 100 euro wordt uw bestelling gratis bezorgd.<br/>"
+"<br/>"
+"Hoe werkt het?<br/>"
+"- Als u een bestelling plaatst bij Sanitairwinkel, geeft u bij het afrekenen aan dat u via iDEAL wilt betalen.<br/>"
+"- U selecteert uw bank, waarna u wordt doorgeleid naar de inlogpagina van uw bank.<br/>"
+"- U vult uw inloggegevens in en autoriseert u de betaling.<br/>"
+"<br/>"
+"Heeft u internetbankieren op uw smartphone? Dan kunt u met die app ook de iDEAL QR-code scannen om te betalen. U kunt iDEAL gebruiken als u klant bent bij ABN AMRO, ASN Bank, bunq, ING, Knab, Moneyou, Rabobank, RegioBank, SNS, Svenska Handelsbanken, Triodos Bank en Van Lanschot.<br/>"
+"<br/>"
+"Buckaroo is de aangewezen Betaal Service Provider voor Sanitairwinkel.nl.<br/>"
+"<br/>"
+"<b>iDEAL in 3</b><br/>"
+"Wilt u uw aankoop niet in één keer betalen? Met iDEAL in3 kunt u uw aankoop"
+"gespreid over 3 termijnen binnen 60 dagen betalen, zonder enige extra kosten. Dit"
+"geldt voor aankopen vanaf €50,- tot maximaal €5.000,-.<br/>"
+"<br/>"
+"Voordat uw betaling wordt verwerkt, voeren we een snelle controle van uw gegevens uit."
+"Mocht uw betalingsverzoek om wat voor reden dan ook niet worden goedgekeurd,"
+"neem dan gerust contact met de <a href=\"https://payin3.eu/nl/shopping-met-in3/klantenservice/\" target=\"_blank\">klantenservice van iDEAL in3</a> op of kies een andere betaalmethode. <br/>"
+"<br/>"
+"Hoe het werkt:<br/>"
+"1. Kies bij het afrekenen voor iDEAL in3:<br/>"
+"Selecteer iDEAL in3 als betaalmethode, waarna een snelle controle van uw"
+"gegevens plaatsvindt.<br/><br/>"
+"2. Eerste betaling & verzending:<br/>"
+"Doe de eerste betaling, een derde van het totale bedrag, via iDEAL en uw bestelling"
+"wordt direct in behandeling genomen.<br/><br/>"
+"3. Vervolgtermijnen:<br/>"
+"De tweede termijn betaalt u binnen 30 dagen, en de derde termijn weer 30 dagen daarna. Voor elke termijnbetaling krijgt u een nieuwe betaallink per e-mail. iDEAL in3 stuurt u tijdig herinneringen, zodat u geen betaling mist.<br/>"
+"<br/>"
+"<b>Vooruitbetaling</b><br/>"
+"Als u geen gebruik maakt van internetbankieren, kunt u de kosten van uw bestelling ook vooruitbetalen. Vooruitbetalen houdt in dat u zelf het openstaande orderbedrag overmaakt.<br/>"
+"- U maakt het openstaande bedrag over op de rekening van Buckaroo. Deze betaalprovider zorgt ervoor dat uw betaling op een veilige manier wordt verwerkt. Het rekeningnummer is (IBAN): NL05 RABO 0121 503 038 tnv Buckaroo.<br/>"
+"- Belangrijk: Vermeld het betalingskenmerk dat u van ons per mail heeft ontvangen in de omschrijving.<br/>"
+"- Zodra Buckaroo uw betaling heeft ontvangen, krijgt Sanitairwinkel een betalingsbevestiging en wordt uw bestelling in behandeling genomen.<br/>"
+"- Vooruitbetaling is een relatief langzame manier van betalen. Houd daarom rekening met één tot drie werkdagen overboektijd.<br/>"
+"<br/>"
+"<b>Creditcard</b><br/>"
+"Het is ook mogelijk om met VISA, Mastercard, Maestro of V-Pay te betalen bij Sanitairwinkel.<br/> U vult eerst uw creditcardgegevens in en daarna autoriseert u de betaling.<br/>"
+"<br/>"
+"<b>Pin/Contant</b><br/>"
+"Indien u uw bestelling ophaalt in één van onze showrooms, kunt u ook ter plekke contant of via pin betalen.<br/>"
+"<br/>"
+"<b>Achteraf betalen - Klarna factuur</b><br/>"
+"U kunt ervoor kiezen om uw bestelling achteraf te betalen via Klarna Factuur. U krijgt uw product dan eerst geleverd en hoeft pas 14 dagen daarna te betalen.<br/>"
+"<br/>"
+"- U voert uw gegevens veilig bij Klarna in, waarna Klarna een kredietcheck doet.<br/>"
+"- Indien de kredietcheck positief is, starten wij direct met de verwerking van uw bestelling.<br/>"
+"- Betalingen via Klarna zijn beperkt tot een bedrag van €750,-.<br/>"
+"<br/>"
+"<b>PayPal</b><br/>"
+"Sanitairwinkel biedt u ook de mogelijkheid om te betalen met uw PayPal-rekening.<br/>"
+"- U voert uw e-mailadres en PayPal-wachtwoord in, waarna de betaling direct wordt verwerkt.<br/>"
+"- Zodra uw betaling is verwerkt, nemen wij uw bestelling in behandeling.<br/>"
+""
+
+msgid "FAQ_PAYMENT_ANSWER_3"
+msgstr ""
+"Ja. Enkel met achteraf betalen kunt u direct een bestelling plaatsen en hoeft u pas te betalen zodra u de producten heeft ontvangen en gecontroleerd. Let op: de bestelling wordt pas verzonden wanneer uw gegevens zijn geverifieerd. "
+""
+
+msgid "FAQ_PAYMENT_ANSWER_4"
+msgstr ""
+"Het rekeningnummer van Sanitairwinkel.nl is (IBAN): NL05 RABO 0121 503 038 tnv Buckaroo <br><br> <b>Let op:</b><br>Bij de omschrijving dient u het kenmerk dat u per e-mail van ons heeft ontvangen in te vullen. Zonder dit specifieke betaalkenmerk zal de betaling niet direct worden verwerkt. Het bestelnummer en factuurnummer kunt u niet gebruiken als betaalkenmerk. "
+""
+
+msgid "FAQ_PAYMENT_ANSWER_5"
+msgstr ""
+
+msgid "FAQ_PAYMENT_ANSWER_6"
+msgstr ""
+"Je kunt in je <a href=\"/bestelstatus/\">bestelstatus</a> zien of de betaling al voldaan is. Als je hebt gekozen voor de betaalmethode om vooraf geld over te maken ontvang je een betaalbevestiging per mail."
+""
+
+msgid "FAQ_RETURN_QUESTION_1"
+msgstr "Ik ben niet tevreden met mijn producten, wat nu?"
+
+msgid "FAQ_RETURN_QUESTION_2"
+msgstr "Hoe stuur ik mijn producten retour?"
+
+msgid "FAQ_RETURN_QUESTION_3"
+msgstr "Wat zijn de retourkosten?"
+
+msgid "FAQ_RETURN_QUESTION_4"
+msgstr "Wat zijn de retourvoorwaarden?"
+
+msgid "FAQ_RETURN_QUESTION_5"
+msgstr "Hoe kan ik mijn bestelling annuleren?"
+
+msgid "FAQ_RETURN_QUESTION_6"
+msgstr "Zijn er producten die ik niet kan retourneren?"
+
+msgid "FAQ_RETURN_QUESTION_7"
+msgstr ""
+"Kan ik een retour ook afgeven in de showroom?"
+""
+
+msgid "FAQ_RETURN_QUESTION_8"
+msgstr "Kan ik een product ruilen?"
+
+msgid "FAQ_RETURN_QUESTION_9"
+msgstr ""
+"Wat is de retourtermijn van mijn ontvangen producten?"
+""
+
+msgid "FAQ_RETURN_QUESTION_10"
+msgstr "Binnen hoeveel dagen kan ik het aankoopbedrag retour verwachten op mijn rekening?"
+
+msgid "FAQ_RETURN_QUESTION_11"
+msgstr "Kan mijn retourzending ook worden opgehaald?"
+
+msgid "FAQ_RETURN_QUESTION_12"
+msgstr ""
+"Mijn artikelen blijken bij levering beschadigd, wat nu?"
+""
+
+msgid "FAQ_RETURN_QUESTION_13"
+msgstr "Mijn bestelling is geannuleerd door Sanitairwinkel, wat nu?"
+
+msgid "FAQ_RETURN_ANSWER_1"
+msgstr ""
+"<p>U heeft een bedenktermijn van 30 dagen. Wanneer u ontevreden bent over uw aankoop dan kunt u, binnen de bedenktermijn van 30 dagen, aangeven dat u wilt afzien van uw aankoop. Nadat u heeft aangegeven dat u afziet van de koop heeft u nog 14 dagen de tijd om producten terug te sturen. U kunt uw retour eenvoudig aanmelden via een <a href=\"/retouraanvraag/\">retouraanvraag</a>.</p>"
+"<p>Is het product kapot of niet compleet? Neem dan even <a href=\"/contact/\">contact</a> op met de klantenservice. Zo kunnen wij kijken naar een passende oplossing voor u. </p>"
+" "
+""
+""
+
+msgid "FAQ_RETURN_ANSWER_2"
+msgstr ""
+"Het is altijd mogelijk dat het door u bestelde product niet aan uw verwachting of wens voldoet. Bij Sanitairwinkel heeft u een bedenktermijn van 30 dagen. Wanneer u ontevreden bent over uw aankoop dan kunt u, binnen de bedenktermijn van 30 dagen, aangeven dat u wilt afzien van uw aankoop. Nadat u heeft aangegeven dat u afziet van de koop heeft u nog 14 dagen de tijd om producten terug te sturen. Indien uw retourzending voldoet aan deze voorwaarden, ontvangt u uw geld terug. "
+"<br/><br/>U kunt uw retour eenvoudig aanmelden via een <a href=\"/retouraanvraag/\">retouraanvraag</a>.<br/><br/>"
+"<p>Na aanmelden van uw retour ontvangt u de informatie voor het opsturen van uw retourproduct."
+"<br>"
+"<b>Retouradres:</b>"
+"Sanitairwinkel<br/>"
+"t.a.v. afdeling klantenservice<br>"
+"Zandzuigerstraat 10A<br>"
+"5222 AH Den Bosch</p>"
+""
+""
+
+msgid "FAQ_RETURN_ANSWER_3"
+msgstr ""
+"De retourkosten variëren per product. Afhankelijk van de grootte kunt u deze per PostNL of transportbedrijf naar Sanitairwinkel versturen. Aan het retour sturen van producten zijn helaas wel kosten gebonden. <br><br>"
+""
+"De kosten voor het retourneren van producten zijn afhankelijk van de afmetingen,varierend van 4,99 tot 6,75 voor standaard pakketten en 14,95 tot 29,95 voor grote pakketten als een bad en/of douchedeur. Deze retourkosten worden niet door ons vergoed. Wij vergoeden alleen de kosten van het artikel + verzendkosten 'heen' wanneer de complete bestelling wordt teruggestuurd bent u zelf verantwoordelijk voor de retourzending.<br><br>"
+""
+"Meld uw <a href=\"/retouraanvraag/\">retouraanvraag</a> vooraf voor een snelle afhandeling van uw retour en terugboeking.<br><br>"
+""
+"Toch liever retourneren in één van onze <a href=\"/klantenservice/showrooms/\">showrooms</a>? Ook dit is mogelijk. Hier zijn geen kosten aan verbonden."
+
+msgid "FAQ_RETURN_ANSWER_4"
+msgstr ""
+"Het artikel dient onder de volgende voorwaarden retour gestuurd te worden:<br> <br>"
+"<ul>"
+"<li>binnen 30 kalenderdagen na levering dient de koper te hebben aangegeven dat hij van de koop afziet of de koper heeft het product binnen deze termijn geretourneerd; </li>"
+"<li>compleet en onbeschadigd; </li>"
+"<li>ongebruikt (uitproberen mag wel zoals in de winkel) en niet gemonteerd; </li>"
+"<li>in de originele verpakking, indien redelijkerwijs mogelijk (hier mag niet op geschreven worden); </li>"
+"<li>producten die speciaal voor u zijn vervaardigd, zijn uitgezonderd van het herroepingsrecht. </li>"
+"</ul>"
+""
+"<p>Tijdens de bedenktijd (30 dagen na ontvangst van uw product) mag u het product gebruiken zoals u dat in de winkel zou doen. Echter, wordt het product zodanig gebruikt dat het niet meer in ‘winkelstaat’ is, dan kan het zijn dat u minder geld voor het product terugkrijgt. Ook kunt u gebruikmaken van het <a href=\"https://www.sanitairwinkel.nl/specific/www.sanitairwinkel.nl/herroeping.pdf\">Europees modelformulier</a> voor herroeping, maar u bent hiertoe niet verplicht.</p>"
+""
+"<p>Bij producten die beschadigd zijn of gebruikssporen vertonen behouden wij ons het recht de schade in rekening te brengen. Raadpleeg voor meer informatie onze <a href=\"/klantenservice/algemene-voorwaarden/\">algemene voorwaarden</a>.</p>"
+""
+""
+""
+
+msgid "FAQ_RETURN_ANSWER_5"
+msgstr "Het is mogelijk uw bestelling te annuleren. Geef dit z.s.m. aan ons door <a href=\"/contact/\">via e-mail</a> onder vermelding van uw bestelnummer. Hoe eerder wij namelijk uw annulering ontvangen, des te eerder wij de verwerking kunnen stopzetten. Bestellingen die reeds verwerkt zijn, kunnen niet meer worden geannuleerd. U kunt bij ontvangst wel de artikelen retour sturen."
+
+msgid "FAQ_RETURN_ANSWER_6"
+msgstr ""
+"Ja, de volgende producten zijn uitgesloten van retourrecht:"
+"<ul>"
+"<li>Maatwerk producten;</li>"
+"<li>Tegoedbonnen, die volledig of deels zijn gebruikt.</li>"
+"</ul>"
+""
+
+msgid "FAQ_RETURN_ANSWER_7"
+msgstr ""
+"Het retour brengen van een bestelling is in <a href=\"/klantenservice/showrooms/\">onze showrooms</a> (met uitzondering van de outlet in Uden) mogelijk van maandag t/m vrijdag tot 18:00 uur en op zaterdag tot 12:00 uur. Op koopavonden en -zondagen is retourneren in de showroom niet mogelijk.<br><br>"
+""
+"Meld uw <a href=\"/retouraanvraag/\">retouraanvraag</a> vooraf aan zodat we u in de showroom beter van dienst kunnen zijn. Voor een snellere afhandeling van de retour en de terugboeking hiervan kunt u de retour ook naar ons opsturen.<br><br>"
+""
+""
+""
+""
+
+msgid "FAQ_RETURN_ANSWER_8"
+msgstr "Nee, helaas kunt u geen product ruilen. Uiteraard kunt u wel het product <a href=\"/retouraanvraag/\">retourneren</a> en een nieuwe bestelling plaatsen."
+
+msgid "FAQ_RETURN_ANSWER_9"
+msgstr ""
+"Bij Sanitairwinkel kunt u binnen 30 kalenderdagen na levering het artikel retourneren."
+""
+
+msgid "FAQ_RETURN_ANSWER_10"
+msgstr ""
+"Zo snel mogelijk, uiterlijk binnen 14 dagen na herroeping, wordt het volledige aankoopbedrag, inclusief de eventuele standaard verzendkosten voor de heenzending, terugbetaald. Wij betalen u terug met hetzelfde betaalmiddel als waarmee u de oorspronkelijke transactie hebt verricht, tenzij u uitdrukkelijk anderszins hebt ingestemd.<br><br>"
+"Wij mogen wachten met terugbetaling tot wij de goederen hebben teruggekregen, of u hebt aangetoond dat u de goederen hebt teruggezonden, al naar gelang welk tijdstip eerst valt."
+
+msgid "FAQ_RETURN_ANSWER_11"
+msgstr "Nee, u dient zelf de verzending van een retourzending te regelen."
+
+msgid "FAQ_RETURN_ANSWER_12"
+msgstr ""
+"Controleer bij ontvangst van uw bestelling altijd goed de producten. Mocht er onverhoopt schade zijn ontstaan aan een van de artikelen, meld deze dan zo snel mogelijk na ontvangst van uw bestelling. Hoe eerder u het meldt, des te eerder de schade kan worden opgelost. U kunt schades melden via een <a href=\"/serviceaanvraag/\">service aanvraag</a>."
+""
+
+msgid "FAQ_RETURN_ANSWER_13"
+msgstr ""
+"In enkele gevallen komt het voor dat wij genoodzaakt zijn uw bestelling te annuleren. Een artikel of een bestelling kan om verschillende redenen geannuleerd worden:<br/><br/>"
+""
+"- Het artikel is (toch) niet leverbaar<br/>"
+"- De adresgegevens zijn onduidelijk of incorrect<br/>"
+"- Als een bestelling is geannuleerd, dan komt uw betalingsverplichting te vervallen of u ontvangt het reeds betaalde bedrag terug."
+
+msgid "FAQ_ORDER_QUESTION_1"
+msgstr "Kan ik ook offline (in de showroom) bestellen?"
+
+msgid "FAQ_ORDER_QUESTION_2"
+msgstr "Waar kan ik mijn bestelling volgen?"
+
+msgid "FAQ_ORDER_QUESTION_3"
+msgstr ""
+"Kan ik telefonisch/per mail een bestelling plaatsen?"
+""
+
+msgid "FAQ_ORDER_QUESTION_4"
+msgstr "Waar vind ik mijn bestelstatus?"
+
+msgid "FAQ_ORDER_QUESTION_5"
+msgstr ""
+"Hoe bestel ik? "
+""
+
+msgid "FAQ_ORDER_QUESTION_6"
+msgstr "Kan ik mijn bestelling nog wijzigen/aanpassen?"
+
+msgid "FAQ_ORDER_QUESTION_7"
+msgstr "Kan ik een gemaakte bestelling annuleren?"
+
+msgid "FAQ_ORDER_QUESTION_8"
+msgstr ""
+"Hoe weet ik zeker dat mijn bestelling is geplaatst?"
+""
+
+msgid "FAQ_ORDER_QUESTION_9"
+msgstr "Ik heb geen factuur ontvangen, wat nu?"
+
+msgid "FAQ_ORDER_QUESTION_10"
+msgstr "Waar vind ik mijn bestelnummer?"
+
+msgid "FAQ_ORDER_QUESTION_11"
+msgstr "Ik heb geen bevestigingsmail gehad van mijn bestelling, wat nu?"
+
+msgid "FAQ_ORDER_QUESTION_12"
+msgstr "Kan ik zakelijke klant worden?"
+
+msgid "FAQ_ORDER_QUESTION_13"
+msgstr ""
+"Zijn de genoemde prijzen op de website inclusief BTW?"
+""
+
+msgid "FAQ_ORDER_QUESTION_14"
+msgstr "Komen jullie de badkamer ook plaatsen?"
+
+msgid "FAQ_ORDER_ANSWER_1"
+msgstr "Ja, je kunt ook een bestelling plaatsen in <a href=\"/klantenservice/showrooms/\">onze showrooms</a>. Het voordeel hierbij is dat je persoonlijk contact hebt met onze badkamerexperts en zij je kunnen adviseren en twijfels weg kunnen nemen."
+
+msgid "FAQ_ORDER_ANSWER_2"
+msgstr "Je kunt je bestelling volgen in je <a href=\"/bestelstatus/\">bestelstatus</a>."
+
+msgid "FAQ_ORDER_ANSWER_3"
+msgstr "Ja, je kunt altijd per telefoon of via <a href=\"/contact/\">de mail</a> een bestelling plaatsen. Raadpleeg de openingstijden van de <a href=\"/contact/\">klantenservice</a> voor de tijden dat wij telefonisch te bereiken zijn."
+
+msgid "FAQ_ORDER_ANSWER_4"
+msgstr "Vind hier je <a href=\"/bestelstatus/\">bestelstatus</a>."
+
+msgid "FAQ_ORDER_ANSWER_5"
+msgstr ""
+"Bestellen bij Sawiday kan 24 uur per dag en 7 dagen per week in onze webwinkel. Plaats je liever een bestelling in onze <a href=\"/klantenservice/showrooms/\">showrooms</a>, telefonisch of per <a href=\"/contact/\">e-mail</a> dan is dat uiteraard ook mogelijk. Het bestellen in onze webwinkel gaat eenvoudig door het doorlopen van een viertal stappen."
+"<br/><br/>"
+""
+"<b>Stap 1: Winkelwagentje</b><br/>"
+"Klik bij het gewenste artikel op de knop 'In winkelwagen'. Je kunt vervolgens kiezen om verder te winkelen of om naar je <a href=\"/winkelwagen/\">winkelwagen</a> te gaan. Ook het invullen van een kortingscode is in deze stap mogelijk. Je dient dan wel te beschikken over een dergelijke code. Deze worden niet op verzoek verschaft. Als je alles hebt verzameld in je winkelwagentje klik je op 'Doorgaan met bestellen'."
+"<br/><br/>"
+""
+"<b>Stap 2: Vul je persoonsgegevens in</b><br/>"
+"Hier vul je je persoonsgegevens in. Deze gegevens hebben wij nodig voor de verwerking van je bestelling en zullen niet voor andere doeleinden worden gebruikt.<br/><br/>"
+""
+"<b>Stap 3: Kies leveringsmethode</b><br/> "
+"Kies nu de gewenste leveringsmethode. Je kunt kiezen om de producten af te halen bij een van onze <a href=\"/klantenservice/showrooms/\">showrooms</a> of om ze thuis te laten bezorgen. Bij bezorgen word je in een later stadium (wanneer je bestelling gereed is) geïnformeerd over of gevraagd naar een leverdatum. De winkelwagen kun je in geval van twijfel ook (tijdelijk) opslaan en naar jezelf verzenden per e-mail. <br/><br/>"
+""
+"<b>Stap 4: Kies betaalmethode</b><br/> "
+"Hier zie je een compleet overzicht van je bestelling. Om de bestelling definitief te maken klik je op 'afrekenen'. Sawiday ondersteunt een breed scala aan betaalmethodes. Hiermee ga je direct akkoord met Algemene Voorwaarden. Vervolgens ontvang je per e-mail een bevestiging van je bestelling.<br/><br/>"
+""
+"<b>Bedankt en tot ziens</b><br/> "
+"Dit is onze bedankpagina. Je ontvangt hier een bestelnummer, kunt een video bekijken over hoe we je bestelling verwerken en kun je direct <a href=\"/bestelstatus/\">de status</a> van je bestelling volgen."
+""
+
+msgid "FAQ_ORDER_ANSWER_6"
+msgstr ""
+"Het is mogelijk om je bestelling te wijzigen. Neem hiervoor zo snel mogelijk contact met ons op <a href=\"/contact/\"> via de mail</a>, onder vermelding van je bestelnummer. "
+"Hoe eerder wij de wijziging ontvangen, hoe eerder wij de verwerking stop kunnen zetten. Bestellingen die al verwerkt zijn kunnen we niet meer voor je wijzigen. Je kunt deze producten na ontvangst altijd retour sturen."
+
+msgid "FAQ_ORDER_ANSWER_7"
+msgstr ""
+"Het is mogelijk om je bestelling te annuleren. Neem hiervoor zo snel mogelijk contact met ons op <a href=\"/contact/\"> via de mail</a>, onder vermelding van je bestelnummer. "
+"Hoe eerder wij de annulering ontvangen, hoe eerder wij de verwerking stop kunnen zetten. Bestellingen die al verwerkt zijn kunnen we niet meer voor je annuleren. Je kunt deze producten na ontvangst altijd retour sturen."
+
+msgid "FAQ_ORDER_ANSWER_8"
+msgstr ""
+"Je ontvangt een bevestigingsmail zodra de bestelling in goede orde ontvangen is. Dit duurt maximaal 15 minuten. Mocht je na deze tijd nog niets ontvangen hebben kijk dan in je inbox bij ongewenste e-mail of neem <a href=\"/contact/\">contact op met onze klantenservice</a>."
+""
+""
+""
+""
+
+msgid "FAQ_ORDER_ANSWER_9"
+msgstr "Je ontvangt de factuur per mail wanneer de bestelling is afgerond in ons systeem. Ben je benieuwd wat de status is van je bestelling? Controleer dan eerst je <a href=\"/bestelstatus/\">bestelstatus</a>. Mocht je na afronding van je bestelling nog geen factuur hebben ontvangen neem dan contact met ons op."
+
+msgid "FAQ_ORDER_ANSWER_10"
+msgstr "Je vindt het bestelnummer in de bevestigingsmail die je hebt ontvangen. Geen bevestigingsmail ontvangen? Neem dan <a href=\"/contact/\">contact<a href> op met de klantenservice."
+
+msgid "FAQ_ORDER_ANSWER_11"
+msgstr "Geen bevestigingsmail ontvangen? (Dit kan maximaal 15 minuten duren.) Kijk dan eerst in je mailbox in het mapje met ongewenste e-mail. Mocht je daar ook geen mail vinden neem dan <a href=\"/contact/\">contact</a> op met onze klantenservice."
+
+msgid "FAQ_ORDER_ANSWER_12"
+msgstr "Indien u met regelmaat sanitair besteld en graag zakelijke klant wilt worden bij Sanitairwinkel, is dit mogelijk. We verwijzen u graag door naar onze <a href=\"/b2b/\"> zakelijke pagina</a>. Hier worden alle voordelen verteld en uitgelegd hoe u hier gebruik van kunt maken."
+
+msgid "FAQ_ORDER_ANSWER_13"
+msgstr "De prijzen genoemd op onze website zijn inclusief BTW."
+
+msgid "FAQ_ORDER_ANSWER_14"
+msgstr "Nee, bij ons kun je alleen terecht voor producten. Het plaatsen doen wij niet. Op zoek naar een aannemer? <a href=\"/advies/tips/plaatsen-badkamer-zo-vind-je-een-aannemer/\">Lees dan hier onze tips</a>."
+
+msgid "FAQ_MISC_QUESTION_1"
+msgstr "Hebben jullie ook een showroom?"
+
+msgid "FAQ_MISC_QUESTION_2"
+msgstr "Hoe neem ik contact met jullie op?"
+
+msgid "FAQ_MISC_QUESTION_3"
+msgstr "Er gaat iets mis op de site, wat nu?"
+
+msgid "FAQ_MISC_QUESTION_4"
+msgstr "Installeren jullie de producten die gekocht zijn via Sanitairwinkel?"
+
+msgid "FAQ_MISC_QUESTION_5"
+msgstr "Hebben jullie installateurs die jullie aanraden?"
+
+msgid "FAQ_MISC_QUESTION_6"
+msgstr "Hebben jullie voorraad in de winkels?"
+
+msgid "FAQ_MISC_QUESTION_7"
+msgstr "Kan ik zonder afspraak de showroom bezoeken?"
+
+msgid "FAQ_MISC_QUESTION_8"
+msgstr "Wanneer is het koopavond?"
+
+msgid "FAQ_MISC_QUESTION_9"
+msgstr "Mijn product staat niet op de site, wat nu?"
+
+msgid "FAQ_MISC_QUESTION_10"
+msgstr "Kan ik onderdelen bestellen bij Sanitairwinkel?"
+
+msgid "FAQ_MISC_QUESTION_11"
+msgstr "Kan ik een afspraak maken met een verkoper/verkoopster in de showroom?"
+
+msgid "FAQ_MISC_QUESTION_12"
+msgstr "Mijn vraag staat er niet tussen, wat nu?"
+
+msgid "FAQ_MISC_ANSWER_1"
+msgstr "Ja, we hebben ook fysieke winkels! We verwijzen u graag door naar onze <a href=\"/klantenservice/showrooms/\">showroompagina.</a>"
+
+msgid "FAQ_MISC_ANSWER_2"
+msgstr "We hebben verschillende contactmogelijkheden. Bekijk hiervoor onze <a href=\"/contact/\">contactpagina.</a>"
+
+msgid "FAQ_MISC_ANSWER_3"
+msgstr "Neem contact op met de klantenservice en beschrijf het probleem zo goed mogelijk. Wij nemen uw feedback intern mee om dit zo snel mogelijk op te lossen/te vergemakkelijken."
+
+msgid "FAQ_MISC_ANSWER_4"
+msgstr "Nee, u bent zelf verantwoordelijk voor de installatie van de producten."
+
+msgid "FAQ_MISC_ANSWER_5"
+msgstr "Sanitairwinkel heeft geen eigen installateurs. We kunnen u wel onafhankelijke installateurs aanbevelen indien gewenst."
+
+msgid "FAQ_MISC_ANSWER_6"
+msgstr "Het hoofdkantoor van Sanitairwinkel bevindt zich bij de showroom in Rosmalen. Hierdoor heeft de showroom in Rosmalen een beperkte voorraad. Onze overige showrooms hebben helaas geen voorraad. Wij kunnen wel voor u artikelen naar de gewenste showroom sturen, zodat zij deze voor u vrijblijvend bewaren. Let op: wilt u zeker weten dat een artikel op voorraad is? Neem dan contact op met de desbetreffende showroom."
+
+msgid "FAQ_MISC_ANSWER_7"
+msgstr "Ja, u kunt onze showrooms zonder afspraak bezoeken."
+
+msgid "FAQ_MISC_ANSWER_8"
+msgstr "Voor onze actuele openingstijden & koopavonden verwijzen u graag door naar de specifieke <a href=\"/klantenservice/showrooms/\">showroompagina</a>."
+
+msgid "FAQ_MISC_ANSWER_9"
+msgstr "Helaas hebben wij niet alles online staan. Niet getreurd, het assortiment is groter dan wat wij online aanbieden! Mocht u geïnteresseerd zijn in een specifiek product maar deze niet kunnen vinden op de website stuur ons dan een mail met zoveel mogelijk informatie en wij proberen u te helpen."
+
+msgid "FAQ_MISC_ANSWER_10"
+msgstr "Nee, wij verkopen geen losse onderdelen."
+
+msgid "FAQ_MISC_ANSWER_11"
+msgstr "Ja, dit is mogelijk maar is niet verplicht. Mocht u toch graag een afspraak maken neem dan contact op met de desbetreffende <a href=\"/klantenservice/showrooms/\">showroom</a>."
+
+msgid "FAQ_MISC_ANSWER_12"
+msgstr "Mocht uw vraag nog onbeantwoord zijn, dan kunt u contact opnemen met onze klantenservice via mail of telefoon."
+
+msgid "FAQ_DELIVERY_QUESTION_1"
+msgstr "Wanneer ontvang ik mijn bestelling?"
+
+msgid "FAQ_DELIVERY_QUESTION_2"
+msgstr "Wat zijn de verzendkosten?"
+
+msgid "FAQ_DELIVERY_QUESTION_3"
+msgstr "Wat zijn de levertijden?"
+
+msgid "FAQ_DELIVERY_QUESTION_4"
+msgstr "Kan ik mijn bestelling afhalen in de showroom?"
+
+msgid "FAQ_DELIVERY_QUESTION_5"
+msgstr ""
+"Welke vervoerder levert mijn bestelling? "
+""
+
+msgid "FAQ_DELIVERY_QUESTION_6"
+msgstr "Wat gebeurt er met mijn bestelling als ik tijdens levering niet thuis ben?"
+
+msgid "FAQ_DELIVERY_QUESTION_7"
+msgstr ""
+"Ontvang ik een Track & Trace code van mijn bestelling?"
+""
+
+msgid "FAQ_DELIVERY_QUESTION_8"
+msgstr ""
+"Kan ik een bezorgtijd afspreken?"
+""
+
+msgid "FAQ_DELIVERY_QUESTION_9"
+msgstr "Bezorgen jullie ook op een verdieping/bovenwoning?"
+
+msgid "FAQ_DELIVERY_QUESTION_10"
+msgstr ""
+"Welke verzendmethodes zijn er mogelijk?"
+""
+
+msgid "FAQ_DELIVERY_QUESTION_11"
+msgstr ""
+"Leveren jullie ook in het buitenland?"
+""
+
+msgid "FAQ_DELIVERY_QUESTION_12"
+msgstr ""
+"Kan ik mijn bestelling op een ander adres laten bezorgen?"
+""
+
+msgid "FAQ_DELIVERY_QUESTION_13"
+msgstr "Welke dagen kan ik mijn pakket verwachten?"
+
+msgid "FAQ_DELIVERY_QUESTION_14"
+msgstr "Wat moet ik doen als de bestelling niet volledig is geleverd?"
+
+msgid "FAQ_DELIVERY_QUESTION_15"
+msgstr ""
+"Kan ik iemand anders mijn bestelling af laten halen?"
+""
+
+msgid "FAQ_DELIVERY_QUESTION_16"
+msgstr ""
+"Op welke tijden kan ik mijn producten afhalen in de showroom?"
+""
+
+msgid "FAQ_DELIVERY_ANSWER_1"
+msgstr ""
+"<p>Als de bestelling verstuurd is ontvang je de track-and-tracecode op het e-mailadres dat je hebt gebruikt bij het maken van de bestelling. Wij versturen alle producten in één keer. Houd dus rekening met de langste levertijd van de producten die je hebt gekozen.</p>"
+"<p>Je vindt de meest actuele status van je bestelling in de <a href=\"/bestelstatus/\">bestelstatus</a>, of klik onder 'direct regelen' op <a href=\"/bestelstatus/\">'bestelstatus'</a>. Vul hier je e-mailadres en bestelnummer in en je krijgt de status van je bestelling te zien.</p>"
+""
+
+msgid "FAQ_DELIVERY_ANSWER_2"
+msgstr ""
+"<p>Alle bestellingen boven de € 100,- worden gratis verstuurd.</p>"
+"<p>De bezorgkosten voor bestellingen lager dan €100,- worden in het winkelwagentje berekend. "
+"<br>De bezorgkosten zijn afhankelijk van de aard en de grootte van het pakket. Daarbij gelden de volgende bezorgkosten:</p>"
+"<table style=\"height: 70px; width: 198px;\">"
+"<tbody>"
+"<tr>"
+"<td style=\"width: 147px;\">Pakketdienst</td>"
+"<td style=\"width: 35px;\">€4,95</td>"
+"</tr>"
+"<tr>"
+"<td style=\"width: 147px;\">Vervoer per pallet</td>"
+"<td style=\"width: 35px;\">€29,95</td>"
+"</tr>"
+"<tr>"
+"<td style=\"width: 147px;\">Zending per colli</td>"
+"<td style=\"width: 35px;\">€9,95</td>"
+"</tr>"
+"</tbody>"
+"</table>"
+" <br>"
+"Voor tegels rekenen we €49,95 verzendkosten. "
+"<p>Afhalen in de showrooms is gratis.</p>"
+"<p>Naast verzendkosten betaalt u extra betaalkosten bij achteraf betalen/ Klarna factuur.</p>"
+""
+
+msgid "FAQ_DELIVERY_ANSWER_3"
+msgstr ""
+"<p>Per product kunnen de levertijden verschillen, daarom staat bij elk artikel een levertijd aangegeven. Deze levertijden worden continu bijgewerkt voor een optimale levertijdsindicatie. Bij een lange levertijd gaat het om een indicatie en is de precieze dag van levering helaas nog niet vast te stellen.</p>"
+"<p>Door de combinatie van producten in één levering kan de levertijd van een bestelling afwijken van de informatie die op productniveau wordt getoond. Houd rekening met de langste levertijd van de producten die je hebt gekozen.</p>"
+"<p><b>TIP: </b>bestel tijdig om niet in de knoop te raken met je planning.</p>"
+
+msgid "FAQ_DELIVERY_ANSWER_4"
+msgstr "Je kunt je bestelling altijd zelf ophalen in een van <a href=\"/klantenservice/showrooms/\">onze showrooms</a> (met uitzondering van Outlet Uden) wanneer je dit hebt aangegeven bij het maken van je bestelling. Afhalen is gratis en is mogelijk van maandag t/m vrijdag tussen 10:00 en 17:00 uur en op zaterdag tussen 10:00 en 12:00. Ook bij zelf ophalen gelden onze levertijden. Wanneer je bestelling klaar ligt om afgehaald te worden, ontvang je daarover een mail."
+
+msgid "FAQ_DELIVERY_ANSWER_5"
+msgstr ""
+"<b>Bezorgen kleine artikelen</b><br/>"
+"Bijna alle kleine producten worden verzonden met de pakketdienst van PostNL. De postbode komt het pakket aan huis bezorgen. Mocht je onverhoopt niet thuis zijn, dan probeert de postbode het de volgende dag nogmaals. Wanneer er dan wederom niemand thuis is, kun je het pakket de volgende dag bij een afhaalpunt ophalen. De postbode laat in dit geval een notitiekaart achter. Bij producten die vanuit ons magazijn worden verzonden ontvang je een track&trace code.<br/><br/>"
+""
+"<b>Bezorgen grote artikelen/pallet/pakketten</b><br/>"
+"Grote en zware producten worden veelal verzonden met een extern transportbedrijf. Er wordt alleen op werkdagen en tijdens kantooruren bezorgd. Sanitairwinkel levert alleen volledige bestellingen en geen deelleveringen. Wanneer je bestelling compleet is benaderen we je per e-mail of telefoon om een bezorgafspraak te maken. Als je een datum hebt gekozen, kun je op de dag van levering voor een tijdsindicatie telefonisch contact opnemen met onze vervoerder. Wanneer je op de afgesproken afleverafspraak niet aanwezig bent en onze vervoerder een tweede keer je bestelling moet afleveren, dan kunnen bijkomende leveringskosten worden gerekend. Levering van deze producten is tot aan de eerste drempel.<br/><br/>"
+""
+"<b>Bezorgen op waddeneilanden</b><br/>"
+"Wanneer je op één van de Waddeneilanden woont, dan wordt je bestelling binnen de geschatte levertijd aan de vervoerder aangeboden die je bestelling overbrengt naar het betreffende eiland. Het kan dus zijn dat je bestelling op de Waddeneilanden een langere levertijd zal hebben. Doorgaans dien je rekening te houden met een vertraging van 2 werkdagen."
+""
+
+msgid "FAQ_DELIVERY_ANSWER_6"
+msgstr ""
+"Een pakketzending zal de volgende dag nogmaals aangeboden worden. De bezorger kan er ook voor kiezen om het product bij de buren af te geven. Je kunt in het bestelproces aangegeven als je niet wilt dat het pakket bij de buren wordt geleverd. "
+"<br><br>Grote en zware producten worden veelal verzonden met een extern transportbedrijf. Wanneer je op de afgesproken/gecommuniceerde afleverafspraak niet aanwezig bent en onze vervoerder een tweede keer je bestelling moet afleveren kunnen bijkomende leveringskosten worden gerekend. Tot 24-uur voor de bezorging is wijziging van bezorgmoment mogelijk. Neem hiervoor <a href=\"/contact/\">contact</a> op met onze klantenservice."
+
+msgid "FAQ_DELIVERY_ANSWER_7"
+msgstr ""
+"Het is afhankelijk van de leverancier/transporteur of je een track & trace code ontvangt. In de meeste gevallen ontvang je op de dag voor de levering een track & trace code."
+""
+
+msgid "FAQ_DELIVERY_ANSWER_8"
+msgstr ""
+"Tijdens de bestelprocedure kun je een dag kiezen waarop je de bestelling geleverd wilt hebben. Levering is pas mogelijk vanaf het moment dat de door jou bestelde producten bij ons of bij onze leverancier op voorraad zijn. </br></br>"
+""
+"In het bestelproces heb je enkele opties voor een bezorgtijd: </br>"
+"</br>"
+"- Avondlevering;</br>"
+"- Tijdvak voor 12:00 en na 12:00 voor palletzendingen via Van Spreuwel ( kosten zijn € 25);</br>"
+"- Voor de standaardlevering geven we een indicatie van het tijdvak waarbinnen de bestelling geleverd wordt.</br></br>"
+""
+"<b>Let op:</b> de opties zijn afhankelijk van het bestelmoment, transporteur en de levertijd."
+""
+
+msgid "FAQ_DELIVERY_ANSWER_9"
+msgstr "Onze vervoerder levert de bestelling tot aan de drempel van de (eerste) voordeur. Wanneer je adres een flat betreft wordt je bestelling beneden bij de portiek afgeleverd. De chauffeur maakt zelf een inschatting tot hoe dicht hij bij de voordeur kan komen."
+
+msgid "FAQ_DELIVERY_ANSWER_10"
+msgstr ""
+"Laat je bestelling bij je thuis bezorgen of op een ander adres. Ook kun je bij zendingen van PostNL kiezen voor levering bij een afhaalpunt bij je in de buurt. Verder is het mogelijk om producten af te komen halen in een van <a href=\"/klantenservice/showrooms/\">onze showrooms</a>."
+""
+
+msgid "FAQ_DELIVERY_ANSWER_11"
+msgstr ""
+"Voor leveringen in België kun je je bestelling plaatsen via <a href=\"https://www.sawiday.be/nl-be/\">Sawiday.be</a>. Voor leveringen in Frankrijk kun je terecht op <a href=\"https://www.sawiday.fr/\">Sawiday.fr</a>. <br>"
+"In andere landen kunnen wij helaas niet leveren."
+""
+
+msgid "FAQ_DELIVERY_ANSWER_12"
+msgstr ""
+"Wanneer je in het bestelproces zit kun je ervoor kiezen om de producten op een ander adres te laten bezorgen. Naast de keuze om het op een ander adres te laten bezorgen kun je ook voor een afhaalpunt kiezen. Let op: je bestelling moet dan wel met PostNL verzonden kunnen worden. Houd er rekening mee dat de levertijd hierdoor langer kan zijn. "
+""
+
+msgid "FAQ_DELIVERY_ANSWER_13"
+msgstr "Pakketten kunnen geleverd worden van maandag tot en met zaterdag. Grote zendingen worden van maandag tot en met vrijdag geleverd. "
+
+msgid "FAQ_DELIVERY_ANSWER_14"
+msgstr "Wanneer uw zending niet compleet geleverd is, neem dan <a href=\"/contact/\">contact</a> op met de klantenservice."
+
+msgid "FAQ_DELIVERY_ANSWER_15"
+msgstr ""
+"Ja, dat is geen probleem. Neem voor het gemak een kopie van de order mee."
+""
+
+msgid "FAQ_DELIVERY_ANSWER_16"
+msgstr "Wanneer je bestelling klaarligt om afgehaald te worden, brengen wij je per e-mail op de hoogte. Je kunt je bestelling dan in de showroom ophalen van maandag t/m vrijdag tussen 10:00 en 17:00 uur en op zaterdag tussen 10:00 en 12:00."
+
+msgid "FAQ_WARRANTY_QUESTION_1"
+msgstr "Hoe lang heb ik garantie op mijn producten?"
+
+msgid "FAQ_WARRANTY_QUESTION_2"
+msgstr "Wat moet ik doen bij schade?"
+
+msgid "FAQ_WARRANTY_QUESTION_3"
+msgstr "Ik ben niet tevreden met mijn producten, wat nu?"
+
+msgid "FAQ_WARRANTY_QUESTION_4"
+msgstr "Ik heb een klacht waar kan ik terecht?"
+
+msgid "FAQ_WARRANTY_QUESTION_5"
+msgstr "Wanneer wordt mijn serviceaanvraag in behandeling genomen?"
+
+msgid "FAQ_WARRANTY_QUESTION_6"
+msgstr "Hoe snel krijg ik antwoord op mijn klacht?"
+
+msgid "FAQ_WARRANTY_QUESTION_7"
+msgstr "Wat zijn de algemene voorwaarden?"
+
+msgid "FAQ_WARRANTY_QUESTION_8"
+msgstr "PostNL heeft een handtekening maar er is niets afgeleverd, wat nu?"
+
+msgid "FAQ_WARRANTY_ANSWER_1"
+msgstr "Voor alle artikelen die je bij ons koopt geldt de wettelijke garantie. Wettelijke garantie wil zeggen dat een product datgene is of moet doen wat de consument er in alle redelijkheid van mag verwachten. Voor sommige producten geldt ook een fabrieksgarantie. Deze garantie doet niets af aan de wettelijke garantie. Alle producten die Sanitairwinkel via de webwinkel verkoopt, hebben een geldige fabrieksgarantie. Per merk en product kan dit oplopen tot maar liefst 10 jaar. "
+
+msgid "FAQ_WARRANTY_ANSWER_2"
+msgstr "Controleer bij ontvangst van uw bestelling altijd goed de producten. Mocht er onverhoopt schade zijn ontstaan aan een van de artikelen uit uw bestelling, meld dit dan zo snel mogelijk. Na ontdekking van een gebrek kunt u de schade via het formulier <a href=\"/serviceaanvraag/\">serviceaanvraag</a> indienen. Wij proberen altijd binnen 24 uur uw serviceaanvraag in behandeling te nemen (uitgezonderd zon- en feestdagen). Hoe eerder u het meldt, des te eerder de schade kan worden opgelost. Wij verzoeken foto’s mee te sturen, zodat de schade kan worden beoordeeld."
+
+msgid "FAQ_WARRANTY_ANSWER_3"
+msgstr ""
+"Wanneer u ontevreden bent over uw aankoop dan kunt u, binnen de bedenktijd van 30 dagen, retourneren. U kunt uw retour eenvoudig aanmelden via een <a href=\"/retouraanvraag\">retouraanvraag</a>.<br/>"
+"Is het product kapot of niet compleet? Meld deze dan zo snel mogelijk na ontvangst van uw bestelling. U kunt schades melden via een <a href=\"/serviceaanvraag/\">serviceaanvraag</a>."
+""
+""
+
+msgid "FAQ_WARRANTY_ANSWER_4"
+msgstr ""
+"Wanneer u een klacht heeft over een product, service of dienst dan kunt u deze richten aan onze klantenservice per mail. U krijgt van ons binnen 14 dagen na ontvangst van uw klacht een inhoudelijke reactie. Bent u uiteindelijk niet tevreden met het antwoord van een van onze medewerkers, dan kunt u uw klacht schriftelijk indienen bij onze directie. Dit kan uitsluitend schriftelijk naar het volgende adres: <br/><br/>"
+"<b>"
+"    Sanitairwinkel<br/>"
+"    T.a.v. de directie<br/>"
+"    Graafsebaan 141<br/>"
+"5248 NL Rosmalen<br/>"
+"<br/>"
+"</b>"
+"<br/>"
+"Bent u niet tevreden met de afhandeling van uw klacht? Dan kunt u deze voorleggen aan de  <a href=\"https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=NL\" target=\"_blank\">Geschillencommissie via het Europees ODR Platform</a>. (https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=NL)."
+
+msgid "FAQ_WARRANTY_ANSWER_5"
+msgstr ""
+"We streven ernaar om binnen 24 uur uw serviceaanvraag te beantwoorden."
+"<br><br>"
+"Wat we doen na uw serviceaanvraag-melding:"
+"<br><b>Stap 1:</b> Uw servicemelding is in behandeling bij een servicemedewerker van Sanitairwinkel.nl. U wordt op de hoogte gebracht via de mail."
+"<br><b>Stap 2:</b> De servicemedewerker streeft samen met de leverancier naar een oplossing binnen 48 uur en zal u hiervan op de hoogte houden per e-mail."
+"<br><b>Stap 3:</b>  De servicemedewerker informeert u per e-mail over de mogelijke oplossing. Dit gaat in overleg met u."
+""
+
+msgid "FAQ_WARRANTY_ANSWER_6"
+msgstr "We streven ernaar om binnen 24 uur uw vraag te beantwoorden. Indien u een klacht heeft, dan krijgt u binnen 14 dagen na ontvangst van uw klacht een inhoudelijke reactie van ons."
+
+msgid "FAQ_WARRANTY_ANSWER_7"
+msgstr "De algemene verkoopvoorwaarden van Sanitairwinkel kunt u terugvinden via onze <a href=\"/klantenservice/algemene-voorwaarden/\">Algemene Voorwaarden</a>."
+
+msgid "FAQ_WARRANTY_ANSWER_8"
+msgstr "Neem <a href=\"/contact/\">contact</a> op met onze klantenservice."
+
+msgid "FAQ_PAYMENT_QUESTION_1"
+msgstr "Welke betaalmethodes zijn er?"
+
+msgid "COMPANY_HEADING_1"
+msgstr "Over Sanitairwinkel"
+
+msgid "COMPANY_HEADING_2"
+msgstr "Onze cultuur"
+
+msgid "COMPANY_HEADING_3"
+msgstr "Onderdeel van Sawiday Netherlands BV"
+
+msgid "COMPANY_HEADING_4"
+msgstr "Manifest"
+
+msgid "COMPANY_HEADING_5"
+msgstr "Sanitairwinkel tijdlijn"
+
+msgid "COMPANY_HEADING_6"
+msgstr "Neem alvast een kijkje"
+
+msgid "COMPANY_BLOCK_1"
+msgstr "Innovatie binnen de markt: Sanitairwinkel voorziet iedereen van de perfecte badkamer. De klant staat daarbij immer centraal. Bijna 15 jaar geleden startte Sanitairwinkel daarom met een webshop én showroom. Dit stelt klanten in staat online te bestellen, maar ook om het product eerst in het echt te bekijken. De combinatie van online en offline verkoop was nieuw, maar sloeg goed aan. Al snel werd uitgebreid naar België en Frankrijk, zonder focus op de klant te verliezen. Inmiddels heeft Sanitairwinkel diverse prijzen gewonnen én zijn ze online marktleider op het gebied van sanitair. De missie is echter niet veranderd: de klant staat nog steeds centraal, waarbij ieders badkamerwens wordt vervuld met persoonlijk advies en een uitstekende service. "
+
+msgid "COMPANY_BLOCK_2"
+msgstr ""
+"<b>Persoonlijk</b><br>"
+"Met aandacht voor iedere klant creëren we een warm welkom. We nemen de tijd voor elke klant en nemen u mee op een aangename klantreis, zowel in de showroom als in onze webshops. <br><br>"
+" "
+"<b>Plezier</b><br>"
+"Wij willen dat een bezoek aan één van onze showrooms een plezierige ervaring voor u is. We houden van een prettig gesprek, waarin wij u vanuit een adviserende rol zo goed mogelijk proberen te helpen. Een badkamer uitzoeken is een serieuze, maar ook leuke zaak. Daarnaast hebben onze showrooms een koffiehoek waar u even rustig kunt nadenken. Ook aan de kinderen is gedacht: zij kunnen in de kinderhoek spelen terwijl u zich richt op uw droombadkamer!<br><br>"
+" "
+"<b>Prestatie</b><br>"
+"Reputatie is mooi, maar prestatie is beter! Wij willen al uw wensen uit laten komen en het u zo gemakkelijk mogelijk maken om een badkamer uit te kiezen. Daarom staan wij in de showrooms, telefonisch en per mail altijd voor u klaar.<br><br>"
+""
+"<b>Professioneel</b><br>"
+"Elke dag staan er deskundige medewerkers klaar om u zo goed mogelijk te helpen. Niet alleen met onze kennis, maar ook met een vernieuwend assortiment en gebruiksvriendelijke website. We hebben het hele aankoopproces goed doordacht en staan ook na de aankoop nog altijd voor u klaar."
+""
+
+msgid "COMPANY_BLOCK_3"
+msgstr "Sanitairwinkel is onderdeel van Sawiday Netherlands B.V., een snelgroeiende en ambitieuze organisatie gericht op woongerelateerde webshops gecombineerd met fysieke showrooms. Met een klantvriendelijke insteek en door optimaliseren van de website wil Sawiday Netherlands B.V. door blijven groeien. "
+
+msgid "COMPANY_BLOCK_4"
+msgstr "Sanitairwinkel heeft service hoog in het vaandel staan, met dit manifest willen we u laten zien wat dat voor ons betekent en hoe we de beste service blijven nastreven."
+
+msgid "COMPANY_RORIX_LINK"
+msgstr "Bekijk Sawiday.nl"
+
+msgid "COMPANY_MANIFEST_LINK"
+msgstr "Bekijk het manifest"
+
+msgid "COMPANY_TIMELINE"
+msgstr ""
+"<h2 class=\"clean-head indent-content\">2019</h2><br>"
+"<ul class=\"indent-content no-style\">"
+"    <li>In België opent Sanitairwinkel haar tweede showroom, in Zaventem.</li>"
+"</ul>"
+"<ul class=\"indent-content no-style\">"
+"   <li>Sanitairwinkel opent een showroom in Alkmaar(NL).</a></li>"
+"</ul>"
+"<ul class=\"indent-content no-style\">"
+"   <li>Sanitairwinkel opent een showroom in Tilburg(NL).</a></li>"
+"</ul>"
+"<br>"
+"<h2 class=\"clean-head indent-content\">2017</h2>"
+"<ul class=\"indent-content no-style\">"
+"   <li>Start <a href=\"https://www.sawiday.fr\">Magasinsalledebains.fr</a></li>"
+"    <li>Sanitairwinkel opent showroom in Arnhem(NL).</li>"
+"</ul>"
+"<br>"
+"<h2 class=\"clean-head indent-content\">2016</h2>"
+"<ul class=\"indent-content no-style\">"
+"    <li>Sanitairwinkel opent showroom in Rotterdam(NL).</li>"
+"<li>Sanitairwinkel verhuist van Kalmthout naar Schoten(BE).</li>"
+"<li>68ste plaats in de Twinkle Top100.</li>"
+"</ul>"
+"<br>"
+"<h2 class=\"clean-head indent-content\">2015</h2>"
+"<ul class=\"indent-content no-style\">"
+"    <li>Showroom Rosmalen verhuist naar een grotere showroom.</li>"
+"    <li>Hoofdkantoor Sawiday verhuist naar nieuwe locatie.</li>"
+"    <li>83ste plaats in de Twinkle Top100.</li>"
+"    <li>Start <a href=\"https://www.sawiday.be\">Magasinsalledebains.be</a></li>"
+"    <li>Magazijn verhuist naar een groter magazijn.</li>"
+"</ul>"
+"<br>"
+"<h2 class=\"clean-head indent-content\">2014</h2>"
+"<ul class=\"indent-content no-style\">"
+"    <li>Sanitairwinkel is inmiddels online marktleider op het gebied van badkamers en sanitair in Nederland én België.</li>"
+"</ul>"
+"<br>"
+"<h2 class=\"clean-head indent-content\">2013</h2>"
+"<br>"
+"<ul class=\"indent-content no-style\">"
+"    <li>126ste plaats bij Deloitte Technology Fast500 (wereldwijd)</li>"
+"    <li>Sanitairwinkel opent showroom in Amsterdam (NL).</li>"
+"    <li>82ste plaats in de Twinkle Top100.</li>"
+"</ul>"
+"<br>"
+"<h2 class=\"clean-head indent-content\">2012</h2>"
+"<ul class=\"indent-content no-style\">"
+"    <li>2de plaats bij de Deloitte Technology Fast50 (Benelux).</li>"
+"</ul>"
+"<br>"
+"<h2 class=\"clean-head indent-content\">2011</h2>"
+"<ul class=\"indent-content no-style\">"
+"    <li>Tweede plaats FD Gazelle awards (Zuid-Nederland).</li>"
+"    <li>95ste plaats in de Twinkle top100.</li>"
+"    <li>Sanitairwinkel Rosmalen verhuist naar nieuwe showroom.</li>"
+"</ul>"
+"<br>"
+"<h2 class=\"clean-head indent-content\">2010</h2>"
+"<ul class=\"indent-content no-style\">"
+"    <li>Sanitairwinkel opent showroom in Kalmthout(BE).</li>"
+"    <li>Sanitairwinkel wint Gouden Gazelle van Noord-Brabant.</li>"
+"    <li>Sanitairwinkel is vanaf nu thuiswinkel gecertificeerd.</li>"
+"    <li>Start <a href=\"https://www.sanitairwinkel.be/\">Sanitairwinkel.be</a></li>"
+"</ul>"
+"<br>"
+"<h2 class=\"clean-head indent-content\">2009</h2>"
+"<ul class=\"indent-content no-style\">"
+"    <li>Sanitairwinkel wint Belgische makeover webshop.</li>"
+"</ul>"
+"<br>"
+"<h2 class=\"clean-head indent-content\">2007</h2>"
+"<ul class=\"indent-content no-style\">"
+"    <li>Start <a href=\"https://www.sanitairwinkel.nl\">Sanitairwinkel.nl</a></li>"
+"    <li>Sanitairwinkel opent eerste showroom in Rosmalen(NL).</li>"
+"</ul>"
+"<br>"
+
+msgid "FAQ_DELIVERY_HEADING_1"
+msgstr "Bezorgen en afhalen"
+
+msgid "FAQ_MISC_HEADING_1"
+msgstr "Overig"
+
+msgid "FAQ_ORDER_HEADING_1"
+msgstr "Bestellen"
+
+msgid "FAQ_PAYMENT_HEADING_1"
+msgstr "Betalen"
+
+msgid "FAQ_RETURN_HEADING_1"
+msgstr "Retourneren en annuleren"
+
+msgid "FAQ_WARRANTY_HEADING_1"
+msgstr "Garantie"
+
+msgid "CONTACT_OPTION_7_HEADING"
+msgstr "Of kom langs in één van onze showrooms"
+
+msgid "CONTACT_OPTION_6_BLOCK"
+msgstr "U kunt ons altijd bereiken via onderstaand formulier. Vul uw gegevens in en kies een onderwerp, dan nemen we daarna zo spoedig mogelijk contact met u op."
+
+msgid "RETURN_REQUEST_HERO_QUOTE"
+msgstr "Niet goed? Geld terug!"
+
+msgid "PAYMENT_HEADING_8"
+msgstr "PayPal"
+
+msgid "PAYMENT_BLOCK_10"
+msgstr ""
+"<p>Sanitairwinkel biedt u ook de mogelijkheid om te betalen met uw PayPal-rekening. </p>"
+"<p>- U voert uw e-mailadres en PayPal-wachtwoord in, waarna de betaling direct wordt verwerkt. </p>"
+"<p>- Zodra uw betaling is verwerkt, nemen wij u bestelling in behandeling. </p>"
+"<p><br></p>"
+"<p><br></p>"
+"<p><br></p>"
+"<p>Overzicht</p>"
+"<table>"
+"	<tbody>"
+"		<tr>"
+"			<td width=\"226\"><p><strong>Betaalmethode</strong></p></td>"
+"			<td width=\"189\"><p><strong>Maximum bedrag</strong></p></td>"
+"			<td width=\"189\"><p><strong>Betaalkosten</strong></p></td>"
+"		</tr>"
+"		<tr>"
+"			<td width=\"226\"><p><strong>iDEAL</strong></p></td>"
+"			<td width=\"189\"><p>Geen</p></td>"
+"			<td width=\"189\"><p>Geen</p></td>"
+"		</tr>"
+"		<tr>"
+"			<td width=\"226\"><p><strong>Vooruitbetaling</strong></p>"
+"			</td><td width=\"189\"><p>Geen</p></td>"
+"			<td width=\"189\"><p>Geen</p></td>"
+"		</tr>"
+"		<tr>"
+"			<td width=\"226\"><p><strong>Creditcard</strong></p></td>"
+"			<td width=\"189\"><p>€5000,-.</p></td>"
+"			<td width=\"189\"><p>Geen</p></td>"
+"		</tr>"
+"		<tr>"
+"			<td width=\"226\"><p><strong>Pin/Contant</strong></p></td>"
+"			<td width=\"189\"><p>Geen</p></td>"
+"			<td width=\"189\"><p>Geen</p></td>"
+"		</tr>"
+"		<tr>"
+"			<td width=\"226\"><p><strong>Achteraf betalen – Klarna factuur</strong></p></td>"
+"			<td width=\"189\"><p>€750,-.</p></td>"
+"			<td width=\"189\"><p>€Geen</p></td>"
+"		</tr>"
+"		<tr>"
+"			<td width=\"226\"><p><strong>PayPal</strong></p></td>"
+"			<td width=\"189\"><p>Geen</p></td>"
+"			<td width=\"189\"><p>Geen</p></td>"
+"		</tr>"
+"	</tbody>"
+"</table>"
+
+msgid "FAQ_MISC_QUESTION_13"
+msgstr "Wat betekent de laagste prijsgarantie op producten?"
+
+msgid "FAQ_MISC_ANSWER_13"
+msgstr ""
+"Sanitairwinkel heeft niet alleen het grootste assortiment, maar ook scherpe prijzen. Op een deel van ons assortiment geven we dan ook een laagste prijs garantie.<br><br>"
+""
+"<b>Voorwaarden laagste prijs garantie:</b><br><br>"
+""
+"<UL>"
+"<LI>Alleen van toepassing op door Sanitairwinkel geselecteerde producten dan wel merken, vermeld op de productpagina van het betreffende product</LI>"
+"<LI>De prijs moet controleerbaar zijn en vermeld worden door een Nederlandse aanbieder</LI>"
+"<LI>De laatste prijscheck wordt gedaan door medewerkers van Sanitairwinkel</LI>"
+"<LI>Niet geldig voor speciale acties, outlet producten en showroommodellen.</LI>"
+"</UL>"
+"<br>"
+"Lagere prijs gezien? Neem dan <a href=\"\"/contact/\">contact</a> met ons op."
+""
+
+msgid "FAQ_PAYMENT_QUESTION_7"
+msgstr ""
+"Wat moet ik doen als mijn betaling mislukt of is geweigerd?"
+""
+
+msgid "FAQ_PAYMENT_ANSWER_7"
+msgstr ""
+"Indien u problemen ervaart tijdens het betaalproces neem dan contact op met <a href=\"/contact/\">onze klantenservice</a>."
+""
+
+msgid "PHONENUMBER_TOOLTIP"
+msgstr "Houd uw ordernummer of offertenummer bij de hand."
+
+msgid "DEVIATING_OPENING_TIMES"
+msgstr "Afwijkende bereikbaarheid"
+
+msgid "CONTACT_OPTION_WHATSAPP_BLOCK"
+msgstr "Voeg ons nummer toe aan uw contacten en u kunt direct met ons appen."
+
+msgid "CONTACT_OPTION_WHATSAPP_HEADING"
+msgstr "WhatsApp"
+
+msgid "CONTACT_BIC"
+msgstr "BIC"
+
+msgid "DELIVERY_HEADING_9"
+msgstr "Bezorgen op afspraak"
+
+msgid "DELIVERY_BLOCK_9"
+msgstr ""
+"Tijdens de bestelprocedure kunt u een dag kiezen waarop u de bestelling geleverd wilt hebben. Levering is pas mogelijk vanaf het moment dat de door u bestelde producten bij ons of bij onze leverancier op voorraad zijn. "
+"Het is op dit moment helaas nog niet mogelijk om een dagdeel of tijd af te spreken."
+
+msgid "CONTACT_OPTION_WHATSAPP_NUMBER"
+msgstr "WhatsApp naar 0683166820"
+
+msgid "CONTACT_OPTION_WHATSAPP_NUMBER_LINK"
+msgstr "https://api.whatsapp.com/send?phone=31683166820"
+
+msgid "CONTACT_BUTTON_WHATSAPP"
+msgstr "Whatsappen"
+
+msgid "FAQ_PAYMENT_QUESTION_8"
+msgstr "Wat is Buckaroo?"
+
+msgid "FAQ_PAYMENT_ANSWER_8"
+msgstr "Buckaroo verwerkt de betalingen op Sanitairwinkel.nl. Ze staan onder toezicht van De Nederlandse Bank en de betalingen verlopen via een Stichting Derdengelden rekening."
+
+msgid "FAQ_PAYMENT_QUESTION_9"
+msgstr ""
+"Hoe voer ik een actiecode in?"
+""
+
+msgid "FAQ_PAYMENT_ANSWER_9"
+msgstr "In je <a href=\"/winkelwagen/\">winkelwagentje</a> vind je aan de rechterkant onder het overzicht de optie om een actiecode in te vullen. Wanneer je hier je code invoert wordt de korting meteen verrekend."
+
+msgid "FAQ_WARRANTY_QUESTION_9"
+msgstr ""
+
+msgid "FAQ_WARRANTY_ANSWER_9"
+msgstr ""
+
+msgid "FAQ_SUBJECT_1"
+msgstr "Bestellen"
+
+msgid "FAQ_SUBJECT_2"
+msgstr "Betalen"
+
+msgid "FAQ_SUBJECT_3"
+msgstr "Bezorgen & afhalen"
+
+msgid "FAQ_SUBJECT_4"
+msgstr "Annuleren & retour"
+
+msgid "FAQ_SUBJECT_5"
+msgstr "Garantie & klachten"
+
+msgid "DIRECT_ACTIONS_TITLE"
+msgstr "Direct regelen"
+
+msgid "DIRECT_ACTION_1"
+msgstr "Bestelstatus"
+
+msgid "DIRECT_ACTION_2"
+msgstr "Service aanvraag"
+
+msgid "DIRECT_ACTION_3"
+msgstr "Retour aanvraag"
+
+msgid "CONTACT_OPTIONS_TITLE"
+msgstr "Heb je verder nog vragen?"
+
+msgid "CONTACT_OPTIONS_SUBTITLE"
+msgstr ""
+"Onze klantenservice is vandaag tot "
+"                <span class=\"service-closing-time\">20.00</span> bereikbaar | <a href=tel:+31735220688>073-522 06 88</a> "
+""
+
+msgid "CONTACT_OPTION_1_TITLE"
+msgstr "Bel ons"
+
+msgid "CONTACT_OPTION_1_TEXT"
+msgstr "073-522 06 88"
+
+msgid "CONTACT_OPTION_1_SUBTEXT"
+msgstr ""
+"tussen <span class=\"service-opening-time\">09:00</span> - "
+"                <span class=\"service-closing-time\">20:00</span><br>"
+""
+
+msgid "CONTACT_OPTION_2_TITLE"
+msgstr ""
+
+msgid "CONTACT_OPTION_2_TEXT"
+msgstr "06-83166820"
+
+msgid "CONTACT_OPTION_2_SUBTEXT"
+msgstr ""
+"tussen <span class=\"service-opening-time\">09:00</span> - "
+"                <span class=\"service-closing-time\">20:00</span>"
+
+msgid "CONTACT_OPTION_3_TITLE"
+msgstr "<span data-text=\"Klik hier om direct met ons te chatten\">Chat met ons</span>"
+
+msgid "CONTACT_OPTION_3_TEXT"
+msgstr ""
+"<span data-text=\"Klik hier om direct met ons te chatten\">Klik hier om direct met ons te chatten</span> "
+"                <span class=\"robin-customer-service__name\"></span>"
+
+msgid "CONTACT_OPTION_3_SUBTEXT"
+msgstr "<span data-text=\"Online\"></span>"
+
+msgid "CONTACT_OPTION_4_TITLE"
+msgstr "Bezoek een showroom"
+
+msgid "CONTACT_OPTION_4_TEXT"
+msgstr "11 moderne showrooms"
+
+msgid "CONTACT_OPTION_4_SUBTEXT"
+msgstr "bekijk de openingstijden"
+
+msgid "CONTACT_OPTION_5_TITLE"
+msgstr ""
+
+msgid "CONTACT_OPTION_5_TEXT"
+msgstr "Gebruik ons formulier"
+
+msgid "CONTACT_OPTION_5_SUBTEXT"
+msgstr "en ontvang z.s.m. antwoord"
+
+msgid "OVERVIEW_MOST_ASKED_TITLE"
+msgstr "Meest gestelde vragen"
+
+msgid "OVERVIEW_FAQ_SUBJECTS_TITLE"
+msgstr "Of kies een onderwerp"
+
+msgid "FEEDBACK_TITLE"
+msgstr "Is dit wat je zocht?"
+
+msgid "FEEDBACK_BUTTON_YES"
+msgstr "Ja"
+
+msgid "FEEDBACK_BUTTON_NO"
+msgstr "Nee"
+
+msgid "FEEDBACK_TEXT_NO"
+msgstr ""
+"Vervelend dat je geen antwoord hebt gekregen op je vraag.<br/>"
+"                Je kunt altijd <a href=\"/contact/\">contact opnemen</a> met onze klantenservice."
+
+msgid "CUSTOMERSERVICE_MENU_BUTTON"
+msgstr "Kies onderwerp"
+
+msgid "FAQ_PAYMENT_ANSWER_1"
+msgstr ""
+"<p>U kunt bij ons op verschillende manieren betalen en de verzendkosten zijn vanaf €100,- gratis:</p>"
+"<p><strong>iDEAL: </strong>Betaal direct via de vertrouwde omgeving van uw bank.</p>"
+"<p><strong>iDEAL in3: </strong>Spreid je betaling in 3 keer zonder rente.</p>"
+"<p><strong>Vooraf overmaken: </strong>Wij nemen uw bestelling in behandeling zodra uw betaling binnen is. Daar kunnen echter wel 1-3 werkdagen overheen gaan. Daarom raden we iDEAL aan, mits uw bank dat ondersteunt.</p>"
+"<p><strong>Betalen in de showroom: </strong>Kies ervoor om bij een van onze showrooms te betalen. In onze showrooms is het mogelijk om direct met PIN of contant te betalen bij onze afhaalbalie. Bij hoge orderwaardes nemen we contact met u op voor een aanbetaling.</p>"
+"<p><strong>Creditcard: </strong>Betaal eenvoudig met uw creditcard.</p>"
+"<p><strong>PayPal: </strong>Betaal direct met uw PayPal-rekening.</p>"
+"<p><strong>Achteraf betalen met Klarna </strong>Bestel nu en betaal later (binnen 30 dagen). Het maximale orderbedrag is €750,-.</p>"
+"<p><strong>Cadeaubon: </strong>Als u een <a href=\"/badkamer-accessoires/cadeaubonnen/\">cadeaubon</a> heeft kunt u hier natuurlijk ook mee betalen.</p>"
+""
+
+msgid "TERMS_AND_CONDITIONS_HEADING_1"
+msgstr "Algemene Voorwaarden"
+
+msgid "ORDER_STATUS_PICKUP_ADDRESS"
+msgstr "Afhaaladres"
+
+msgid "SHOWROOMS_OPENS_ON"
+msgstr "Binnenkort geopend"
+

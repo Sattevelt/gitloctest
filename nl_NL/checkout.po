@@ -1,0 +1,273 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "PAYMENT_COSTS"
+msgstr "betaalkosten"
+
+msgid "USERDATA_TITLE"
+msgstr "Vul je persoonsgegevens in"
+
+msgid "USERDATA_TITLE_LOGGEDIN"
+msgstr "Je gegevens"
+
+msgid "USERDATA_PREVIOUS_PAGE"
+msgstr "Vorige"
+
+msgid "USERDATA_NEXT_PAGE"
+msgstr "Volgende stap"
+
+msgid "USERDATA_CREATE_ACCOUNT"
+msgstr ""
+"Vul hieronder een wachtwoord in "
+"                (minimaal 6 tekens, waarvan minstens 1 cijfer en letter)."
+
+msgid "USERDATA_CUSTOMER_ACCOUNT_EXISTS"
+msgstr "Je hebt al een account. Klik <a href=\"#\"  class=\"open-login-form\">hier</a> om in te loggen"
+
+msgid "USERDATA_DIFFERENT_ADDRESS_POPUP_TITLE"
+msgstr "Kies een ander adres"
+
+msgid "USERDATA_LOGIN_POPUP_TITLE"
+msgstr "Inloggen"
+
+msgid "USERDATA_ADDRESS_UNKNOWN"
+msgstr "We konden de combinatie van postcode en huisnummer niet vinden.Klopt deze wél? Vul dan je straatnaam en woonplaats in."
+
+msgid "DELIVERY_PAGE_TITLE"
+msgstr "Kies een levermethode"
+
+msgid "DESTINATIONS_CUSTOMER_NICE_NAME"
+msgstr "Bezorgen"
+
+msgid "DESTINATIONS_DELIVERYPOINT_NICE_NAME"
+msgstr "Afhalen bij PostNL afhaalpunt"
+
+msgid "DESTINATIONS_SHOWROOM_NICE_NAME"
+msgstr "Afhalen in één van onze showrooms"
+
+msgid "DELIVERY_DELIVERY_METHOD"
+msgstr "Leveringsmethode"
+
+msgid "DELIVERY_PREVIOUS_PAGE"
+msgstr "Vorige"
+
+msgid "DELIVERY_NEXT_PAGE"
+msgstr "Volgende stap"
+
+msgid "DELIVERY_NOTICE"
+msgstr ""
+"Door de combinatie van de producten in je bestelling kan de levertijd afwijken van de "
+"                individuele producten"
+
+msgid "PICKUP_FROM"
+msgstr "Afhalen vanaf"
+
+msgid "PICKUPPOINTS"
+msgstr "Ophaalpunten"
+
+msgid "DELIVERY_APPOINTMENT"
+msgstr "Bezorging na afspraak"
+
+msgid "DELIVERY_PICK_A_DATE"
+msgstr "Kies een bezorgdatum"
+
+msgid "DELIVERY_LATER"
+msgstr "Later"
+
+msgid "DELIVERY_PICK_LATER_DATE"
+msgstr "Later bezorgmoment kiezen"
+
+msgid "DELIVERY_CHOOSE_TIMEFRAME"
+msgstr "Kies een bezorgmoment"
+
+msgid "DELIVERY_DIRECT"
+msgstr "Snelst mogelijke bezorging"
+
+msgid "DELIVERY_INDICATION"
+msgstr "Levertijdindicatie"
+
+msgid "DELIVERY_INDICATION_TEXT"
+msgstr "Wij nemen contact met je op zodra je bestelling gereed is voor verzending"
+
+msgid "DELIVERY_WILL_BE_DELIVERED"
+msgstr "Je bestelling wordt bezorgd op:"
+
+msgid "COMPLETED_TITLE"
+msgstr "Bedankt voor je bestelling"
+
+msgid "COMPLETED_CONTENT"
+msgstr ""
+"<p>Je bestelnummer is: <strong>%d</strong></p>"
+"			<p>Een bevestiging van je bestelling wordt verstuurd naar je opgegeven e-mailadres.<br/>"
+"			Je kunt de actuele status van de bestelling altijd bekijken in de bestelstatus.</p>"
+
+msgid "COMPLETED_OUTSTANDING_AMOUNT"
+msgstr "Openstaand bedrag: € <strong>%1$s</strong>"
+
+msgid "COMPLETED_PAYMENT_TITLE"
+msgstr "Betaling"
+
+msgid "COMPLETED_VIDEO_TITLE"
+msgstr "Wat gebeurt er nu met je bestelling?"
+
+msgid "COMPLETED_VIDEO"
+msgstr ""
+"<iframe class=\"embed-responsive-item\" "
+"                                    src=\"//www.youtube.com/embed/aBVcAvYSNrI?rel=0&autoplay=1\" allowfullscreen>"
+"                                    </iframe>"
+
+msgid "SIDEBAR_TITLE"
+msgstr "Samenvatting bestelling: %1$s product(en)"
+
+msgid "SIDEBAR_USERDATA_TITLE"
+msgstr "Gegevens"
+
+msgid "SIDEBAR_DELIVERY_ADDRESS"
+msgstr "Bezorgadres"
+
+msgid "SIDEBAR_BUSINESS_DETAILS"
+msgstr "Factuurgegevens"
+
+msgid "SIDEBAR_DELIVERY_METHOD"
+msgstr "Levermethode"
+
+msgid "SIDEBAR_CART_TITLE"
+msgstr "Winkelwagen"
+
+msgid "PAYMENT_TITLE"
+msgstr "Je betaalmethode"
+
+msgid "PAYMENT_PREVIOUS_PAGE"
+msgstr "Vorige"
+
+msgid "PAYMENT_NO_COSTS"
+msgstr "Geen betaalkosten"
+
+msgid "PAYMENT_MOST_USED_METHOD"
+msgstr "Meest gekozen betaalmethode."
+
+msgid "PAYMENT_BUTTON"
+msgstr "Afrekenen"
+
+msgid "PAYMENT_WRAP_UP_DESCRIPTION"
+msgstr ""
+"Door op de knop Afrekenen te klikken gaat u akkoord met onze "
+"                                   <a href=\"/klantenservice/algemene-voorwaarden/\" target=\"_blank\" data-gtm-event=\"click\" "
+"                                   data-gtm-category=\"Checkout\" data-gtm-action=\"Payment methods\" "
+"                                   data-gtm-label=\"Terms\">Algemene Voorwaarden</a>"
+
+msgid "PICKUPPOINT_SEARCHING_FOR_LOCATIONS_NEARBY"
+msgstr "We zoeken naar locaties bij je in de buurt"
+
+msgid "PICKUPPOINT_PICKUP_WHERE"
+msgstr "Waar wil je de bestelling ophalen?"
+
+msgid "PICKUPPOINT_CLOSE_BY"
+msgstr "Ophaalpunten bij je in de buurt"
+
+msgid "PICKUPPOINT_NOTIFICATION_MESSAGE"
+msgstr ""
+"<p>Ophalen bij geselecteerd adres kan vanaf<br /><br /> "
+"                <span id=\"pickupDate\"><strong>%s</strong></span> <br /><br />(let op: dit is slechts een indicatie). "
+"                </p><p>Je pakketje blijft 3 weken bij het afhaalpunt liggen.</p>"
+
+msgid "PICKUPSHOWROOM_PICK_A_SHOWROOM"
+msgstr "Kies een showroom"
+
+msgid "PICKUPPOINT_NO_RESULTS"
+msgstr "Op dit adres konden helaas geen afhaalpunten gevonden worden."
+
+msgid "LOGIN_TITLE"
+msgstr "Bestel als gast of log in"
+
+msgid "LOGIN_PREVIOUS_PAGE"
+msgstr "Vorige"
+
+msgid "LOGIN_CONTINUE_AS_GUEST_TITLE"
+msgstr "Nieuw bij Sanitairwinkel"
+
+msgid "LOGIN_CONTINUE_AS_GUEST_DESCRIPTION"
+msgstr "Je hoeft geen account aan te maken"
+
+msgid "LOGIN_FORM_TITLE"
+msgstr "Inloggen"
+
+msgid "LOGIN_FORM_DESCRIPTION"
+msgstr "Log in met je Sanitairwinkel account"
+
+msgid "DELIVERY_TRANSPORTER_MESSAGE_SPREUWEL"
+msgstr ""
+"Deze bestelling wordt geleverd door Van Spreuwel transport."
+"                Je ontvangt een email met een Track & Trace-link met een tijdvak van 3 uur waarin je bestelling"
+"                wordt bezorgd."
+
+msgid "SAVE_ERROR_TITLE"
+msgstr "Fout bij verwerken order"
+
+msgid "SAVE_ERROR_DESCRIPTION"
+msgstr "Uw order kon helaas niet worden verwerkt door een fout. Neem alstublieft contact met ons op."
+
+msgid "USERDATA_ADDRESS_TITLE"
+msgstr "Adresgegevens"
+
+msgid "SHOWROOM_PICKUP_HOURS"
+msgstr "<p>Ma t/m vr 10:00 - 17:00<br />Za 10:00 - 12:00</p>"
+
+msgid "DELIVERYTIME_DIFFERS_BY_PRODUCT_COMBINATION"
+msgstr "<b>BELANGRIJK: </b>Door de combinatie van de producten uit je bestelling kan de levertijd afwijken van de individuele producten"
+
+msgid "USERDATA_CREATE_ACCOUNT_TITLE"
+msgstr "<strong>Account</strong> (aanbevolen)"
+
+msgid "FORM_TITLE"
+msgstr "Bestellen"
+
+msgid "FORM_EMAIL_TEXT"
+msgstr ""
+"<p>Vul hier je e-mailadres in om in te loggen of om verder te gaan zonder "
+"                account.</p>"
+
+msgid "FORM_PASSWORD_TEXT"
+msgstr ""
+"<p>Wat leuk om je weer te zien! Met je wachtwoord log je in en halen we je "
+"                gegevens erbij.</p>"
+
+msgid "FORM_BUTTON_CONTINUE"
+msgstr "Ga door"
+
+msgid "FORM_BUTTON_NO_LOGIN"
+msgstr "Doorgaan zonder inloggen"
+
+msgid "COMPLETED_SOCIAL_CONTENT"
+msgstr ""
+"<p>"
+"                    Elke maand kiezen wij vijf winnaars die een <b>cadeaubon t.w.v. €100,- </b>winnen.<br>"
+"                    Deel een foto van jouw Sanitairwinkel-aankoop op Instagram met #mijnsanitair en tag @sanitairwinkel. Of stuur een foto van het geïnstalleerde product met bestelnummer via de mail: actie@sanitairwinkel.nl.<br>"
+"                    <a href=\"https://www.sanitairwinkel.nl/yessawi/winactie/\">Zo doe je mee.</a>"
+"                </p>"
+
+msgid "COMPLETED_SOCIAL_TITLE"
+msgstr "#mijnsanitair"
+
+msgid "COMPLETED_SOCIAL_BUTTON_URL"
+msgstr "https://www.instagram.com/sanitairwinkel/"
+
+msgid "COMPLETED_SOCIAL_BUTTON_TEXT"
+msgstr "Volg @sanitairwinkel op Instagram voor meer inspiratie."
+
+msgid "DELIVERY_CO2_NEUTRAL_TRANSPORT"
+msgstr "CO<sub>2</sub>-neutraal bezorgd door onze transporteur"
+
+msgid "CHECKOUT_MORE_ADDRESSES"
+msgstr "Bekijk meer adressen"
+

@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "serviceaanvraag"
+msgstr "serviceaanvraag"
+
+msgid "bestelstatus"
+msgstr "bestelstatus"
+
+msgid "winkelwagen"
+msgstr "winkelwagen"
+
+msgid "nieuwsbrief"
+msgstr "nieuwsbrief"
+
+msgid "aanmelden"
+msgstr "aanmelden"
+
+msgid "wijzigen"
+msgstr "wijzigen"
+
+msgid "afmelden"
+msgstr "afmelden"
+
+msgid "merken"
+msgstr "merken"
+
+msgid "zoeken"
+msgstr "zoeken"
+
+msgid "retouraanvraag"
+msgstr "retouraanvraag"
+
+msgid "aangevraagd"
+msgstr "aangevraagd"
+
+msgid "gegevens"
+msgstr "gegevens"
+
+msgid "overzicht"
+msgstr "overzicht"
+
+msgid "afgerond"
+msgstr "afgerond"
+
+msgid "fout"
+msgstr "fout"
+
+msgid "afhaalpunt"
+msgstr "afhaalpunt"
+
+msgid "resetpassword"
+msgstr "wachtwoordreset"
+
+msgid "customer"
+msgstr "klant"
+
+msgid "enter"
+msgstr "invoeren"
+
+msgid "maillink"
+msgstr "mail"
+
+msgid "set"
+msgstr "instellen"
+
+msgid "accountactivation"
+msgstr "accountactivatie"
+
+msgid "activate"
+msgstr "activeer"
+
+msgid "setpassword"
+msgstr "wachtwoord-instellen"
+
+msgid "inloggen"
+msgstr "inloggen"
+
+msgid "SCHEDULE"
+msgstr "inplannen"
+
+msgid "SHOPPING_CART"
+msgstr "winkelwagen"
+
+msgid "SHOPPING_CART_CUSTOMER_DATA"
+msgstr "gegevens"
+
+msgid "SHOPPING_CART_LOGIN"
+msgstr "login"
+
+msgid "SHOPPING_CART_DELIVERY"
+msgstr "leveringswijze"
+
+msgid "SHOPPING_CART_PAYMENT"
+msgstr "betaling"
+
+msgid "SHOPPING_CART_FAILED"
+msgstr "fout"
+
+msgid "SHOPPING_CART_COMPLETED"
+msgstr "afgerond"
+
+msgid "SHOPPING_CART_ADD_PRODUCT"
+msgstr "voeg-toe"
+
+msgid "SHOPPING_CART_CHANGE_PRODUCT_AMOUNT"
+msgstr "update"
+
+msgid "SHOPPING_CART_REMOVE_PRODUCT"
+msgstr "verwijder"
+
+msgid "SHOPPING_CART_ADD_PROMOTION"
+msgstr "voeg-promotie-toe"
+
+msgid "SHOPPING_CART_STORE_AND_MAIL"
+msgstr "mail"
+
+msgid "SHOPPING_CART_RESTORE"
+msgstr "herstel"
+
+msgid "SHOPPING_CART_PAY_RETRY"
+msgstr "order-betalen"
+
+msgid "FINALIZE_FAILED"
+msgstr "afrondenmislukt"
+
+msgid "ORDER"
+msgstr "bestelling"
+
+msgid "ORDER_PAYMENT"
+msgstr "betaling"
+
+msgid "ORDER_HANDLE_PAYMENT"
+msgstr "afhandeling"
+
+msgid "ADD_GIFTCARD"
+msgstr "cadeaubon-toevoegen"
+
+msgid "PAYMENT_BY_GIFTCARD"
+msgstr "betaal-met-cadeaubon"
+
+msgid "VALIDATE_GIFTCARD"
+msgstr "cadeaubon-valideren"
+
+msgid "SCHEDULE_PROCESS"
+msgstr "inplannen-verwerken"
+
+msgid "COMPARE_PRODUCTS"
+msgstr "vergelijken"
+
+msgid "REMOVE_GIFTCARD"
+msgstr "verwijder-cadeaubon"
+
+msgid "VISITREQUEST"
+msgstr "afspraakverzoek"
+
+msgid "VISITREQUEST_PROCESS"
+msgstr "verwerk"
+
+msgid "ORDER_FINALIZE_PAYMENT"
+msgstr "finaliseren"
+
+msgid "SEARCH_PAGE_TITLE"
+msgstr "Zoekresultaten voor %s"
+
+msgid "SEARCH_URL"
+msgstr "zoeken"
+
+msgid "SHOPPING_CART_REMOVE_PROMOTION"
+msgstr "verwijder-promotie"
+
+msgid "QUOTATION"
+msgstr "offerte"
+
+msgid "ACCEPT_QUOTATION"
+msgstr "akkoord"
+
+msgid "EDIT"
+msgstr "wijzigen"
+
+msgid "COMPARE_QUOTATION"
+msgstr "offerte"
+
+msgid "GLOSSARY"
+msgstr "begrippenlijst"
+
+msgid "FLOWBOX"
+msgstr "mijnsanitair"
+
+msgid "CUSTOMER_ACCOUNT"
+msgstr "account"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_LIST"
+msgstr "adressen"
+
+msgid "CUSTOMER_ACCOUNT_DETAILS"
+msgstr "gegevens"
+
+msgid "CUSTOMER_ACCOUNT_ORDER_OVERVIEW"
+msgstr "bestellingen"
+
+msgid "CUSTOMER_ACCOUNT_PREFERENCES"
+msgstr "voorkeuren"
+
+msgid "CUSTOMER_ACCOUNT_DISCOUNTS"
+msgstr "kortingen"
+
+msgid "CUSTOMER_ACCOUNT_LOGIN"
+msgstr "inloggen"
+
+msgid "CUSTOMER_ACCOUNT_LOGOUT"
+msgstr "uitloggen"
+
+msgid "NEW"
+msgstr "nieuw"
+
+msgid "CUSTOMER_ACCOUNT_CREATION"
+msgstr "registreer"
+
+msgid "URL_WISHLIST"
+msgstr "verlanglijst"
+
+msgid "CUSTOMER_PROFILE"
+msgstr "profiel"
+

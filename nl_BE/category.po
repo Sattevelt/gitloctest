@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "PRODUCT_CONFIG_TITLE"
+msgstr "Keuzehulp"
+
+msgid "PRODUCT_CONFIG_MAIN_QUESTION"
+msgstr "Welke radiator past het beste bij je?"
+
+msgid "PRODUCT_CONFIG_DESCRIPTION"
+msgstr "In 3 stappen berekenen we de benodigde wattage voor je radiator."
+
+msgid "PRODUCT_CONFIG_DIMENSIONS_ROOM"
+msgstr "Afmetingen ruimte?"
+
+msgid "PRODUCT_CONFIG_ROOM_TYPE"
+msgstr "Type ruimte?"
+
+msgid "PRODUCT_CONFIG_ISOLATED_ROOM"
+msgstr "Geïsoleerde ruimte?"
+
+msgid "PRODUCT_CONFIG_SHOW_RESULTS"
+msgstr "Bekijk resultaten"
+
+msgid "PRODUCT_CONFIG_SHOW"
+msgstr "Capaciteit berekenen"
+
+msgid "PRODUCT_CONFIG_HIDE"
+msgstr "Verberg berekening"
+
+msgid "PRODUCT_CONFIG_VALIDATION_ROOM_TYPE"
+msgstr "Ruimte"
+
+msgid "PRODUCT_CONFIG_VALIDATION_ISOLATION"
+msgstr "Isolatie"
+
+msgid "PRODUCT_CONFIG_VALIDATION_LENGTH"
+msgstr "Lengte"
+
+msgid "PRODUCT_CONFIG_VALIDATION_WIDTH"
+msgstr "Breedte"
+
+msgid "PRODUCT_CONFIG_VALIDATION_HEIGHT"
+msgstr "Hoogte"
+
+msgid "QUICK-LINK-CHOICE-HELP"
+msgstr "Keuzehulp"
+
+msgid "QUICK-LINK-BESTSELLERS"
+msgstr "Bestsellers"
+
+msgid "GUIDED_SELLING_QUESTION"
+msgstr "Vraag"
+
+msgid "GUIDED_SELLING_GO_BACK"
+msgstr "Vorige vraag"
+
+msgid "GUIDED_SELLING_CONTINUE"
+msgstr "Volgende vraag"
+
+msgid "GUIDED_SELLING_SHOW_RESULTS"
+msgstr "Bekijk resultaten"
+
+msgid "GUIDED_SELLING_CLOSE"
+msgstr "Keuzehulp sluiten"
+
+msgid "GUIDED_SELLING_SHOW_RESULTS_LINK"
+msgstr "Toon <span></span> resultaten"
+
+msgid "QUICK-LINK-CAPACITY-CALC"
+msgstr "Vermogen"
+
+msgid "GUIDED-SELLING-BUTTON"
+msgstr "<strong>Hulp</strong> bij je keuze? <span>Open de keuzehulp</span>"
+
+msgid "GUIDED-SELLING-CAPACITY-BUTTON"
+msgstr "<strong>Hulp nodig</strong> bij je keuze? <span>Open de keuzehulp</span>"
+

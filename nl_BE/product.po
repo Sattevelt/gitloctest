@@ -1,0 +1,1320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "SHOPPINGCART_ADDED_MULTIPLE"
+msgstr "De volgende producten zijn in uw winkelwagen geplaatst:"
+
+msgid "CONTINUE_SHOPPING"
+msgstr "Verder winkelen"
+
+msgid "TO_SHOPPINGCART"
+msgstr "naar winkelwagen"
+
+msgid "COMPLETE_ORDER_EXTRA_PRODUCTS"
+msgstr "Maak uw bestelling compleet en voeg de volgende items toe"
+
+msgid "SHOPPINGCART_ADDED"
+msgstr "%s is in uw winkelwagen geplaatst"
+
+msgid "DESCRIPTION"
+msgstr "Productomschrijving"
+
+msgid "SPECIFICATIONS"
+msgstr "Specificaties"
+
+msgid "QUESTIONS"
+msgstr "Vragen over dit product? Bel: %s of mail ons!"
+
+msgid "BUTTON_RESERVE"
+msgstr "Reserveer showroommodel"
+
+msgid "BUTTON_RESERVE_ALT"
+msgstr "bestelknop showroommodel"
+
+msgid "RESERVE_SHOWROOM_QUESTION"
+msgstr "Graag het showroommodel reserveren"
+
+msgid "SOCIAL_MEDIA_SHARE_TEXT"
+msgstr "Interessant artikel gevonden bij Sawiday!"
+
+msgid "SOCIAL_MEDIA_FACEBOOK_ALT"
+msgstr "facebook logo"
+
+msgid "SOCIAL_MEDIA_FACEBOOK_TITLE"
+msgstr "Verzend naar Facebook"
+
+msgid "SOCIAL_MEDIA_GOOGLE_ALT"
+msgstr "google logo"
+
+msgid "SOCIAL_MEDIA_GOOGLE_TITLE"
+msgstr "Verzend naar Google+"
+
+msgid "SOCIAL_MEDIA_MAIL_ALT"
+msgstr "mail logo"
+
+msgid "SOCIAL_MEDIA_MAIL_TITLE"
+msgstr "Verzend via mail"
+
+msgid "SOCIAL_MEDIA_TWITTER_TITLE"
+msgstr "Verzend naar Twitter"
+
+msgid "SOCIAL_MEDIA_TWITTER_ALT"
+msgstr "twitter logo"
+
+msgid "SELECT_ADDITIONAL"
+msgstr "Selecteer aanvullende producten"
+
+msgid "COMPOSITION_PRICE"
+msgstr "Deze samenstelling heeft u voor de totaalprijs van"
+
+msgid "CHOOSE_THIS_ALTERNATIVE"
+msgstr "Kies dit alternatief"
+
+msgid "CHOOSE_ALTERNATIVE"
+msgstr "Kies alternatief"
+
+msgid "INFO"
+msgstr "Product info"
+
+msgid "IN_STOCK"
+msgstr "Direct leverbaar"
+
+msgid "DELIVERY"
+msgstr "Levering"
+
+msgid "PRINT_LOCATION"
+msgstr ""
+"<table>"
+"  			<tr>"
+"  				<td><img src=\"//static.rorix.nl/sawiday/sawiday_be/images/logo.png\" alt=\"sawiday logo\" /></td>"
+"  				<td>"
+"  					<table>"
+"  						<tr><td class=\"kop\">Sawiday.be</td></tr>"
+"  						<tr><td>Bredabaan 1265</td></tr>"
+"  						<tr><td>2900 Schoten</td></tr>"
+"  						<tr><td>03 685 03 11 (Helpdesk)</td></tr>"
+"  						<tr><td>info@sawiday.be</td></tr>"
+"  					</table>"
+"  				</td>"
+"  			</tr>"
+"  		</table>"
+
+msgid "PRINT_MSRP"
+msgstr "Advies prijs"
+
+msgid "PRINT_OUR_PRICE"
+msgstr "Onze prijs"
+
+msgid "CUSTOMERS_ALSO_BOUGHT"
+msgstr "Klanten bestelden ook"
+
+msgid "CAROUSEL_IMAGES_ALL"
+msgstr "Alles"
+
+msgid "CAROUSEL_IMAGES_CUSTOMER"
+msgstr "Klanten"
+
+msgid "CAROUSEL_IMAGES_DOCS"
+msgstr "Tekeningen"
+
+msgid "CAROUSEL_IMAGES_VIDEO"
+msgstr "Video"
+
+msgid "DOCUMENT_TYPE"
+msgstr "Type Document"
+
+msgid "OUTLET_PRODUCT"
+msgstr "Tweedekans product"
+
+msgid "SHOWROOM_PRODUCT"
+msgstr "Showroommodel"
+
+msgid "SHOWROOM_PRODUCT_RULES"
+msgstr ""
+"Vanwege de hoge korting en beperkte voorraad zijn wij genoodzaakt de volgende spelregels aan te houden:<br />"
+"			<ul>"
+"				<li>Alléén verkrijgbaar in een showroom en niet online te bestellen;</li>"
+"				<li>Alléén af te halen, wordt niet verzonden;</li>"
+"				<li>Alléén aanwezig en af te halen in de vestiging waar het artikel zich bevindt.</li>"
+"				<li>Reserveren is mogelijk, maar slechts 1 werkdag;</li>"
+"				<li>Helaas kunnen we geen garantie geven op deze producten;</li>"
+"				<li>Producten kunnen niet retour worden gebracht.</li>"
+"				<li>Inspecteer het product dus goed, er kunnen beschadigingen op zitten;</li>"
+"			</ul>"
+
+msgid "OUTLET_PRODUCT_RULES"
+msgstr ""
+"<ul>"
+"				<li>Dit is een ongebruikt geretourneerd product.</li>"
+"				<li>Het product kan mogelijk niet meer in zijn originele verpakking zitten.</li>"
+"				<li>Het product is gecontroleerd door één van onze medewerkers en bevat GEEN schade.</li>"
+"			</ul>"
+
+msgid "PRODUCT_SOLD_OUT"
+msgstr "Helaas is dit product uitverkocht en niet meer leverbaar."
+
+msgid "SUPPLIER_SKU"
+msgstr "Leveranciernummer"
+
+msgid "PRODUCT_EAN"
+msgstr "EAN"
+
+msgid "WARRANTY_MANUFACTURER"
+msgstr "Fabrieksgarantie"
+
+msgid "WARRANTY"
+msgstr "%d jaar"
+
+msgid "IN_SHOWROOM"
+msgstr "Te zien in showroom"
+
+msgid "SEE_ALL_BRAND_PRODUCTS"
+msgstr "Bekijk alle producten van"
+
+msgid "OR_OF"
+msgstr "of van"
+
+msgid "SEE_ALL"
+msgstr "Bekijk alle"
+
+msgid "POSIBLE_ALTERNATIVES"
+msgstr "Mogelijke alternatieven"
+
+msgid "WHY_US"
+msgstr "Waarom Sawiday.be?"
+
+msgid "WHY_US_LIST"
+msgstr ""
+"<ul>"
+"      <li><a href=\"/nl-be/klantenservice/over-sawiday/#showrooms\">Showrooms in Schoten en Zaventem</a></li>"
+"                     <li><a href=\"https://service.sawiday.com/hc/nl-be/sections/9878562534301-Annuleren-retour\">30 dagen retourrecht</a></li>"
+"                     <li><a href=\"/nl-be/klantenservice/bezorgen-of-afhalen/#bezorgen\">Op afspraak bezorgd</a></li>"
+"                     <li><a href=\"/nl-be/klantenservice/bezorgen-of-afhalen/#bezorgen\">Gratis bezorgd vanaf €%s,-</a></li>"
+"                     <li class=\"global-review-trustpilot\">Klantenbeoordeling: <span class=\"ratingNumberTrustPilot tp-score\"></span></li>"
+"                     <li><a href=\"/nl-be/merken/\">Netto prijzen voor iedereen</a></li>"
+"     </ul>"
+
+msgid "SELECT_VERSION"
+msgstr "Selecteer uw variant"
+
+msgid "LAST_IN_STOCK"
+msgstr "Nog 1 op voorraad!"
+
+msgid "DELIVERY_IMMEDIATELY"
+msgstr "Morgen in huis"
+
+msgid "NUM_IN_STOCK"
+msgstr "Nog %d op voorraad"
+
+msgid "DELIVERY_NOT_AVAILABLE"
+msgstr "Niet leverbaar"
+
+msgid "PICKUP_ONLY"
+msgstr "Alleen af te halen"
+
+msgid "FREE_DELIVERY"
+msgstr "Gratis bezorging"
+
+msgid "DELIVERY_APPOINTMENT_PICKUP"
+msgstr "Bezorging/afhalen volgens afspraak"
+
+msgid "ACTION_REMAINING_TIME"
+msgstr "Actie geldt nog"
+
+msgid "MSRP"
+msgstr "Adviesprijs"
+
+msgid "NORMAL_PRICE"
+msgstr "Normaal"
+
+msgid "DISCOUNT"
+msgstr "Jouw voordeel"
+
+msgid "INCL_TAX"
+msgstr "Incl. BTW"
+
+msgid "CHEAPER_ELSEWHERE"
+msgstr "Elders goedkoper gezien?"
+
+msgid "CHEAPER_ELSEWHERE_REPORT"
+msgstr "Meld het ons!"
+
+msgid "DISCONTINUED_PRODUCT"
+msgstr "Product niet meer leverbaar"
+
+msgid "ALTERNATIVE_PRODUCT"
+msgstr "Alternatief product"
+
+msgid "ALTERNATIVE_PRODUCT_SHOW"
+msgstr "Bekijk dit alternatief"
+
+msgid "ALTERNATIVE_PRODUCT_CHEAPER"
+msgstr "%d%% goedkoper"
+
+msgid "DISCOUNT_SET"
+msgstr "Voordeelset"
+
+msgid "DELIVERY_SHIPPING"
+msgstr "Levertijd/verzending"
+
+msgid "PAYMENT"
+msgstr "Betaling"
+
+msgid "ORDER_ACCESSORIES"
+msgstr "Maak uw bestelling compleet met de volgende toebehoren"
+
+msgid "FILTER_REMOVE"
+msgstr "Verwijder %s uit je selectie"
+
+msgid "PAYMENT_TAB_TEXT"
+msgstr "Alle prijzen op Sawiday.be zijn inclusief 21% BTW. Sawiday biedt u de mogelijkheid te betalen zoals u dat wenst. Zo kunt u betalen per:"
+
+msgid "PAYMENT_METHOD"
+msgstr "Betaalmethode"
+
+msgid "PAYMENT_COSTS"
+msgstr "Betaalkosten"
+
+msgid "PAYMENT_TAB_EXCEPTION"
+msgstr "* Doorgaans betekent vooraf overmaken dat de bestelling met 1 dag wordt vertraagd."
+
+msgid "PAYMENT_METHODS_URL"
+msgstr "<a href=\"https://service.sawiday.com/hc/nl-be/sections/9878560762781-Betalen\" target=\"_blank\">Betaalmogelijkheden bij Sawiday</a>"
+
+msgid "PAYMENT_ROW_REMBOURS"
+msgstr ""
+
+msgid "PAYMENT_ROW_SHOWROOM"
+msgstr "Mogelijk vragen wij een aanbetaling"
+
+msgid "PAYMENT_ROW_IDEAL_DEPRECATED"
+msgstr "Va. 150,- gratis bezorgd"
+
+msgid "PAYMENT_ROW_VOORAF_OVERMAKEN_DEPRECATED"
+msgstr "Va. 150,- gratis bezorgd + langere levertijd*"
+
+msgid "EX_TAX"
+msgstr "Excl. BTW"
+
+msgid "CHEAPER_ELSEWHERE_TITLE"
+msgstr "Product elders goedkoper gezien?"
+
+msgid "CHEAPER_ELSEWHERE_DETAILS"
+msgstr "Mocht u, ondanks ons scherpe prijsbeleid, toch elders exact hetzelfde product goedkoper aantreffen, dan kunt u dit bij ons melden. Het kan zijn dat wij u dan een tegenaanbod doen. Na het plaatsen van een bestelling is het niet meer mogelijk om eventuele prijsverschillen bij ons te reclameren."
+
+msgid "LINK_COMPETITOR"
+msgstr "Link concurrent"
+
+msgid "SHIPPINGCOSTS_COMPETITOR"
+msgstr "Verzendkosten concurrent"
+
+msgid "YOUR_NAME"
+msgstr "Uw naam"
+
+msgid "YOUR_EMAILADDRESS"
+msgstr "Uw e-mail"
+
+msgid "YOUR_PHONENUMBER"
+msgstr "Uw telefoonnummer"
+
+msgid "CHEAPER_ELSEWHERE_SEND"
+msgstr "Bedankt voor uw bericht.<br />De afdeling verkoop zal zo snel mogelijk contact met u opnemen."
+
+msgid "SEE_ALL_REVIEWS"
+msgstr "Bekijk alle reviews"
+
+msgid "NO_REVIEW_WRITE_ONE"
+msgstr ""
+"Er is nog geen review over de <strong>%s</strong>.<br />"
+"		Schrijf als eerste een review over dit product!"
+
+msgid "REVIEW_HELP_OTHERS"
+msgstr "Geef uw mening en help anderen bij het maken van hun keuze."
+
+msgid "REVIEW_PRIZE"
+msgstr "De beste review maakt kans op een cadeaubon t.w.v. 100 euro."
+
+msgid "SHOWROOM_AVAILABLE_STORES"
+msgstr ""
+"Sawiday heeft momenteel 2 fysieke winkels: Schoten en Zaventem. Onze "
+"showrooms zijn beperkt in ruimte en dus kunnen wij niet alle aangeboden producten daar tonen."
+
+msgid "NOT_IN_SHOWROOM"
+msgstr ""
+"Helaas is dit product niet in onze showroom aanwezig. Neem eventueel contact met ons op om te "
+"kijken of er een vergelijkbaar product te bezichtigen is."
+
+msgid "SHOWROOMS_URL"
+msgstr "<a href=\"/nl-be/klantenservice/over-sawiday/#showrooms\" target=\"_blank\">Showrooms van Sawiday</a>"
+
+msgid "SHOWROOM_AVAILABLE_IN"
+msgstr "Dit product (of een vergelijkbare variant) is aanwezig in onze showroom te"
+
+msgid "SHOWROOM_INFO_KAL_DEPRECATED"
+msgstr ""
+"Schoten.</p>"
+"             <p>Bezoek ons!</p>"
+"             <p><a href=\"/nl-be/klantenservice/over-sawiday/#showrooms\">Sawiday.be</a><br/>"
+"                 Bredabaan 1265<br/>"
+"                 2900 Schoten<br/>"
+"                 België</p>"
+
+msgid "SHOWROOM_INFO_ROS_KAL_DEPRECATED"
+msgstr ""
+"Schoten en Rosmalen (Nederland).</p>"
+"             <p>Bezoek ons!</p>"
+"             <p><a href=\"/nl-be/klantenservice/over-sawiday/#showrooms\">Sawiday.be</a><br/>"
+"                 Bredabaan 1265<br/>"
+"                 2900 Schoten<br/>"
+"                 België</p>"
+"             <p>Sawiday.nl<br/>"
+"                 Graafsebaan 141<br/>"
+" (Op de A59 dient u afslag 50 te nemen)<br />"
+"                 5248 NL Rosmalen<br/>"
+"                 Nederland</p>"
+
+msgid "SHOWROOM_INFO_AMS_ROS_DEPRECATED"
+msgstr ""
+"Amsterdam en Rosmalen.</p>"
+""
+"		<p>Bezoek ons!</p>"
+""
+"		<p><a href=\"/nl-be/klantenservice/showroom-amsterdam/\">Sawiday.nl Amsterdam</a><br />"
+"		Willem de Zwijgerlaan 344<br />"
+"		1055RD Amsterdam<br />"
+"		Nederland</p>	"
+"		 "
+"		<p><a href=\"/nl-be/klantenservice/showroom-rosmalen/\">Sawiday.nl Rosmalen</a><br />"
+"		Graafsebaan 141<br />"
+"(Op de A59 dient u afslag 50 te nemen)<br />"
+"		5248 NL Rosmalen<br />"
+"		Nederland</p>"
+
+msgid "SHOWROOM_INFO_AMS_KAL_DEPRECATED"
+msgstr ""
+"Amsterdam en Schoten (België).</p>"
+" "
+" 		<p>Bezoek ons!</p>"
+" "
+" 		<p><a href=\"/nl-be/klantenservice/showroom-amsterdam/\">Sawiday.nl Amsterdam</a><br />"
+" 		Willem de Zwijgerlaan 344<br />"
+" 		1055RD Amsterdam<br />"
+" 		Nederland</p>	"
+" "
+" 		<p>Sawiday.be<br />"
+" 		Bredabaan 1265<br />"
+"        2900 Schoten<br />"
+" 		België</p>"
+
+msgid "SHOWROOM_INFO_AMS_ROS_KAL_DEPRECATED"
+msgstr ""
+"Amsterdam, Rosmalen en Schoten (België).</p>"
+"  "
+"  		<p>Bezoek ons!</p>"
+"  "
+"  		<p><a href=\"/nl-be/klantenservice/showroom-amsterdam/\">Sawiday.nl Amsterdam</a><br />"
+"  		Willem de Zwijgerlaan 344<br />"
+"  		1055RD Amsterdam<br />"
+"  		Nederland</p>	"
+"  		 "
+"  		<p><a href=\"/nl-be/klantenservice/showroom-rosmalen/\">Sawiday.nl Rosmalen</a><br />"
+"  		Graafsebaan 141<br />"
+"  (Op de A59 dient u afrit 50 te nemen)<br />"
+"  		5248 NL Rosmalen<br />"
+"  		Nederland</p>"
+"  "
+"  		<p>Sawiday.be Schoten<br />"
+"  		Bredabaan 1265<br />"
+"        2900 Schoten<br />"
+"  		België</p>"
+
+msgid "SHOWROOM_INFO_ROS_DEPRECATED"
+msgstr ""
+"Rosmalen (Nederland).</p>"
+"            <p>Bezoek ons!</p>"
+"            <p>Sawiday.nl<br/>"
+"                Graafsebaan 141<br/>"
+"(Op de A59 dient u afslag 50 te nemen)<br />"
+"                5248 NL Rosmalen<br/>"
+"                Nederland</p>"
+
+msgid "SHOWROOM_INFO_AMS_DEPRECATED"
+msgstr ""
+"Amsterdam.</p>"
+""
+"		<p>Bezoek ons!</p>"
+""
+"		<p><a href=\"/nl-be/klantenservice/showroom-amsterdam/\">Sawiday.nl Amsterdam</a><br />"
+"		Willem de Zwijgerlaan 344<br />"
+"		1055RD Amsterdam<br />"
+"		Nederland</p>"
+
+msgid "DELIVERY_ONE_WEEK"
+msgstr "Binnen 1 week"
+
+msgid "DELIVERY_TWO_WEEKS"
+msgstr "Binnen 2 weken"
+
+msgid "OVERVIEW_PRODUCT_NOT_FOUND"
+msgstr ""
+"<p>Niet gevonden wat u zoekt?<br />Verwijder/wijzig filters om producten te vinden.</p>"
+"									<p>Bent u op zoek naar iets specifieks? Stuur ons het artikelnummer en wij geven u onze scherpste prijs!</p>"
+
+msgid "MAKE_YOUR_CHOICE"
+msgstr "Maak uw keuze..."
+
+msgid "PRICE_LOW_HIGH"
+msgstr "Prijs (laag - hoog)"
+
+msgid "PRICE_HIGH_LOW"
+msgstr "Prijs (hoog - laag)"
+
+msgid "DELIVERY_LOW_HIGH"
+msgstr "Levertijd (laag - hoog)"
+
+msgid "STOCK_INFORMATION"
+msgstr "Voorraadinformatie"
+
+msgid "STOCK_STATUS"
+msgstr "Voorraadstatus"
+
+msgid "DELIVER"
+msgstr "Bezorgen"
+
+msgid "DOCUMENTS"
+msgstr "Documenten"
+
+msgid "FREE_DELIVERY_FROM_PRICE"
+msgstr "Gratis bezorgd vanaf %d euro"
+
+msgid "AVAILABLE_VERSIONS"
+msgstr "Beschikbaar in de volgende varianten"
+
+msgid "SEE_ALL_VERSIONS"
+msgstr "Bekijk het artikel voor alle %d varianten"
+
+msgid "VERSION_COUNT"
+msgstr "%d varianten"
+
+msgid "BUNDEL_ADD_EXTRA"
+msgstr "Maak dit product compleet | %s"
+
+msgid "BUNDEL_PREVIEW"
+msgstr "Voorbeeldweergave van uw combinatieset"
+
+msgid "BUNDEL_PRODUCT_X_REQUIRED"
+msgstr "Dit product is %dx nodig om uw set compleet te maken."
+
+msgid "UNIT_PRICE"
+msgstr "Prijs per stuk"
+
+msgid "SET_DISCOUNT"
+msgstr "Setkorting"
+
+msgid "BUNDEL_CHOOSE_OPTIONS"
+msgstr "Maak een keuze uit de volgende mogelijkheden"
+
+msgid "BUNDEL_CLICK_PRODUCTINFO"
+msgstr "Klik om de productinfo weer te geven"
+
+msgid "SET_PRICE"
+msgstr "Setprijs"
+
+msgid "BUNDEL_PRICE_FOR_AMOUNT"
+msgstr "Voor %d st."
+
+msgid "PICKUP_SEND_HEADER"
+msgstr "Voor sommige producten is het wel zo handig als deze bij u thuis bezorgd worden. U heeft bij Sawiday de keuze om uw producten aan huis te laten bezorgen of om deze in een van onze showrooms af te halen."
+
+msgid "PICKUP_SEND_DESCRIPTION"
+msgstr "In uw winkelwagen wordt altijd de bezorgkosten weergegeven. Voor bestellingen boven € %1$s,- en welke worden betaald per Bancontact / Mister Cash of vooruitbetaling wordt geen verzendkosten berekend."
+
+msgid "PICKUP_SEND_FOOTER"
+msgstr ""
+"Het is mogelijk uw bestelling af te komen halen in Schoten of Zaventem. U kunt zich dan vervolgens melden bij onze showroom:"
+"         <p>Bredabaan 1265<br />"
+"            2900 Schoten<br />"
+"            België"
+"         </p>"
+"<p>Leuvensesteenweg 1-3<br />"
+"            1932 Zaventem (Sint-Stevens-Woluwe)<br />"
+"            België"
+"         </p>"
+
+msgid "PICKUP_SEND_FREE_DELIVERY"
+msgstr "Voor de bezorging van dit product betaalt u dus géén verzendkosten."
+
+msgid "PICKUP_SEND_DELIVERY_COSTS"
+msgstr "Voor de bezorging van alléén dit product betaalt u dus %s verzendkosten."
+
+msgid "PICKUP_SEND_MORE_INFORMATION"
+msgstr "<a href=\"https://service.sawiday.com/hc/nl-be/sections/9878561634717-Bezorgen-afhalen\" target=\"_blank\">Informatie over bezorgen en afhalen van uw bestelling</a>"
+
+msgid "PAYMENT_ROW_MR_CASH"
+msgstr "Va. 150,- gratis bezorgd"
+
+msgid "ARTICLENUMBER"
+msgstr "Artikelnummer"
+
+msgid "PRODUCT_IMAGES"
+msgstr "Productfoto's"
+
+msgid "PRODUCT_CLIENT_IMAGES"
+msgstr "Klantfoto's"
+
+msgid "PRODUCT_DOCS_IMAGES"
+msgstr "Tekeningen"
+
+msgid "PRODUCT_DOCS"
+msgstr "Documenten"
+
+msgid "PRODUCT_VIDEO"
+msgstr "Video"
+
+msgid "VARIANT"
+msgstr "Variant"
+
+msgid "PRODUCT_REVIEW_RATING"
+msgstr "Product is beoordeeld met"
+
+msgid "USP_WARRANTY"
+msgstr "%d jaar garantie"
+
+msgid "USP_WARRANTY_FALLBACK"
+msgstr "Fabrieksgarantie"
+
+msgid "USP_CHOOSE_DELIVERY_DATE"
+msgstr "Kies zelf uw afleverdatum"
+
+msgid "USP_RETURN_POLICY"
+msgstr "30 dagen retourrecht"
+
+msgid "USP_IN_ONE_SHOWROOM"
+msgstr "Aanwezig in showroom %s"
+
+msgid "USP_IN_MULTIPLE_SHOWROOMS"
+msgstr "Aanwezig in showrooms %s"
+
+msgid "USP_HEADER"
+msgstr "Service bij dit product"
+
+msgid "ADD_TO_SHOPPINGCART"
+msgstr "Bestel nu"
+
+msgid "SELECTED_VARIANT"
+msgstr "Geselecteerd"
+
+msgid "YOU_SAVE_AMOUNT"
+msgstr "U bespaart: %d%%"
+
+msgid "PRODUCT_INFORMATION"
+msgstr "Productinformatie"
+
+msgid "PRODUCT_PAYMENT_METHODS_AND_COSTS"
+msgstr "Betaalmogelijkheden & Betaalkosten"
+
+msgid "AVAILABILITY"
+msgstr "Beschikbaarheid"
+
+msgid "PICKUP_IN"
+msgstr "Afhalen in %s"
+
+msgid "PICKUP"
+msgstr "Afhalen"
+
+msgid "PERCENT_OF_THE_ORDERVALUE"
+msgstr "%d%% van het orderbedrag"
+
+msgid "PRODUCT_AVAILABLE_IN_SHOWROOM"
+msgstr "Dit product is te bezichtigen in de showroom te %s"
+
+msgid "DELIVER_IN_X_WORKINGDAYS"
+msgstr "Leverbaar vanaf %d werkdagen"
+
+msgid "DELIVER_IN_X_WEEKS"
+msgstr "Leverbaar in %d weken"
+
+msgid "PAYMENTMETHOD_DELIVERYTIME_WARNING_DEPRECATED"
+msgstr "De keuze voor een betaalmethode kan gevolgen hebben voor de levertijd. Bij de betaalmethode 'Betalen in de showroom' kan gevraagd worden om een aanbetaling. Bestellingen betaald per Mister Cash of vooraf overmaken worden vanaf € {dPaymentMethod::getDefaultPaymentMethodForSite(3)->getShippingLimit()} gratis bezorgd."
+
+msgid "ACCESSORIES"
+msgstr "Toebehoren"
+
+msgid "LAST_VISITED"
+msgstr "Laatst bezocht"
+
+msgid "OTHERS_BOUGHT"
+msgstr "Anderen kochten ook"
+
+msgid "LATE_NIGHT_STORE_OPENING"
+msgstr "Koopavond"
+
+msgid "CUSTOMER_SERVICE_AVAILABLE"
+msgstr "Vandaag zijn wij bereikbaar tot:"
+
+msgid "CUSTOMER_SERVICE_NOT_AVAILABLE"
+msgstr "Wij zijn weer telefonisch bereikbaar vanaf:"
+
+msgid "CUSTOMER_SERVICE_SEND_US_AN_EMAIL"
+msgstr "Vragen? Stuur ons een <a href=\"mailto: info@sawiday.be?subject=Vraag: %s %s\">e-mail</a> of bel"
+
+msgid "OR_CALL_PHONE_NUMBER"
+msgstr "of bel"
+
+msgid "NEED_ADVICE"
+msgstr "Advies nodig?"
+
+msgid "RECOMMENDED_ACCESSORIES"
+msgstr "Aanbevolen toebehoren"
+
+msgid "PLACE_ORDER"
+msgstr "Bestellen"
+
+msgid "BUNDEL_CHOSEN_PRODUCT"
+msgstr "Gekozen product"
+
+msgid "BUNDEL_CHOOSE_ADDITIONAL_PRODUCTS"
+msgstr "Kies uw aanvullende producten"
+
+msgid "BUNDEL_PUT_TOGETHER_YOUR_BUNDLE"
+msgstr "Stel uw bundel samen"
+
+msgid "BUNDEL_PUT_TOGETHER_YOUR_PRODUCT"
+msgstr "Stel uw product samen"
+
+msgid "BUNDEL_CHOSEN_1_ADDITIONAL_PRODUCT_FOR_X_PRICE"
+msgstr "U heeft 1 bijbehorend artikel geselecteerd. Deze samenstelling heeft een totaalprijs van:"
+
+msgid "BUNDEL_CHOSEN_X_ADDITIONAL_PRODUCTS_FOR_X_PRICE"
+msgstr "U heeft %d bijbehorende artikelen geselecteerd. Deze samenstelling heeft een totaalprijs van:"
+
+msgid "BUNDEL_SAVE_CHOICE"
+msgstr "Keuze opslaan"
+
+msgid "BUNDEL_CHOOSE_ALTERNATIVE_PRODUCT"
+msgstr "Kies alternatief product"
+
+msgid "BUNDEL_CHOSEN_NO_PRODUCTS"
+msgstr "U heeft geen producten geselecteerd."
+
+msgid "DETAILS_SHOWROOM"
+msgstr "Details showroom"
+
+msgid "PRODUCT_DELIVERY_NOT_AVAILABLE"
+msgstr "Product niet (meer) leverbaar."
+
+msgid "INFORM_FOR_ALTERNATIVES"
+msgstr "<a href=\"mailto:%s?subject=Product niet meer Leverbaar\">Informeer</a> vrijblijvend naar mogelijke alternatieven."
+
+msgid "DOCS_CLICK_TO_OPEN_OR_RIGHTCLICK_TO_SAVE"
+msgstr "Klik om dit document te openen of rechtsklik->opslaan als om deze op te slaan."
+
+msgid "DOCS_PDF_DOCUMENT"
+msgstr "PDF Document"
+
+msgid "DOCS_TEXT_FILE"
+msgstr "Tekstdocument"
+
+msgid "DOCS_WORD_DOCUMENT"
+msgstr "Word document"
+
+msgid "DOCS_X_FILE"
+msgstr "%s bestand"
+
+msgid "PICKUP_IMMEDIATELY"
+msgstr "Direct af te halen"
+
+msgid "PICKUP_IN_1_WORKINGDAY"
+msgstr "Af te halen na 1 werkdag"
+
+msgid "PICKUP_IN_X_WORKINGDAYS"
+msgstr "Af te halen na %d werkdagen"
+
+msgid "TRUSTPILOT_BOX"
+msgstr ""
+"<div class=\"whyBox\"><div class=\"tp_-_box\" data-tp-settings=\"domainId:266992,linkColor:35689A,fontFamily:Arial,fontColor:444440,bgBarColor:EEEEEE,borderRadius:0,borderColor:CECECE,showReviews:False,showUserImage:False,width:300,numOfReviews:2,height:0,showSelectedRatings:False\">"
+"<a href=\"https://nl.trustpilot.com/review/www.sawiday.nl\" hidden>Sawiday Beoordelingen</a>"
+"</div></div>"
+
+msgid "OPISOP"
+msgstr "OP=OP"
+
+msgid "PROMO_ACTIE"
+msgstr "Actie"
+
+msgid "SHOWROOM_MODEL"
+msgstr "SHOWROOMMODEL"
+
+msgid "IN_FOLDER"
+msgstr "FOLDER"
+
+msgid "SEE_PRODUCT"
+msgstr "Bekijken"
+
+msgid "PROMO_OUTLET"
+msgstr "TWEEDEKANS"
+
+msgid "FREE_SHIPPING"
+msgstr "GRATIS BEZORGD"
+
+msgid "LABEL_NEW"
+msgstr "NIEUW"
+
+msgid "PROMO_DEAL"
+msgstr "DAGAANBIEDING"
+
+msgid "QUESTIONS_ADVICE"
+msgstr "Vragen of advies nodig?"
+
+msgid "COUNTDOWN_DAYS"
+msgstr "dag(en)"
+
+msgid "COUNTDOWN_HOURS"
+msgstr "u(u)r(en)"
+
+msgid "COUNTDOWN_MINUTES"
+msgstr "minu(u)t(en)"
+
+msgid "COUNTDOWN_SECONDS"
+msgstr "seconde(n)"
+
+msgid "RESERVATION_RESTRICTION"
+msgstr "max 1 dag mogelijk"
+
+msgid "RESERVEER_NU"
+msgstr "Reserveer nu!"
+
+msgid "ASK_QUESTION"
+msgstr "Stel uw vraag"
+
+msgid "VANAF"
+msgstr "Vanaf"
+
+msgid "OUTLETISSTOCK"
+msgstr "Alle tweedekans producten liggen op voorraad in ons magazijn en zijn via onze webshop te bestellen. Deze producten zijn niet te zien in een van onze showrooms."
+
+msgid "CURRENTSTOCKAMOUNT"
+msgstr "Op dit moment hebben wij van dit product"
+
+msgid "ONLY"
+msgstr "slechts"
+
+msgid "ITEMS"
+msgstr "exemplaren"
+
+msgid "ITEM"
+msgstr "exemplaar"
+
+msgid "BE_QUICK"
+msgstr "Let op: bij alle tweedekans artikelen geldt OP=OP!"
+
+msgid "CHOOSE_ALT"
+msgstr "Kies alternatief"
+
+msgid "TO_SHOPPINGCART_SHORT"
+msgstr "Naar winkelwagen"
+
+msgid "VIEW_IN_SHOWROOM_AT"
+msgstr "Ter bezichtiging in"
+
+msgid "RECEPT_NO_PRODUCTS_SELECTED"
+msgstr "U heeft nog geen bijbehorende artikelen geselecteerd. Mogelijk is dit product zo niet compleet."
+
+msgid "RECEPT_ONE_PRODUCTS_SELECTED"
+msgstr "U heeft 1 bijbehorend artikel geselecteerd. Deze samenstelling heeft de totaalprijs van:"
+
+msgid "RECEPT_X_PRODUCTS_SELECTED"
+msgstr "U heeft %i bijbehorende artikelen geselecteerd. Deze samenstelling heeft de totaalprijs van:"
+
+msgid "COUNT_ACCESSORIES_TOTALS"
+msgstr "U heeft %count% extra artikel(en) geselecteerd.<br />Deze samenstelling heeft de totaalprijs van"
+
+msgid "META_DESCR_PART_TWO"
+msgstr "producten voordelig online bij"
+
+msgid "META_DESCR_PART_ONE"
+msgstr "Op zoek naar een %productname%? Bestel deze en andere"
+
+msgid "PRODUCT_ATTRIBUTES"
+msgstr "Producteigenschappen"
+
+msgid "CHECK_OUT_PRODUCT_IN_SHOWROOMS"
+msgstr "Bekijk uw product in een van onze showrooms"
+
+msgid "CUSTOM_DELIVERY"
+msgstr "(aangepaste levertijd)"
+
+msgid "CUSTOM_DELIVERY_DATE"
+msgstr ""
+
+msgid "PAYMENT_ROW_CREDITCARD"
+msgstr "Maximaal orderbedrag is 5.000,-"
+
+msgid "PAYMENT_ROW_KLARNA"
+msgstr "Maximaal orderbedrag is 750,-"
+
+msgid "PAYMENT_TAB_SECOND_EXCEPTION"
+msgstr ""
+
+msgid "DETAILS"
+msgstr "Bekijk product"
+
+msgid "RELATED_PRODUCTS"
+msgstr "Gerelateerde producten"
+
+msgid "FREE_SHIPMENT"
+msgstr "Gratis levering"
+
+msgid "STANDARD_WARRANTY"
+msgstr "2 jaar Sawiday garantie"
+
+msgid "CUSTOM_WARRANTY"
+msgstr "%d jaar Sawiday garantie"
+
+msgid "TECHNICAL_DOCUMENTS"
+msgstr "Technische documenten"
+
+msgid "EXTRA_COSTS"
+msgstr "extra kosten"
+
+msgid "NO_COSTS"
+msgstr "Geen kosten"
+
+msgid "ATTRIBUTE_GROUP_SHOW"
+msgstr "Toon alle eigenschappen"
+
+msgid "ATTRIBUTE_GROUP_HIDE"
+msgstr "Verberg alle eigenschappen"
+
+msgid "HURRY_UP_LEFT"
+msgstr "Binnen"
+
+msgid "HURRY_UP_RIGHT"
+msgstr "besteld, %s in huis."
+
+msgid "ATTRIBUTE_GROUP_MISC"
+msgstr "Overige informatie"
+
+msgid "PRODUCTS_VISIBLE"
+msgstr "Er zijn hierboven <b>%s producten</b> zichtbaar"
+
+msgid "PRODUCT_VISIBLE"
+msgstr "Er is hierboven <b>één product</b> zichtbaar"
+
+msgid "PAYMENT_ROW_PAYPAL_DEPRECATED"
+msgstr "Va. 150,- gratis bezorgd"
+
+msgid "IN_PROMO"
+msgstr "In actie"
+
+msgid "LESS_THAN_X_IN_STOCK_MESSAGE"
+msgstr "Nog minder dan %d op voorraad"
+
+msgid "BUSINESS"
+msgstr "Zakelijk"
+
+msgid "BUSINESS_TAB_HEADING"
+msgstr "Zakelijke klant worden bij Sawiday?"
+
+msgid "BUSINESS_TAB_PARAGRAPH_1"
+msgstr "Als installateur, loodgieter of aannemer met een eigen bedrijf heeft u het al druk genoeg. Waarom zou u het uzelf niet wat makkelijker maken? U kunt uw klanten een extra service aanbieden en zelf profiteren van de vele voordelen van Sawiday Zakelijk."
+
+msgid "BUSINESS_TAB_PARAGRAPH_2"
+msgstr "Met Sawiday Zakelijk kunt u rekenen op een snelle, professionele en persoonlijke aanpak, service en advies op maat en één aanspreekpunt. Bovendien profiteert u van een aantrekkelijke korting en krijgt u provisie wanneer u klanten aanlevert. Onze showroom staat tot uw beschikking en we kunnen producten snel leveren. Meer informatie vindt u op onze <a href=\"/nl-be/b2b/\" target=\"_blank\">zakelijke pagina</a>."
+
+msgid "BUSINESS_TAB_PARAGRAPH_3"
+msgstr "Wij willen u graag leren kennen, ons team van professionals staat klaar voor u en uw klant om u te voorzien van het beste advies en de beste service!"
+
+msgid "BUSINESS_TAB_PARAGRAPH_4"
+msgstr "Neem contact met ons op door te bellen naar 03 685 03 11 of te mailen naar <a href='mailto:info@sawiday.be'>info@sawiday.be</a>. "
+
+msgid "BUSINESS_ORDER_MESSAGE"
+msgstr "Grotere oplage of zakelijk bestellen?"
+
+msgid "BRAND_INFO"
+msgstr "Over %s"
+
+msgid "SEEN_PRODUCT"
+msgstr "Dit product heeft u al bekeken."
+
+msgid "DELIVERY_POINT_PICKUP_TOOLTIP"
+msgstr "De afhaaldatum is afhankelijk van de openingstijden van het gekozen afhaalpunt."
+
+msgid "DELIVERY_THREE_DAYS"
+msgstr "Binnen 3 dagen"
+
+msgid "UNKNOWN_PICKUP_DATE"
+msgstr "Onbekende ophaaldatum"
+
+msgid "COMPARE_NO_PRODUCTS"
+msgstr "De vergelijker is leeg. Keer terug naar de homepage of klik op de categorieën in het menu om verder te winkelen."
+
+msgid "COMPARE_NO_PRODUCTS_TITLE"
+msgstr "Geen producten in vergelijker"
+
+msgid "PICKUP_IN_SHOWROOM"
+msgstr "Ophalen in showroom"
+
+msgid "ACTION"
+msgstr "Actie"
+
+msgid "PRICE_PER"
+msgstr "Prijs per"
+
+msgid "TILECALC_TITLE"
+msgstr "Rekenhulp"
+
+msgid "TILECALC_AMOUNT"
+msgstr "Aantal"
+
+msgid "TILECALC_INCL"
+msgstr "incl."
+
+msgid "TILECALC_LOSS"
+msgstr "snijverlies"
+
+msgid "TILECALC_PACKAGING"
+msgstr "Verpakking"
+
+msgid "TILECALC_PER"
+msgstr "per"
+
+msgid "TILECALC_TOTAL"
+msgstr "Totaal"
+
+msgid "LOOK_PICKUP_SHOWROOM_AVAILABLE"
+msgstr "Te zien in showroom"
+
+msgid "LOOK_PICKUP_SHOWROOM_NOT_AVAILABLE"
+msgstr "Niet te zien in showroom"
+
+msgid "LOOK_PICKUP_SHOWROOM_TEXT"
+msgstr "Dit product bekijken of gratis afhalen in één van onze showrooms?"
+
+msgid "LOOK_PICKUP_SHOWROOM_TITLE"
+msgstr "Bekijken of afhalen in showroom?"
+
+msgid "POPUP_ADD_TO_CART_TITLE"
+msgstr "Toegevoegd aan uw winkelwagen"
+
+msgid "PRODUCT_INFO_TAB_DESCRIPTION"
+msgstr "Productinformatie"
+
+msgid "PRODUCT_INFO_TAB_SPECIFICATIONS"
+msgstr "Specificaties"
+
+msgid "PRODUCT_INFO_TAB_DOCUMENTS"
+msgstr "Technische documenten"
+
+msgid "PRODUCT_INFO_TAB_REVIEWS"
+msgstr "Reviews"
+
+msgid "TECHNICAL_DOCUMENT"
+msgstr "Technisch document"
+
+msgid "ALTERNATIVE_PRODUCTS"
+msgstr "Alternatieve producten"
+
+msgid "OTHER_PRODUCTS_SERIE"
+msgstr "Andere producten in deze serie"
+
+msgid "PRODUCT_BUNDLES_TITLE"
+msgstr "Maak dit product compleet"
+
+msgid "PRODUCT_BUNDLES_ALTERNATIVES_TITLE"
+msgstr "Maak een keuze uit de volgende mogelijkheden"
+
+msgid "TILECALC_NONE"
+msgstr "Geen"
+
+msgid "TILECALC_CONTENT_PER_PACKAGE"
+msgstr "In een %1$s zit %2$s %3$s."
+
+msgid "TILECALC_PRICE_PER"
+msgstr "De prijs per %s"
+
+msgid "TILECALC_TOTAL_PRICE"
+msgstr "in totaal"
+
+msgid "BOUGHT_TOGETHER"
+msgstr "Samen gekocht met"
+
+msgid "ADD_SET_TO_SHOPPINGCART"
+msgstr "Plaats set in winkelwagen"
+
+msgid "NOT_AVAILABLE_DUE_TO_OUTLET_DAYS"
+msgstr "Tijdelijk niet te bestellen wegens magazijn outlet."
+
+msgid "BEST_PRICE_GUARANTEE"
+msgstr "-----<br><b>Laagste prijsgarantie!</b><br><br>Dit artikel koop je gegarandeerd tegen de beste prijs. Bij Sawiday staan een goede service en een scherpe prijs centraal. Jij als klant profiteert hiervan! Mocht je precies hetzelfde product elders goedkoper tegenkomen, laat dit dan weten via ons <a href=\"/nl-be/laagste-prijsgarantie/\" target=\"_blank\">laagste prijsgarantie-formulier.</a>"
+
+msgid "USP_FREE_PICKUP_SHOWROOM"
+msgstr ""
+
+msgid "VISIBLE_IN_SHOWROOM_TITLE"
+msgstr "Te zien in onderstaande showrooms"
+
+msgid "VISIBLE_IN_SHOWROOM_LINK"
+msgstr "route en openingstijden"
+
+msgid "PRODUCT_INFO_TAB_DELIVERY"
+msgstr "Bestel- en bezorginformatie "
+
+msgid "TAB_DELIVERY_RETURN_TEXT"
+msgstr ""
+"<p>Toch niet helemaal tevreden over dit product? Geen zorgen! Je kunt het ontvangen product (m.u.v. tegels) retour sturen binnen 30 dagen na ontvangst."
+""
+"Alle betalingen ontvang je terug op dezelfde wijze waarop  je betaald hebt, in ieder geval binnen 14 dagen vanaf de retourdatum.</p>"
+
+msgid "TAB_DELIVERY_RETURN_TITLE"
+msgstr "Gratis retourneren in onze showrooms"
+
+msgid "TAB_DELIVERY_PICKUP_TEXT"
+msgstr ""
+"<p>Het is mogelijk om dit product gratis af te halen in één van onze showrooms. Bekijk hieronder een indicatie van de afhaaldatum per showroom. Rond de bestelling online af en geef in het bestelproces aan in welke showroom je jouw bestelling wenst af te halen."
+""
+"Is dit artikel een showroommodel? Dan kun je deze maximaal 1 dag reserveren en alleen betalen in de betreffende showroom.</p>"
+
+msgid "TAB_DELIVERY_PICKUP_TITLE"
+msgstr "Gratis afhalen in showroom"
+
+msgid "TAB_DELIVERY_DELIVERY_TEXT"
+msgstr "<p>In de winkelwagen zie je de verwachte leverdatum van de totale bestelling. Kies zelf een bezorgdag.</p>"
+
+msgid "TAB_DELIVERY_DELIVERY_DATE"
+msgstr "Voor dit product geldt de volgende levertijd: "
+
+msgid "TAB_DELIVERY_DELIVERY_TITLE"
+msgstr "Bezorgen"
+
+msgid "NOT_AVAILABLE_DUE_TO_CORONA"
+msgstr "Tijdelijk niet te reserveren wegens de coronamaatregelen."
+
+msgid "NOT_VISIBLE_IN_SHOWROOM_TITLE"
+msgstr "Niet te zien in onze showrooms"
+
+msgid "NOT_VISIBLE_IN_SHOWROOM_TEXT"
+msgstr "We adviseren u graag over vergelijkbare producten."
+
+msgid "NOT_VISIBLE_IN_SHOWROOM_LINKTEXT"
+msgstr "Bezoek onze showrooms"
+
+msgid "DELIVERY_FIVE_DAYS"
+msgstr "Binnen 5 dagen"
+
+msgid "OUTLET_PRODUCT_LINK"
+msgstr "Bekijk het outletproduct"
+
+msgid "SHOWROOM_PRODUCT_LINK"
+msgstr "<p>Bekijk het showroommodel in %s</p>"
+
+msgid "ALTERNATIVE_PRODUCT_PRICINGS"
+msgstr "voor €%s"
+
+msgid "PRODUCT_USP_TRUSTPILOT_RATING"
+msgstr ""
+"Een <span class=\"score\">%s</span> uit "
+"                <span class=\"reviews\">%s</span> beoordelingen"
+
+msgid "DELIVERY_TODAY"
+msgstr "Vandaag in huis"
+
+msgid "VARIANT_ALERT"
+msgstr "De gemaakte selectie is niet beschikbaar. Hieronder wordt een alternatief getoond."
+
+msgid "VARIANT_IN_SHOWROOM_LINKTEXT"
+msgstr "Bekijk een variant van dit product in "
+
+msgid "VARIANT_IN_SHOWROOM_POPUP_TITLE"
+msgstr "Bekijk een variant van dit product in"
+
+msgid "VARIANT_IN_SHOWROOM_POPUP_TEXT"
+msgstr ""
+"Bekijk een variant van dit product in 1 van de onderstaande showrooms."
+"                Klik op een variant voor meer informatie."
+
+msgid "OR"
+msgstr "of"
+
+msgid "FLOWBOX_PRODUCTPAGE_TITLE"
+msgstr "Zo staat-ie"
+
+msgid "FLOWBOX_PRODUCTPAGE_TEXT"
+msgstr "Zie hier hoe dit product, of een variant ervan, er bij jou thuis uit kan zien. <p>Gebruik <strong>#mysawiday</strong> en deel je Sawiday-aankoop met ons. Bekijk <a href=\"/nl-be/mysawiday\">hier</a href> alle klantenfoto's!</p>"
+
+msgid "INACTIEF_PRODUCT"
+msgstr "Product is online niet te bestellen"
+
+msgid "TILECALC_NOT_IN_STOCK_ERROR"
+msgstr "Aantal artikelen op voorraad: "
+
+msgid "TILECALC_LOSS_POPUP"
+msgstr ""
+"<p>Bij het berekenen van het juiste aantal tegels is het niet voldoende om eenvoudigweg de exacte oppervlakte te berekenen. Bij het leggen zal er namelijk altijd sprake zijn van een bepaald percentage snijverlies. Hoe kleiner de ruimte, hoe groter het snijverlies procentueel zal zijn.</p>"
+"<p>Gemiddeld is het aan te raden om te rekenen op een snijverlies van 10%. Heb je een ruimte met veel schuine delen of worden er ook nissen of koven betegeld? Tel dan nog eens 5% extra. Klassieke legpatronen hebben over het algemeen minder snijverlies dan wildverbanden zoals visgraat, ellenboog, Hongaarse punt of hexagon.</p>"
+"<p>In de praktijk kun je beter één vierkante meter teveel bestellen dan één tegel tekort komen. De tegelzetter kan zijn werk dan niet afmaken, maar ook de kleur van bijbestelde tegels kan licht afwijken. Ook adviseren we om extra tegels te bewaren. Zo kun je in de toekomst nog tegels vervangen..</p>"
+"<p>Het snijverlies bereken je aan de hand van het legpatroon en de oppervlakte. Doorgaans worden de volgende percentages aangehouden:</p>"
+"<ul>"
+"<li>10% - voor een standaard rechte plaatsing</li>"
+"<li>15% - voor wildverbanden</li>"
+"</ul>"
+"<p><strong>Let op:</strong> Snijverlies is een indicatie. Hier kunnen geen rechten aan worden ontleend.</p>"
+
+msgid "TILECALC_LOSS_POPUP_TITLE"
+msgstr "Snijverlies tegels"
+
+msgid "PICKUP_IN_OUTLETSTORE"
+msgstr "Ophalen in outlet Uden"
+
+msgid "OUTLETSTORE_PRODUCT_RULES"
+msgstr ""
+"<p><strong><span style=\"color: #ff0000;\">Outlet product Uden</span>"
+"</strong><br>Vanwege de hoge korting en beperkte voorraad zijn wij genoodzaakt de volgende spelregels aan te houden:</p>"
+"<ul> <li>Alléén aanwezig en af te halen in onze outlet winkel in Uden waar het artikel zich bevindt;</li>"
+"<li>Niet te reserveren en niet online te bestellen;</li>"
+"<li>Alléén af te halen in Uden, wordt niet verzonden;</li>"
+"<li>Helaas kunnen we geen garantie geven op deze producten;</li>"
+"<li>Producten kunnen niet retour worden gebracht;</li>"
+"<li>Er kunnen beschadigingen op het product zitten, of onderdelen of verpakking kunnen ontbreken;</li>"
+"<li>Producten kunnen niet retour worden gebracht, inspecteer ze daarom goed van tevoren.</li>"
+"</ul><p><br>"
+
+msgid "LABEL_OUTLET_STORE"
+msgstr "OUTLET"
+
+msgid "OUTLET_ONLY_PICKUP"
+msgstr "Alleen af te halen in showroom Uden (outlet)"
+
+msgid "POPUP_ADD_TO_CART_CROSS_SELLING_TITLE"
+msgstr "Misschien interessant voor u?"
+
+msgid "PRODUCT_WARRANTY_REGARDS"
+msgstr "Betreft"
+
+msgid "SHOW_MORE_VARIANTS_BUTTON"
+msgstr "Bekijk hier meer varianten van dit product"
+
+msgid "VARIANT_PLURAL"
+msgstr "Varianten"
+
+msgid "SEE_PRODUCT_IN_SHOWROOM"
+msgstr "Bekijk dit product in showroom:"
+
+msgid "SEE_VARIANT_IN"
+msgstr "Bekijk een variant in"
+
+msgid "PRODUCT_AVAILABLE_ONLINE_ONLY"
+msgstr "Dit product is helaas niet in onze showrooms te zien"
+
+msgid "PRODUCT_ADVISE_VARIANTS"
+msgstr "Graag adviseren wij je in onze showrooms over de mogelijkheden"
+
+msgid "ADD_TILE_SAMPLE_TO_CART"
+msgstr "Bestel een tegelsample"
+
+msgid "TILE_SAMPLE_ORIGINAL_PRODUCT_LINK"
+msgstr "Bekijk de oorspronkelijke tegel"
+
+msgid "FREE_DELIVERY_ALSO_AT_NIGHT"
+msgstr "Gratis thuisbezorgd, ook 's avonds"
+
+msgid "DISCOUNT_PROMO"
+msgstr "Actievoordeel"
+
+msgid "PRODUCT_INFO_ANCHOR_DESCRIPTION"
+msgstr "Productinformatie"
+
+msgid "PRODUCT_INFO_ANCHOR_SPECIFICATIONS"
+msgstr "Specificaties"
+
+msgid "PRODUCT_INFO_ANCHOR_TECHNICAL_DOCUMENTS"
+msgstr "Technische documenten"
+
+msgid "PRODUCT_INFO_ANCHOR_ABOUT_BRAND"
+msgstr "Over %s"
+
+msgid "PRODUCT_INFO_ANCHOR_ORDER_INFORMATION"
+msgstr "Bestelinformatie"
+
+msgid "PRODUCT_INFO_ANCHOR_REVIEWS"
+msgstr "Reviews"
+
+msgid "PRODUCT_INFO_ANCHOR_AT_OUR_CUSTOMERS"
+msgstr "Bij onze klanten"
+
+msgid "BUSINESS_SIGN_UP_TEXT"
+msgstr ""
+"<p>Heb je regelmatig sanitair nodig, of eenmalig een grote hoeveelheid? Bekijk dan de voordelen "
+"                                    van Sawiday Zakelijk en <a href=\"/b2b/\" data-gtm-event=\"click\" data-gtm-category=\"productactions\" data-gtm-action=\"b2b contact link\" data-gtm-label=\"\">neem contact met ons op!</a></p>"
+
+msgid "BUSINESS_SIGN_UP_TITLE"
+msgstr "Zakelijk bestellen?"
+
+msgid "ACTION_DETAILS"
+msgstr "Bekijk actieproduct"
+
+msgid "ADD_TILE_SAMPLE_TO_CART_SUBTEXT"
+msgstr "(max. 20x20cm)"
+
+msgid "PROF_TEXT_1"
+msgstr ""
+"Heb je interesse in dit product?<br>In de "
+"                <a href=\"https://sanitairwinkel.nl/klantenservice/showrooms/\">showrooms</a> kunnen we je verder helpen"
+
+msgid "PROF_MODAL_TITLE"
+msgstr "Producten niet toegevoegd"
+
+msgid "PROF_MODAL_INTRO_TEXT"
+msgstr ""
+"Onderstaande producten kunnen niet online gekocht worden en zijn niet toegevoegd "
+"                aan de winkelwagen. Neem contact op met één van onze showrooms."
+
+msgid "USP_PROFESSIONAL_SHOWROOM"
+msgstr "Dit product wordt alleen in onze showrooms verkocht"
+
+msgid "USP_PROFESSIONAL_SERIES"
+msgstr "Grohe professional serie"
+
+msgid "TILECALC_CONTENT_PER_PACKAGE_TILES"
+msgstr "In een %1$s zitten %2$s %3$s."
+
+msgid "TILECALC_TILE"
+msgstr "tegels"
+
+msgid "TILECALC_TOTAL_TITLE"
+msgstr "Totaal"
+
+msgid "RECOMMENDED_FOR"
+msgstr "<strong>%1$s x aanbevolen</strong> voor %2$s"
+
+msgid "PROS_CONS_TITLE"
+msgstr "Plus- en minpunten"
+
+msgid "PRE_DISCOUNT_PRICE_TOOLTIP"
+msgstr "De laagste prijs van de afgelopen 30 dagen."
+
+msgid "DELIVERY_APPOINTMENT_PICKUP_PALLET"
+msgstr "Bezorging volgens afspraak"
+
+msgid "LABEL_BESTSELLER"
+msgstr "BESTSELLER"
+
+msgid "WISHLIST_TEXT"
+msgstr "Op verlanglijst"
+
+msgid "MORE_VARIANTS"
+msgstr "Beschikbaar in meerdere varianten"
+
+msgid "CURRENT_VARIANT"
+msgstr "Deze variant:"
+

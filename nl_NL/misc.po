@@ -1,0 +1,971 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "SEARCH_BRAND"
+msgstr "Zoek op merk"
+
+msgid "BRAND_NOT_IN_ASSORTMENT"
+msgstr "Dit merk hebben wij nog niet in ons assortiment."
+
+msgid "BUSINESS_PAGE_NOT_AVAILABLE"
+msgstr "Zakelijke pagina is niet beschikbaar."
+
+msgid "BUSINESS_HEADER"
+msgstr "Sanitairwinkel voor de zakelijke markt"
+
+msgid "USP1"
+msgstr "<img src=\"//static.rorix.nl/skins/1/images/huis_grijs.png\" alt=\"klok\" width=\"20\" height=\"20\" /><span>Showrooms in</span> <span><a style=\"color: #fa8d0c; text-decoration: none;\" href=\"/klantenservice/showroom-amsterdam/\">Amsterdam</a> en <a style=\"color: #fa8d0c; text-decoration: none;\" href=\"/klantenservice/showroom-rosmalen/\">Rosmalen</a></span>"
+
+msgid "USP2_DEPRECATED"
+msgstr "<img style='margin-left: 73px;' src=\"//static.rorix.nl/skins/1/images/bezorgd_grijs.png\" alt=\"bezorging\" width=\"20\" height=\"20\" /><a href=\"https://service.sawiday.com/hc/nl/sections/9878561634717-Bezorgen-afhalen\"><span style=\"color: #fa8d0c;\">Gratis</span><span> bezorgd vanaf €{dPaymentMethod::getDefaultPaymentMethodForSite(6)->getShippingLimit()},-</span></a>"
+
+msgid "USP3"
+msgstr "<img style='margin-left: 73px;' src=\"//static.rorix.nl/skins/1/images/klok_grijs.png\" alt=\"klok\" width=\"20\" height=\"20\" /><a href=\"https://service.sawiday.com/hc/nl/sections/9878561634717-Bezorgen-afhalen\"><span style=\"color: #fa8d0c;\">Op afspraak</span><span> bezorgd</span></a>"
+
+msgid "USP4"
+msgstr "<img style='margin-left: 60px;' src=\"//static.rorix.nl/image/content/f7c86cf030855494680fbf47c037a77d.jpg\" alt=\"reviews\" width=\"20\" height=\"20\" /><a href=\"/reviews/\"><span>Klantbeoordeling</span><span style=\"color: #fa8d0c;\">4.6 / 5</span></a>"
+
+msgid "NAV_UPPER"
+msgstr ""
+"<ul>"
+"				<li><a href=\"/klantenservice/over-sanitairwinkel/#showrooms\">showrooms</a></li>"
+"				<li>|</li>"
+"				<li><a href=\"/bestelstatus/\">bestelstatus</a></li>"
+"				<li>|</li>"
+"				<li><a href=\"/serviceaanvraag/\">service aanvraag</a></li>"
+"				<li>|</li>"
+"				<li><a href=\"/contact/\">contact</a></li>"
+"			</ul>"
+
+msgid "ALL_CATEGORIES"
+msgstr "Alle categorieën"
+
+msgid "SEARCH_HERE"
+msgstr "Zoeken naar..."
+
+msgid "NO_PRODUCTS"
+msgstr "Geen producten"
+
+msgid "SURNAME"
+msgstr "Achternaam"
+
+msgid "SORT_BY"
+msgstr "Sorteer op"
+
+msgid "PRODUCTS_PER_PAGE"
+msgstr "Aantal"
+
+msgid "NO_RESULTS"
+msgstr "Geen resultaten gevonden"
+
+msgid "NO_PRODUCT_RESULTS"
+msgstr "Helaas zijn er geen producten gevonden die voldoen aan de gekozen opties.<br />Verwijder of wijzig de filters om producten te vinden."
+
+msgid "SERVICE_REQUEST_INFO"
+msgstr "Mocht u een klacht of problemen hebben met een product of bestelling. Vul dan a.u.b. onderstaande service aanvraag zo compleet mogelijk in.<br />Dit is de makkelijkste en snelste manier om geholpen te worden."
+
+msgid "SERVICE_REQUEST_COMPLETE"
+msgstr ""
+"<p>Bedankt voor het indienen van uw service aanvraag.</p>"
+"			<p>Wij doen onze uiterste best om uw service aanvraag zo snel mogelijk in behandeling te nemen.</p>"
+"			<p>Doorgaans ontvangt u binnen 2 werkdagen een reactie op uw service aanvraag.</p>"
+
+msgid "SERVICE_REQUEST"
+msgstr "Service aanvraag - Meld hier uw schade of reclameer uw garantie"
+
+msgid "ADD_PICTURE"
+msgstr "Voeg een foto toe"
+
+msgid "SERVICE_REQUEST_PICTURES"
+msgstr "Bij schade of klachten vragen onze leveranciers naar foto&rsquo;s van het product. <br />Deze kunt u hier toevoegen."
+
+msgid "SERVICE_DESCRIPTION"
+msgstr "Service omschrijving"
+
+msgid "PURCHASE_INFO"
+msgstr "Aankoopgegevens"
+
+msgid "SEARCH_RESULTS_CATEGORY"
+msgstr "Gevonden categorieën (%d resultaten)"
+
+msgid "SEARCH_RESULTS_BRAND"
+msgstr "Gevonden merken (%d resultaten)"
+
+msgid "SEARCH_RESULTS_BRAND_CATEGORY"
+msgstr "Gevonden merken in categorieën (%d resultaten)"
+
+msgid "SEARCH_RESULTS"
+msgstr "Zoekresultaten voor '%s'"
+
+msgid "MORE_RESULTS"
+msgstr "Meer resultaten >"
+
+msgid "SEARCH_RESULTS_PRODUCT"
+msgstr "Gevonden producten (%d resultaten)"
+
+msgid "SEARCH_NO_RESULTS"
+msgstr ""
+"<p>Helaas zijn er geen resultaten voor je zoekopdracht.</p>"
+"<br>"
+"<p>Verfijn je zoekopdracht door de zoekterm aan te passen. Gebruik bijvoorbeeld een synoniem of een andere schrijfwijze voor het woord. Of zoek op merk of productnummer.</p>"
+""
+"<p>Zoek je informatie over onze service? Bezoek dan onze <a href=\"https://service.sawiday.com/hc/nl\">klantenservice</a>.</p>"
+""
+"<p>Ben je op zoek naar inspiratie of advies? Bezoek dan één van de volgende pagina's: "
+"- <a href=\"/inspiratie/\">Inspiratie</a>"
+"- <a href=\"/advies/\">Advies</a>"
+""
+"- <a href=\"/\">Terug naar de homepage</a></p>"
+""
+""
+""
+""
+
+msgid "SEARCH_NO_RESULTS_TODO"
+msgstr ""
+"<p>Wat kunt u doen?</p>"
+"					<p>1. Controleer de spelling of probeer een nieuwe zoekterm</p>"
+"					<p>2. Gebruik onze functie 'uitgebreid zoeken'</p>"
+"					<p>3. Neem contact met ons op via onderstaand contactformulier</p>"
+
+msgid "SEARCH_NO_RESULTS_TODO_GOOGLE"
+msgstr ""
+"<p>Wat kunt u doen?</p>"
+"					<p>1. Controleer de spelling of probeer een nieuwe zoekterm</p>"
+"					<p>2. Neem contact met ons op via onderstaand contactformulier</p>"
+
+msgid "SEARCH_NO_RESULTS_GOOGLE"
+msgstr "Nog steeds niet gevonden wat u zocht?"
+
+msgid "COMMENT"
+msgstr "Opmerking"
+
+msgid "OFFER"
+msgstr "Offerte"
+
+msgid "YOUR_OFFER"
+msgstr "Uw Offerte"
+
+msgid "YOUR_PRODUCTS"
+msgstr "Uw producten"
+
+msgid "EXTRA_INFO"
+msgstr "Extra informatie"
+
+msgid "ADD_PRODUCT"
+msgstr "Voeg product toe"
+
+msgid "ATTACH_OFFER"
+msgstr "Stuur een offerte mee"
+
+msgid "NEWSLETTER_SIGNUP_TITLE"
+msgstr "Ja, ik schrijf me in voor de nieuwsbrief en profiteer van extra korting en/of acties"
+
+msgid "NEWSLETTER_INVALID_EMAIL"
+msgstr "Onjuist e-mailadres ingevoerd. Controleer het mailadres."
+
+msgid "NEWSLETTER_MAIL_EXISTS"
+msgstr ""
+"Het opgegeven emailadres is al aangemeld. Vul een<br>"
+"						 ander emailadres in of klik <a target=\"_blank\" href=\"/nieuwsbrief/wijzigen/\"> hier </a> om je gegevens te wijzigen."
+
+msgid "NEWSLETTER_UPDATED"
+msgstr "Je gegevens zijn aangevuld."
+
+msgid "NEWSLETTER_ADDED"
+msgstr "Je gegevens zijn verzonden."
+
+msgid "PAGINATE_RESULT_BAR"
+msgstr "Resultaten <span>%d</span>-<span>%d</span> van <span>%d</span>"
+
+msgid "ASSORTMENT"
+msgstr "Assortiment"
+
+msgid "CALL_US"
+msgstr "Bel ons"
+
+msgid "MAIL_US"
+msgstr "E-mail ons"
+
+msgid "FULL_WEBSITE"
+msgstr "Volledige website"
+
+msgid "SEOTEXT_SEARCH_THREE"
+msgstr "%s koop je bij Sanitairwinkel.nl. Zo hebben we"
+
+msgid "SEOTEXT_SEARCH_SEVEN"
+msgstr ""
+"We bieden %s voor een scherpe prijs voor elke badkamer en bij jouw persoonlijke stijl."
+"		<br />"
+"		We verzenden in veel gevallen gratis en het volledige assortiment van %s is verkrijgbaar."
+"		Onze toppers zijn de"
+
+msgid "SEOTEXT_CATEGORY"
+msgstr ""
+"<h2>%s kopen</h2>"
+"			<p>Het gehele assortiment %s is bij Sanitairwinkel verkrijgbaar. Mocht je de gewenste %s niet online aantreffen, stel je vraag over %s dan bij onze <a href=\"/contact/\">klantenservice</a> of bezoek een van onze <a href=\"/klantenservice/showrooms/\">showrooms</a>.</p>"
+
+msgid "SEOTEXT_BRAND"
+msgstr ""
+"<h2>%s</h2>"
+"				<p>%s is een populair en toonaangevend merk in de badkamer- en sanitairwereld. Sanitairwinkel biedt een uitgebreid assortiment van %s, uiteraard aantrekkelijk geprijsd. Bovendien kun je verschillende producten van %s bekijken in één van onze showrooms. Heb je vragen over een product van %s? Onze klantenservice of verkoopadviseurs beantwoorden ze graag!</p>"
+"				<p></p>"
+"				<h2>Assortiment</h2>"
+"				<p> %s heeft alles in huis wat jij nodig hebt om jouw droombadkamer te realiseren. Het complete assortiment van %s is dan ook bij Sanitairwinkel verkrijgbaar. Mis je enkele producten op onze website? Stel dan <a href=/contact/>hier</a> jouw vraag over %s</a> of <a href=\"/klantenservice/showrooms/\"> bezoek een van onze showrooms</a>.</p>"
+""
+
+msgid "SEOTEXT_BRAND_SERIE"
+msgstr ""
+"<h2>%s %s</h2>"
+"				<p>%s is een prachtige serie van %s, een populair merk in de badkamer- en sanitairwereld. Bij Sanitairwinkel bieden we je daarom een uitgebreid assortiment van %s %s, uiteraard aantrekkelijk geprijsd en met een aantal jaar garantie. Bij ons vind je dan ook alles wat je nodig hebt voor in jouw badkamer en toiletruimte, ongeacht jouw budget. "
+" </p>"
+"				<p></p>"
+"				<h2>Assortiment %s van %s</h2>"
+"				<p>Het gehele assortiment %s is bij Sanitairwinkel verkrijgbaar. Heb je jouw %s %s product niet gevonden op onze website?<a href=\"/contact/\"> Stel hier een vraag over %s %s</a> of <a href=\"/klantenservice/showrooms/\">bezoek een van onze showrooms</a>.</p>"
+
+msgid "SEOTEXT_BRAND_CATEGORY"
+msgstr ""
+"<h2>%s %s %s</h2>"
+"			<p>%s %s is een populair merk in de badkamer- en sanitairwereld. Bij Sanitairwinkel haal je alles in huis om jouw droombadkamer te realiseren, dus het assortiment %s van %s %s is compleet bij ons verkrijgbaar. Alle %s %s %s zijn natuurlijk aantrekkelijk geprijsd en voorzien van een aantal jaar garantie. <br />"
+"			<p></p>"
+"			<h2>Het assortiment %s van %s %s</h2>"
+"			<p>Sanitairwinkel biedt een uitgebreid assortiment %s van %s %s, zodat je de badkamer of toiletruimte aan al jouw wensen kunt laten voldoen. Mis je een %s %s product op onze website? <a href=\"/contact/\">Stel dan hier jouw vraag over %s %s</a> of <a href=\"/klantenservice/showrooms/\">bezoek een van onze showrooms</a>.</p>"
+
+msgid "A_CUSTOMER"
+msgstr "Een klant"
+
+msgid "SAYS"
+msgstr "zegt"
+
+msgid "PICTURES_OF"
+msgstr "Foto's van"
+
+msgid "THE_CUSTOMER"
+msgstr "de klant"
+
+msgid "REVIEWS_PER_PAGE"
+msgstr "Reviews per pagina"
+
+msgid "ADD_REVIEW"
+msgstr "Voeg een review toe"
+
+msgid "REVIEW_ADDED"
+msgstr "Uw review is succesvol toegevoegd en zal na controle gepubliceerd worden."
+
+msgid "REVIEW_FORM_INVALID"
+msgstr "Uw review kon niet toegevoegd worden, u heeft niet alle verplichte velden (aangegeven met een *) ingevuld."
+
+msgid "EXPLANATION"
+msgstr "Toelichting"
+
+msgid "REVIEW_IMAGES"
+msgstr "Eventuele afbeeldingen"
+
+msgid "APPRECIATION"
+msgstr "Waardering"
+
+msgid "REVIEW_INVALID_ORDER_NO"
+msgstr "Uw review kon niet toegevoegd worden, uw bestelnummer is onjuist."
+
+msgid "TRUSTPILOT_FACET_DEPRECATED"
+msgstr ""
+"<div class=\"tp_-_box\" data-tp-settings=\"domainId:266992,linkColor:35689A,fontFamily:Arial,fontColor:444440,bgBarColor:DDDDDD,borderRadius:0,borderColor:CECECE,showUserImage:False,width:187,numOfReviews:2,height:0,showSelectedRatings:False,locale:{$locale}\">"
+"			<a href=\"https://nl.trustpilot.com/review/www.sanitairwinkel.nl\" hidden>Sanitairwinkel Beoordelingen</a>"
+"		</div>"
+
+msgid "SHOWROOMBOX_FILTERS"
+msgstr ""
+"<ul>"
+"		<li>"
+"			<a href=\"/klantenservice/showroom-amsterdam/\" title=\"Showroom Amsterdam\">"
+"				<h4>Showroom Amsterdam</h4>"
+"				<img src=\"//static.rorix.nl/skins/1/images/showroom_amsterdam.png\" alt=\"Showroom Amsterdam\" width=\"170\" height=\"120\" />"
+"				<address>"
+"					Willem de Zwijgerlaan 344<br />"
+"					1055 RD<br />"
+"					Amsterdam"
+"				</address>"
+"			</a>"
+"		</li>"
+"		<li>"
+"			<a href=\"/klantenservice/showroom-rosmalen/\" title=\"Showroom Rosmalen\">"
+"				<h4>Showroom Rosmalen</h4>"
+"				<img src=\"//static.rorix.nl/skins/1/images/Showroom_nl.jpg\" alt=\"Showroom Rosmalen\" width=\"170\" height=\"120\" />"
+"				<address>"
+"					Graafsebaan 141<br />"
+"					5248 NL<br />"
+"					Rosmalen"
+"				</address>"
+"			</a>"
+"		</li>	"
+"	</ul>"
+
+msgid "ACTIVE_FILTERS"
+msgstr "Actieve filters"
+
+msgid "ALL_FILTERS"
+msgstr "Alle filters"
+
+msgid "POPULARITY"
+msgstr "Populariteit"
+
+msgid "LAST_ADDED"
+msgstr "Laatst toegevoegd"
+
+msgid "COMBINATION_SET"
+msgstr "Combinatieset"
+
+msgid "REVIEW_EXPLANATION_PLACEHOLDER"
+msgstr "Geef hier zo uitgebreid mogelijk per product alle plus- en minpunten aan. Wat is handig of juist niet? Denk hierbij ook aan prijs/kwaliteit verhouding en of het product voldoet aan uw verwachtingen."
+
+msgid "SUBCAT_PRODUCT_COUNT"
+msgstr "%d producten"
+
+msgid "MAKE_YOUR_CHOICE"
+msgstr "Maak uw keuze"
+
+msgid "NEWSLETTER_SIGNUP_LINK"
+msgstr "/generiek/tools/nieuwsbrief/aanmelden.php"
+
+msgid "NEWSLETTER_CHANGE_LINK"
+msgstr "/generiek/tools/nieuwsbrief/afmelden.php"
+
+msgid "NEWSLETTER_UNSUBSCRIBE_LINK"
+msgstr "/generiek/tools/nieuwsbrief/afmelden.php"
+
+msgid "YOUR_PAYMENT_METHOD"
+msgstr "Uw betaalmethode"
+
+msgid "BUSINESS"
+msgstr "Zakelijk"
+
+msgid "PRIVATE"
+msgstr "Particulier"
+
+msgid "PERSONAL_INFORMATION"
+msgstr "Persoonsgegevens"
+
+msgid "HEADER_LINK"
+msgstr ""
+
+msgid "ACCOUNT_NUMBER"
+msgstr "Rekeningnummer"
+
+msgid "MOBILE_GOOGLE_ANALYTICS"
+msgstr ""
+"<!-- Google Analytics -->"
+"	<script type=\"text/javascript\">"
+"		var _gaq = _gaq || [];"
+"		_gaq.push(['_setAccount', 'UA-732769-2']);"
+"		_gaq.push(['_trackPageview']);"
+""
+"		(function() {"
+"			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;"
+"			ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';"
+"			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);"
+"		})();"
+"	</script>"
+"	<!-- Google Analytics end -->"
+
+msgid "NO_CONCEPTS"
+msgstr "Geen begrippen"
+
+msgid "GLOSSARY_SANITARY"
+msgstr "Begrippenlijst badkamer sanitair"
+
+msgid "QUICK_TO_PAGE"
+msgstr "Pagina"
+
+msgid "SEO_MENU_TITLE"
+msgstr "Relevante links"
+
+msgid "CUSTOMERSERVICE_MENU_TITLE"
+msgstr "Klantenservice"
+
+msgid "CUSTOMERSERVICE_SLIDER"
+msgstr ""
+"<img class=\"service_waslijn\" src=\"//static.rorix.nl/skins/1/images/klantenservice/waslijn11.jpg\" />"
+"<img class=\"service_waslijn\" src=\"//static.rorix.nl/skins/1/images/klantenservice/waslijn22.jpg\" />"
+"<img class=\"service_waslijn\" src=\"//static.rorix.nl/skins/1/images/klantenservice/waslijn33.jpg\" />"
+
+msgid "IP2C"
+msgstr ""
+"<h1 style=\"margin:4px 0 0 95px;color:#2A4860;font-size:14px;\">U bezoekt Sanitairwinkel.nl vanuit Belgie.</h1>"
+"	<div id=\"winkelwagen-add\">"
+"	<div style='position:relative;left:10px;top:62px;'><a target='_top' href=\"https://www.sawiday.be/nl-be/\"><img style='border:1px solid gray;' src='//static.rorix.nl/skins/1/images/be-vlag.jpg' width='40' height='20'></a></div>"
+"	<a target='_top' href=\"https://www.sawiday.be/nl-be/\"><img src=\"//static.rorix.nl/skins/1/images/logo-be.jpg\" class=\"in-winkelwagen-img\"/></a></div>"
+"	<div style='margin-left:400px;margin-top:75px;width:50px;'><a target='_top' href=\"https://www.sawiday.be/nl-be/\"><img style='border:1px solid gray;' src='//static.rorix.nl/skins/1/images/be-vlag.jpg' width='40' height='20'></a></div>"
+"	<div style='margin-top:40px;color:black;left:0px;text-align:center;'>"
+"	Sanitairwinkel heeft ook een vestiging in Belgie. Deze bezoekt u via  <a target='_top' style='text-decoration:none;color:black;' href=\"https://www.sawiday.be/nl-be/\"><u><b>Sawiday.be/nl-be</b></u></a><br><br>"
+"	Wanneer u op de Nederlandse website wil blijven klikt u op  <a target='_top'  style='text-decoration:none;color:black;' href=\"/\"><u><b>Sanitairwinkel.nl</b></u></a>"
+
+msgid "SEND_REVIEW"
+msgstr "Verstuur review"
+
+msgid "CUSTOMERSERVICE_BREADCRUMB_ROOT"
+msgstr "Klantenservice"
+
+msgid "RUNNING_TIME_OVER"
+msgstr "De looptijd is voorbij."
+
+msgid "DAY"
+msgstr "dag"
+
+msgid "DAYS"
+msgstr "dagen"
+
+msgid "HOUR"
+msgstr "uur"
+
+msgid "MINUTES_SHORT"
+msgstr "min"
+
+msgid "SECONDS_SHORT"
+msgstr "sec"
+
+msgid "THIS_ACTION_WILL_RUN_FOR"
+msgstr "Deze actie geldt nog"
+
+msgid "ERROR_UPLOADING_IMAGES_TOO_LARGE"
+msgstr "Er is een fout opgetreden bij het uploaden van de afbeeldingen. Wellicht is een of meerdere afbeeldingen te groot. De maximale bestandsgrootte is %s MB."
+
+msgid "FILESIZE_TOO_LARGE"
+msgstr "Een of meerdere afbeeldingen is groter dan de toegestane limiet van %s MB"
+
+msgid "UNSUPPORTED_FILETYPE_IMAGE"
+msgstr "Het bestandstype dat u probeert te uploaden wordt niet ondersteund. Gebruik .jpg, .gif of .png."
+
+msgid "UPLOAD_FAIL"
+msgstr "Er is een fout opgetreden tijdens het uploaden van de bestanden."
+
+msgid "INVALID_EMAIL"
+msgstr "Vul a.u.b. een geldig email adres in."
+
+msgid "ERROR_SENDING_FORM"
+msgstr "Er is een fout opgetreden, helaas kunnen wij op dit moment het formulier niet versturen."
+
+msgid "REVIEW_HIDE_NAME"
+msgstr "Toon naam niet op website"
+
+msgid "SHOW_FILTERS"
+msgstr "Klap filters uit"
+
+msgid "HIDE_FILTERS"
+msgstr "Klap filters in"
+
+msgid "ENDS_IN"
+msgstr "Eindigt in:"
+
+msgid "NAVIGATION_USP_1"
+msgstr ""
+"<div class=\"t-usp\" data-gtm-event=\"click\" data-gtm-category=\"Header\" data-gtm-action=\"USP's\" data-gtm-label=\"Showrooms\">"
+"    <span class=\"house top-icon\"></span>"
+"    <a href=\"/klantenservice/showrooms/\">"
+"        <span>7 moderne</span> <span class=\"c-orange\">Showrooms</span> "
+"    </a>"
+"</div>"
+
+msgid "NAVIGATION_USP_2"
+msgstr ""
+"<div class=\"t-usp global-review-trustpilot\" data-gtm-event=\"click\" data-gtm-category=\"Header\" data-gtm-action=\"USP's\" data-gtm-label=\"Beoordeling\">"
+" <span class=\"thumb top-icon\"></span>"
+"  <a href=\"/reviews/\">"
+"  <span>Klantbeoordeling:</span>"
+"                <span class=\"c-orange usp-trustPilotScore tp-score\"> </span>"
+"  <span>/ 5</span>"
+" </a>"
+"</div>"
+
+msgid "NAVIGATION_USP_3"
+msgstr ""
+"<div class=\"t-usp\" data-gtm-event=\"click\" data-gtm-category=\"Header\" data-gtm-action=\"USP's\" data-gtm-label=\"Gratis bezorging\">"
+"    <span class=\"truck top-icon\"></span>"
+"    <a href=\"https://service.sawiday.com/hc/nl/sections/9878561634717-Bezorgen-afhalen\">"
+"        <span class=\"c-orange\">Gratis</span>"
+"        <span>bezorgd vanaf €100</span>"
+"    </a>"
+"</div> "
+
+msgid "NAVIGATION_USP_4"
+msgstr ""
+"<div class=\"t-usp\" data-gtm-event=\"click\" data-gtm-category=\"Header\" data-gtm-action=\"USP's\" data-gtm-label=\"Bedenktijd\">"
+"    <span class=\"return top-icon\"></span>"
+"    <a href=\"https://service.sawiday.com/hc/nl/sections/9878562534301-Annuleren-retour\">"
+"        <span class=\"c-orange\">30 dagen</span> <span>bedenktijd</span>"
+"    </a>"
+"</div>"
+
+msgid "NAVIGATION_USP_5"
+msgstr ""
+"<div class=\"t-usp\" data-gtm-event=\"click\" data-gtm-category=\"Header\" data-gtm-action=\"USP's\" data-gtm-label=\"Bezorging op afspraak\">"
+"    <span class=\"clock top-icon\"></span>"
+"    <a href=\"https://service.sawiday.com/hc/nl/sections/9878561634717-Bezorgen-afhalen\">"
+"        <span class=\"c-orange\">Op afspraak</span>"
+"        <span>bezorgd</span>"
+"    </a>"
+"</div>"
+
+msgid "NAVIGATION_SERVICE_LINKS"
+msgstr ""
+"<a href=\"/serviceaanvraag/\" class=\"extra-margin customer f-ease\">Service aanvraag</a>"
+"<a href=\"/bestelstatus/\" class=\"customer f-ease\">Bestelstatus</a>"
+"<a href=\"https://service.sawiday.com/hc/nl\" class=\"customer f-ease\">Klantenservice</a>"
+"<div class=\"contact-phone f-ease\">"
+"    <span class=\"tel top-icon svg-sprite\"></span>"
+"    <a class=\"telefoon\" href=\"tel:073-522 0688\">073-522 0688</a>"
+"</div>"
+
+msgid "NAVIGATION_MOBILE_OFFER"
+msgstr "<a class=\"mobile-offer but bg-kblue\" href=\"https://service.sawiday.com/hc/nl\">Klantenservice</a>"
+
+msgid "FILTERS_REVIEW_OVERVIEW"
+msgstr "<p>Door <b class=\"c-kblue ratingCountTrustPilot tp-reviews\"></b> klanten is onze service gemiddeld beoordeeld met <b class=\"c-kblue ratingStarsTrustPilot tp-star-count\"></b> sterren.</p>"
+
+msgid "SUBSCRIBE_FAILED"
+msgstr "Uw aanvraag kon helaas niet verwerkt worden, onze excuses."
+
+msgid "INVALID_SUBMIT"
+msgstr "U kon helaas niet worden ingeschreven voor de nieuwsbrief, onze excuses."
+
+msgid "EMPTY_FIRSTNAME"
+msgstr "Vul alstublieft een geldige voornaam in."
+
+msgid "EMPTY_SURNAME"
+msgstr "Vul alstublieft een geldige achternaam in."
+
+msgid "MINUTES"
+msgstr "minuten"
+
+msgid "DESTINATIONS_DELIVERYPOINT"
+msgstr "Extern afhaalpunt"
+
+msgid "DESTINATIONS_SHOWROOM"
+msgstr "Intern afhaalpunt"
+
+msgid "DESTINATIONS_CUSTOMER"
+msgstr "Klantadres"
+
+msgid "GO_UP"
+msgstr "Naar boven"
+
+msgid "INVALID_ARGUMENT_ERROR"
+msgstr "Er is een niet-gespecificeerde fout opgetreden (code: 100)"
+
+msgid "INVALID_CONFIG_ERROR"
+msgstr "Er is een niet-gespecificeerde fout opgetreden (code: 200)"
+
+msgid "CONFIG_SETTING_NOT_FOUND_ERROR"
+msgstr "Er is een niet-gespecificeerde fout opgetreden (code: 400)"
+
+msgid "GENERAL_ERROR"
+msgstr "Er is een niet-gespecificeerde fout opgetreden (code: 500)"
+
+msgid "CUSTOMER_NOT_FOUND_ERROR"
+msgstr "Geen klant gevonden met emailadres %s"
+
+msgid "INVALID_EMAIL_ERROR"
+msgstr "Ongeldig emailadres"
+
+msgid "INVALID_PASSWORD_ERROR"
+msgstr "Ongeldig wachtwoord gekozen. Het wachtwoord moet minstens één letter en cijfer bevatten en minstens 6 karakters lang zijn"
+
+msgid "INVALID_TOKEN_ERROR"
+msgstr "Ongeldige token"
+
+msgid "NO_TOKEN_MATCH_ERROR"
+msgstr "Ongeldige token"
+
+msgid "PASSWORD_RESET_FAILED_ERROR"
+msgstr "Het wijzigen van het wachtwoord is mislukt"
+
+msgid "PASSWORD_RESET_EMAIL_SUBJECT"
+msgstr "Maak een nieuw wachtwoord aan"
+
+msgid "PASSWORD_RESET_BODY_DEPRECATED"
+msgstr ""
+"<p>Beste {$name},</p>"
+"<p>U bent uw wachtwoord vergeten? Geen probleem: Via deze mail maakt u eenvoudig een nieuw wachtwoord aan. Opent de link niet? Kopieer en plak dan onderstaande regel in de adresbalk van je internetbrowser:</p>"
+"<p>{$passResetUrl}<p>"
+"<p>De link is 7 dagen geldig. Maak daarom snel een nieuw wachtwoord aan.</p>"
+"<p>Indien u niet wilt dat uw wachtwoord wordt gewijzigd, kunt u dit bericht als niet verzonden beschouwen.</p>"
+
+msgid "GET_NEW_PASSWORD"
+msgstr "Nieuw wachtwoord"
+
+msgid "THANKS_QUESTIONS_FOOTER_TEXT"
+msgstr "Bedankt voor uw vertrouwen in Sanitairwinkel. Mocht u nog vragen hebben, dan staan wij voor u klaar!"
+
+msgid "QUEUEING_PASSWORD_RESET_MAIL_FAILED"
+msgstr "De email waarmee u uw wachtwoord kunt herstellen, kon helaas niet verzonden worden. Probeert u alstublieft later nog eens uw wachtwoord te herstellen."
+
+msgid "NO_CONFIG_ERROR"
+msgstr "Er is een niet-gespecificeerde fout opgetreden (code: 300)"
+
+msgid "ACCOUNT_ACTIVATION_BODY_DEPRECATED"
+msgstr ""
+"<p>Beste {$name},</p>"
+"<p>Bedankt voor uw registratie! Om de registratie te voltooien, hoeft u alleen nog maar uw account te activeren door middel van de activatielink. Opent de link niet? Kopieer en plak dan onderstaande regel in de adresbalk van uw internetbrowser:</p>"
+"<p>{$activationUrl}<p>"
+"<p>De link is 14 dagen geldig. Activeer uw account daarom snel.</p>"
+"<p>Indien u uw account niet wilt activeren, kunt u dit bericht als niet verzonden beschouwen.</p>"
+
+msgid "ACCOUNT_ACTIVATION_EMAIL_SUBJECT"
+msgstr "Uw account activeren"
+
+msgid "QUEUEING_ACCOUNT_ACTIVATION_MAIL_FAILED"
+msgstr "Er kon geen email naar u verzonden worden. Probeer het later alstublieft nogmaals."
+
+msgid "ACTIVATION_NOT_ALLOWED_ERROR"
+msgstr "Het is niet toegestaan om dit account te activeren."
+
+msgid "PASSWORD_MISMATCH"
+msgstr "De ingevulde wachtwoorden komen niet overeen."
+
+msgid "SET_PASSWORD"
+msgstr "Wachtwoord instellen"
+
+msgid "CHOOSE_PASSWORD_TO_ACTIVATE"
+msgstr "Kies een wachtwoord om uw account te activeren"
+
+msgid "CHOOSE_NEW_PASSWORD"
+msgstr "Kies een nieuw wachtwoord"
+
+msgid "REPEAT_PASSWORD"
+msgstr "Herhaal het wachtwoord"
+
+msgid "INITIAL_PASSWORD_SAVED"
+msgstr "Uw wachtwoord is opgeslagen en uw account geactiveerd. U kunt vanaf nu inloggen met uw gegevens."
+
+msgid "ACTIVATION_SUCCEEDED"
+msgstr "Activatie gelukt!"
+
+msgid "ACTIVATION_SUCCEEDED_HEADER"
+msgstr "Activatie gelukt!"
+
+msgid "ACTIVATION_MAIL_SENT_HEADER"
+msgstr "Activatie e-mail verstuurd"
+
+msgid "ACTIVATION_FAILED_HEADER"
+msgstr "Accountactivatie is niet gelukt"
+
+msgid "ACTIVATION_FAILED_TEXT"
+msgstr "Wij kunnen uw account niet activeren. Controleer het volgende:"
+
+msgid "ACTIVATION_SUCCEEDED_TEXT"
+msgstr "Uw account is geactiveerd"
+
+msgid "RESEND_ACTIVATION_EMAIL_TEXT"
+msgstr "Verstuur activatiegegevens naar het volgende e-mailadres:"
+
+msgid "ACTIVATION_MAIL_SENT_TEXT"
+msgstr "De activatie e-mail is zojuist naar u verzonden. Controleer uw Inbox of eventueel uw map Ongewenste E-mail."
+
+msgid "RESEND_ACTIVATION_EMAIL_HEADER"
+msgstr "Verstuur activatiegegevens"
+
+msgid "ACTIVATION_ALREADY_SUCCEEDED"
+msgstr "Uw account is reeds geactiveerd"
+
+msgid "REQUEST_NEW_PASSWORD_CONFIRMATION"
+msgstr "Er is een email naar u toegestuurd met daarin een link om een nieuw wachtwoord in te stellen."
+
+msgid "NEW_PASSWORD_SAVED"
+msgstr "Uw nieuwe wachtwoord is opgeslagen."
+
+msgid "SECONDS"
+msgstr "seconde(n)"
+
+msgid "INVALID_PASSWORD_ERROR_2"
+msgstr "Wachtwoord voldoet niet aan de eisen, of komen niet overeen."
+
+msgid "SERVICE_REQUEST_HASERRORS"
+msgstr "Er is helaas iets mis gegaan, check onderstaande velden en probeer opnieuw."
+
+msgid "BRANDS_COPY"
+msgstr "Hier vind je een lijst van alle badkamermerken met een link naar het aanbod van het desbetreffende merk op Sanitairwinkel."
+
+msgid "BRANDS_SEARCH_HEADING"
+msgstr "Zoek op jouw merk:"
+
+msgid "BRANDS_SEO"
+msgstr ""
+"<h2 class=\"heading-dot\">Populaire merken</h2>"
+"<div class=\"row mt-4\">"
+"    <div class=\"col-6 col-md-3 col-lg-2 mb-3\"><a class=\"link-block link-block--list portlet nopadding\" title=\"merken\""
+"            href=\"/adema/\"> <img class=\"link-block__image\""
+"                src=\"https://static.rorix.nl/image/content/SEO300x300pxMerkenADEMA.jpg\" alt=\"merken\"> <span"
+"                class=\"link-block__text\">ADEMA</span> </a></div>"
+"    <div class=\"col-6 col-md-3 col-lg-2 mb-3\"><a class=\"link-block link-block--list portlet nopadding\" title=\"merken\""
+"            href=\"/crosswater/\"> <img class=\"link-block__image\""
+"                src=\"https://static.rorix.nl/image/content/SEO300x300pxMerkenCROSSWATER.jpg\" alt=\"merken\"> <span"
+"                class=\"link-block__text\">CROSSWATER</span> </a></div>"
+"    <div class=\"col-6 col-md-3 col-lg-2 mb-3\"><a class=\"link-block link-block--list portlet nopadding\" title=\"merken\""
+"            href=\"/duravit/\"> <img class=\"link-block__image\""
+"                src=\"https://static.rorix.nl/image/content/SEO300x300pxMerkenDURAVIT.jpg\" alt=\"merken\"> <span"
+"                class=\"link-block__text\">DURAVIT</span> </a></div>"
+"    <div class=\"col-6 col-md-3 col-lg-2 mb-3\"><a class=\"link-block link-block--list portlet nopadding\" title=\"merken\""
+"            href=\"/fortifura/\"> <img class=\"link-block__image\""
+"                src=\"https://static.rorix.nl/image/content/FortiFura-300x300.jpg\" alt=\"merken\"> <span"
+"                class=\"link-block__text\">FORTIFURA</span> </a></div>"
+"    <div class=\"col-6 col-md-3 col-lg-2 mb-3\"><a class=\"link-block link-block--list portlet nopadding\" title=\"merken\""
+"            href=\"/geberit/\"> <img class=\"link-block__image\""
+"                src=\"https://static.rorix.nl/image/content/SEO300x300pxMerkenGEBERIT.jpg\" alt=\"merken\"> <span"
+"                class=\"link-block__text\">GEBERIT</span> </a></div>"
+"    <div class=\"col-6 col-md-3 col-lg-2 mb-3\"><a class=\"link-block link-block--list portlet nopadding\" title=\"merken\""
+"            href=\"/grohe/\"> <img class=\"link-block__image\""
+"                src=\"https://static.rorix.nl/image/content/SEO300x300pxMerkenGROHE.jpg\" alt=\"merken\"> <span"
+"                class=\"link-block__text\">GROHE</span> </a></div>"
+"    <div class=\"col-6 col-md-3 col-lg-2 mb-3\"><a class=\"link-block link-block--list portlet nopadding\" title=\"merken\""
+"            href=\"/hansgrohe/\"> <img class=\"link-block__image\""
+"                src=\"https://static.rorix.nl/image/content/SEO300x300pxMerkenHANSGROHE.jpg\" alt=\"merken\"> <span"
+"                class=\"link-block__text\">HANSGROHE</span> </a></div>"
+"    <div class=\"col-6 col-md-3 col-lg-2 mb-3\"><a class=\"link-block link-block--list portlet nopadding\" title=\"merken\""
+"            href=\"/hotbath/\"> <img class=\"link-block__image\""
+"                src=\"https://static.rorix.nl/image/content/SEO300x300pxMerkenHOTBATH.jpg\" alt=\"merken\"> <span"
+"                class=\"link-block__text\">HOTBATH</span> </a></div>"
+"    <div class=\"col-6 col-md-3 col-lg-2 mb-3\"><a class=\"link-block link-block--list portlet nopadding\" title=\"merken\""
+"            href=\"/plieger/\"> <img class=\"link-block__image\""
+"                src=\"https://static.rorix.nl/image/content/SEO300x300pxMerkenPLIEGER.jpg\" alt=\"merken\"> <span"
+"                class=\"link-block__text\">PLIEGER</span> </a></div>"
+"    <div class=\"col-6 col-md-3 col-lg-2 mb-3\"><a class=\"link-block link-block--list portlet nopadding\" title=\"merken\""
+"            href=\"/saniclass/\"> <img class=\"link-block__image\""
+"                src=\"https://static.rorix.nl/image/content/SEO300x300pxMerkenSANICLASS.jpg\" alt=\"merken\"> <span"
+"                class=\"link-block__text\">SANICLASS</span> </a></div>"
+"    <div class=\"col-6 col-md-3 col-lg-2 mb-3\"><a class=\"link-block link-block--list portlet nopadding\" title=\"merken\""
+"            href=\"/villeroy-boch/\"> <img class=\"link-block__image\""
+"                src=\"https://static.rorix.nl/image/content/SEO300x300pxMerkenVILLEROY.jpg\" alt=\"merken\"> <span"
+"                class=\"link-block__text\">VILLEROY & BOCH</span> </a></div>"
+"    <div class=\"col-6 col-md-3 col-lg-2 mb-3\"><a class=\"link-block link-block--list portlet nopadding\" title=\"merken\""
+"            href=\"/vtwonen/\"> <img class=\"link-block__image\""
+"                src=\"https://static.rorix.nl/image/content/vtwonen300x300.jpg\" alt=\"merken\"> <span"
+"                class=\"link-block__text\">VTWONEN</span> </a></div>"
+"</div>"
+""
+
+msgid "TRUSTPILOT_TEXT_COUNTREVIEWS"
+msgstr "Score op basis van <span class=\"ratingCountTrustPilot tp-reviews\"></span> reviews."
+
+msgid "LATEST_REVIEW"
+msgstr "Meest recente review:"
+
+msgid "PHONENUMBER"
+msgstr "073-5220688"
+
+msgid "FILTERS_REVIEW_OVERVIEW_PRODUCT"
+msgstr "<p>Door <b class=\"c-kblue productRatingCount\">%s</b> klanten is dit product gemiddeld beoordeeld met een <b class=\"c-kblue productReviewStars\">%s</b>."
+
+msgid "TRUSTPILOT_REVIEW_TITLE_PRODUCT"
+msgstr "Product reviews"
+
+msgid "TRUSTPILOT_REVIEW_TITLE"
+msgstr "Trustpilot service reviews"
+
+msgid "TAGLINE"
+msgstr "Badkamers voor elke dag"
+
+msgid "NAVIGATION_USP_6"
+msgstr ""
+"<div class=\"t-usp hd-usp\" data-gtm-event=\"click\" data-gtm-category=\"Header\" data-gtm-action=\"USP's\" data-gtm-label=\"Assortiment\">"
+"    <span class=\"info top-icon\"></span>"
+"    <a href=\"/klantenservice/over-sanitairwinkel/\">"
+"        <span>Ruim</span>"
+"        <span class=\"c-orange\">100.000 producten</span>"
+"    </a>"
+"</div>"
+
+msgid "SEARCH_RESULT_SOOQR"
+msgstr "Bekijk hieronder de resultaten voor uw zoekterm: "
+
+msgid "MENU"
+msgstr "Hoofdmenu"
+
+msgid "NEWSLETTER_UNSUBSCRIBED"
+msgstr ""
+"Je bent succesvol uitgeschreven<br>"
+"Je ontvangt voortaan geen nieuwsbrieven meer van Sanitairwinkel."
+
+msgid "BY_US"
+msgstr "door ons"
+
+msgid "BY_YOU"
+msgstr "door u"
+
+msgid "REMOVE_ALL_FILTERS"
+msgstr "Verwijder alle filters"
+
+msgid "QUICK_TO"
+msgstr "Snel naar"
+
+msgid "RESULTS"
+msgstr "Resultaten"
+
+msgid "NO_SEARCH_RESULTS"
+msgstr ""
+"<p>Helaas zijn er geen resultaten voor je zoekopdracht. Verfijn je zoekopdracht door de zoekterm aan te passen. Gebruik bijvoorbeeld een synoniem of een andere schrijfwijze voor het woord. Of zoek op merk of productnummer.</p>"
+""
+"<p>Meer weten over onze service? Bezoek dan onze <a href=\"https://service.sawiday.com/hc/nl\">klantenservice</a>.</p>"
+""
+"<p>Ben je op zoek naar inspiratie of advies? Bezoek dan één van de volgende pagina's: "
+"<ul>"
+"<li><a href=\"/inspiratie/\">Inspiratie</a></li>"
+"<li><a href=\"/advies/\">Advies</a></li>"
+"</ul>"
+"</p>"
+"<p>"
+"<ul>"
+"<a href=\"/\">Terug naar de homepage</a>"
+"</ul>"
+"</p>"
+""
+""
+""
+""
+
+msgid "SEARCH_NO_RESULTS_TITLE"
+msgstr "Geen resultaten gevonden voor de zoekterm %s"
+
+msgid "SEARCH_RESULTS_CORRECTED"
+msgstr "U zocht op '%s', u ziet resultaten voor '%s'"
+
+msgid "HEADERNAV_CUSTOM_TEXT_1"
+msgstr "Inspiratie"
+
+msgid "HEADERNAV_CUSTOM_LINK_1"
+msgstr "/inspiratie/"
+
+msgid "HEADERNAV_CUSTOM_TEXT_2"
+msgstr "Advies"
+
+msgid "HEADERNAV_CUSTOM_LINK_2"
+msgstr "/advies/"
+
+msgid "NEAREST_SHOWROOM"
+msgstr "Dichtstbijzijnde showroom"
+
+msgid "SELECT_SHOWROOM"
+msgstr "Selecteer een showroom"
+
+msgid "UPLOAD_QUOTE"
+msgstr "Upload offerte"
+
+msgid "CHOOSE_FILE"
+msgstr "Bestand kiezen"
+
+msgid "PDF_OR_IMAGE"
+msgstr ".pdf of afbeelding"
+
+msgid "PAGE_COMPAREQUOTE_TITLE"
+msgstr "Wij bieden jou de beste deal!"
+
+msgid "PAGE_COMPAREQUOTE_TEXT"
+msgstr ""
+"<p>Heb je in een andere winkel een droombadkamer gezien, maar de knoop nog niet doorgehakt? Of weet je al precies welke producten in je badkamer moeten komen? Upload je verkregen offerte, screenshot van de winkelwagen of de tekening van je nieuwe badkamer en wij helpen jou bij het maken van de beste deal.</p><p>"
+"Onze professionele verkoopadviseurs staan klaar om de offerte helemaal naar wens te maken tegen een scherpe online prijs. Vul onderstaand formulier in. Eén van onze verkoopadviseurs gaat dan voor jou aan de slag."
+"</p>"
+
+msgid "FORM_COMPAREQUOTE_TITLE"
+msgstr "Offertecheck invulformulier"
+
+msgid "SIDEBAR_COMPAREQUOTE_TITLE"
+msgstr "Twijfel je nog? Wij helpen jou graag!"
+
+msgid "SIDEBAR_COMPAREQUOTE_TEXT"
+msgstr "<p>Sanitairwinkel staat voor kwaliteit en het geven van professioneel advies. Onze verkopers helpen jou daarom graag om de knoop door te hakken. Hierdoor ga jij met een fijn gevoel én een offerte op maat de deur uit.</p>"
+
+msgid "FLOWBOX_PAGE_BREADCRUMB"
+msgstr "#mijnsanitair"
+
+msgid "FLOWBOX_PAGE_TITLE"
+msgstr "Laat je inspireren door de mooie badkamers van onze klanten  | #mijnsanitair"
+
+msgid "FLOWBOX_PAGE_CONTENT"
+msgstr ""
+"De <strong>mooiste badkamers</strong> staan bij onze klanten thuis. Die delen we graag ter inspiratie. Bekijk ze hieronder en gebruik de filters om jouw stijl te ontdekken!<br><br>"
+""
+"Wil je jouw foto hier zien? Deel jouw mooie badkamer dan op Instagram met #mijnsanitair en tag @sanitairwinkel. Of stuur je foto met het eindresultaat en je bestelnummer via de mail: actie@sanitairwinkel.nl. Elke maand kiezen wij vijf winnaars die €100,- shoptegoed winnen. <a href=\"https://www.sanitairwinkel.nl/yessawi/winactie/\">Zo doe je mee.</a></p>"
+
+msgid "ERROR_OCCURRED"
+msgstr "Er is helaas iets mis gegaan."
+
+msgid "FLOWBOX_PAGE_CONTENT_BOTTOM"
+msgstr ""
+
+msgid "ACTIVATION_MAIL_LINK"
+msgstr "Activatie e-mail nogmaals versturen."
+
+msgid "BACK_TO_GLOSSARY"
+msgstr "Terug Naar Begrippenlijst"
+
+msgid "FLOWBOX_FILTER_TAG_ALL"
+msgstr "Alle"
+
+msgid "FLOWBOX_FILTER_TAG_SCANDINAVIAN"
+msgstr "Scandinavisch"
+
+msgid "FLOWBOX_FILTER_TAG_INDUSTRIAL"
+msgstr "Industrieel"
+
+msgid "FLOWBOX_FILTER_TAG_DARK"
+msgstr "Donker"
+
+msgid "FLOWBOX_FILTER_TAG_LIGHT"
+msgstr "Licht"
+
+msgid "FLOWBOX_FILTER_TAG_CONCRETE"
+msgstr "Betonlook"
+
+msgid "FLOWBOX_FILTER_TAG_LUXURY"
+msgstr "Luxe"
+
+msgid "FLOWBOX_FILTER_TAG_HERRINGBONE"
+msgstr "Visgraat"
+
+msgid "FLOWBOX_FILTER_TAG_MODERN"
+msgstr "Modern"
+
+msgid "FLOWBOX_FILTER_TAG_TERRAZZO"
+msgstr "Terrazzo"
+
+msgid "FLOWBOX_FILTER_TAG_COLOR"
+msgstr "Kleur"
+
+msgid "FLOWBOX_PAGE_SOCIAL_BUTTON_URL"
+msgstr "https://www.instagram.com/sanitairwinkel/"
+
+msgid "FLOWBOX_PAGE_SOCIAL_BUTTON_TEXT"
+msgstr "Volg @sanitairwinkel op Instagram voor meer mooie badkamers."
+
+msgid "TAGLINE_HTML"
+msgstr "Badkamers <br>voor elke dag</br>"
+
+msgid "PICTURE_OF"
+msgstr "Foto van"
+
+msgid "ABOUT_THE_AUTHOR"
+msgstr "Over de auteur(s)"
+
+msgid "OF"
+msgstr "van"
+
+msgid "MEET_AUTHOR"
+msgstr "Maak kennis met"
+
+msgid "REVIEW_ANONYMIZED_USER"
+msgstr "Geïmporteerde review"
+
+msgid "FLOWBOX_SUBTITLE"
+msgstr "De mooiste badkamers staan bij onze klanten thuis"
+
+msgid "WITH"
+msgstr "met"
+
