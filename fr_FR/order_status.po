@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "SALUTATION"
+msgstr "Bonjour %s"
+
+msgid "ORDER_STATUS_TEXT_1"
+msgstr ""
+"<p>Merci pour votre commande chez Sawiday. Voici les données concernant votre "
+"                commande.</p>"
+
+msgid "ORDER_STATUS_TEXT_2"
+msgstr ""
+
+msgid "ORDER_STATUS_TEXT_3"
+msgstr ""
+
+msgid "DEPOSIT"
+msgstr "Un acompte"
+
+msgid "COMPLY"
+msgstr "à compléter"
+
+msgid "DELIVERY_TITLE"
+msgstr "Livraison %d"
+
+msgid "POPUP_DATEPICKER_TITLE"
+msgstr "Choisissez votre date de livraison"
+
+msgid "POPUP_DATEPICKER_TEXT"
+msgstr "<p><span class=\"text-action font-weight-bold\">ATTENTION!</span> Après confirmation, vous ne pouvez plus modifier</p>"
+
+msgid "EXPECTED_DELIVERY_DATE"
+msgstr "Date de livraison prévue"
+
+msgid "DELIVERED_ON"
+msgstr "Livraison à partir du"
+
+msgid "TO_BE_DETERMINED"
+msgstr "à déterminer"
+
+msgid "PRODUCTS_TITLE"
+msgstr "Produits (%d)"
+
+msgid "TRACE_ORDER"
+msgstr "Suivez votre commande"
+
+msgid "STATUS_DEFAULT"
+msgstr "Commande passée"
+
+msgid "STATUS_TO_BE_SCHEDULED"
+msgstr "Planifier"
+
+msgid "STATUS_ON_CALL"
+msgstr "Sur appel"
+
+msgid "STATUS_SCHEDULED"
+msgstr "Planifié"
+
+msgid "STATUS_READY_FOR_TRANSPORT"
+msgstr "Prêt pour expédition"
+
+msgid "STATUS_READY_FOR_PICKUP"
+msgstr "Prêt pour ramassage"
+
+msgid "STATUS_COMPLETED"
+msgstr "Finalisé"
+
+msgid "STATUS_CANCELLED"
+msgstr "Annulé"
+
+msgid "STATUS_IN_PROGRESS"
+msgstr "En cours de traitement"
+
+msgid "ON_CALL_LINK"
+msgstr "Placez votre commande sur appel"
+
+msgid "ON_CALL_LINK_POPUP"
+msgstr "<p>Vous pouvez indiquer la date jusqu'à laquelle la commande peut être stockée dans notre entrepôt. <span class='text-action font-weight-bold'>Remarque</span> : ceci n'est pas une date de livraison.</p>"
+
+msgid "STATUS_ON_CALL_POPUP"
+msgstr "<p>Les produits commandés seront stockés dans notre entrepôt en attendant la date de livraison de votre choix. La date prévue sélectionnée n'est cependant pasé gale à la date de livraison. La date prévue est la date jusqu'à laquelle nous stockons votre commande en attendant de connaître la date de livraison.</p><h2>1 : Date prévue</h2><p>La date jusqu'à laquelle nous stockons la commande dans notre entrepôt. Ce délai peut atteindre 6 mois maximum, à compter de la date à laquelle la commande a été signalée comme étant complète.</p><h2>2 : La date approche</h2><p>Une fois la date prévue que vous avez choisie atteinte, un e-mail vous sera envoyé. Vous aurez alors la possibilité de modifier la date prévue ou de sélectionner une date de livraison souhaitée.</p><h2>3 : Fixer la date de livraison définitive</h2><p>Connaissez-vous la date de livraison définitive ? Modifiez la date de livraison sur l'Etat de commande et sélectionnez la date de livraison à l'aide du calendrier.</p>"
+
+msgid "INDICATION_DATE"
+msgstr "Date prévue de livraison sur rendez-vous"
+
+msgid "POPUP_DATEPICKER_ON_CALL_TITLE"
+msgstr "Choisissez votre date prévue de livraison sur rendez-vous"
+
+msgid "POPUP_DATEPICKER_ON_CALL_TEXT"
+msgstr "<p>Vous pouvez indiquer la date jusqu'à laquelle la commande peut être stockée dans notre entrepôt. <span class='text-action font-weight-bold'>Remarque</span> : ceci n'est pas une date de livraison.</p>"
+
+msgid "POPUP_DATEPICKER_EDIT_TITLE"
+msgstr "Planifier une date d'appel ou de livraison"
+
+msgid "POPUP_DATEPICKER_EDIT_TEXT"
+msgstr "<p>Choisissez ici</p>"
+
+msgid "DATE_OPTION_ON_CALL"
+msgstr "Sélectionnez la date prévue de livraison sur rendez-vous"
+
+msgid "DATE_OPTION_DELIVERY"
+msgstr "Sélectionnez la date de livraison"
+
+msgid "EDIT_DATE"
+msgstr "Modifier le date"
+

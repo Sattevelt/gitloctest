@@ -1,0 +1,721 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "ADD_PRODUCT"
+msgstr "Ajoutez \"%s\" à votre panier"
+
+msgid "HEADER_IMAGE"
+msgstr "<a href=\"https://www.becommerce.be/fr/membres/chercher-un-membre/d/certificate/206\" title=\"Faire son e-shopping en sécurité avec BeCommerce!\" target=\"_blank\"><img alt=\"becommerce\" src=\"//static.rorix.nl/skins/1/images/logo-becommerce.png\" id=\"headerimg\"></a>"
+
+msgid "PRODUCT_ADDED"
+msgstr "Votre produit est placé dans votre panier d'achat"
+
+msgid "UPS_TITLE"
+msgstr "Choisissez pour Sawiday.be"
+
+msgid "UPS_LIST"
+msgstr ""
+"<ul>"
+"   <li>Magasins à Schoten et Zaventem</li>"
+"   <li>Livraison gratuite à partir de €%s d'achat</li>"
+"   <li>Livraison sur rendez-vous</li>"
+"   <li>30 jours droit de retour</li>"
+"   <li class=\"global-review-trustpilot\"><span class=\"ratingNumberTrustPilot  tp-score\"></span> sur 5 à base de <span class=\"ratingCountTrustPilot tp-reviews\"></span> commentaires</li>"
+"  </ul>"
+
+msgid "ORDER_COMPLETED"
+msgstr "Commande effectué!"
+
+msgid "FACEBOOK_SHARE_TITLE"
+msgstr "Je viens de commander chez Sawiday."
+
+msgid "NEED_HELP_CALL"
+msgstr ""
+"Besoin d'aide ? Appelez-nous:<br />"
+"		<span>(+32)(0)68480114</span>"
+
+msgid "CHANGE_AMOUNT"
+msgstr "Modifiez nombre de \"%s\""
+
+msgid "REMOVE_PRODUCT"
+msgstr "Supprimer \"%s\" de votre panier d'achat"
+
+msgid "TOTAL_INC_BTW"
+msgstr "Total (TVA incl.)"
+
+msgid "ADD_PRODUCT_FREE_SHIPPING"
+msgstr "Ajoutez encore € %.2f à votre commande <br /> et votre livraison est gratuite!"
+
+msgid "CONTENT"
+msgstr "Contenu de votre panier"
+
+msgid "SAVE_MAIL"
+msgstr "Sauvegarder et envoyer un courriel à vous-même"
+
+msgid "USE_DISCOUNTCODE"
+msgstr "Utiliser un code de réduction"
+
+msgid "INVALID_DISCOUNTCODE"
+msgstr "Code de réduction n'est pas correct."
+
+msgid "MAIL"
+msgstr "Recevoir mon panier par mail?"
+
+msgid "MAIL_EXPLANATION"
+msgstr "Entrez votre adresse email et cliquez sur envoyer pour avoir le contenu de votre panier d'achat envoyé à votre popre adresse email."
+
+msgid "LOGOS"
+msgstr ""
+"<img src=\"//static.rorix.nl/skins/1/images/logo-mrcash.png\" alt=\"mister cash\" />"
+"<img src=\"//static.rorix.nl/skins/1/images/paymentmethod/bm-ico-paypal.png\" alt=\"ico PayPal\">"
+"<img src=\"//static.rorix.nl/skins/1/images/logo-bepost.png\" alt=\"bpost\" />"
+"<a href=\"https://www.becommerce.be/nl/leden/zoek-een-lid/d/certificate/206\" title=\"Acheter en ligne en sécurité avec BeCommerce !\" target=\"_blank\"><img src=\"//static.rorix.nl/skins/1/images/logo-becommerce.png\" alt=\"becommerce\" /></a>"
+"<a href=\"https://www.ecommerce-europe.eu/becommerce\" title=\"Sawiday a l'Ecommerce Europe Trustmark!\" target=\"_blank\"><img src=\"//static.rorix.nl/image/content/253f9fd7515bdc17f3728593417f4c66.jpg\" alt=\"Ecommerce Europe Trustmark\" /></a>"
+"<img class=\"right\" src=\"//static.rorix.nl/skins/1/images/logo-trustpilot.png\" alt=\"Trustpilot rating\" />"
+
+msgid "SCROLLBOX_TITLE"
+msgstr "Livrer ou retirer"
+
+msgid "CONTINUE_ORDER"
+msgstr "Valider et payer"
+
+msgid "EMPTY"
+msgstr ""
+"<p>Votre panier est vide.</p>"
+"<a href=\"/\">Continuez vos achats</a>"
+
+msgid "EMPTY_TITLE"
+msgstr "Vous n'avez pas encore de produits dans votre panier d'achat."
+
+msgid "OVERVIEW_TITLE"
+msgstr "Contrôler & envoyer commande"
+
+msgid "YOUR_CART"
+msgstr "Votre panier d'achat"
+
+msgid "VAT_NUMBER"
+msgstr "Numéro de TVA"
+
+msgid "FILL_DETAILS"
+msgstr "Entrez vos données ici"
+
+msgid "SHIPPING_DELIVER"
+msgstr "Faire livrer produits"
+
+msgid "SHIPPING_PICKUP"
+msgstr "Retirer dans notre magasin"
+
+msgid "WRAP_UP"
+msgstr "Paiement"
+
+msgid "DELIVERY_ON"
+msgstr "Livraison le %s"
+
+msgid "ERROR_HEADER"
+msgstr "Commande payée ?"
+
+msgid "ERROR_MESSAGE"
+msgstr ""
+"<h2>Payer commande</h2>"
+"<div class='clear'></div>"
+"<p>Votre commande n'est pas encore payée, vous pouvez compléter votre commande sur cette page.</p>"
+" <p>Si vous avez des questions, vous pouvez toujours contacter notre service client (<strong> (+32)(0) 848 0114</strong>).</p>"
+
+msgid "DELIVERY_FASTEST"
+msgstr "Livraison la plus rapide possible"
+
+msgid "DELIVERY_CHOOSE"
+msgstr "La date de livraison choisissée"
+
+msgid "DELIVERY_CHOOSE_OTHER"
+msgstr "Choisissez votre date de livraison"
+
+msgid "DELIVERY_APPOINTMENT"
+msgstr "Livraison sur rendez-vous"
+
+msgid "TOOLTIP_DELIVERY_DATE_DELAY_AMS"
+msgstr "Si vous préférez enlever de votre commande à Amsterdam, vous devrez tenir compte d'un délai de livraison plus élevé. En général, votre commande a un retard de 5 jours."
+
+msgid "TOOLTIP_DELIVERY_DATE_FASTEST"
+msgstr "Dès que votre commande sera prête nous l'expédions. Vous recevrez un code Track&Trace."
+
+msgid "TOOLTIP_DELIVERY_DATE_CHOOSE"
+msgstr "Vous recevrez par courrier électronique le numéro de téléphone de notre transporteur. Le jour de livraison vous pouvez le contacter pour demander à quelle heure la livraison aura lieu."
+
+msgid "TOOLTIP_DELIVERY_DATE_APPOINTMENT"
+msgstr "Une fois que votre commande sera prête, nous prenons contact avec vous pour fixer un rendez-vous pour la livraison."
+
+msgid "DELIVERY_DATE_ERROR"
+msgstr "Choisissez une date de livraison !"
+
+msgid "DELIVERY_SHOWROOM_ERROR"
+msgstr "Choisissez un showroom pour retirer votre commande !"
+
+msgid "DELIVERY_DATE_METHOD_ERROR"
+msgstr "Faites votre choix pour la livraison !"
+
+msgid "PICK_DELIVERY_ADDRESS"
+msgstr "Autre adresse de livraison ?"
+
+msgid "COMMENTS"
+msgstr "Instructions de livraison (facultatif) | Les instructions fournies ne sont pas prises en considération dans la livraison d'un colis postal."
+
+msgid "ENTER_COMMENTS"
+msgstr "Remarques éventuelles"
+
+msgid "NEXT_STEP"
+msgstr "Etape suivante"
+
+msgid "ZIPCODE_PLACEHOLDER"
+msgstr "1234"
+
+msgid "VAT_NUMBER_PLACEHOLDER"
+msgstr "BE0xxxxxxxxx"
+
+msgid "INITIALS_PLACEHOLDER"
+msgstr "A.B.C."
+
+msgid "ADDED_TO_SHOPPINGCART"
+msgstr "Ajouté à votre panier"
+
+msgid "MODIFY_SHOPPINGCART"
+msgstr "Modifier panier d'achat"
+
+msgid "X_ADDED_PRODUCTS_TO_SHOPPINGCART"
+msgstr "%d d'articles ajoutés."
+
+msgid "GENDER"
+msgstr "Votre sexe"
+
+msgid "FAMILY"
+msgstr "Fam."
+
+msgid "SIR"
+msgstr "M."
+
+msgid "MADAM"
+msgstr "Mme."
+
+msgid "SEND_CART_TO"
+msgstr "Panier sera envoyé à:"
+
+msgid "SEND_CART_FAIL"
+msgstr "Une erreur s’est produite lors d’envoyer votre panier d’achat. Veuillez accepter nos excuses pour l’inconvénient."
+
+msgid "PAYMENT_GATEWAY_HEADER"
+msgstr "<p>Dans quelques secondes vous serez envoyé automatiquement vers le site de paiement.<br />Au cas échéant cliquez sur le bouton payer ci-dessous.</p>"
+
+msgid "PAYMENT_GATEWAY_SUBMIT"
+msgstr "Payer"
+
+msgid "PAYMENT_GATEWAY_FOOTER"
+msgstr ""
+"<p>Vous pouvez nous contacter si vous avez des questions ou besoin d'aide.</p>"
+" <ul style=\"list-style:none outside none; padding-left: 0;\">"
+"     <li><strong>Sawiday.be</strong></li>"
+"     <li>Bredabaan 1265</li>"
+"     <li>2900 Schoten, Belgique</li>"
+"     <li>tel. (+32)(0)68480114 (Service client)</li>"
+"     <li>fax. 03 685 0320</li>"
+"     <li>e-mail: <a href=\"mailto:info@sawiday.be\">info@sawiday.be</a></li>"
+" </ul>"
+
+msgid "PAYMENT_GATEWAY_ORDER_ALREADY_PAID"
+msgstr "Cette commande a déjà été payée."
+
+msgid "PAYMENT_GATEWAY_NO_DATA_FOUND"
+msgstr "Les données ne sont pas trouvées."
+
+msgid "SEND_CART_EMAIL_SUBJECT"
+msgstr "Voici les produits dans votre panier d'achat"
+
+msgid "SEND_CART_EMAIL_BODY"
+msgstr "Sur notre site, vous avez indiqué que vous souhaitiez recevoir votre panier d’achat par mail. Voici les produits: "
+
+msgid "PAYMENT_GATEWAY_TECHNICAL_ERROR"
+msgstr ""
+"<p>Il s'est produit une erreur durant le traitement de votre paiement. S'il vous plait, contactez notre service client.</p>"
+" <ul style=\"list-style:none outside none;\">"
+" 	<li><strong>Sawiday.be</strong></li>"
+" 	<li>Bredabaan 1265</li>"
+"    <li>2900 Schoten</li>"
+" 	<li>tel. (+32)(0)68480114</li>"
+" 	<li>fax. 03 685 0320</li>"
+" 	<li>e-mail: <a href=\"mailto:info@sawiday.be\">info@sawiday.be</a></li>"
+" </ul>"
+
+msgid "SHIPPING_BPOST"
+msgstr "Pickup at BPost"
+
+msgid "DISTANCE"
+msgstr "km de chez vous"
+
+msgid "DELIVERY_POINT"
+msgstr "Point d'enlèvement"
+
+msgid "YOUR_STREET"
+msgstr "Votre rue"
+
+msgid "YOUR_HOUSE_NO"
+msgstr "Votre numéro de maison "
+
+msgid "YOUR_ZIPCODE"
+msgstr "Votre code postal"
+
+msgid "YOUR_CITY"
+msgstr "Votre ville"
+
+msgid "SEARCH_DELIVERY_POINTS"
+msgstr "Cherchez point d'enlèvement"
+
+msgid "CHOSEN_DELIVERY_POINT"
+msgstr "Point d'enlèvement choisi"
+
+msgid "NO_ADDRESS_ENTERED"
+msgstr "Remplissez rue, numéro, code postal et ville SVP."
+
+msgid "CHOOSE_PAYMENT_METHOD_ENTER_ALL"
+msgstr "Choisissez un mode de paiement et remplissez les champs obligatoires"
+
+msgid "COMMUNICATION_LANGUAGE"
+msgstr "Language"
+
+msgid "FOOTER_QUESTIONS"
+msgstr ""
+"<tr><td colspan=\"2\"><strong>Avez-vous une question ?</strong></span><br />"
+"                <span>Contactez un de nos experts de sanitair par notre <a href=\"https://www.sawiday.be\">site</a>, notre numméro de téléphone (+32)(0)68480114 ou"
+"               consultez notre <a href=\"https://www.sawiday.be/service-client/\">page service client.</a>"
+"                </td></tr>"
+"         </table>"
+
+msgid "HEADER_CART_MAIL"
+msgstr ""
+"<table class=\"wrapper\">"
+"            <tr class=\"wrapper-header\">"
+"                <td><img src=\"%path%\"></td>"
+"                <td class=\"menu\">"
+"<span class=\"order\"><a href=\"https://www.sawiday.be/etat-de-commande/\">Votre commande</a></span> <span class=\"separator\">|</span> "
+"                    <span class=\"customerservice\"><a href=\"https://www.sawiday.be/\">Service client</a></span>"
+"                </td>"
+"            </tr>"
+
+msgid "VALID_DISCOUNTCODE"
+msgstr "Code de réduction est correct"
+
+msgid "SAVE_CART_FAILED"
+msgstr "Excusez-nous, une faute technique s'est produit en sauvegardant votre panier d'achats. Notre service technique est mis au courant et va résoudre le problème dès que possible. Réessayez plus tard. Nos excuses pour l'inconvénient."
+
+msgid "BUNDLE_ADDED"
+msgstr "Votre offre combinée est mis dans votre panier d'achat."
+
+msgid "BUNDLE_PRODUCT_MANDATORY"
+msgstr "Ce produit est obligatoire afin de profiter du rabais de cette offre combinée."
+
+msgid "ERROR_HEADER_ORDER_PAID"
+msgstr "Votre commande a déjà été payée."
+
+msgid "ERROR_MESSAGE_ORDER_PAID"
+msgstr ""
+"<h2>Information</h2>"
+"<div class='clear'></div>"
+"<p>Selon nos données, votre commande est déjà payée, vous ne devez plus la payer.</p>"
+" <p>Si vous avez des questions, vous pouvez toujours contacter notre service client (<strong>(+32)(0) 848 0114</strong>).</p>"
+
+msgid "CHOOSE_DELIPOINT"
+msgstr "Choisissez votre point d'enlèvement."
+
+msgid "SHIPPING_DELIPOINT"
+msgstr "Retirer à un point d'enlèvement BPost"
+
+msgid "PICKUP_DEPENDS_ON_DELIVERY_POINT"
+msgstr "Cela dépend du point d'enlèvement que vous avez choisi"
+
+msgid "META_TITLE_START"
+msgstr "Panier d'achat | Sawiday"
+
+msgid "META_TITLE_DATA"
+msgstr "Données | Sawiday"
+
+msgid "META_TITLE_OVERVIEW"
+msgstr "Panier | Sawiday"
+
+msgid "PICKUP_WHERE"
+msgstr "Où voulez-vous retirer votre commande?"
+
+msgid "PICKUPPOINTS_CLOSE_BY"
+msgstr "Addresses où retirer votre commande près de chez vous"
+
+msgid "CHOOSE_DIFF_DELIVERY_METHOD"
+msgstr "Choisissez une autre manière de livraison"
+
+msgid "DELIPOINT_DELIVERY_DETAILS"
+msgstr "Retirer de l’adresse sélectionnée est possible à partir de <span id=\"pickupDate\">%s</span> (faites attention : ce n’est qu’une indication). Votre paquet restera 3 semaines à l’adresse à emporter."
+
+msgid "UPDATE_AMOUNT"
+msgstr "Actualiser"
+
+msgid "DELIPOINT_IS_BPACK"
+msgstr ""
+"Vous avez choisi pour un distributeur de paquets de BPack. Vous pouvez enlever votre paquet dès <span id=\"pickupDate\">%s</span> (faites attention: ce n’est qu’une indication. Vous recevrez encore un message le moment où votre paquet soit livré). Votre paquet restera dans le distributeur pendant 5 jours, puis il sera renvoyé."
+""
+"Vous trouverez plus d’informations sur BPack sur le site web de Bpost : https://www.bpost.be/site/fr/residential/parcels/pickup/bpack247.html"
+""
+
+msgid "ERROR_INVALID_ADDRESS"
+msgstr "S'il vous plait, remplissez rue, numéro et ville correctement."
+
+msgid "ERROR_GETTING_DELIPOINTS_FAILED"
+msgstr ""
+"Une erreur s'est produit en cherchant les points d'enlèvement. Rafraichissez la page afin de réessayer."
+""
+
+msgid "ERROR_ADDRESS_NOT_FOUND"
+msgstr "Adresse introuvable ; S'il vous plait, remplissez rue, numéro et ville correctement."
+
+msgid "BEST_PICKUPPOINT"
+msgstr "C'est le point d'enlèvement le plus proche de chez vous"
+
+msgid "ERROR_WAIT_FOR_LOAD_FINISH"
+msgstr "En train de charger la page. Attendez s'il vous plaît."
+
+msgid "TOOLTIP_PICKUPPOINT"
+msgstr "Au deuxième étape, vous pouvez choisir le point d'enlèvement."
+
+msgid "NO_DISCOUNT_ON_PRODUCT"
+msgstr "Code de réduction n'est pas valable pour cet article"
+
+msgid "GETTING_DELIPOINTS_FAILED_RETRY"
+msgstr "La recherche des points d'enlèvement prend plus de temps que d'habitude. On va réessayer."
+
+msgid "ERROR_NO_DELIPOINTS_FOUND"
+msgstr "Malheureusement, il n'y a pas de points d'enlèvement pour cette adresse."
+
+msgid "CUSTOMER_ACCOUNT_EXISTS"
+msgstr "Vous avez déjà un compte. Cliquez <a id=\"loginPopupLink\" class=\"fancybox\" href=\"#loginPopup\">ici</a> afin de connecter."
+
+msgid "LOGIN"
+msgstr "Connecter et poursuivre."
+
+msgid "REGISTER"
+msgstr "Enregistrer (facultatif)"
+
+msgid "REGISTER_REASON"
+msgstr "Commander plus facilement à l'avenir?<br>Remplissez un mot de passe ci-dessous. (6 caractères au minimum, contient au moins 1 chiffre et lettre)"
+
+msgid "CUSTOMER_ACCOUNT_EXISTS_INACTIVE"
+msgstr "Vous avez déjà un compte qui ne peut plus être utilisé. Veuillez contacter notre <a href=\"%s\">service client</a> pour résoudre les problèmes."
+
+msgid "CHOOSE_SHIPPING_ADDRESS"
+msgstr "Choisissez une de vos adresses comme adresse de livraison."
+
+msgid "CHOOSE_BILLING_ADDRESS"
+msgstr "Choisissez une de vos adresses comme adresse de facturation."
+
+msgid "ERROR_INVALID_LOGIN"
+msgstr "Adresse e-mail ou mot de passe non valable."
+
+msgid "META_TITLE_LOGIN"
+msgstr "Connecter"
+
+msgid "REQUEST_NEW_PASSWORD_TITLE"
+msgstr "Demandez un nouveau mot de passe."
+
+msgid "REQUEST_NEW_PASSWORD_DESCRIPTION"
+msgstr ""
+"Entrez votre adresse e-mail dans le champ ci-dessous et cliquez sur Envoyer. Vous recevrez ensuite un e-mail avec les informations nécessaires pour réinitialiser votre mot de passe."
+""
+""
+
+msgid "VAT_NUMBER_MESSAGE"
+msgstr "Si vous possédez un numéro TVA français, cette commande est exempté de TVA (article 283-1, §2 du CGI). Vous pouvez passer votre commande et puis contacter notre service client afin d’obtenir une facture exempté de TVA."
+
+msgid "PASSWORD_PLACEHOLDER"
+msgstr "Mot de passe"
+
+msgid "EXTRA_ADDRESS_LINE"
+msgstr "Complément d’adresse"
+
+msgid "ADDRESS_STREET_AND_NO"
+msgstr "Adresse (numéro et rue)"
+
+msgid "DESTINATIONS_CUSTOMER_NICE_NAME"
+msgstr "Livrer"
+
+msgid "DESTINATIONS_DELIVERYPOINT_NICE_NAME"
+msgstr "Recevoir votre colis dans un point d'enlèvement Bpost."
+
+msgid "DESTINATIONS_SHOWROOM_NICE_NAME"
+msgstr "Retirer dans notre magasin"
+
+msgid "HEADER_YOUR_PRODUCTS"
+msgstr "Vos articles:"
+
+msgid "HEADER_NUMBER"
+msgstr "Nombre:"
+
+msgid "HEADER_PRICE"
+msgstr "Prix:"
+
+msgid "USP_1"
+msgstr "Retirer gratuitement dans nos showrooms"
+
+msgid "USP_2"
+msgstr "Livraison sur rendez-vous"
+
+msgid "USP_3"
+msgstr "Livraison gratuite à partir de 150 €"
+
+msgid "USP_4"
+msgstr "Satisfaction client: %s"
+
+msgid "DELETE_PRODUCT"
+msgstr "Retirer ce produit"
+
+msgid "DISCOUNT"
+msgstr "Réduction"
+
+msgid "SELECT_ADDRESS"
+msgstr "Sélectionnez une de vos adresses ci-dessous ou créez une nouvelle adresse."
+
+msgid "SHOPPING_CART"
+msgstr "Panier"
+
+msgid "SHIPPINGCOSTS"
+msgstr "Frais de transport"
+
+msgid "META_TITLE_DELIVERY"
+msgstr "Mode de livraison | Sawiday"
+
+msgid "DELIVERY_STRATEGY_CHOOSE_DATE_DESCRIPTION"
+msgstr "Livraison à votre convenance, choisissez une date."
+
+msgid "DELIVERY_DATE"
+msgstr "Date de livraison"
+
+msgid "WE_CALL_YOU_FOR_APPOINTMENT"
+msgstr "Nous vous contacterons dès que votre commande sera prête à être expédiée."
+
+msgid "SEARCHING_FOR_LOCATIONS_NEARBY"
+msgstr "Nous recherchons des emplacements dans votre région"
+
+msgid "EDIT_LOCATION"
+msgstr "Ajuster l'emplacement"
+
+msgid "MAP_POSITION"
+msgstr "Position sur la carte"
+
+msgid "PICK_A_SHOWROOM"
+msgstr "Sélectionnez salle d'exposition"
+
+msgid "DELIVERYMETHOD"
+msgstr "Livraison"
+
+msgid "PAYMENTMETHOD"
+msgstr "Paiement"
+
+msgid "NEED_HELP_OPEN"
+msgstr "Service client : <span class=\"jsPhoneOnMobile\">06 848 0114</span><br/>Ou envoyez un e-mail à: <a href=\"mailto:info@sawiday.be\">info@sawiday.be</a>"
+
+msgid "NEED_HELP_CLOSED"
+msgstr "Envoyez courriel à: <a href=\"mailto:info@sawiday.be\">info@sawiday.be</a>"
+
+msgid "META_TITLE_PAYMENT"
+msgstr "Paiement | Sawiday.be"
+
+msgid "REMOVE_ITEM_CONFIRMATION"
+msgstr "Voulez-vous vraiment supprimer l’article?"
+
+msgid "DESTINATIONS_SHOWROOM_EXPLANATION"
+msgstr "Vous recevrez un courriel quand vous pouvez venir retirer votre commande."
+
+msgid "FOOTER_USP_1"
+msgstr "30 jours satisfait ou remboursé"
+
+msgid "FOOTER_USP_2"
+msgstr "Retrait gratuit en magasin"
+
+msgid "FOOTER_USP_3"
+msgstr "Choix de la date de livraison"
+
+msgid "FOOTER_USP_4"
+msgstr "Paiement sécurisé en ligne"
+
+msgid "NOTICE_SUPPLIER_PROBLEM"
+msgstr ""
+""
+""
+
+msgid "USE_GIFTCARD"
+msgstr "Payer avec un chèque-cadeau"
+
+msgid "CART_FULL_TITLE"
+msgstr "Vous avez atteint le maximum de produits dans votre panier d’achat."
+
+msgid "CART_FULL_TEXT"
+msgstr "Veuillez passer cette commande, puis commandez les produits qui restent."
+
+msgid "CONFIRM_PASSWORD_PLACEHOLDER"
+msgstr "Confirmez le mot de passe"
+
+msgid "FIND_ALTERNATIVE"
+msgstr "Trouver alternative"
+
+msgid "UNAVAILABLE_PRODUCT_REMOVED"
+msgstr "Les produits suivant ne sont plus disponibles"
+
+msgid "EXIT_INTENT_POPUP_TITLE"
+msgstr "Ne ratez pas votre commande."
+
+msgid "EXIT_INTENT_POPUP_TEXT"
+msgstr "Payez maintenant et recevez votre colis"
+
+msgid "EXIT_INTENT_POPUP_TEXT_PICKUP"
+msgstr "Payez maintenant et retirez votre commande à partir du"
+
+msgid "COPERNICA_OPT_IN"
+msgstr "Envoyez-moi les dernières tendances et promotions personnelles par e-mail."
+
+msgid "DELIVERY_AT_WORK"
+msgstr "À l'attention de (facultatif)"
+
+msgid "DELIVERY_AT_WORK_PLACEHOLDER"
+msgstr "Ex. entreprise ou départment"
+
+msgid "DELIVERY_AT_WORK_TOOLTIP"
+msgstr "Voulez-vous faire livrer la commande à votre travail ? Ecrivez ici le nom de votre entreprise (et eventuellement du département)"
+
+msgid "TEL_PLACEHOLDER"
+msgstr "Par exemple 011 32 43 54"
+
+msgid "EMAIL_PLACEHOLDER"
+msgstr "Entrez votre adresse e-mail"
+
+msgid "HOUSE_NUMBER_PLACEHOLDER"
+msgstr "10"
+
+msgid "COMMENTS_PLACEHOLDER"
+msgstr "Eventuelles remarques"
+
+msgid "PREVIOUS_GEGEVENS_PAGINA"
+msgstr "Précédente"
+
+msgid "NEXT_GEGEVENS_PAGINA"
+msgstr "Prochaine étape"
+
+msgid "NEXT_DELIVERY_PAGE"
+msgstr "Prochaine étape"
+
+msgid "YES_SUBSCRIBE_ME"
+msgstr "Envoyez-moi les dernières tendances et promos personnelles par e-mail"
+
+msgid "PREVIOUS_DELIVERY_PAGE"
+msgstr "Etape précédente"
+
+msgid "PREVIOUS_PAYMENT_PAGE"
+msgstr "Etape précédente"
+
+msgid "HOUSE_NUMBER_EXTENSION_PLACEHOLDER"
+msgstr "bis"
+
+msgid "SEND_CART_MAIL_HEADER_TITLE"
+msgstr "Votre panier d'achat"
+
+msgid "SEND_CART_MAIL_HEADER_SUBTITLE"
+msgstr "Une vue d'ensemble"
+
+msgid "DISCOUNTCODE"
+msgstr "Code de réduction"
+
+msgid "QR_CODE_NEXT_PAGE_MESSAGE"
+msgstr "Après avoir cliqué sur paiement, vous pouvez scanner le code QR."
+
+msgid "EMPTY_CART_TITLE"
+msgstr "Votre panier est vide"
+
+msgid "EMPTY_CART_TEXT"
+msgstr "Pas de soucis ! Faites votre choix parmi plus de 100.000 produits disponibles sur notre site. "
+
+msgid "TOTAL_RECOMMENDED"
+msgstr "Total prix conseillé"
+
+msgid "CARD"
+msgstr "carte"
+
+msgid "NEW_ADDRESS"
+msgstr "Nouvelle adresse"
+
+msgid "FOOTER_USP_5"
+msgstr ""
+"<span class=\"score\">%s</span> à base de "
+"                <span class=\"reviews\">%s</span> commentaires</span>"
+
+msgid "CUSTOMER_SERVICE_TITLE"
+msgstr "Besoin d'aide pour passer votre commande ?"
+
+msgid "GO_TO_LOGIN"
+msgstr "Vers la page de connexion"
+
+msgid "ERROR_MESSAGE_ORDER_CANCELLED"
+msgstr "<h2>Information</h2><div class='clear'></div><p>Selon nos informations, votre commande a été annulée, vous ne pouvez plus effectuer le paiement.</p><p>Si vous avez des questions, vous pouvez toujours contacter notre service client (<strong>(+32)(0) 848 0114</strong>).</p>"
+
+msgid "PAYMENTCOSTS"
+msgstr "Frais de paiement"
+
+msgid "INVALID_PRICE_DISCOUNTCODE"
+msgstr "Le montant total de votre achat est insuffisant pour activer votre code de réduction. Veuillez faire un achat de %s Euro supplémentaires pour activer le code."
+
+msgid "VAT"
+msgstr "TVA"
+
+msgid "INVALID_GIFTCARD"
+msgstr "Chèque-cadeau non valable"
+
+msgid "EXCL_TAX"
+msgstr "TVA excl."
+
+msgid "YOUR_BUSINESS_PRICE"
+msgstr "Prix professionnel"
+
+msgid "TAX"
+msgstr "TVA"
+
+msgid "TOTAL_EXCL_BTW"
+msgstr "Total (TVA Excl.)"
+
+msgid "B2B_CHECKOUT_SALES_PRICE"
+msgstr "Prix de vente"
+
+msgid "B2B_CHECKOUT_BUSINESS_DISCOUNT"
+msgstr "Votre remise entreprise"
+
+msgid "EXIT_INTENT_POPUP_BUTTON"
+msgstr "Continuer la commande"
+
+msgid "EXIT_INTENT_POPUP_TEXT_PICKUP_WEEKS"
+msgstr "Payez maintenant et retirez votre commande à partir du"
+
+msgid "EXIT_INTENT_POPUP_TEXT_WEEKS"
+msgstr "Payez maintenant et recevez votre commande dans"
+
+msgid "EXIT_INTENT_POPUP_TEXT_PICKUP_DAYS"
+msgstr "Payez maintenant et retirez votre commande à partir du"
+
+msgid "EXIT_INTENT_POPUP_TEXT_DAYS"
+msgstr "Payez maintenant et recevez votre commande le"
+
+msgid "CART_MESSAGE_NOT_ENOUGH"
+msgstr "Ajoutez encore <span></span> à votre commande et recevez gratuitement un climatiseur mobile, dans la limite des stocks disponibles. Les conditions complètes de l'offre sont disponibles <a href=\"/actions/airco-gratuit/\">ici</a>."
+
+msgid "CART_MESSAGE_ENOUGH"
+msgstr "Félicitations! Vous avez atteint la valeur de commande nécessaire pour recevoir gratuitement un climatiseur d'une valeur de 199,99 €. Les conditions complètes de l'offre sont disponibles <a href=\"/actions/airco-gratuit/\">ici</a>. ATTENTION : Lors de la saisie d'un code de réduction, si vous ne remplissez pas les conditions requises, la valeur du Climatiseur ne sera pas déduite"
+

@@ -1,0 +1,376 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "SHOWROOMS_EXTRA_ALKMAAR"
+msgstr ""
+
+msgid "SHOWROOMS_EXTRA_AMSTERDAM"
+msgstr ""
+
+msgid "SHOWROOMS_EXTRA_ARNHEM"
+msgstr ""
+
+msgid "SHOWROOMS_EXTRA_ROSMALEN"
+msgstr ""
+
+msgid "SHOWROOMS_EXTRA_ROTTERDAM"
+msgstr ""
+
+msgid "SHOWROOMS_EXTRA_SCHOTEN"
+msgstr ""
+
+msgid "SHOWROOMS_EXTRA_TILBURG"
+msgstr ""
+
+msgid "SHOWROOMS_EXTRA_ZAVENTEM"
+msgstr ""
+
+msgid "SHOWROOMS_MORE_BUTTON"
+msgstr "Plus d'information"
+
+msgid "SHOWROOMS_USP_1"
+msgstr "Des conseils d'experts sur mesure"
+
+msgid "SHOWROOMS_USP_2"
+msgstr "Plus de 2000 m2 d'inspiration"
+
+msgid "SHOWROOMS_USP_3"
+msgstr "Venez découvrir nos produits"
+
+msgid "SHOWROOM_DETAIL_PLAN_ROUTE"
+msgstr "Voir l'itinéraire"
+
+msgid "SHOWROOM_DETAIL_BANNER_ALKMAAR"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_BANNER_AMSTERDAM"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_BANNER_ARNHEM"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_BANNER_ROSMALEN"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_BANNER_ROTTERDAM"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_BANNER_TILBURG"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_BANNER_SCHOTEN"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_BANNER_ZAVENTEM"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_ADDRESS_TITLE"
+msgstr "Adresse"
+
+msgid "SHOWROOM_DETAIL_SLIDESHOW_TITLE"
+msgstr "Avant-goût de l'ambiance"
+
+msgid "SHOWROOM_DETAIL_VIDEO_TITLE"
+msgstr "Regarder la vidéo"
+
+msgid "SHOWROOM_DETAIL_TOUR_TITLE"
+msgstr "Google 360 virtual tour"
+
+msgid "SHOWROOM_DETAIL_IMPRESSIONS_TITLE"
+msgstr "Sneak peak Showroom"
+
+msgid "SHOWROOM_DETAIL_APPOINTMENT_BUTTON"
+msgstr "Prendre rendez-vous"
+
+msgid "SHOWROOM_DETAIL_QUOTE_BUTTON"
+msgstr "Demander un devis"
+
+msgid "SHOWROOM_DETAIL_INFO_ALKMAAR"
+msgstr ""
+"Prenez rendez-vous, nous vous attendons avec impatience ! Ou passez tout simplement "
+"                par l'un de nos showrooms. N'oubliez pas de vérifier les heures d'ouverture !"
+
+msgid "SHOWROOM_DETAIL_INFO_AMSTERDAM"
+msgstr ""
+"Prenez rendez-vous, nous vous attendons avec impatience ! Ou passez tout simplement "
+"                par l'un de nos showrooms. N'oubliez pas de vérifier les heures d'ouverture !"
+
+msgid "SHOWROOM_DETAIL_INFO_ARNHEM"
+msgstr ""
+"Prenez rendez-vous, nous vous attendons avec impatience ! Ou passez tout simplement "
+"                par l'un de nos showrooms. N'oubliez pas de vérifier les heures d'ouverture !"
+
+msgid "SHOWROOM_DETAIL_INFO_ROSMALEN"
+msgstr ""
+"Prenez rendez-vous, nous vous attendons avec impatience ! Ou passez tout simplement "
+"                par l'un de nos showrooms. N'oubliez pas de vérifier les heures d'ouverture !"
+
+msgid "SHOWROOM_DETAIL_INFO_ROTTERDAM"
+msgstr ""
+"Prenez rendez-vous, nous vous attendons avec impatience ! Ou passez tout simplement "
+"                par l'un de nos showrooms. N'oubliez pas de vérifier les heures d'ouverture !"
+
+msgid "SHOWROOM_DETAIL_INFO_TILBURG"
+msgstr ""
+"Prenez rendez-vous, nous vous attendons avec impatience ! Ou passez tout simplement "
+"                par l'un de nos showrooms. N'oubliez pas de vérifier les heures d'ouverture !"
+
+msgid "SHOWROOM_DETAIL_INFO_SCHOTEN"
+msgstr "Prenez rendez-vous, nous vous attendons avec impatience ! Passer sans rendez-vous? C'est tout à fait possible ! N'oubliez pas de vérifier les heures d'ouverture !"
+
+msgid "SHOWROOM_DETAIL_INFO_ZAVENTEM"
+msgstr "Prenez rendez-vous, nous vous attendons avec impatience ! Passer sans rendez-vous? C'est tout à fait possible ! N'oubliez pas de vérifier les heures d'ouverture !"
+
+msgid "SHOWROOM_DETAIL_USP_ALKMAAR_1"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ALKMAAR_2"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ALKMAAR_3"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ALKMAAR_4"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ALKMAAR_5"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ALKMAAR_6"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_AMSTERDAM_1"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_AMSTERDAM_2"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_AMSTERDAM_3"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_AMSTERDAM_4"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_AMSTERDAM_5"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_AMSTERDAM_6"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ARNHEM_1"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ARNHEM_2"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ARNHEM_3"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ARNHEM_4"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ARNHEM_5"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ARNHEM_6"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ROSMALEN_1"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ROSMALEN_2"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ROSMALEN_3"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ROSMALEN_4"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ROSMALEN_5"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ROSMALEN_6"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ROTTERDAM_1"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ROTTERDAM_2"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ROTTERDAM_3"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ROTTERDAM_4"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ROTTERDAM_5"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ROTTERDAM_6"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_TILBURG_1"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_TILBURG_2"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_TILBURG_3"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_TILBURG_4"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_TILBURG_5"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_TILBURG_6"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_SCHOTEN_1"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_SCHOTEN_2"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_SCHOTEN_3"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_SCHOTEN_4"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_SCHOTEN_5"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_SCHOTEN_6"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ZAVENTEM_1"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ZAVENTEM_2"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ZAVENTEM_3"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ZAVENTEM_4"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ZAVENTEM_5"
+msgstr ""
+
+msgid "SHOWROOM_DETAIL_USP_ZAVENTEM_6"
+msgstr ""
+
+msgid "OUTLETS_MORE_BUTTON"
+msgstr "Plus d'information"
+
+msgid "OUTLETS_NAME_POSTFIX"
+msgstr "(Outlet)"
+
+msgid "SHOWROOM_APPOINTMENT_URL_ALKMAAR"
+msgstr "https://calendly.com/sanitairwinkel-alkmaar"
+
+msgid "SHOWROOM_APPOINTMENT_URL_AMSTERDAM"
+msgstr "https://calendly.com/sanitairwinkel-amsterdam"
+
+msgid "SHOWROOM_APPOINTMENT_URL_ARNHEM"
+msgstr "https://calendly.com/sanitairwinkel-arnhem"
+
+msgid "SHOWROOM_APPOINTMENT_URL_BREDA"
+msgstr "https://calendly.com/sanitairwinkel-breda"
+
+msgid "SHOWROOM_APPOINTMENT_URL_ROSMALEN"
+msgstr "https://calendly.com/sanitairwinkel-rosmalen"
+
+msgid "SHOWROOM_APPOINTMENT_URL_ROTTERDAM"
+msgstr "https://calendly.com/sanitairwinkel-rotterdam"
+
+msgid "SHOWROOM_APPOINTMENT_URL_TILBURG"
+msgstr "https://calendly.com/sanitairwinkel-tilburg"
+
+msgid "SHOWROOM_APPOINTMENT_URL_SCHOTEN"
+msgstr "https://calendly.com/sawiday-schoten"
+
+msgid "SHOWROOM_APPOINTMENT_URL_ZAVENTEM"
+msgstr "https://calendly.com/sawiday-zaventem-fr"
+
+msgid "OPENING_SOON"
+msgstr "(Bientôt ouvert)"
+
+msgid "OUR_SHOWROOMS_TITLE"
+msgstr "Nos %s showrooms"
+
+msgid "OUR_SHOWROOMS_SUBTITLE"
+msgstr "Inspiration, information, conseils et les meilleurs produits"
+
+msgid "SHOWROOM_UDEN_TEXT"
+msgstr "Cette salle d'exposition n'a pas notre gamme habituelle, mais une gamme de produits en évolution rapide qui méritent une seconde chance."
+
+msgid "SHOWROOM_ASSORTMENT_BUTTON_TEXT"
+msgstr "Offre du Showroom %s"
+
+msgid "SHOWROOM_UDEN_LINK"
+msgstr ""
+
+msgid "SHOWROOMS_TITLE_NL"
+msgstr "Salles d'exposition aux Pays-Bas"
+
+msgid "SHOWROOMS_TITLE_BE"
+msgstr "Showrooms en Belgique"
+
+msgid "SHOWROOMS_TITLE_FR"
+msgstr "Salles d'exposition en France"
+
+msgid "SHOWROOM_TIMEBLOCKR_URL_ALKMAAR"
+msgstr "#select/locationguid/2b9cb832-2600-4cdd-bbf3-39a96d70c421/Alkmaar"
+
+msgid "SHOWROOM_TIMEBLOCKR_URL_AMSTERDAM"
+msgstr "#select/locationguid/3975c61b-2f08-4774-b79c-0abed4a5c219/Amsterdam"
+
+msgid "SHOWROOM_TIMEBLOCKR_URL_ARNHEM"
+msgstr "#select/locationguid/e4084b4c-25c9-47ec-9f81-507a9d54a176/Arnhem"
+
+msgid "SHOWROOM_TIMEBLOCKR_URL_BREDA"
+msgstr "#select/locationguid/65a5cdef-0a14-4e6e-b317-509ef971d23e/Breda"
+
+msgid "SHOWROOM_TIMEBLOCKR_URL_EINDHOVEN"
+msgstr "#select/locationguid/3a586e8a-b144-4da5-829c-6e97c42f3409/Eindhoven"
+
+msgid "SHOWROOM_TIMEBLOCKR_URL_HASSELT"
+msgstr "#select/locationguid/5090876d-4ad4-41a2-9bfc-bc7a55a21dc8/Hasselt"
+
+msgid "SHOWROOM_TIMEBLOCKR_URL_HEERLEN"
+msgstr "#select/locationguid/3159cb84-8a1f-4cb5-a65b-fc8f9aff02fe/Heerlen"
+
+msgid "SHOWROOM_TIMEBLOCKR_URL_MIDDELBURG"
+msgstr "#select/locationguid/04db69e5-cc37-43a0-80ce-302069567c74/Middelburg"
+
+msgid "SHOWROOM_TIMEBLOCKR_URL_ROSMALEN"
+msgstr "#select/locationguid/2548b892-7655-460a-a1a4-8d02707888c8/Rosmalen"
+
+msgid "SHOWROOM_TIMEBLOCKR_URL_ROTTERDAM"
+msgstr "#select/locationguid/10c86539-342e-40d3-b205-ca82a783d35a/Rotterdam"
+
+msgid "SHOWROOM_TIMEBLOCKR_URL_SCHOTEN"
+msgstr "#select/locationguid/10dc151e-4eab-4a1d-938c-270b6300fcfa/Schoten"
+
+msgid "SHOWROOM_TIMEBLOCKR_URL_TILBURG"
+msgstr "#select/locationguid/e357d23c-1f55-4bf3-8589-8906048eb232/Tilburg"
+
+msgid "SHOWROOM_TIMEBLOCKR_URL_ZAVENTEM"
+msgstr "#select/locationguid/3ebc9e85-9951-42e1-ac9c-55842cf1ce80/Zaventem"
+

@@ -1,0 +1,395 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "DAY"
+msgstr "Jour"
+
+msgid "MONTH"
+msgstr "Mois"
+
+msgid "YEAR"
+msgstr "Année"
+
+msgid "ORDER_TYPE"
+msgstr "Type de commande"
+
+msgid "PRIVATE"
+msgstr "Privé"
+
+msgid "BUSINESS"
+msgstr "Professionnel"
+
+msgid "SALUTATION"
+msgstr "Formule de politesse"
+
+msgid "FAMILY"
+msgstr "Fam."
+
+msgid "SIR"
+msgstr "M."
+
+msgid "MADAM"
+msgstr "Mme."
+
+msgid "FIRSTNAME"
+msgstr "Prénom"
+
+msgid "FIRSTNAME_PLACEHOLDER"
+msgstr ""
+
+msgid "SURNAME"
+msgstr "Nom"
+
+msgid "SURNAME_PLACEHOLDER"
+msgstr ""
+
+msgid "EMAIL"
+msgstr "Adresse e-mail"
+
+msgid "EMAIL_PLACEHOLDER"
+msgstr ""
+
+msgid "PHONENUMBER"
+msgstr "Numéro de téléphone"
+
+msgid "PHONENUMBER_PLACEHOLDER"
+msgstr "01 02 03 04 05"
+
+msgid "POSTALCODE"
+msgstr "Code postal"
+
+msgid "POSTALCODE_PLACEHOLDER"
+msgstr "1234"
+
+msgid "HOUSENUMBER"
+msgstr "Numéro"
+
+msgid "HOUSENUMBER_PLACEHOLDER"
+msgstr "10"
+
+msgid "HOUSENUMBER_EXTENSION"
+msgstr "Complément"
+
+msgid "HOUSENUMBER_EXTENSION_PLACEHOLDER"
+msgstr "A"
+
+msgid "STREET"
+msgstr "Rue"
+
+msgid "STREET_PLACEHOLDER"
+msgstr ""
+
+msgid "EXTRA_ADDRESS_LINE"
+msgstr "Complément d’adresse"
+
+msgid "EXTRA_ADDRESS_LINE_PLACEHOLDER"
+msgstr ""
+
+msgid "CITY"
+msgstr "Ville/Commune"
+
+msgid "CITY_PLACEHOLDER"
+msgstr ""
+
+msgid "DIFFERENT_DELIVERY_ADDRESS"
+msgstr "Adresse de livraison alternative ?"
+
+msgid "SUBSCRIBE_TO_NEWSLETTER"
+msgstr "Envoyez-moi des offres personnelles et les dernières tendances par e-mail"
+
+msgid "TO_THE_ATTENTION_OF"
+msgstr "À l'attention de"
+
+msgid "TO_THE_ATTENTION_OF_PLACEHOLDER"
+msgstr "Par exemple, société ou service"
+
+msgid "COMPANY_NAME"
+msgstr "Nom de la société"
+
+msgid "COMPANY_NAME_PLACEHOLDER"
+msgstr ""
+
+msgid "VAT_NUMBER"
+msgstr "Numéro de TVA"
+
+msgid "VAT_NUMBER_PLACEHOLDER"
+msgstr "BE0123456789"
+
+msgid "REGISTER"
+msgstr "Créez un compte et commandez plus rapidement dès maintenant !"
+
+msgid "REGISTER_BUTTON"
+msgstr "Créer un compte"
+
+msgid "PASSWORD"
+msgstr "Mot de passe"
+
+msgid "PASSWORD_PLACEHOLDER"
+msgstr ""
+
+msgid "REPEAT_PASSWORD"
+msgstr "Confirmer le mot de passe"
+
+msgid "REPEAT_PASSWORD_PLACEHOLDER"
+msgstr ""
+
+msgid "NEW_ADDRESS"
+msgstr "Créer une nouvelle adresse"
+
+msgid "PICK_DIFFERENT_ADDRESS_BUTTON"
+msgstr "Choisissez une autre adresse"
+
+msgid "SELECT_BUTTON"
+msgstr "Sélectionner"
+
+msgid "COMMUNICATION_LANGUAGE"
+msgstr "Langue"
+
+msgid "LOGIN_BUTTON"
+msgstr "Se connecter"
+
+msgid "DELIVERY_ADD_COMMENT"
+msgstr "Ajouter une note pour la livraison"
+
+msgid "DELIVERY_ADD_COMMENT_PLACEHOLDER"
+msgstr ""
+
+msgid "DELIVERY_BY_NEIGHBOURS"
+msgstr "Ne pas livrer aux voisins"
+
+msgid "CONFIRM_BUTTON"
+msgstr "Confirmer"
+
+msgid "CHANGE_DELIVERY_BUTTON"
+msgstr "Modifier le délai de livraison"
+
+msgid "ORDER_STATUS_BUTTON"
+msgstr "Votre état de commande"
+
+msgid "MAKE_A_CHOICE"
+msgstr "Faire un choix"
+
+msgid "CREDITCARD_NUMBER"
+msgstr "Numéro de carte"
+
+msgid "CREDITCARD_CARDHOLDERNAME"
+msgstr "Titulaire de la carte"
+
+msgid "CREDITCARD_EXPIRATION_DATE"
+msgstr "Date d'expiration"
+
+msgid "CREDITCARD_CCV"
+msgstr "CVC/VV"
+
+msgid "BANCONTACT_CARD_DETAILS"
+msgstr "Détails de la carte"
+
+msgid "QR_CODE"
+msgstr "QR code"
+
+msgid "SELECT_BANK"
+msgstr "Sélectionnez votre banque"
+
+msgid "DATE_OF_BIRTH"
+msgstr "Date de naissance"
+
+msgid "DAY_PLACEHOLDER"
+msgstr "JJ"
+
+msgid "MONTH_PLACEHOLDER"
+msgstr ""
+"10"
+""
+
+msgid "YEAR_PLACEHOLDER"
+msgstr "2025"
+
+msgid "CONTINUE_AS_GUEST_BUTTON"
+msgstr "Poursuivre"
+
+msgid "FORGOTTEN_PASSWORD_LINK"
+msgstr "Mot de passe oublié ?"
+
+msgid "SEARCH_BUTTON"
+msgstr "Chercher"
+
+msgid "LANGUAGE_PREFERENCE"
+msgstr "Langue préférée"
+
+msgid "ENTER_INPUT_BUTTON"
+msgstr "Remplir"
+
+msgid "ORDER_NUMBER"
+msgstr "No. de commande"
+
+msgid "IMAGE_PLACEHOLDER"
+msgstr "Image"
+
+msgid "SEND_REQUEST_BUTTON"
+msgstr "Envoyer demande"
+
+msgid "ORDER_NUMBER_PLACEHOLDER"
+msgstr "012345"
+
+msgid "DELIVERY_DATE"
+msgstr "Date de livraison"
+
+msgid "DATE_PLACEHOLDER"
+msgstr "DD-MM-YYYY"
+
+msgid "DESCRIPTION"
+msgstr "Description"
+
+msgid "MAXIMUM_FILE_SIZE"
+msgstr "(taille maximale %s)"
+
+msgid "NAME"
+msgstr "Nom"
+
+msgid "DESCRIPTION_ERROR"
+msgstr "Description erreur"
+
+msgid "DESCRIPTION_ERROR_PLACEHOLDER"
+msgstr "Décrivez ici comment l'erreur s'est produite."
+
+msgid "LENGTH_CM"
+msgstr "Longueur (cm)"
+
+msgid "WIDTH_CM"
+msgstr "Largeur (cm)"
+
+msgid "HEIGHT_CM"
+msgstr "Hauteur (cm)"
+
+msgid "BEDROOM"
+msgstr "Chambre à coucher"
+
+msgid "BATHROOM"
+msgstr "Salle de bains"
+
+msgid "LIVINGROOM"
+msgstr "Salon"
+
+msgid "STUDYROOM"
+msgstr "Bureau"
+
+msgid "KITCHEN"
+msgstr "Cuisine"
+
+msgid "YES"
+msgstr "Oui"
+
+msgid "NO"
+msgstr "Non"
+
+msgid "SAVE"
+msgstr "Enregistrer"
+
+msgid "ADDRESS_TYPE"
+msgstr "Type d'adresse"
+
+msgid "CANCEL_BUTTON"
+msgstr "Annuler"
+
+msgid "CHOOSE_DELIVERY_DATE"
+msgstr "Choisissez votre date"
+
+msgid "CHOOSE_DELIVERY_DATE_BUTTON"
+msgstr "Choisissez votre date de livraison"
+
+msgid "PAY_ORDER_BUTTON"
+msgstr "Payer commande"
+
+msgid "SUBJECT"
+msgstr "Sujet"
+
+msgid "SEND_BUTTON"
+msgstr "Envoyez"
+
+msgid "ADDRESS"
+msgstr "Rue et numéro"
+
+msgid "ZIPCODE_CITY"
+msgstr "Code postal et ville"
+
+msgid "PRODUCT_NAME"
+msgstr "Nom produit"
+
+msgid "OUR_PRICE"
+msgstr "Prix Sawiday"
+
+msgid "NAME_COMPETITOR"
+msgstr "Nom concurrent"
+
+msgid "PRICE_COMPETITOR"
+msgstr "Prix concurrent"
+
+msgid "PRODUCT_LINK"
+msgstr "Lien vers produit"
+
+msgid "CREATE_ACCOUNT_BUTTON"
+msgstr "Créer un compte"
+
+msgid "ACTIVATE_BUTTON"
+msgstr ""
+
+msgid "COMPANY_REGISTRATION_NUMBER"
+msgstr "Numéro de chambre de commerce"
+
+msgid "COMPANY_REGISTRATION_NUMBER_PLACEHOLDER"
+msgstr "0123321123"
+
+msgid "CHECKOUT_REFERENCE"
+msgstr "Votre référence"
+
+msgid "CHECKOUT_REFERENCE_PLACEHOLDER"
+msgstr ""
+
+msgid "FILL_PASSWORD_BELOW_REQUIREMENTS"
+msgstr "Remplissez un mot de passe ci-dessous. (6 caractères au minimum, avec au moins 1 chiffre et lettre)"
+
+msgid "EMAIL_FINANCE"
+msgstr "Email comptabilité"
+
+msgid "SHOWROOM_OR_DEPARTMENT"
+msgstr "Magasin ou rayon préféré"
+
+msgid "SELECT_SHOWROOM_OR_DEPARTMENT"
+msgstr "Pas de préférence"
+
+msgid "BUSINESS_DEPARTMENT"
+msgstr "Département professionnel"
+
+msgid "CREDITCARD_CCV_POPUP"
+msgstr ""
+"Il s'agit du code de vérification à trois chiffres figurant au dos de votre carte"
+"                 de crédit. Avez-vous une carte de crédit American Express ? Dans ce cas, ce code comporte 4 chiffres"
+"                  et se trouve sur le devant de votre carte."
+
+msgid "CONTACT_PHONE_TOOLTIP"
+msgstr ""
+"Nous avons besoin de votre numéro de téléphone pour vous contacter au sujet de la"
+"                 livraison si nécessaire."
+
+msgid "CREDITCARD_NAME_PLACEHOLDER"
+msgstr "NOM COMME SUR LA CARTE"
+
+msgid "SAVE_DATA"
+msgstr "Enregistrer les données"
+
+msgid "SHOWROOM_PREFERENCE"
+msgstr "Préférence de salle d'exposition"
+
+msgid "POSTAL_NUMBER_EXTENSION"
+msgstr "Code postal/Numéro de maison/Ajout."
+

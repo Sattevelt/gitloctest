@@ -1,0 +1,316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "SCHEDULE_TITLE"
+msgstr "Planification commande Sawiday.fr"
+
+msgid "SCHEDULE_PLIEGER"
+msgstr ""
+"<p><strong>Cher monsieur, chère madame % s % s,</strong></p>"
+"					<p>Nous tenons à vous faire savoir que votre commande est en stock, nous pouvons livrer dès que possible.</p>"
+"					<p>Vous pouvez indiquer une date de préférence dans le lien suivant.</p>"
+"					<p style=\"color:red;\">Une fois que vous avez choisi une date de livraison, vous recevrez une confirmation. "
+"					<br /> Malheureusement, il n'est pas possible d'indiquer l'heure de livraison."
+"					Veuillez en tenir compte le jour de la livraison.</p>"
+
+msgid "SCHEDULE_GALVANO"
+msgstr ""
+"<p><strong>Cher monsieur, chère madame % s % s,</strong></p>"
+"					<p>Votre commande est disponible, nous pouvons la faire livrer dans les plus brefs délais."
+"					<p>Ci-dessous, vous pouvez indiquer une date de préférence.</p>"
+"					<p style=\"color:red;\">"
+"					Une fois que vous avez choisi une date de livraison, vous recevrez une confirmation. "
+"Malheureusement, il n'est pas possible de plannifier une demie-journée ou l'heure de livraison. <br>"
+"					Pourtant, vous pouvez appeler notre transporteur<em>le jour de la livraison à partir de 08:00 du matin</em> (expédition Galvano).<br>Ils peuvent vous donner une indication de l'heure de livraison.<br />Leur numéro de téléphone : <strong>0031 (0)40 214 1560 </strong>."
+"  Indiquez toujours qu'il s'agit d'une commande de Sanitairewinkel comme reference%d"
+"					</p>"
+
+msgid "SCHEDULE_DOLLEVOET"
+msgstr ""
+"<p><strong>Cher monsieur, chère madame % s % s,</strong></p>"
+"					<p>Votre commande est disponible, nous pouvons la faire livrer dans les plus brefs délais."
+"					<p>Ci-dessous, vous pouvez indiquer une date de préférence.</p>"
+"					< style p = \"color : red;\" >"
+"					Malheureusement, il n'est pas possible de plannifier une demie-journée ou l'heure de livraison. <br>"
+"					Pourtant, vous pouvez appeler notre transporteur<em>le jour de la livraison à partir de 08:00 du matin</em> (expédition Dollevoet).<br>C'est alors qu'ils peuvent vous donner une indication de l'heure de livraison.<br />Leur numéro de téléphone : <strong>0031 (0)73 5522 5767</strong>."
+"					</p>"
+
+msgid "SCHEDULE_INVALID_URL"
+msgstr "Pas trouvé d'URL valide"
+
+msgid "SCHEDULE_THANKS"
+msgstr "<p>Nous vous remercions de la planification de votre commande.<br /> Endéans les 24 heures, vous recevrez une confirmation de la date de votre choix</p> . <a href=\"https://www.Sawiday.fr/\">Sawiday.fr</a>"
+
+msgid "STATUS_INVALID_DATA"
+msgstr "Les données saisies ne sont pas correctes !"
+
+msgid "STATUS"
+msgstr "Suivre ma commande"
+
+msgid "ENTER_ORDERDATA"
+msgstr "Veuillez remplir vos données de commande."
+
+msgid "ADD_DATE"
+msgstr "Passée le"
+
+msgid "PRICE"
+msgstr "Montant de commande"
+
+msgid "TOTAL_DISCOUNT"
+msgstr "Remise totale"
+
+msgid "DISCLAIMER"
+msgstr ""
+"Avertissement :"
+"Sawiday a compilé l'état de votre commande ci-dessus avec le plus grand soin, cependant cela reste une indication."
+
+msgid "QUESTION"
+msgstr ""
+"<h2 class=\"clean-head\">Avez-vous une question ?</h2>"
+"				Découvrez notre <a href=\"https://service.sawiday.com/hc/fr-fr\" target=\"_blank\">page service client</a>. Ici vous trouverez des informations sur des sujets différents. Ou contactez-nous par <a class=\"bestelstatus_contact\" rel=\"%d\" style=\"cursor: pointer;\">e-mail</a>/téléphone."
+"				Vous pouvez <a href=\"javascript:window.print();\">imprimer cette page</a> pour vos dossiers."
+
+msgid "YOUR_OPINION"
+msgstr "Votre opinion compte !"
+
+msgid "PAYMENT_METHOD"
+msgstr "Vous avez choisi d'effectuer votre paiement par <b>%s</b>."
+
+msgid "PAYMENT_METHOD_IDEAL"
+msgstr "Lorsque vous n'avez pas encore effectué le paiement, nous vous demandons d'effectué le paiement dès que possible. Prenez note qu'un retard de paiement a des conséquences pour le délai de livraison."
+
+msgid "PAYMENT_METHOD_REMBOURS"
+msgstr ""
+
+msgid "PAYMENT_METHOD_PREPAID"
+msgstr "Vous pouvez transférer le montant sous l'attention de %d sur le compte %s au nom de Rorix B.V. Prenez note qu'un retard de paiement a des conséquences pour le délai de livraison."
+
+msgid "PAYMENT_METHOD_CREDITCARD"
+msgstr "Le montant sera déprécié de votre carte de crédit dans environ 5 jours ouvrables."
+
+msgid "PAYMENT_METHOD_CANCELLED"
+msgstr "Vos obligations de paiement seront abrogés. Tous montants payés éventuels seront remboursés endéans les 14 jours."
+
+msgid "PAYED"
+msgstr "Vous avez déjà effectué votre paiement par <b>%s</b>"
+
+msgid "PAYMENT_STATUS"
+msgstr "Votre commande est actuellement <b>%s</b> payée."
+
+msgid "DELIVERY_METHOD"
+msgstr "Vous avez choisi <b>%s</b> votre commande.<br />"
+
+msgid "DELIVERY"
+msgstr "de faire livrer à domicile"
+
+msgid "DELIVERY_IMMEDIATELY"
+msgstr ""
+" Dès que votre commande est transférée vers le service de livraison, vous recevez un nouvel e-mail avec l'état de votre commande. "
+"Actuellement, la date de livraison prévue est le % s. Les modes de paiement 'paiement par virement', 'Carte Bancaire/- Bleue', 'PayPal' et 'carte de crédit'  ont comme condition que le paiement soit effectué."
+
+msgid "DELIVERY_DATE"
+msgstr ""
+"Vous avez indiqué vouloir recevoir votre commande le % s. "
+"							Dès que votre commande est transférée vers le service de livraison vous recevez un nouvel courriel avec l'état de votre commande. "
+"							Les méthodes de paiement 'virement bancaire', 'Carte Bleue/Carte Bancaire', 'PayPal' et 'carte de crédit'  ont comme condition que le paiement soit déjà effectué."
+
+msgid "DELIVERY_APPOINTMENT"
+msgstr "Dès que votre commande est prête à être expédiée de notre dépôt principal aux Pays-Bas, vous recevrez un mail de confirmation."
+
+msgid "PAYMENT_STATUS_PAYED_YES"
+msgstr "Votre commande est actuellement payée."
+
+msgid "PAYMENT_STATUS_PAYED_NO"
+msgstr "Votre commande n'est actuellement pas payée."
+
+msgid "EXPECTED_IN_WAREHOUSE"
+msgstr "Attendu au dépôt"
+
+msgid "PRODUCTS_DELAYED"
+msgstr "Les produits suivants ne sont pas encore livré dans notre dépôt :"
+
+msgid "SCHEDULE_OTHER"
+msgstr ""
+"<p><strong>Cher Monsieur/ Chère Madame %s %s,</strong></p>"
+"					<p>Nous avons la bonne nouvelle de vous annoncer que votre commande est disponible, nous pouvons la faire livrer dans les plus brefs délais.</p>"
+"					<p>En utilisant le lien ci-dessous vous pouvez indiquer une date préférée.</p>"
+"					<p style=\"color:red;\">En utilisant le lien ci-dessous vous pouvez indiquer une date préférée."
+"					<br />Malheureusement nous ne pouvons pas donner une indication de l'heure de la livraison."
+"					<br />Prions d'y faire attention le jour de livraison.</p>"
+
+msgid "INPLANNEN_ERROR_LABEL"
+msgstr "Désolé, nous avons trouvé la faute/les fautes suivante(s) :"
+
+msgid "INVALID_DATA_RECEIVED"
+msgstr "Nous avons recu des donnés incoorectes."
+
+msgid "TRANSPORTER_CLASS_NOT_FOUND"
+msgstr "Malheureusement, une faute s’est produite. Contactez notre service client s’il vous plaît. (code 1)"
+
+msgid "ORDER_NOT_FOUND"
+msgstr "Votre commande ne pouvait pas être trouvée."
+
+msgid "ORDER_ALREADY_SCHEDULED"
+msgstr "Cette commande est déjà planifiée."
+
+msgid "ORDER_SCHEDULING_NOT_ALLOWED"
+msgstr "Cette commande ne doit pas être planifiée."
+
+msgid "DELIVERY_METHOD_PICKUP_DELIPOINT"
+msgstr "Ci-dessous, vous trouvez l’information sur le point d'enlèvement :"
+
+msgid "DELIVERY_EXTERNAL"
+msgstr "de venir retirer d'un point d'enlèvement"
+
+msgid "REQUEST_RETURN"
+msgstr "Retourner un produit"
+
+msgid "EXPECTED"
+msgstr "Attendu le %s"
+
+msgid "YOUR_OPINION_EXPLANATION"
+msgstr "Laissez-nous savoir ce que vous pensez sur Sawiday. Nous vous remercions de votre avis !"
+
+msgid "FRANCE_ORDER_CONTACT_US"
+msgstr "Voudriez-vous passer une commande pour la France?<br>Contactez-nous par <a href=\"mailto: info@sawiday.fr\">courriel</a> ou téléphone afin de connaitre les conditions et les délais de livraison."
+
+msgid "ORDER_TYPE"
+msgstr "Type de commande"
+
+msgid "READY_FOR_SHIPMENT"
+msgstr "Prêt à livrer"
+
+msgid "MISSING_ORDER_DATA"
+msgstr "Données de livraison reçues incorrectes"
+
+msgid "UNAUTHORIZED_DELIVERY_NOT_IN_ORDER"
+msgstr "Cette livraison ne va pas avec cette commande"
+
+msgid "INVALID_DELIVERY_DATA"
+msgstr "Livraison inconnue"
+
+msgid "SCHEDULING_FAILED"
+msgstr "Impossible de planifier la livraison"
+
+msgid "MISSING_OR_INVALID_SCHEDULING_DATE"
+msgstr "Date de livraison incorrecte ou non remplie"
+
+msgid "TRACK_AND_TRACE"
+msgstr "suivi de colis"
+
+msgid "FINALIZE_PAYMENT"
+msgstr "Paiement complet"
+
+msgid "QR_BUTTON_EXPLANATION"
+msgstr "Vous pouvez, scanner le code QR en utilisant le bouton ci-dessous."
+
+msgid "PAY_WITH_ANOTHER_PAYMENT_METHOD"
+msgstr "Vous pouvez, eventuellement changer votre mode de paiement et payer en ligne <a href='%1$s'>ici</a>"
+
+msgid "ORDER_PAYMENT_NOT_PAID_TITLE"
+msgstr "Payer commande"
+
+msgid "ORDER_PAYMENT_NOT_PAID_TEXT"
+msgstr ""
+"<p>Votre commande n'est pas encore payée, vous pouvez compléter votre commande "
+"                sur cette page.</p><p>Si vous avez des questions, vous pouvez toujours contacter notre service client "
+"                (<strong>09 8009 0519</strong>).</p>"
+
+msgid "ORDER_PAYMENT_PAID_TITLE"
+msgstr "Votre commande a déjà été payée."
+
+msgid "ORDER_PAYMENT_PAID_TEXT"
+msgstr ""
+"<p>Selon nos données, votre commande est déjà payée, vous ne devez plus la payer.</p>"
+"                <p>Si vous avez des questions, vous pouvez toujours contacter notre service client "
+"                (<strong>09 8009 0519</strong>).</p>"
+
+msgid "ORDER_PAYMENT_CANCELLED_TITLE"
+msgstr "Commande annulée"
+
+msgid "ORDER_PAYMENT_CANCELLED_TEXT"
+msgstr ""
+"<p>Selon nos informations, votre commande a été annulée, vous ne pouvez plus "
+"                effectuer le paiement.</p><p>Si vous avez des questions, vous pouvez toujours contacter notre service "
+"                client (<strong>09 8009 0519</strong>).</p>"
+
+msgid "LOGIN_TEXT_1"
+msgstr "<p>Veuillez saisir les informations liées à votre commande.</p>"
+
+msgid "LOGIN_TEXT_2"
+msgstr ""
+"<h2>Vous n'arrivez pas à vous connecter ?</h2><p>Contrôlez votre adresse e-mail en vérifiant les fautes de frappe et consultez votre Confirmation de commande pour connaitre votre numéro de commande.</p>"
+""
+"<h2>Rappel des conditions de retour</h2>"
+"Vous disposez de 30 jours pour nous retourner votre commande. Les articles ne doivent pas avoir été utilisés et doivent être retournés dans l'emballage d'origine, le nom \"Sawiday\"doit apparaitre à l'extérieur de l'emballage. Important : il est impératif de nous notifier votre demande de retour en remplissant le formulaire ci-dessus.<br><br>"
+""
+"Les retours s'effectuent à notre entrepôt (il s'agit d'une adresse d'entreposage, l'établissement n'est pas ouvert aux clients) :<br><br>"
+""
+"Sawiday (Van Marcke)<br>"
+"Attn. Service-clientèle<br>"
+"10, Rue du Houblon,<br>"
+"59700 Marcq-en-Baroeul<br><br>"
+
+msgid "TRACK_AND_TRACE_POPUP_TITLE"
+msgstr "Donées Track&Trace"
+
+msgid "TRACK_AND_TRACE_POPUP_TEXT"
+msgstr "Consultez vos codes Track&Trace ci-dessous"
+
+msgid "CONDITIONS_SIGN_ERROR_NO_CONDITIONS_FOUND"
+msgstr ""
+
+msgid "CONDITIONS_SIGN_ERROR_GENERATING_DOCUMENT"
+msgstr ""
+
+msgid "CONDITIONS_SIGN_SUCCES"
+msgstr ""
+
+msgid "CONDITIONS_GET_NO_STORE_FOUND"
+msgstr ""
+
+msgid "CONDITIONS_GET_NO_CONDITIONS_FOUND"
+msgstr ""
+
+msgid "INFO_BLOCKED_PAYMENT_LINK"
+msgstr ""
+"                    Betaallink niet beschikbaar, omdat de order is gefactureerd."
+"                    De klant dient de bestelling te voldoen per bankoverboeking."
+"                    Rekeningnummer: FR76 3078 8001 0008 9609 6000 288 t.n.v. Sawiday te Marcq-en-Baroeul."
+"                "
+
+msgid "ORDER_PAYMENT_INVOICED_TITLE"
+msgstr "Commande facturée"
+
+msgid "ORDER_PAYMENT_INVOICED_TEXT"
+msgstr ""
+""
+"                    Votre commande a été facturée, le lien de paiement n'est donc plus actif.<br/>"
+"                    Nous vous avons envoyé un e-mail avec la facture et les instructions de "
+"                    paiement pour effectuer le paiement.<br/>"
+"                    <br/>"
+"                    Pour plus d’informations, veuillez contacter le service clientèle (<strong>09 8009 0519</strong>)."
+"                "
+
+msgid "ORDER_STATUS_LINK_SEND_MESSAGE_SUCCESS"
+msgstr "Un e-mail a été envoyé contenant une URL pour récupérer les données de la commande."
+
+msgid "ORDER_STATUS_LINK_SEND_MESSAGE_FAILURE"
+msgstr "Échec de l'envoi d'un e-mail. Veuillez réessayer ou contacter le service client."
+
+msgid "ORDER_STATUS_TEXT"
+msgstr "<p>Veuillez remplir vos données de commande.</p>"
+
+msgid "ORDER_PAYPEMNT_NOT_PAID_TERMS"
+msgstr "En cliquant sur le bouton de paiement vous vous mettez d'accord avec les "
+

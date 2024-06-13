@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "CANT_BE_EMPTY"
+msgstr "est un champ obligatoire"
+
+msgid "INVALID_PASSWORD_FORMAT"
+msgstr "doit contenir au moins 1 lettre et 1 chiffre"
+
+msgid "INVALID_PASSWORD_EQUALITY"
+msgstr "n'est pas identique au premier mot de passe saisi."
+
+msgid "INVALID_GREATERTHAN_OR_EQUALTO"
+msgstr "doit être supérieure ou égale à %{count}."
+
+msgid "INVALID_LESSTHAN_OR_EQUALTO"
+msgstr "doit être inférieure ou égale à %{count}."
+
+msgid "INVALID_WRONG_LENGTH"
+msgstr "le nombre de caractères n'est pas correct, il devrait être de %{count}."
+
+msgid "INVALID_NOT_INTEGER"
+msgstr "doit être un numéro"
+
+msgid "INVALID_TOO_SHORT"
+msgstr "trop court (le minimum est de %{count} caractères)"
+
+msgid "INVALID_TOO_LONG"
+msgstr "trop long (le maximum est de %{count} caractères)"
+
+msgid "INVALID_AZ_TEXT"
+msgstr "ne doit contenir que des caractères alphabétiques"
+
+msgid "INVALID_AZ_TEXT_WITH_SPACES"
+msgstr "ne doit contenir que des caractères alphabétiques et des espaces"
+
+msgid "IS_INVALID"
+msgstr "n'est pas valable"
+
+msgid "IS_INCORRECT"
+msgstr "n'est pas correcte"
+
+msgid "IS_INCORRECT_POSTALCODE"
+msgstr "est un code postal érroné. Vous habitez en France ? Veuillez nous retrouver sur <a href=\"https://www.sawiday.fr/\">sawiday.fr</a>. Rendez-vous là-bas !"
+
+msgid "MIN_SELECT_ITEMS"
+msgstr "Sélectionnez au minimum %{count} élément(s)"
+
+msgid "VALIDATION_ERROR_OCCURRED"
+msgstr "Il y a une et/ou plusieurs erreurs de validation."
+
+msgid "ALREADY_IN_USE"
+msgstr "est déjà utilisée"
+
+msgid "GENERAL_ERROR_OCCURED"
+msgstr "Malheureusement, il c'est produit une erreur."
+
+msgid "IS_INCORRECT_VATNUMBER"
+msgstr " n'est pas valide"
+
+msgid "FILE_TOO_LARGE"
+msgstr "Le fichier est trop gros"
+
+msgid "ORDER_STATUS_LINK_EXPIRED_ERROR"
+msgstr "Ce lien a expiré, utilisez le formulaire ci-dessous pour en demander un nouveau."
+
+msgid "ALREADY_IN_USE_B2B"
+msgstr "est déjà utilisée"
+
+msgid "GREATER_THAN_0"
+msgstr "doit être supérieur à 0"
+
+msgid "IS_INCORRECT_POSTALCODE_B2B"
+msgstr "n'est pas correct"
+
+msgid "ADDRESS_ALREADY_EXISTS"
+msgstr "L´adresse est déjà liée à votre compte"
+

@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "NEWSLETTER_UNSUBSCRIBE_TITLE"
+msgstr "Nous sommes désolés de vous voir partir !"
+
+msgid "UNSUBSCRIBE_OPTION_1"
+msgstr "Pas le temps de les lire"
+
+msgid "UNSUBSCRIBE_OPTION_2"
+msgstr "Je reçois déjà trop de mails"
+
+msgid "UNSUBSCRIBE_OPTION_3"
+msgstr "Pas intéressé"
+
+msgid "UNSUBSCRIBE_OPTION_4"
+msgstr "Autre, à savoir..."
+
+msgid "SUBSCRIBE"
+msgstr "Enregistrer"
+
+msgid "ADD_SUBSCRIPTION_DATA"
+msgstr "Veuillez remplir les champs suivants"
+
+msgid "STOP_SUBSCRIPTION_DATA"
+msgstr "Vous désirez vous désabonner ? Veuillez compléter les informations suivantes :"
+
+msgid "STOP_SUBSCRIPTION_REASON"
+msgstr "Quelle est la raison de votre départ ?"
+
+msgid "STOP_SUBSCRIPTION_REASON_ADDITION"
+msgstr "Quelque chose ne vous a pas plu ?"
+
+msgid "REASON_NO_TIME_TO_READ"
+msgstr "Je n'ai pas de temps à y consacrer"
+
+msgid "REASON_TOO_MANY_EMAILS"
+msgstr "Je reçois déjà trop d' e-mails"
+
+msgid "REASON_NO_INTEREST"
+msgstr "Contenu non pertinent"
+
+msgid "REASON_ANOTHER_REASON"
+msgstr "Autre, c.à.d."
+
+msgid "UNSUBSCRIBE"
+msgstr "Se désabonner"
+
+msgid "YES_SUBSCRIBE_ME"
+msgstr "Envoyez-moi les dernières tendances et promos personnelles par e-mail"
+
+msgid "NEWSLETTER_SIGNUP_TITLE"
+msgstr "Inscription à la newsletter"
+

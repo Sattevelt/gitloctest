@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "CUSTOMER_NAV_LOGIN"
+msgstr "Se connecter"
+
+msgid "CUSTOMER_NAV_MY_ACCOUNT"
+msgstr "Mon compte"
+
+msgid "CUSTOMER_NAV_MY_ACCOUNT_MENU"
+msgstr "Accéder à mon compte"
+
+msgid "CUSTOMER_NAV_LOGOUT"
+msgstr "Se déconnecter"
+
+msgid "CUSTOMER_NAV_1"
+msgstr "Données & préférences"
+
+msgid "CUSTOMER_NAV_2"
+msgstr "Remises aux entreprises"
+
+msgid "SUCCESSFUL_SAVED"
+msgstr "Enregistrement réussi."
+
+msgid "DEFAULT_ADDRESS_CHANGED"
+msgstr "L'adresse par défaut a été modifiée."
+
+msgid "MINIMUM_ADDRESS_AMOUNT"
+msgstr "Au moins une adresse est requise"
+
+msgid "REMOVING_DEFAULT_ADDRESS_WARNING"
+msgstr "L'adresse par défaut ne peut pas être supprimée"
+
+msgid "ADDRESS_REMOVED"
+msgstr "L'adresse a été supprimée"
+
+msgid "DEFAULT_DELIVERY_ADDRESS"
+msgstr "Adresse de livraison habituelle"
+
+msgid "DEFAULT_BILLING_ADDRESS"
+msgstr "Adresse de facturation habituelle"
+
+msgid "CUSTOMER_ACCOUNT_PERSONAL_DETAILS_TITLE"
+msgstr "Informations personnelles"
+
+msgid "CUSTOMER_ACCOUNT_PREFERENCES_TITLE"
+msgstr "Préférences"
+
+msgid "CUSTOMER_ACCOUNT_PAYMENT_METHOD"
+msgstr "Mode de paiement"
+
+msgid "CUSTOMER_ACCOUNT_PRICES"
+msgstr "Prix"
+
+msgid "CUSTOMER_ACCOUNT_PRICES_INCL_VAT"
+msgstr "Afficher TVA incluse"
+
+msgid "CUSTOMER_ACCOUNT_PRICES_EXCL_VAT"
+msgstr "Afficher hors TVA"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_TITLE"
+msgstr "Données et préférences"
+
+msgid "CUSTOMER_ACCOUNT_SUB_TITLE_DETAILS"
+msgstr "Informations personnelles"
+
+msgid "CUSTOMER_ACCOUNT_SUB_TITLE_PREFERENCES"
+msgstr "Préférences"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_CLIENT_NUMBER"
+msgstr "Numéro client"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_CLIENT_NAME"
+msgstr "Nom"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_CLIENT_ADDRESS"
+msgstr "Adresse"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_CLIENT_EMAIL"
+msgstr "Adresse e-mail"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_CLIENT_PHONENUMBER"
+msgstr "Numéro de téléphone"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_LINK_CHANGE_DETAILS"
+msgstr "Ajuster les informations personnelles"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_LINK_CHANGE_ADDRESSBOOK"
+msgstr "Gérer le carnet d'adresses"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_LINK_CHANGE_PASSWORD"
+msgstr "Changer le mot de passe"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_RECEIVE_NEWSLETTER"
+msgstr "Recevoir la newsletter"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW_LINK_CHANGE_PREFERENCES"
+msgstr "Changer les préférences"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_OVERVIEW_TITLE"
+msgstr "Carnet d'adresses"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_ADD_NEW_ADDRESS"
+msgstr "Ajouter une nouvelle adresse"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_STANDARD_DELIVERY_ADDRESS"
+msgstr "Adresse de livraison par défaut"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_SET_STANDARD_DELIVERY_ADDRESS"
+msgstr "Sélectionner en tant qu'adresse de livraison"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_STANDARD_BILLING_ADDRESS"
+msgstr "Adresse de facturation par défaut"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_SET_STANDARD_BILLING_ADDRESS"
+msgstr "Sélectionner en tant qu'adresse de facturation"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_NEW_TITLE"
+msgstr "Ajouter une adresse"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_EDIT_TITLE"
+msgstr "Modifier l'adresse"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_OVERVIEW_MODAL_DELETE_TITLE"
+msgstr "Supprimer l'adresse"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_OVERVIEW_MODAL_DELETE_SUBTITLE"
+msgstr "Êtes-vous sûr de vouloir supprimer cette adresse ?"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_OVERVIEW_MODAL_DELETE_TEXT"
+msgstr "Cette action ne peut être annulée."
+
+msgid "CUSTOMER_NAV_3"
+msgstr "Commandes"
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_TITLE"
+msgstr "Commandes"
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_BUTTON_RETURN"
+msgstr "Demande de retour"
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_BUTTON_STATUS"
+msgstr "Voir la commande"
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_BUTTON_SERVICE"
+msgstr "Demande de service"
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_CURRENT_ORDERS"
+msgstr "Commandes en cours"
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_COMPLETED_ORDERS"
+msgstr "Commandes terminées"
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_NO_CURRENT_ORDERS"
+msgstr "Il n'y a actuellement aucune commande en attente."
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_NO_COMPLETED_ORDERS"
+msgstr "Il n'y a pas encore de commandes terminées."
+
+msgid "CUSTOMER_ACCOUNT_EXISTS_PENDING"
+msgstr "Vous avez déjà un compte qui doit encore être vérifié. (<a href=\"#\" id=\"resendActivation\" data-url=\"%s\" data-email=\"%s\">Renvoyez courriel d'activation</a>)"
+
+msgid "CUSTOMER_ACCOUNT_EXISTS_PENDING_ERROR"
+msgstr "Ce n'était pas possible de vous envoyer un courriel. Réessayez plus tard, s'il vous plait!"
+
+msgid "CUSTOMER_ACCOUNT_EXISTS_PENDING_SENT"
+msgstr "Le courriel d'activation a été envoyé il y a un instant. Contrôlez votre boîte de réception ou votre courrier indésirable."
+
+msgid "CUSTOMER_REGISTRATION_PAGE_TITLE"
+msgstr "Inscription à mon compte"
+
+msgid "CUSTOMER_REGISTRATION_PAGE_KEYWORDS"
+msgstr ""
+
+msgid "CUSTOMER_REGISTRATION_PAGE_DESCRIPTION"
+msgstr ""
+
+msgid "REGISTRATION_TITLE"
+msgstr "Créer un compte"
+
+msgid "REGISTRATION_TEXT"
+msgstr ""
+
+msgid "ACCOUNT_CREATED"
+msgstr "Votre compte a été créé. Vous recevrez un e-mail d'activation dans quelques minutes"
+
+msgid "NEW_ACCOUNT_TITLE"
+msgstr "Nouveau sur Sawiday ?"
+
+msgid "NEW_ACCOUNT_TEXT"
+msgstr ""
+
+msgid "COMPANY_NAME"
+msgstr "Nom de la société"
+
+msgid "VAT_NUMBER"
+msgstr "Numéro de TVA"
+
+msgid "CUSTOMER_REFERENCE"
+msgstr "Votre référence"
+
+msgid "CUSTOMER_TAV_ABBREVIATION"
+msgstr "ATTN"
+
+msgid "B2B_PRICING_ALERT_INC_DISCOUNTS"
+msgstr "Les prix indiqués comprennent la réduction professionnelle."
+
+msgid "B2B_PRICING_ALERT_EXC_VAT"
+msgstr "Les prix indiqués sont hors TVA."
+
+msgid "B2B_PRICING_ALERT_EXC_VAT_INC_DISCOUNTS"
+msgstr "Les prix indiqués comprennet la réduction professionnelle et sont hors TVA."
+
+msgid "EMAIL_CHANGE_FAILED_HEADER"
+msgstr "Échec de la modification de l'e-mail"
+
+msgid "EMAIL_CHANGE_FAILED_TEXT"
+msgstr "Malheureusement, nous ne pouvons pas modifier votre e-mail en raison de:"
+
+msgid "EMAIL_CHANGE_SUCCEEDED_TEXT"
+msgstr "Votre email a changé"
+
+msgid "EMAIL_CHANGE_SUCCEEDED_HEADER"
+msgstr "Changement d'e-mail réussi!"
+
+msgid "EMAIL_ALREADY_IN_USE"
+msgstr "Cet email est déjà utilisé"
+
+msgid "EMAIL_CHANGE_NOTICE"
+msgstr "Après modification de l'adresse e-mail, vous recevrez un e-mail de confirmation de la nouvelle adresse."
+
+msgid "EMAIL_CHANGE_PENDING"
+msgstr "(Nouvelle adresse e-mail à confirmer)"
+
+msgid "CUSTOMER_ACCOUNT_DISCOUNT_TITLE"
+msgstr "Remises aux entreprises"
+
+msgid "CUSTOMER_ACCOUNT_BASE_DISCOUNT"
+msgstr "Remise de base"
+
+msgid "CUSTOMER_ACCOUNT_BASE_DISCOUNT_DESCRIPTION"
+msgstr ""
+"Cette réduction s'applique à l'ensemble de la gamme de produits,"
+"                 à moins qu'un pourcentage de réduction spécifique n'ait été fixé pour un produit ou une marque."
+
+msgid "CUSTOMER_ACCOUNT_BRAND_DISCOUNT_HEADER"
+msgstr "Remise par marque"
+
+msgid "CUSTOMER_ACCOUNT_PRODUCT_DISCOUNT_HEADER"
+msgstr "Remise par produit"
+
+msgid "CUSTOMER_ACCOUNT_DISCOUNT_PRODUCT"
+msgstr "Produit"
+
+msgid "CUSTOMER_ACCOUNT_DISCOUNT_REGULAR_PRICE"
+msgstr "Prix habituel"
+
+msgid "CUSTOMER_ACCOUNT_DISCOUNT_PRODUCT_NUMBER"
+msgstr "Numéro de produit"
+
+msgid "CUSTOMER_ACCOUNT_DISCOUNT_NET_PRICE"
+msgstr "Prix net"
+
+msgid "CUSTOMER_ACCOUNT_DISCOUNT_BRAND"
+msgstr "Marque"
+
+msgid "CUSTOMER_ACCOUNT_DISCOUNT_DISCOUNT"
+msgstr "Réduction"
+
+msgid "USP_1"
+msgstr "Commandez plus rapidement"
+
+msgid "USP_2"
+msgstr ""
+"Sauvegardez facilement votre liste de souhaits"
+""
+
+msgid "USP_3"
+msgstr "Aperçu de toutes vos commandes"
+
+msgid "ACCOUNT_ADVANTAGES"
+msgstr "Compte d'avantages sociaux"
+
+msgid "NO_ACCOUNT_YET"
+msgstr "Pas encore de compte ?"
+
+msgid "ACCOUNT_ADVANTAGE_LIST"
+msgstr "Les avantages d'un compte :"
+
+msgid "ACCOUNT_ADVANTAGES_LIST"
+msgstr "Pas encore de compte?"
+
+msgid "B2B_CREDIT_WARNING_CHECKOUT"
+msgstr "Attention : si le solde de votre compte est négatif, votre commande sera tout de même validée. Néanmoins vous ne serez pas livré OU votre commande ne sera pas expédiée. Veuillez vérifier le solde de votre compte ou contacter votre conseiller."
+
+msgid "B2B_CREDIT_WARNING_ORDER_STATUS_DELIVERY"
+msgstr ""
+"Remarque : La date de livraison choisie est soumise à la condition que cette "
+"                commande soit dans la limite de crédit! Veuillez vérifier l'état de votre crédit"
+
+msgid "ACCOUNT_ORDER_AMOUNTS"
+msgstr "Les montants"
+
+msgid "ACCOUNT_ORDER_CREDIT_LIMIT"
+msgstr "limite de crédit"
+
+msgid "ACCOUNT_ORDER_CREDIT_USED"
+msgstr "Montants restant à payer"
+
+msgid "ACCOUNT_ORDER_CREDIT_REMAINDER"
+msgstr "Solde restant"
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_NO_CREDIT_ORDERS"
+msgstr "Aucune commande en cours"
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_CREDIT_ORDERS"
+msgstr "Commandes ouvertes"
+
+msgid "CUSTOMER_ACCOUNT_ORDERS_DEBIT_AMOUNT_REMAINING"
+msgstr "Ouvert"
+
+msgid "B2B_CREDIT_WARNING_DESCRIPTION"
+msgstr "Crédit dépassé"
+
+msgid "CUSTOMER_ACCOUNT_GREET"
+msgstr "Salut"
+
+msgid "CUSTOMER_ACCOUNT_GREET_SUBTITLE"
+msgstr "Nous avons tout rassemblé ici pour vous !"
+
+msgid "CUSTOMER_ACCOUNT_INTRO"
+msgstr ""
+"Bienvenue dans votre compte. Vous y trouverez toutes les informations concernant "
+"                vos commandes actuelles et antérieures. Vous pouvez également consulter votre liste de souhaits et "
+"                mettre à jour votre profil. De cette façon, vous êtes toujours au courant de tout en un seul endroit !"
+
+msgid "CUSTOMER_ACCOUNT_OVERVIEW"
+msgstr "Présentation de mon compte"
+
+msgid "CUSTOMER_WISHLISTS"
+msgstr "Liste de voeux"
+
+msgid "CUSTOMER_WISHLISTS_SUBTITLE"
+msgstr "Vos articles sauvegardés"
+
+msgid "CUSTOMER_QUOTATIONS"
+msgstr "Citations"
+
+msgid "CUSTOMER_QUOTATIONS_SUBTITLE"
+msgstr "Tous vos devis"
+
+msgid "CUSTOMER_PROFILE"
+msgstr "Profil"
+
+msgid "CUSTOMER_PROFILE_SUBTITLE"
+msgstr "Pour vos données, adresses et préférences"
+
+msgid "CUSTOMER_SERVICE"
+msgstr "Service"
+
+msgid "CUSTOMER_SERVICE_SUBTITLE"
+msgstr "Un problème est survenu ? Veuillez nous en informer."
+
+msgid "CUSTOMER_ORDERS_SUBTITLE"
+msgstr "Aperçu de vos commandes."
+
+msgid "CUSTOMER_SIDEBAR_HOME"
+msgstr "boutique en ligne"
+
+msgid "CUSTOMER_MENU_ITEM_PREFIX"
+msgstr "Au "
+
+msgid "CUSTOMER_MENU_OVERVIEW"
+msgstr "Resume"
+
+msgid "CUSTOMER_NAV_TO_PROFILE"
+msgstr "Au profil"
+
+msgid "CUSTOMER_ADDRESSES"
+msgstr "Adresses"
+
+msgid "CUSTOMER_NAV_TO_ORDERS"
+msgstr "Aux commandes"
+
+msgid "ORDER_SUMMARY_ORDER_DATE"
+msgstr "Date de commande"
+
+msgid "ORDER_SUMMARY_ORDER_DISCOUNT"
+msgstr "Rabais"
+
+msgid "CUSTOMER_NAV_TO_WISHLIST"
+msgstr "Vers les listes de souhaits"
+
+msgid "SERVICE_ITEMS"
+msgstr "Articles"
+
+msgid "SERVICE_ORDERNUMBER"
+msgstr "Numéro de commande"
+
+msgid "ORDER_SERVICENUMBER"
+msgstr "Numéro de service"
+
+msgid "ORDER_STATUS_TEXT_SERVICE"
+msgstr ""
+"<p>Merci pour votre commande chez Sawiday. Tu n'as plus à t'inquiéter"
+"                commande.</p>"
+

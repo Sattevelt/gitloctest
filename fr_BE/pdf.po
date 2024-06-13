@@ -1,0 +1,912 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "RETOUR_HEADER"
+msgstr "Preuve de retour"
+
+msgid "RETOUR_ADDRESS_HEADER"
+msgstr "Adresse"
+
+msgid "RETOUR_CUSTOMER_NAME"
+msgstr "Nom"
+
+msgid "RETOUR_CUSTOMER_ADDRESS"
+msgstr "Adresse"
+
+msgid "RETOUR_CUSTOMER_EMAIL"
+msgstr "Adresse e-mail"
+
+msgid "RETOUR_CUSTOMER_TELEPHONE"
+msgstr "Numéro de téléphone"
+
+msgid "RETOUR_CUSTOMER_COMPANYNAME"
+msgstr "Nom d'entreprise"
+
+msgid "RETOUR_CUSTOMER_VATNUMBER"
+msgstr "Numéro de TVA"
+
+msgid "RETOUR_HELPED_BY"
+msgstr "Servi par :"
+
+msgid "RETOUR_ORDER_NUMBER"
+msgstr "Numéro de commande :"
+
+msgid "RETOUR_DATE"
+msgstr "Date de retour :"
+
+msgid "RETOUR_PRODUCT_AMOUNT"
+msgstr "Nombre"
+
+msgid "RETOUR_PRODUCT_SKU"
+msgstr "Numéro de produit"
+
+msgid "RETOUR_PRODUCT_DESCRIPTION"
+msgstr "Description"
+
+msgid "RETOUR_PRODUCT_TOTAL_INCL_VAT"
+msgstr "Total (TVA incl.)"
+
+msgid "RETOUR_PAYMENT_INFO"
+msgstr "Le montant entier du retour sera viré sur votre compte bancaire dans 14 jours."
+
+msgid "INVOICE_HEADER"
+msgstr "Facture"
+
+msgid "INVOICE_SHIPPING_ADDRESS_HEADER"
+msgstr "Adresse de facturation"
+
+msgid "INVOICE_ADDRESS_HEADER"
+msgstr "Adresse"
+
+msgid "INVOICE_CUSTOMER_NAME"
+msgstr "Nom"
+
+msgid "INVOICE_CUSTOMER_ADDRESS"
+msgstr "Adresse"
+
+msgid "INVOICE_CUSTOMER_EMAIL"
+msgstr "Adresse e-mail"
+
+msgid "INVOICE_CUSTOMER_TELEPHONE"
+msgstr "Numéro de téléphone"
+
+msgid "INVOICE_CUSTOMER_COMPANYNAME"
+msgstr "Nom d'entreprise"
+
+msgid "INVOICE_CUSTOMER_VATNUMBER"
+msgstr "Numéro TVA"
+
+msgid "INVOICE_HELPED_BY"
+msgstr "Aidé par"
+
+msgid "INVOICE_PAYMENT_METHOD"
+msgstr "Façon de payer"
+
+msgid "INVOICE_NUMBER"
+msgstr "Numéro de facture"
+
+msgid "INVOICE_DATE"
+msgstr "Date de facturation"
+
+msgid "INVOICE_CUSTOMER_SHIPPING_ADDRESS_HEADER"
+msgstr "Adresse de livraison"
+
+msgid "INVOICE_CUSTOMER_SHIPPING_NAME"
+msgstr "Nom"
+
+msgid "INVOICE_CUSTOMER_SHIPPING_ADDRESS"
+msgstr "Adresse"
+
+msgid "INVOICE_PRODUCT_SKU"
+msgstr "Numéro de produit"
+
+msgid "INVOICE_PRODUCT_NAME"
+msgstr "Produit"
+
+msgid "INVOICE_PRODUCT_PRICE_PER_UNIT"
+msgstr "Prix par pièce"
+
+msgid "INVOICE_PRODUCT_AMOUNT"
+msgstr "Nombre"
+
+msgid "INVOICE_PRODUCT_PRICE_INCL_VAT"
+msgstr "Prix (TVA incl.)"
+
+msgid "INVOICE_TOTAL_GROUP"
+msgstr "Total"
+
+msgid "INVOICE_SUBTOTAL_EX_DISCOUNT"
+msgstr "Sous-total :"
+
+msgid "INVOICE_SHIPPING_COSTS"
+msgstr "Frais de livraison"
+
+msgid "INVOICE_DISCOUNT"
+msgstr "Réduction :"
+
+msgid "INVOICE_PAYMENT_COSTS"
+msgstr "Frais de paiement :"
+
+msgid "INVOICE_VAT"
+msgstr "TVA"
+
+msgid "INVOICE_TOTAL_INCL_VAT"
+msgstr "Total (TVA incl.) :"
+
+msgid "INVOICE_PAID_IN_ADVANCE"
+msgstr "Montant facturé  :"
+
+msgid "INVOICE_PAYABLE"
+msgstr "A payer :"
+
+msgid "INVOICE_ORDER_ID"
+msgstr "Numéro de commande"
+
+msgid "ORDER_TERMS_AND_CONDITIONS"
+msgstr ""
+"<!-- main conditions div -->"
+"                    <div class=\"conditions\">"
+""
+"                    <h1>CONDITIONS DE COMMANDE</h1>"
+""
+"                    <!-- left column -->"
+"                    <div class=\"leftColumn\">"
+"                    <h2>Conditions générales</h2>"
+"                    <p>La validation du devis implique l’acceptation de nos"
+"					<a href=\"https://www.sawiday.be/fr-be/service-client/conditions-generales/\">Conditions"
+"					Générales</a> et les conditions supplémentaires mentionnées ci-dessous.</p>"
+""
+"                    <h2>DÉLAIS DE LIVRAISON</h2>"
+"                    <p>Tous les délais de livraison sont indiqués sur le devis ou sur"
+"					le bon de commande. Le délai de livraison peut varier selon le produit."
+"					Si tel est le cas, prenez en compte le délai de livraison le plus long."
+"					Attention ! Les délais de livraison ne sont mentionnés qu’à titre"
+"					indicatif, vous ne pouvez pas y tirer des droits. Les délais de"
+"					livraison ne commencent qu’au moment où vous avez réglé la commande."
+"					Nous vous recommandons d’attendre que la livraison ait eu lieu avant"
+"					de faire appel à un tiers pour l’installation.</p>"
+""
+"                    <h2>FRAIS DE LIVRAISON</h2>"
+"                    <p>Les frais de livraison sont indiqués sur le devis ou sur la facture."
+"					Les frais de port sont gratuits pour toute commande supérieure à"
+"					%1$s euros.</p>"
+""
+"                    <h2>PAIEMENT DE VOTRE COMMANDE</h2>"
+"                    <p>Afin de pouvoir procéder à la livraison de votre commande, nous"
+"					vous demandons bien vouloir régler le montant dû au moins 3 jours"
+"					ouvrés avant la date de livraison prévue. Nous vous demandons "
+"                                        de verser un acompte de 10%% avec un minimum de € 150,- "
+"                                        avant de traiter votre commande. Tout article fabriqué sur mesure "
+"                                        (HM) devra être payé intégralement et immédiatement."
+"                    <ol>"
+"                    <li>Par virement bancaire sur le numéro de compte de Sawiday.be"
+"					(IBAN): BE26 0016 1009 6229 de Buckaroo en indiquant votre numéro"
+"					de commande, numéro de facture et votre nom.  </li>"
+"                    <li>Par MisterCash (services bancaires par Internet)</li>"
+"                    <li>Par PayPal (service bancaire par Internet).</li>"
+"                    <li>Contre-remboursement (paiement en espèces ou par carte bancaire au chauffeur). "
+"                    A cet effet, nous facturons des frais de paiement supplémentaires de € 15,-. Les frais "
+"                    de paiement seront spécifiés séparément sur votre facture.</li>"
+"                    <li>Lorsque vous venez retirer votre commande dans le showroom,"
+"					vous avez le choix de payer sur place par Bancontact/MisterCash"
+"					ou en espèces. Nous acceptons les payements par Carte de Crédit"
+"					si le montant de la commande ne dépasse pas les 2000,00 €.</li>"
+"                    <li>Si vous n’avez pas (entièrement) réglé votre commande après un"
+"					rappel, le montant dû sera augmenté par des frais d’encaissement"
+"					extrajudiciaires. Lisez nos Conditions supplémentaires pour plus"
+"					d’informations.</li>"
+"                    </ol>"
+"                    </p>"
+""
+"                    <h2>PLANIFIER VOTRE COMMANDE</h2>"
+"                    <p>La date de livraison est fixée en accord avec vous. Votre"
+"					commande sera livrée un jour ouvré, du lundi au vendredi, entre"
+"					07h00 et 18h00. Si vous souhaitez déplacer le rendez-vous, il"
+"					vous est possible de le faire jusqu’à 24 heures avant la date"
+"					de livraison. Au cas où vous ne seriez pas présent le jour convenu,"
+"					la commande vous sera à nouveau présentée le lendemain. Dans ce cas,"
+"					des frais d’expédition supplémentaires de 29,95 € vous seront"
+"					facturés, car nous faisons appel à une société de transport"
+"					externe pour la livraison de produits lourds et volumineux. Ceci"
+"					ne s’applique pas aux colis postaux.</p>"
+""
+"                    <!-- end left column -->"
+"                    </div>"
+""
+"                    <!-- right column -->"
+"                    <div class=\"rightColumn\">"
+""
+"                    <h2>LIVRAISON DE VOTRE COMMANDE</h2>"
+"                    <p>Notre transporteur livre votre commande jusqu’au premier seuil"
+"					de votre bâtiment. Si vous habitez à l’étage, votre commande sera"
+"					livrée à la première porte.</p>"
+""
+"                    <h2>SERVICE APRÈS-VENTE</h2>"
+"                    <p>Dès réception de la commande, nous vous demandons de bien"
+"					vouloir contrôler tous les produits. Si la commande n’est pas"
+"					complète ou si un produit s’avère être endommagé, nous vous"
+"					demandons de nous en prévenir, au plus tard 48 heures après"
+"					la livraison. Vous pouvez nous informer d'un dégât ou d'une pièce manquante éventuel en remplissant notre formulaire de demande de service www.sawiday.be/demande-de-service/."
+"					<br>"
+"					Tous les produits vendus par Sawiday sont livrés avec garantie de"
+"					fabrication. Si vous souhaitez vous en servir, nous vous demandons"
+"					de remplir une « demande de service ». Cela s’applique également aux"
+"					packs garantie achetés chez Sawiday.</p>"
+""
+"					<h2>MODÈLES D’EXPOSITION</h2>"
+"                    <p>Les conditions ci-dessous s’appliquent aux numéros d’articles"
+"					commençant par SHOW- ou STORE-."
+"                    <ul>"
+"                    <li>Un modèle d’exposition ne peut être retiré que dans la"
+"					succursale où se trouve l’article et ne sera donc pas expédié.</li>"
+"                    <li>Vérifiez soigneusement que le produit ne présente aucun"
+"					défaut. Les droits de garantie ne s’appliquent pas aux modèles"
+"					d’exposition. Un modèle d’exposition ne peut être ni retourné ni"
+"					échangé.</li>"
+"                    </ul>"
+"                    </p>"
+""
+"					<h2>DESTOCKAGE</h2>"
+"                    <p>Pour les produits déstockage, c’est-à-dire les produits dont"
+"					le numéro d’article commence par OUT, les conditions générales"
+"					s’appliquent.</p>"
+""
+"                    <h2>RETOUR PRODUITS</h2>"
+"                    <p>Il est toujours possible que le produit que vous avez commandé ne"
+"					corresponde pas à vos attentes. Sawiday permet d’échanger un article"
+"					non utilisé endéans les 30 jours, à condition qu’il se trouve toujours"
+"					dans son emballage d’origine. Si le produit retourné remplit les"
+"					conditions, vous serez remboursé. Vous pouvez enregistrer votre"
+"					demande de retour facilement avec une demande d’annulation. Le"
+"					produits remplissant les conditions reprises ci-dessus peuvent être"
+"					renvoyés à l’adresse suivante :</p>"
+""
+"					<p>Sawiday / Top-Speed Bvba<br>"
+"					De Regenboog 5/Rbr>"
+"					2800 Mechelen<br>"
+"					België</p>"
+""
+"					<p>Le risque de dommage et de perte vous incombe. Le produit doit"
+"					être retourné dans son emballage d’origine, sans avoir été utilisé"
+"					ni endommagé.</p>"
+""
+"                    <!-- end right column -->"
+"                    </div>"
+""
+"                    <!-- end main conditions div -->"
+"                    </div>"
+
+msgid "QUOTATION_TERMS_AND_CONDITIONS"
+msgstr ""
+"<!-- main conditions div -->"
+"<div class=\"conditions\">"
+""
+"<h1>CONDITIONS DE L’OFFRE</h1>"
+""
+"<!-- left column -->"
+"<div class=\"leftColumn\">"
+""
+"<h2>LA DURÉE DE VALIDITÉ CE DEVIS</h2>"
+"<p>Ce devis est valable un mois à compter de sa date d’émission."
+"Au cas où vous voudriez exécuter le devis après cette période,"
+"nous nous ferons un plaisir de le vérifier et de l’adapter si nécessaire.</p>"
+""
+"<h2>CONFIRMER LE DEVIS</h2>"
+"<p>Vous pouvez confirmer de devis par e-mail, par téléphone ou dans le showroom de Sawiday."
+"Une fois le bon de commande validé, la commande sera effective. Une confirmation de commande"
+"vous sera ensuite envoyée par e-mail. Le délai de livraison prendra effet dès réception de"
+"votre acompte. La validation du devis implique l’acceptation de nos"
+"<a href=\"https://www.sawiday.be/fr-be/service-client/conditions-generales/\">Conditions Générales</a>"
+"et les conditions supplémentaires mentionnées ci-dessous.</p>"
+""
+"<h2>www.sawiday.be</h2>"
+""
+"<!-- end left column -->"
+"</div>"
+""
+"<!-- right column -->"
+"<div class=\"rightColumn\">"
+""
+"<h2>MODÈLE D’EXPOSITION</h2>"
+"<p>"
+"<ul>"
+"<li>Vous pouvez réserver un modèle d’exposition pour la durée"
+"d’une journée maximum.</li>"
+"<li>Un modèle d’exposition peut être retiré uniquement au showroom."
+"Nous ne pouvons malheureusment pas vous l’envoyer.</li>"
+"<li>Veillez toujours à bien contrôler le modèle d’exposition, afin de vérifier qu’il"
+"ne soit pas abîmé. Les droits de garantie ne s’appliquent pas sur les"
+"modèles d’exposition et vous ne bénéficiez pas de droits de rétractation"
+"après avoir retiré ce produit.</li>"
+"</ul>"
+"</p>"
+""
+"<!-- end right column -->"
+"</div>"
+""
+"<!-- end main conditions div -->"
+"</div>"
+
+msgid "QUOTATION_HEADER"
+msgstr "Devis"
+
+msgid "QUOTATION_ADDRESS_HEADER"
+msgstr "Adresse"
+
+msgid "QUOTATION_CUSTOMER_NAME"
+msgstr "Nom"
+
+msgid "QUOTATION_CUSTOMER_ADDRESS"
+msgstr "Adresse"
+
+msgid "QUOTATION_CUSTOMER_MAIL"
+msgstr "Adresse e-mail"
+
+msgid "QUOTATION_CUSTOMER_TELEPHONE"
+msgstr "Numéro de téléphone"
+
+msgid "QUOTATION_HELPED_BY"
+msgstr "Servi par"
+
+msgid "QUOTATION_DATE"
+msgstr "Date"
+
+msgid "QUOTATION_ID"
+msgstr "Numéro de devis"
+
+msgid "QUOTATION_PRODUCT_SKU"
+msgstr "Numéro d'article"
+
+msgid "QUOTATION_PRODUCT_NAME"
+msgstr "Produit"
+
+msgid "QUOTATION_PRODUCT_DELIVERYTIME"
+msgstr "Délai de livraison"
+
+msgid "QUOTATION_PRODUCT_PRICE_PER_UNIT"
+msgstr "Notre prix"
+
+msgid "QUOTATION_PRODUCT_AMOUNT"
+msgstr "Nombre"
+
+msgid "QUOTATION_PRODUCT_TOTAL_INCL_VAT"
+msgstr "Total (TVA incl.)"
+
+msgid "QUOTATION_TOTAL_GROUP"
+msgstr "Total"
+
+msgid "QUOTATION_SHIPPING_COSTS"
+msgstr "Frais de livraision"
+
+msgid "QUOTATION_SUBTOTAL"
+msgstr "Sous-total"
+
+msgid "QUOTATION_DISCOUNT"
+msgstr "Réduction supplémentaire"
+
+msgid "QUOTATION_VAT_PERCENTAGE"
+msgstr "Taux de TVA"
+
+msgid "QUOTATION_VAT"
+msgstr "Montant TVA :"
+
+msgid "QUOTATION_TOTAL"
+msgstr "Total (TVA incl.)"
+
+msgid "ORDER_HEADER"
+msgstr "Commande"
+
+msgid "ORDER_ADDRESS_HEADER"
+msgstr "Adresse"
+
+msgid "ORDER_CUSTOMER_NAME"
+msgstr "Nom"
+
+msgid "ORDER_CUSTOMER_ADDRESS"
+msgstr "Adresse"
+
+msgid "ORDER_CUSTOMER_MAIL"
+msgstr "E-mail"
+
+msgid "ORDER_CUSTOMER_TELEPHONE"
+msgstr "Téléphone"
+
+msgid "ORDER_CUSTOMER_COMPANYNAME"
+msgstr "Nom d'entreprise"
+
+msgid "ORDER_CUSTOMER_VAT_NUMBER"
+msgstr "Numéro TVA"
+
+msgid "ORDER_REMARKS"
+msgstr "Remarques :"
+
+msgid "ORDER_REMARK_PLACED_ON"
+msgstr "Passé le"
+
+msgid "ORDER_DATE"
+msgstr "Date:"
+
+msgid "ORDER_HELPED_BY"
+msgstr "Aidé par:"
+
+msgid "ORDER_DELIVERY_DATE"
+msgstr "Date d'expédition:"
+
+msgid "ORDER_PAYMENT_METHOD"
+msgstr "Mode de paiement:"
+
+msgid "ORDER_ID"
+msgstr "Numéro de commande:"
+
+msgid "ORDER_INVOICE_NUMBER"
+msgstr "Numéro de facture:"
+
+msgid "ORDER_PRODUCT_AMOUNT"
+msgstr "Nombre"
+
+msgid "ORDER_PRODUCT_SKU"
+msgstr "Numéro de produit"
+
+msgid "ORDER_PRODUCT_DESCRIPTION"
+msgstr "Description"
+
+msgid "ORDER_PRODUCT_LOCATION"
+msgstr "Location"
+
+msgid "ORDER_PRODUCT_PRICE_PER"
+msgstr "Prix par pièce"
+
+msgid "ORDER_PRODUCT_TOTAL"
+msgstr "Total"
+
+msgid "ORDER_SUBTOTAL"
+msgstr "Sous-total :"
+
+msgid "ORDER_SHIPPING_COSTS"
+msgstr "Frais de livraison :"
+
+msgid "ORDER_DISCOUNT"
+msgstr "Réduction :"
+
+msgid "ORDER_PAYMENT_COSTS"
+msgstr "Frais de paiement :"
+
+msgid "ORDER_VAT"
+msgstr "Taux de TVA :"
+
+msgid "ORDER_VAT_AMOUNT"
+msgstr "Montant TVA :"
+
+msgid "ORDER_TOTAL"
+msgstr "Total :"
+
+msgid "ORDER_PAID_IN_ADVANCE"
+msgstr "Acompte :"
+
+msgid "ORDER_PAYMENT_REMAINING"
+msgstr "A payer :"
+
+msgid "CREDIT_INVOICE_HEADER"
+msgstr "Facture de crédit"
+
+msgid "CREDIT_INVOICE_ADDRESS_HEADER"
+msgstr "Adresse"
+
+msgid "CREDIT_INVOICE_CUSTOMER_NAME"
+msgstr "Nom"
+
+msgid "CREDIT_INVOICE_CUSTOMER_ADDRESS"
+msgstr "Adresse"
+
+msgid "CREDIT_INVOICE_CUSTOMER_EMAIL"
+msgstr "Adresse e-mail"
+
+msgid "CREDIT_INVOICE_CUSTOMER_TELEPHONE"
+msgstr "Numéro de téléphone"
+
+msgid "CREDIT_INVOICE_CUSTOMER_VATNUMBER"
+msgstr "Numéro TVA"
+
+msgid "CREDIT_INVOICE_ORDER_ID"
+msgstr "Numéro de commande :"
+
+msgid "CREDIT_INVOICE_DATE"
+msgstr "Date de facturation :"
+
+msgid "CREDIT_INVOICE_NUMBER"
+msgstr "Numéro de facture de crédit :"
+
+msgid "CREDIT_INVOICE_TOTAL_EX_VAT"
+msgstr "Total TVA excl. :"
+
+msgid "CREDIT_INVOICE_VAT"
+msgstr "TVA :"
+
+msgid "CREDIT_INVOICE_TOTAL_IN_VAT"
+msgstr "Total TVA incl. :"
+
+msgid "CREDIT_INVOICE_PARENT_NUMBER"
+msgstr "Numéro de facture principal"
+
+msgid "CANCELLED"
+msgstr "annulé"
+
+msgid "ORDER_SUBTOTAL_EX_DISCOUNT"
+msgstr "Sous-total (remises exl.) :"
+
+msgid "ORDER_TOTAL_INCL_VAT"
+msgstr "Total (TVA incl.) :"
+
+msgid "ORDER_PRODUCT_NAME"
+msgstr "Produit"
+
+msgid "ORDER_PRODUCT_PRICE_PER_UNIT"
+msgstr "Prix par pièce"
+
+msgid "ORDER_PRODUCT_PRICE_INCL_VAT"
+msgstr "Prix (TVA incl.)"
+
+msgid "ORDER_TOTAL_GROUP"
+msgstr "Total"
+
+msgid "ORDER_CUSTOMER_EMAIL"
+msgstr "Adresse Email"
+
+msgid "ORDER_SHIPPING_ADDRESS_HEADER"
+msgstr "Adresse de livraison"
+
+msgid "ORDER_CUSTOMER_SHIPPING_NAME"
+msgstr "Nom"
+
+msgid "ORDER_CUSTOMER_SHIPPING_ADDRESS"
+msgstr "Adresse"
+
+msgid "ORDER_CUSTOMER_SHIPPING_ADDRESS_HEADER"
+msgstr "Adresse de livraison"
+
+msgid "QUOTATION_PRODUCT_TOTAL_EXCL_VAT"
+msgstr "Total (TVA excl.)"
+
+msgid "ORDER_TOTAL_EXCL_VAT"
+msgstr "Total (TVA Excl.)"
+
+msgid "RETURN_FORM_TO"
+msgstr "A"
+
+msgid "RETURN_FORM_TITLE"
+msgstr "Formulaire de rétractation"
+
+msgid "RETURN_FORM_CUSTOMER_APPLICANT"
+msgstr "Demandeur"
+
+msgid "RETURN_FORM_ORDERNUMBER"
+msgstr "Numéro de commande"
+
+msgid "RETURN_FORM_DELIVERYDATE"
+msgstr "Date de livraison"
+
+msgid "RETURN_FORM_RETURN_REFERENCE"
+msgstr "Référence"
+
+msgid "RETURN_FORM_RETURN_AMOUNT"
+msgstr "Nombre"
+
+msgid "RETURN_FORM_RETURN_PRODUCTCODE"
+msgstr "Numéro d'article"
+
+msgid "RETURN_FORM_RETURN_DESCRIPTION"
+msgstr "Description"
+
+msgid "RETURN_FORM_FOOTER_DESCRIPTION"
+msgstr ""
+"Imprimez deux fois ce formulaire. Gardez un formulaire pour votre propre administration, l'autre vous ajoutez à votre colis. Des retours sans formulaires seront traités avec des retards. Le moment où nous avons reçu votre colis, nous vous envoyons un courriel avec une confirmation."
+""
+"<p>Vous avez indiqué que vous souhaitez retourner (certains articles de) votre commande. Des coûts éventuels du retour seront pour votre compte. <br />"
+"                                    Vous pouvez renvoyer votre(vos) produit(s) à l’adresse suivante :"
+"                                    <br /> <br />"
+"                                    P/A BX SIR – Sawiday<br>"
+"Vilvoordsesteenweg 233<br>"
+"1099 Bruxelles X<br>"
+"                                    <br />"
+"                                    <p>Pour les produits lourds et/ou fragiles nous vous conseillons de faire usage d'une entreprise de transport. Des petits produits peuvent être retournés avec des colis postaux.</p>"
+""
+"                                    <p> Vous pouvez également retourner gratuitement votre ou vos produits à l'un de nos showrooms. Le retour d'une commande est possible dans le showroom du lundi au vendredi jusqu'à 18h00 et le samedi jusqu'à 12h00. Les soirs et les dimanches d'achat, les retours dans le showroom ne sont pas possibles.</p>."
+""
+
+msgid "QUOTATION_SUBTOTAL_EXCL_VAT"
+msgstr "Sous-total (TVA excl.)"
+
+msgid "QUOTATION_PRODUCT_PRICE_PER_UNIT_EXCL_VAT"
+msgstr "Notre prix (TVA excl.)"
+
+msgid "QUOTATION_SHIPPING_COSTS_EXCL_VAT"
+msgstr "Frais de livraision (TVA excl.)"
+
+msgid "QUOTATION_DISCOUNT_EXCL_VAT"
+msgstr "Réduction  (TVA excl.)"
+
+msgid "CUSTOMER_TERMS_CONDITIONS_GENERAL_1"
+msgstr "Dès réception de votre commande, veuillez vérifier immédiatement si les articles ont été endommagés et si la commande est complète. En cas de livraison incomplète ou de dommage, veuillez nous en informer endéans les 48 heures suivant la livraison en remplissant une demande de service."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_GENERAL_2"
+msgstr "Nous travaillons avec des transporteurs externes qui livrent jusqu'au premier seuil de la maison."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_GENERAL_3"
+msgstr "Lors de l'achat d'une paroi ou d'une cabine de douche : en raison d'une plage de réglage, celles-ci sont légèrement plus petites que la taille générale indiquée."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_GENERAL_4"
+msgstr "En raison des différences de lots, de numéros de nuances et de tolérance de taille, nous ne pouvons malheureusement pas reprendre ou annuler les carreaux. Nous ne pouvons être tenus responsables du calcul du nombre de m2 de carreaux."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_GENERAL_5"
+msgstr ""
+"Un article portant un numéro HM est un article qui n'est pas disponible de façon standard dans notre assortiment. Cet article a été commandé spécialement pour vous, par conséquent, il ne pourra être ni retourné, ni annulé ou modifié au courant du processus de commande."
+""
+
+msgid "CUSTOMER_TERMS_CONDITIONS_FOOTER"
+msgstr "Signé électroniquement le %s."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_INTRO"
+msgstr "Le client déclare de s'être renseigné et d'avoir accordé les conditions formelles si dessous qui s'appliquent à la commande."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_SHOWROOM_1"
+msgstr "Uniquement disponible dans le showroom, pas possible de le commander en ligne."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_SHOWROOM_2"
+msgstr "Uniquement à retirer, nous ne l'envoyons pas."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_SHOWROOM_3"
+msgstr "Uniquement disponible au magasin où se trouve l'article."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_SHOWROOM_4"
+msgstr "Il est possible de réserver l'article durant 1 jour ouvrable."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_SHOWROOM_5"
+msgstr "Malheureusement, nous n'offrons pas de garantie pour ces articles."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_SHOWROOM_6"
+msgstr "Les articles ne peuvent pas être retournés. Contrôlez-bien votre article avant de l'acheter, il peut être endommagé."
+
+msgid "INVOICE_PRODUCT_PRICE_EXCL_VAT"
+msgstr "Prijs (excl. TVA)"
+
+msgid "INVOICE_TOTAL_EXCL_VAT"
+msgstr "Total (TVA excl.):"
+
+msgid "INVOICE_PRODUCT_PRICE_PER_UNIT_EXCL_VAT"
+msgstr "Prix par pièce (TVA excl.)"
+
+msgid "INVOICE_TOTAL_GROUP_EXCL_VAT"
+msgstr "Total (TVA excl.):"
+
+msgid "INVOICE_SUBTOTAL_EX_DISCOUNT_EXCL_VAT"
+msgstr "Sous-total (TVA excl.):"
+
+msgid "INVOICE_SHIPPING_COSTS_EXCL_VAT"
+msgstr "Frais de livraision (TVA excl.)"
+
+msgid "INVOICE_DISCOUNT_EXCL_VAT"
+msgstr "Réduction  (TVA excl.)"
+
+msgid "INVOICE_PAYMENT_COSTS_EXCL_VAT"
+msgstr "Frais de paiement (TVA excl.):"
+
+msgid "INVOICE_CUSTOMER_EMAIL_SHORT"
+msgstr "E-mail"
+
+msgid "INVOICE_CUSTOMER_TELEPHONE_SHORT"
+msgstr "Nº de tel."
+
+msgid "INVOICE_PAYMENT_METHOD_SHORT"
+msgstr "Paiement"
+
+msgid "INVOICE_ORDER_ID_SHORT"
+msgstr "Nº commande"
+
+msgid "INVOICE_NUMBER_SHORT"
+msgstr "Nº fact."
+
+msgid "INVOICE_DATE_SHORT"
+msgstr "Date fact."
+
+msgid "INVOICE_SUBTOTAL_INCL_VAT"
+msgstr "Sous-total TVA excl."
+
+msgid "INVOICE_SUBINVOICENUMBERS"
+msgstr "N° de facture secondaire"
+
+msgid "INVOICE_CREDITINVOICENUMBERS"
+msgstr "N° de facture de crédit"
+
+msgid "INVOICE_FOOTER"
+msgstr ""
+"Sawiday.be - Sawiday Belgium BV - Bredabaan 1265 - 2900 -"
+"Schoten (Anvers) - Belgique - Téléphone : (+32)(0)6 848 01 14<br />"
+"Fax : +32(0)3 685 03 20 - Adresse e-mail : info@sawiday.be - <br />"
+"IBAN : BE64 7310 1112 3952 - BIC: KREDBEBB - Banque : KBC <br />"
+"Numéro d'entreprise : BTW BE0827.382.581 - RPR Anvers"
+
+msgid "PROFORMAINVOICE"
+msgstr "Facture proforma"
+
+msgid "INVOICE_INVOICED_IN_ADVANCE"
+msgstr "Montant facturé :"
+
+msgid "QUOTATION_RECOMMENDED_PRICE_PER_UNIT"
+msgstr "Prix conseillé"
+
+msgid "QUOTATION_RECOMMENDED_PRICE_PER_UNIT_EXCL_VAT"
+msgstr "Prix conseillé (TVA excl.)"
+
+msgid "QUOTATION_SUBTOTAL_RECOMMENDED_PRICE"
+msgstr "Sous-total Prix conseillé"
+
+msgid "CUSTOMER_TERMS_CONDITIONS_GENERAL_6"
+msgstr "Votre meuble en chêne mérite un entretien bien spécifique. Pour éviter les traces de calcaire et les marques, l'eau et les liquides doivent être immédiatement essuyés avec un chiffon sec."
+
+msgid "CUSTOMER_TERMS_CONDITIONS_OUTLETSTORE_1"
+msgstr "Les produits mentionnés ne peuvent être retournés"
+
+msgid "CUSTOMER_TERMS_CONDITIONS_OUTLETSTORE_2"
+msgstr "Nous ne fournissons aucune garantie sur les produits mentionnés"
+
+msgid "CUSTOMER_TERMS_CONDITIONS_OUTLETSTORE_3"
+msgstr "Je, soussigné(e), déclare avoir contrôlé et approuvé les articles"
+
+msgid "QUOTATION_DELIVERY_DAY"
+msgstr "j"
+
+msgid "SHOWROOM_ADDITIONAL_TERMS_AND_CONDITIONS"
+msgstr ""
+"<!-- extra conditions div -->"
+"                    <div class=\"conditions\">"
+""
+"                    <h1>CONDITIONS ADDITIONNELLES</h1>"
+""
+"                    <!-- left column -->"
+"                    <div class=\"leftColumn\">"
+"                    <h2>EXCLUSIONS AUX RETOURS</h2>"
+"                    <p>"
+"                    <ul>"
+"                    <li>Le carrelage ne peut pas être retourné, en raison"
+"					des numéros de lot et des différences de ton.</li>"
+"                    <li>Un article avec un numéro HM concerne un article"
+"					qui ne fait pas partie de notre assortiment standard. Cet"
+"					article étant commandé spécialement pour vous, il ne peut"
+"					pas être retourné, annulé ou modifié.</li>"
+"                    </ul>"
+"                    </p>"
+"                     <!-- end left column -->"
+"                    </div>"
+""
+"                    <!-- right column -->"
+"                    <div class=\"rightColumn\">"
+"                    <h2>AVIS REMARQUES</h2>"
+"                    <p>"
+"                    <ul>"
+"                    <li>Lors de l’achat d’une paroi de douche ou d’une cabine"
+"					de douche : La taille de ces produits peut varier légèrement"
+"					par rapport à la taille générale indiquée en raison d’une"
+"					marge permettant un ajustement lors de l’installation.</li>"
+"                    <li>Nous ne pouvons être tenus responsables du calcul"
+"					du nombre de m2 de carrelages.</li>"
+"					<li>Les caractéristiques liées au produit vous ont été"
+"					communiquées.</li>"
+"                    </ul>"
+"                    </p>"
+"                     <!-- end right column -->"
+"                    </div>"
+""
+"                    <!-- end extra conditions div -->"
+"                    </div>"
+
+msgid "RETURN_FORM_WRT"
+msgstr "à l'attention du service retours"
+
+msgid "INVOICE_FOOTER_NEW"
+msgstr "<strong>Sawiday Belgium B.V.</strong> est commercialisé sous le nom de <strong>Sawiday</strong><br><strong>Numéro d'entreprise:</strong> BTW BE0827.382.581 - RPR Anvers <strong>• IBAN:</strong> BE64 7310 1112 3952 <strong>• BIC:</strong> KREDBEBB"
+
+msgid "INVOICE_VAT_NUMBER"
+msgstr "Nº TVA"
+
+msgid "INVOICE_ORDER_NUMBER"
+msgstr "Numéro de commande"
+
+msgid "INVOICE_REFERENCE"
+msgstr "Votre référence"
+
+msgid "INVOICE_ORDER_DETAILS_HEADER"
+msgstr "Données de commande"
+
+msgid "ORDER_ROW_TOTAL_INC_VAT"
+msgstr "Total (TVA incl.)"
+
+msgid "ORDER_EX_VAT"
+msgstr "Hors TVA"
+
+msgid "ORDER_SUBTOTAL_NO_COLON"
+msgstr "Sous-total"
+
+msgid "ORDER_SHIPPING_COSTS_NO_COLON"
+msgstr "Frais de livraison"
+
+msgid "ORDER_DISCOUNT_NO_COLON"
+msgstr "Réduction"
+
+msgid "INVOICE_PRODUCT_SKU_SHORT"
+msgstr "Nº produit"
+
+msgid "INVOICE_NR"
+msgstr "Nº fact."
+
+msgid "AMOUNT_EX_VAT"
+msgstr "Montant hors TVA"
+
+msgid "ORDER_VAT_AMOUNT_NO_COLON"
+msgstr "Montant TVA"
+
+msgid "BENEFITS"
+msgstr "Votre réduction"
+
+msgid "ORDER_DATE_SHORT"
+msgstr "Date d'achat"
+
+msgid "ORDER_CONFIRMATION_HEADER"
+msgstr "CONFIRMATION DE COMMANDE"
+
+msgid "ORDER_DATE_SHORT_QUOTATION"
+msgstr "Date devis"
+
+msgid "QUOTATION_DETAILS_HEADER"
+msgstr "Détails du devis"
+
+msgid "DELIVERY_INDICATION"
+msgstr "Livraison estimée"
+
+msgid "ORDER_ROW_TOTAL_EX_VAT"
+msgstr "Total (TVA ex.)"
+
+msgid "PDF_INVOICED"
+msgstr "Facturé"
+
+msgid "DEBIT_INVOICE_EXPIRATION_DATE"
+msgstr "Date d'expiration"
+
+msgid "DEBIT_INVOICE_EXPIRATION_DAYS"
+msgstr "Le paiement est dû dans les %d jours"
+
+msgid "DEBIT_INVOICE_PAY_IMMEDIATELY"
+msgstr "Veuillez régler le montant immédiatement"
+
+msgid "ORDER_MSRP_TOTAL"
+msgstr "Prix total recommandé"
+
+msgid "CREDIT_INVOICE_REASON"
+msgstr "Raison:"
+
+msgid "CUSTOMER_TERMS_CONDITIONS_GENERAL_7"
+msgstr "Une livraison peut être retardée jusqu'à un maximum de 6 semaines après le rendez-vous de livraison initial (concept). Après cette période, nous facturons des frais de 1% par mois pour le maintien en stock de votre commande. Ces frais ne s'appliquent qu'aux articles qui n'ont pas encore été livrés."
+
+msgid "FOR"
+msgstr "pour"
+
+msgid "OF_SET"
+msgstr "de set"
+
+msgid "CUSTOMER_TERMS_CONDITIONS_FOOTER_ONLINE"
+msgstr "Accord en ligne donné le %d"
+
+msgid "CUSTOMER_TERMS_CONDITIONS_GENERAL_9"
+msgstr ""
+"﻿﻿Couleurs Vivantes : Cette finition signifie que le produit est laissé sans traitement de surface, permettant ainsi un changement naturel de couleur au fil du temps. Ce processus crée un aspect unique et dynamique."
+"Veuillez noter que ce changement de couleur ne constitue pas un défaut de fabrication et n'est pas couvert par la garantie."
+

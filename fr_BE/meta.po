@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "404_TITLE"
+msgstr "Erreur! -Sawiday.be"
+
+msgid "404_KEYWORDS"
+msgstr "404, erreur."
+
+msgid "404_DESCRIPTION"
+msgstr "Cette page n'est pas celle que vous recherchez ! Vous retrouverez la page que vous recherchez sur Sawiday.be."
+
+msgid "REVIEW_TITLE"
+msgstr "Sawiday : Avis et reviews"
+
+msgid "REVIEW_KEYWORDS"
+msgstr "commentaire, évaluation, avis, client"
+
+msgid "REVIEW_DESCRIPTION"
+msgstr "Acheter sûr et sécurisé ? Veuillez lire nos commentaires et laissez-vous convaincre par nos clients satisfaits."
+
+msgid "BRANDS_TITLE"
+msgstr "Nos marques de salle de bain et sanitaire - Sawiday.be"
+
+msgid "BRANDS_KEYWORDS"
+msgstr "marque, marques, brands, sanitaire, grohe, hansgrohe, saniclass, duravit, riho, sphinx, villeroy et boch, mocoori, laufen, plieger"
+
+msgid "BRANDS_DESCRIPTION"
+msgstr "Vous êtes à la recherche de sanitaire? Sur notre page de marques vous trouvez toutes sortes de marques connues concernant sanitaire à prix abordable. Commandez facilement et rapidement online!"
+
+msgid "CONTACT_TITLE"
+msgstr "Sawiday. Toujours facilement d'accessible. Contactez-nous maintenant."
+
+msgid "CONTACT_DESCRIPTION"
+msgstr "Sawiday est ouverts 6 jours par semaine et toujours facilement accessible. Contactez-nous."
+
+msgid "CONTACT_KEYWORDS"
+msgstr "fax, email, numéro de téléphone, contact, coordonnées"
+
+msgid "ORDERSTATUS_TITLE"
+msgstr "Etat de commande – suivez l'état de votre commande"
+
+msgid "ORDERSTATUS_DESCRIPTION"
+msgstr "Avez-vous commandé chez Sawiday? Suivez votre commande sur notre site. Connectez-vous directement avec votre numéro de commande et adresse email!"
+
+msgid "ORDERSTATUS_KEYWORDS"
+msgstr "salle de bains, sanitaire, magasin de salle de bain, baignoires, robinets, cabines de douche, radiateurs, panneaux de douche, bain, douche, salles de bains, bains, radiateur, mitigeurs, robinet"
+
+msgid "HOME_TITLE"
+msgstr "Sawiday ® Gamme étendue sanitaire en ligne"
+
+msgid "HOME_KEYWORDS"
+msgstr "sanitaire, salle de bains, showroom, Sawiday, acheter, online, en ligne"
+
+msgid "HOME_DESCRIPTION"
+msgstr "Avec Sawiday,  Ma Salle de Bains Me Va Bien ! Douche,  Robinetterie, WC, + 50.000 Articles pour Aménager Votre Salle de Bains au Meilleur Prix !"
+
+msgid "GLOSSARY_TITLE"
+msgstr "Glossaire - tout pour la salle de bain - Sawiday"
+
+msgid "GLOSSARY_DESCRIPTION"
+msgstr "Trouvez ici toutes les informations et les mots difficiles sur les salles de bains et la plomberie. Tous les mots sont présentés en ordre alphabétique."
+
+msgid "GLOSSARY_KEYWORDS"
+msgstr "gloses, glossaire, mots difficiles"
+
+msgid "SERVICE_REQUEST_TITLE"
+msgstr "Demande de service - des salles de bains à bon prix chez Sawiday.be"
+
+msgid "SERVICE_REQUEST_DESCRIPTION"
+msgstr "Sawiday.be offre des salles de bains et sanitaire via la boutique en ligne et le magasin à Schoten. ★★★★★  Gagnant prix FD pour la plus forte croissance ! Une salle de bain, vous l'achetez chez Sawiday."
+
+msgid "SERVICE_REQUEST_KEYWORDS"
+msgstr "salle de bains, sanitaire, magasin de sanitaire, baignoires, robinets, cabines de douche, radiateurs, panneaux de douche, bain, douche, salles de bains, bains, radiateur, mitigeurs, robinet"
+
+msgid "BUSINESS_TITLE"
+msgstr "Sawiday pour le marché professionelle - salles de bains à prix cassés chez Sawiday"
+
+msgid "BUSINESS_DESCRIPTION"
+msgstr "Sawiday propose également des solutions pour la clientèle professionnelle. Les meilleures marques pour tout le monde !"
+
+msgid "BUSINESS_KEYWORDS"
+msgstr "Sawiday, sociétés et entreprises"
+
+msgid "SEARCH_TITLE"
+msgstr "Résultats de recherche pour %s | Sawiday"
+
+msgid "SEARCH_DESCRIPTION"
+msgstr "Sawiday est l'expert avec plus de 100.000 articles sanitaires en ligne ! Prix concurrentiels et bon service."
+
+msgid "COMPARE_QUOTE_TITLE"
+msgstr "Devis salle de bains | Sawiday"
+
+msgid "COMPARE_QUOTE_DESCRIPTION"
+msgstr "Le meilleur devis salle de bains ? Téléchargez un devis déjà obtenu ailleurs ou les plans de votre nouvelle salle de bains pour recevoir la meilleur offre !"
+
+msgid "FLOWBOX_PAGE_META_TITLE"
+msgstr "Salle de bain moderne : 200+ idées & inspirations sur #mysawiday"
+
+msgid "FLOWBOX_PAGE_META_KEYWORDS"
+msgstr ""
+
+msgid "FLOWBOX_PAGE_META_DESCRIPTION"
+msgstr "Les plus belles salles de bains se trouvent chez nos clients . Nous souhaitons partager ces magnifiques salles de bains avec vous pour vous inspirer. Découvrez-les ici !#mysawiday"
+
+msgid "CUSTOMER_ACCOUNT_TITLE"
+msgstr "Mon compte | Sawiday"
+

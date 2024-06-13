@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "CHANGE_NAME_ACTION"
+msgstr "Modifier le nom"
+
+msgid "SHARE_ACTION"
+msgstr "Partager"
+
+msgid "ENTIRE_WISHLIST_INTO_SHOPPINGCART"
+msgstr "Ajouter la liste au panier"
+
+msgid "WISHLIST"
+msgstr "Favoris"
+
+msgid "MY_WISHLISTS"
+msgstr "Ma liste d’envies"
+
+msgid "PRODUCT"
+msgstr "produit"
+
+msgid "PRODUCTS"
+msgstr "produits"
+
+msgid "VIEW_WISHLIST"
+msgstr "Voir la liste"
+
+msgid "NEW_WISHLIST"
+msgstr "Nouvelle liste"
+
+msgid "CHANGE_NAME_TITLE"
+msgstr "Modifier le nom"
+
+msgid "SAVE"
+msgstr "Enregistrer"
+
+msgid "DELETE_WISHLIST_TITLE"
+msgstr "Supprimer la liste d’envies"
+
+msgid "DELETE_CONFORMATION_ONE"
+msgstr "Êtes-vous sûr ? Votre liste d’envies sera définitivement supprimée, "
+
+msgid "DELETE_CONFORMATION_TWO"
+msgstr "cette opération ne pourra pas être annulé !"
+
+msgid "SELECT_A_WISHLIST"
+msgstr "Sélectionner une liste d’envies"
+
+msgid "EMPTY_WISHLIST_TITLE"
+msgstr "Votre liste d'envies est vide"
+
+msgid "EMPTY_WISHLIST_TEXT"
+msgstr ""
+"Pas de soucis ! Faites votre choix parmi plus de 100.000 produits "
+"                disponibles sur notre site."
+
+msgid "ADD_TO_CATEGORY"
+msgstr "Ajouter à une catégorie"
+
+msgid "ADD_TO_CATEGORY_TEXT"
+msgstr "Modifier la catégorie de ce produit"
+
+msgid "CREATE_ACCOUNT_TITLE"
+msgstr "Votre Liste d'Envies"
+
+msgid "CREATE_ACCOUNT_TEXT"
+msgstr ""
+"Votre liste d'envies est bien complétée ? Connectez-vous ou créez un compte pour "
+"                enregistrer votre liste d'envies ! Si vous le souhaitez, vous pouvez créer plusieurs listes d'envies."
+
+msgid "CREATE_ACCOUNT_BUTTON"
+msgstr "Se connecter ou s'enregistrer"
+
+msgid "META_TITLE_OVERVIEW"
+msgstr "Liste d’envies | Sawiday.be"
+
+msgid "META_TITLE_DETAILS"
+msgstr "Liste d’envies | Sawiday.be"
+
+msgid "DEFAULT_NAME"
+msgstr "Ma liste d’envies"
+
+msgid "EMAIL_SEND_TO"
+msgstr "La liste de souhaits est envoyée à :"
+
+msgid "SHARE_SOMETHING_WENT_WRONG"
+msgstr ""
+"Un problème est survenu lors de l'envoi de votre liste de souhaits. "
+"                Nous nous excusons pour ce désagrément."
+
+msgid "CREATE_GROUP"
+msgstr "Créer un groupe"
+
+msgid "EMPTY_GROUP"
+msgstr "Ce groupe ne contient aucun produit"
+
+msgid "DELETE_GROUP_TITLE"
+msgstr "Supprimer le groupe"
+
+msgid "DELETE_GROUP_MESSAGE"
+msgstr "Es-tu sûr? Le groupe comprenant les produits sera définitivement supprimé"
+
+msgid "CHANGE_GROUP"
+msgstr "Déménager à"
+
+msgid "REQUEST_QUOTE"
+msgstr "Demander un devis"
+
+msgid "REQUEST_QUOTE_SUCCESFUL"
+msgstr "Nous avons bien reçu votre demande de devis, un de nos employés vous contactera à ce sujet."
+
+msgid "REQUEST_QUOTE_FAILED"
+msgstr "Une erreur s'est produite lors de l'envoi de votre demande. Nous nous excusons pour les désagréments encourus."
+
+msgid "WISHLIST_PROFESSIONAL_PRODUCT_NOTICE"
+msgstr ""
+"Ce produit n'est vendu que dans nos magasins et ne peut donc pas être ajouté "
+"                au panier d'achat."
+
+msgid "WISHLIST_SHARE_MODAL_TEXT"
+msgstr ""
+"Ne perdez pas vos produits préférés ! Envoyez votre liste de souhaits à vous-même "
+"                ou à quelqu'un d'autre pour pouvoir continuer facilement vos achats ultérieurement."
+
+msgid "MY_WISHLIST_OVERVIEW_INTRO"
+msgstr "Consultez la ou les listes de souhaits que vous avez complétées ci-dessous."
+
+msgid "MY_WISHLIST_DETAIL_INTRO"
+msgstr "vous trouverez tous les beaux produits enregistrés dans votre liste de souhaits."
+
+msgid "CUSTOMER_NAV_TO_WISHLIST"
+msgstr "Vers les listes de souhaits"
+
+msgid "MY_WISHLIST_TOTAL_PRODUCTS"
+msgstr "Total, %s produits (TVA incluse)"
+

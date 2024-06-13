@@ -1,0 +1,1460 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "HERO_SHOWROOMS"
+msgstr "Showrooms"
+
+msgid "HERO_ABOUT_US"
+msgstr "Plus sur nous"
+
+msgid "HERO_CONTACT"
+msgstr "Contact"
+
+msgid "MENU_TITLE"
+msgstr "Menu service client"
+
+msgid "SHOWROOMS_TITLE_2"
+msgstr "Jetez déjà un coup d'oeil"
+
+msgid "FOOTER_QUOTE"
+msgstr "Une bonne réputation est importante, une bonne performance est indispensable."
+
+msgid "FOOTER_ABOUT_US"
+msgstr "Plus sur nous"
+
+msgid "FOOTER_REVIEWS"
+msgstr "<span class=\"ratingCountTrustPilot tp-reviews\"></span> clients nous ont évalués! Notre score: <span class=\"ratingStarsTrustPilot tp-star-count\"></span> étoiles!"
+
+msgid "CONTACT_BUTTON_MAIL"
+msgstr "Envoyez-nous un mail"
+
+msgid "CONTACT_BUTTON_CHAT"
+msgstr "Contactez-nous"
+
+msgid "CONTACT_BUTTON_TELEPHONE"
+msgstr "Ou appelez-nous"
+
+msgid "ORDER_HEADING_1"
+msgstr "Comment puis-je passer une commande?"
+
+msgid "ORDER_BLOCK_1"
+msgstr "Vous pouvez commander chez Sawiday 24h/24, 7j/7 dans notre boutique en ligne. Si vous préférez passer votre commande dans notre showroom, par téléphone ou par e-mail, c’est également possible. Passez commande facilement sur notre site en suivant les 4 étapes ci-dessous."
+
+msgid "ORDER_STEP_1_HEADING"
+msgstr "Pour sélectionner l'article désiré, cliquez sur le bouton orange 'Ajouter au panier'."
+
+msgid "ORDER_STEP_1_BLOCK"
+msgstr "Vous pouvez ensuite ajouter des accessoires ou articles complémentaires, continuer vos achats ou vérifier votre panier d'achat. Cette première étape vous permet également de choisir entre un retrait en magasin ou une livraison à domicile. Pour le retrait d'une commande  en magasin veuillez indiquer Schoten ou Zaventem. Si vous avez choisi pour une livraison à domicile, vous serez informé ultérieurement (lorsque votre commande sera prête) de la date de livraison ou vous serez invité à choisir une date de livraison. Si vous avez besoin d'un temps de réflexion avant de passer commande, vous pouvez enregistrer (temporairement) votre panier d'achat et vous envoyer un rappel par e-mail. Si vous disposez d'un code de réduction veuillez nous le transmettre lors de cette étape."
+
+msgid "ORDER_STEP_2_HEADING"
+msgstr "Choisissez le mode de livraison"
+
+msgid "ORDER_STEP_2_BLOCK"
+msgstr ""
+"Vous avez placé tous les produits dans votre panier d'achat et vous avez choisi votre mode de livraison. Veuillez ensuite remplir vos données personnelles. Nous avons besoin de ces données pour traiter votre commande et elles ne seront pas utilisées à d'autres fins."
+""
+""
+
+msgid "ORDER_STEP_3_HEADING"
+msgstr "Paiement"
+
+msgid "ORDER_STEP_3_BLOCK"
+msgstr ""
+"Le résumé de votre commande est affiché. Pour finaliser votre commande, cliquez sur 'Paiement'. Ceci signifie que vous acceptez immédiatement les conditions générales. Vous recevrez ensuite une confirmation de votre commande par e-mail."
+""
+""
+
+msgid "ORDER_STEP_4_HEADING"
+msgstr "Merci et au revoir"
+
+msgid "ORDER_STEP_4_BLOCK"
+msgstr "Ceci est notre page de remerciement. Vous recevez un numéro de commande, votre commande sera traitée. Suivez l'état de votre commande."
+
+msgid "ORDER_GO_TO_ORDER_STATUS"
+msgstr "Directement vers votre commande"
+
+msgid "CONTACT_HEADER"
+msgstr "Contact"
+
+msgid "ORDER_LOGIN_HEADER_1"
+msgstr "Problèmes de connexion ?"
+
+msgid "ORDER_LOGIN_BLOCK_1"
+msgstr "Contrôlez votre adresse e-mail en vérifiant les fautes de frappe et consultez votre Confirmation de commande pour connaitre votre numéro de commande."
+
+msgid "ORDER_LOGIN_HEADER_2"
+msgstr "Besoin d'aide pour passer une commande ?"
+
+msgid "ORDER_LOGIN_BLOCK_2"
+msgstr ""
+"Vous pouvez commander chez Sawiday 24h/ 24, 7j/ 7 dans notre boutique en ligne. Passez votre commande facilement sur notre site en suivant les 4 étapes."
+""
+""
+""
+""
+
+msgid "ORDER_LOGIN_BLOCK_2_LINK"
+msgstr "Montrez-moi les quatre étapes >"
+
+msgid "MENU_ORDERSTATUS"
+msgstr "Etat de commande"
+
+msgid "MENU_SERVICEREQUEST"
+msgstr "Demande de service"
+
+msgid "SERVICEREQUEST_HERO_QUOTE"
+msgstr "Nous aspirons à établir un nouveau standard pour le service client."
+
+msgid "SHOWROOM_ROSMALEN_TITLE_3"
+msgstr "Une impression"
+
+msgid "SHOWROOM_ROSMALEN_TITLE_4"
+msgstr "Itinéraire"
+
+msgid "CONTACT_TITLE"
+msgstr "Nous contacter"
+
+msgid "CONTACT_INTRO"
+msgstr ""
+"Le service client de Sawiday.be se tient à votre disposition pour vous assister rapidement et efficacement.  Vous pouvez nous joindre par email, téléphone et courrier. Nous vous acceuillons également au sein de nos deux showrooms situés à Anvers et Bruxelles."
+""
+""
+""
+
+msgid "CONTACT_OPTION_1_HEADING"
+msgstr "Numéro de téléphone"
+
+msgid "CONTACT_OPTION_2_HEADING"
+msgstr "E-mail"
+
+msgid "CONTACT_OPTION_3_HEADING"
+msgstr "Conversation instantanée avec notre expert service"
+
+msgid "CONTACT_OPTION_4_HEADING"
+msgstr "Écrivez-nous"
+
+msgid "CONTACT_OPTION_5_HEADING"
+msgstr "Suivez-nous sur les réseaux sociaux !"
+
+msgid "CONTACT_OPTION_6_HEADING"
+msgstr "Cliquez-ici pour chatter en direct"
+
+msgid "CONTACT_OPTION_3_BLOCK"
+msgstr "Commencez une conversation instantanée ici, ou naviguez vers le bas de la page à droite."
+
+msgid "CONTACT_CUSTOMER_SERVICE"
+msgstr "Service client"
+
+msgid "CONTACT_FAX"
+msgstr "Fax"
+
+msgid "CONTACT_COC"
+msgstr "CC"
+
+msgid "CONTACT_VAT"
+msgstr "No. TVA"
+
+msgid "CONTACT_IBAN"
+msgstr "IBAN"
+
+msgid "CONTACT_OTHER_INFO"
+msgstr "Autres infos"
+
+msgid "MANIFEST_BLOCK_1"
+msgstr "Bienvenue chez Sawiday. Vous êtes ici parce que vous cherchez une salle de bain ou un WC. Ou peut être une cabine de douche ou un robinet.<br /> Ou tout simplement une porte rouleau WC."
+
+msgid "MANIFEST_BLOCK_2"
+msgstr "Quel que soit le produit que vous recherchez, vous le trouverez chez Sawiday !"
+
+msgid "MANIFEST_BLOCK_3"
+msgstr ""
+"Avec plus de 100.000 articles, nous sommes la boutique en ligne la plus étendue du Benelux. Des prix toujours avantageux, des délais de livraison courts.<br/>"
+"Une garantie de deux ans au minimum sur votre produit acheté chez Sawiday.<br/>"
+"<br/>"
+"<b>Pour nous, c'est évident.</b>"
+
+msgid "MANIFEST_BLOCK_4"
+msgstr ""
+"L'aménagement d'une salle de bains neuve est un réel défi.<br/>"
+"<br/>"
+"<b>Nous le comprenons.</b><br/>"
+"<br/>"
+"N'hésitez pas à nous poser vos questions. Et demandez à votre installateur de faire de même."
+
+msgid "MANIFEST_BLOCK_5"
+msgstr ""
+"Quel siphon faut-il installer sur un meuble lavabo doté d'une vasque à poser ?<br/>"
+"Peut-on combiner une douche pluie de Grohe avec une cabine de douche de Sealskin ?"
+
+msgid "MANIFEST_BLOCK_6"
+msgstr ""
+"Notre mission est de vous aider à faire les bons choix.<br/>"
+"<br/>"
+
+msgid "MANIFEST_BLOCK_7"
+msgstr "Aussi bien en ligne que lors de votre visite en magasin."
+
+msgid "MANIFEST_BLOCK_8"
+msgstr ""
+"Chez Sawiday nous aimons prendre le temps de vous écouter.<br/>"
+"<br/>"
+"<b>Nous vous offrons un service personnel et des conseils professionnels.</b><br/>"
+"<br/>"
+"Nous restons à votre disposition, et ceci à partir de notre premier entretien, jusqu'à la livraison."
+
+msgid "MANIFEST_BLOCK_9"
+msgstr "Nous aspirons à établir un nouveau standard<br/>pour le service client.<br/>"
+
+msgid "MANIFEST_BLOCK_10"
+msgstr "Nos clients nous évaluent (<span class=\"ratingCountTrustPilot tp-reviews\"></span> avis) avec une moyenne de <span class=\"ratingNumberTrustPilot tp-score\"></span> sur 10. Quelle récompense !"
+
+msgid "MANIFEST_BLOCK_11"
+msgstr "Une bonne réputation est importante, mais une bonne performance est indispensable. Chaque jour !"
+
+msgid "MANIFEST_BLOCK_12"
+msgstr "Bienvenue chez Sawiday"
+
+msgid "MANIFEST_NEXT_ITEM"
+msgstr "Poursuivez vers l'élément suivant"
+
+msgid "PAYMENT_BLOCK_1"
+msgstr "Sawiday se sert d'un grand nombre de modes de paiement. Ci-dessous, vous trouverez la liste."
+
+msgid "PAYMENT_BLOCK_2"
+msgstr "Bancontact / Mistercash assure un paiement en ligne sûr et fiable. Le paiement est arrangé par la page bancaire de votre banque en ligne."
+
+msgid "PAYMENT_BLOCK_5"
+msgstr "Vous avez le choix de payer votre commande par virement bancaire. C'est très pratique si vous ne faites pas usage des services bancaires par Internet. Vous pouvez virer le montant sur le compte de Buckaroo. Buckaroo se charge de traiter les paiements sur Sawiday.be en toute sécurité. Veuillez mentionner la référence de paiement que vous avez reçue de notre part par e-mail. Nous traitons votre commande dès réception de votre paiement."
+
+msgid "PAYMENT_BLOCK_6"
+msgstr "Vous pouvez payer avec VISA, Mastercard ou V-Pay sur notre site web. Après avoir complété les données de votre carte de crédit, une autorisation sera délivrée, après quoi le paiement sera traité. Les paiements par carte de crédit sont actuellement limités à un montant de 5000 € chez Sawiday. A partir de 150€, votre commande sera expédiée gratuitement partout en Belgique."
+
+msgid "PAYMENT_BLOCK_7"
+msgstr ""
+
+msgid "PAYMENT_BLOCK_8"
+msgstr "Quand vous choisissez de venir retirer votre commande dans l'un de nos points de vente, vous pouvez payer sur place avec Bancontact/MisterCash ou en espèces."
+
+msgid "PAYMENT_HEADING_1"
+msgstr "Payer"
+
+msgid "PAYMENT_HEADING_2"
+msgstr "Bancontact / Mister Cash"
+
+msgid "PAYMENT_HEADING_3"
+msgstr "Virement bancaire"
+
+msgid "PAYMENT_HEADING_4"
+msgstr "Carte de crédit"
+
+msgid "PAYMENT_HEADING_5"
+msgstr ""
+
+msgid "PAYMENT_HEADING_6"
+msgstr "<b>Bancontact / Mister cash ou en espèces</b>"
+
+msgid "ORDER_STATUS_HEADING_1"
+msgstr "Questions sur votre commande ?"
+
+msgid "ORDER_STATUS_BLOCK_1"
+msgstr "Au fil du temps, notre service client a reçu un nombre de questions variées. Pour vous aider, nous avons rassemblés toutes les questions fréquentes sur le Forum Aux Questions."
+
+msgid "ORDER_STATUS_LINK_1"
+msgstr "Vers le Forum Aux Questions >"
+
+msgid "DELIVERY_HEADING_1"
+msgstr "Faire livrer"
+
+msgid "DELIVERY_HEADING_2"
+msgstr "Livraison petits articles"
+
+msgid "DELIVERY_HEADING_3"
+msgstr "Livraison grands articles/pallet/paquets"
+
+msgid "DELIVERY_HEADING_4"
+msgstr "Livraison sur étage"
+
+msgid "DELIVERY_HEADING_6"
+msgstr "Retirer"
+
+msgid "DELIVERY_HEADING_7"
+msgstr "Délais de livraison"
+
+msgid "DELIVERY_HEADING_8"
+msgstr "Frais de livraison"
+
+msgid "DELIVERY_BLOCK_1"
+msgstr "Chez Sawiday, vous avez le choix entre une livraison à domicile ou vous pouvez venir chercher vos articles dans notre showroom. Nous faisons appel à différents transporteurs, en tenant compte du poids, du nombre et de la taille du/des paquet(s) à livrer. Pour vous faciliter la vie nous vous conseillons de faire livrer certains produits à domicile. "
+
+msgid "DELIVERY_BLOCK_2"
+msgstr "La plupart de nos petits paquets sont envoyés avec PostNL ou Bpost. Le facteur livre le paquet chez vous à domicile. Si vous n’êtes pas à la maison au moment de la livraison, le facteur vous laissera une note avec laquelle vous pouvez aller chercher votre paquet au bureau de poste le plus proche."
+
+msgid "DELIVERY_BLOCK_3"
+msgstr ""
+"Les paquets de taille importante sont en général livrés par un transporteur externe. Nous livrons uniquement du lundi au vendredi, pendant les heures ouvrables. Sawiday ne livre que des commandes complètes, votre commande ne sera donc pas livrée en plusieurs fois. Lorsque la commande est complète et prête à l'envoi, vous serez contacté par mail ou par téléphone afin de fixer un rendez-vous pour la livraison. Le jour même de livraison, vous pouvez contacter le transporteur, afin de connaitre l'heure de livraison approximative. Si vous n'êtes pas présent au moment de la livraison et que notre transporteur doit revenir un autre jour pour livrer votre commande, il est possible que des frais supplémentaires vous seront facturés."
+""
+
+msgid "DELIVERY_BLOCK_4"
+msgstr "Notre transporteur livre votre commande jusqu'au premier seuil de votre bâtiment. Si vous habitez à l'étage, votre commande sera livrée au rez de chaussé."
+
+msgid "DELIVERY_BLOCK_6"
+msgstr ""
+"Vous pouvez toujours venir retirer votre commande au showroom. Nous sommes ouverts du lundi au vendredi, de 9h30 à 18h et le samedi de 9h30 à 12h. N'oubliez pas de vérifier les délais de livraison avant de vous rendre au showroom pour récupérer votre commande! Nous conseillon à nos client français de passer commande dut sawiday.fr"
+""
+
+msgid "DELIVERY_BLOCK_7"
+msgstr "Pour tous les articles sur le site, les délais de livraison sont indiqués. Ils sont mis à jour continuellement et seront respectés autant que possible. Pour plus d'informations, veuillez consulter nos Conditions Générales. En passant une commande, vous vous engagez à vous conformer aux Conditions Générales."
+
+msgid "DELIVERY_BLOCK_8"
+msgstr ""
+"A partir d’un montant d’achat de 150€, la livraison à domicile est entièrement gratuite en Belgique lorsque vous payez par virement bancaire ou par Mister Cash. D’autres commandes peuvent être livrées à condition d'avoir payé les frais de livraison. Les tarifs dépendent du produit choisi et de la taille de votre commande entière. Si vous désirez faire livrer votre commande dans un autre pays, hors de la Belgique, nous vous prions de contacter notre service client. Ils vous feront parvenir toutes les informations sur les possibilités et les frais supplémentaires. "
+""
+
+msgid "RETURN_BLOCK_7"
+msgstr "Pour les produits qui sont endommagés ou ont été utilisés, nous nous réservons le droit de refuser le retour ou de facturer les dégâts. Veuillez vous référer aux <a href=\"%s\">Conditions Générales pour plus d’information</a>."
+
+msgid "RETURN_BLOCK_8"
+msgstr ""
+"<strong>Incorrect</strong><br>"
+"- Pas d'emballage<br>"
+"- Autocollants sur l'emballage d'origine<br>"
+"- Pas de formulaire de rétractation"
+
+msgid "RETURN_BLOCK_9"
+msgstr ""
+"<strong>Correct</strong><br>"
+"- Emballé<br>"
+"- Lettre de motivation"
+
+msgid "RETURN_BLOCK_10"
+msgstr ""
+"Les retours peuvent être envoyés à l’adresse suivante dans les conditions mentionnées ci-dessus :<br><br>"
+" Sawiday.be<br>"
+" à l’attention du Service Client<br>"
+"Zandzuigerstraat 10A<br>"
+"5222 AH Den Bosch<br>"
+"Pays-Bas"
+
+msgid "RETURN_BLOCK_11"
+msgstr "Vous avez le droit de révocation de 14 jours. Nous le prolongeons : Endéans les 30 jours que vous avez reçu votre commande, vous pouvez renvoyer les articles. Avec le <a href=\"/demande-annulation/\" title=\"Formulaire de rétractation\" target=\"_blank\">Formulaire de rétractation</a> vous pouvez indiquer que vous voulez faire usage de votre droit de révocation.<br><br>Pendant le délai de réflexion (30 jours après avoir reçu vos articles), vous pouvez utiliser le produit comme dans le magasin. Pourtant, si vous utilisez l'article d'une telle façon qu'il n'est plus en état neuf et qu'on voit des usures, il est possible que vous ne soyez pas entièrement remboursé."
+
+msgid "RETURN_BLOCK_12"
+msgstr ""
+"Si vous souhaitez retourner un article, vous pouvez le ramener vous-même au Showroom. Dans ce cas-là, aucun frais supplémentaire ne vous sera attribué. Si vous décidez de nous renvoyer l'article, ceci engendra des frais supplémentaires. Les frais de port retour ne seront pas remboursés par Sawiday. Sawiday.be vous rembourse le coût de l'article + les frais de port aller suite à la commande. Les frais de port retour d'un produit sont à votre charge. Selon le type d'article, le renvoi vers Sawiday peut être effectué avec la poste ou avec un transporteur. Les frais varient de 9,95€ à 99,95€ selon le produit."
+"La possibilité de retourner un article par voie postale vers notre siège principal à Rosmalen aux Pays-Bas demeure en vigueur. (Attention ceci engendre des frais supplémentaires.)<br><br>"
+""
+"Sanitairwinkel<br>"
+"t.a.v. afdeling klantenservice<br>"
+"Zandzuigerstraat 10A<br>"
+"5222 AH Den Bosch"
+""
+
+msgid "RETURN_BLOCK_13"
+msgstr ""
+"Après avoir reçu un formulaire de rétractation de notre part, (une partie de) votre commande devra être renvoyée chez Sawiday endéans les 30 jours. Lors de l'échange d'un article, nous vous prions de bien vouloir nous renvoyer l'article à échanger, nous procéderons ensuite à l'expédition de l'article de rechange. Le traitement des retours peut prendre jusqu’à 2 semaines. La durée de remboursement varie selon le mode de paiement et peut durer jusqu'à 14 jours après réception de votre retour. Sawiday se réserve le droit d'ajourner le remboursement jusqu'au moment de réception du produit retour, ou si vous, le client, soumettez une preuve d'envoi retour de l'article en question. Avez-vous encore des questions? N'hésitez pas à nous contacter par notre <a href=\"%s\">page de contact</a>."
+""
+
+msgid "RETURN_REQUEST"
+msgstr "Envoyer retour"
+
+msgid "RETURN_DOCUMENT"
+msgstr "Télécharger formulaire de rétractation"
+
+msgid "WARRANTY_HEADING_1"
+msgstr "Garantie ou réclamation"
+
+msgid "WARRANTY_HEADING_2"
+msgstr "Quoi faire en cas de dommage ?"
+
+msgid "WARRANTY_HEADING_3"
+msgstr "Traitement des réclamations"
+
+msgid "WARRANTY_HEADING_4"
+msgstr "Garantie"
+
+msgid "WARRANTY_BLOCK_1"
+msgstr "Sur cette page, vous trouverez les informations relatives aux procédures de garantie et de réclamation de Sawiday."
+
+msgid "WARRANTY_BLOCK_2"
+msgstr "Un produit endommagé est un problème très ennuyeux mais ne peut malheureusement pas toujours être évité. Bien que, ensemble avec la société de transport, nous nous efforçons de minimiser les dégâts. Lorsque vous recevez votre commande, il est important que vous vérifiez si elle est complète et non endommagée. Dans le cas peu probable où l'un des articles de votre commande serait endommagé, signalez-le dans les 48 heures suivant la livraison en utilisant le formulaire de demande de service. Vous recevrez une réponse dans les 24 heures les jours ouvrables. Pus tôt vous le signalez, plus vite nous pouvons traiter votre demande. Nous vous demandons d'envoyer des photos des produits endommagés afin que les dommages puissent être évalués."
+
+msgid "WARRANTY_BLOCK_3"
+msgstr "Sawiday accorde beaucoup d'importance à la satisfaction du client. Si vous deviez quand même avoir une mauvaise expérience imprévue avec votre commande ou notre service après-vente, veuillez nous le faire savoir. Nous nous engageons à résoudre vos réclamations. Veuillez mentionner vos réclamations au département du service clientèle. Nous traitons votre réclamation dans un délai de 5 jours ouvrables. Notre service clientèle est accessible par une demande de service. Pour un traitement rapide vous devez remplir la demande de service aussi complète que possible. Dans de nombreux cas, il suffit d'ajouter des images."
+
+msgid "WARRANTY_BLOCK_4"
+msgstr ""
+"Si, finalement, vous n'êtes pas satisfait de la réponse de nos collaborateurs, vous pouvez soumettre votre réclamation par écrit à notre gestion. Ce ne peut être que par écrit à l'adresse suivante :"
+" "
+" Sawiday"
+" Attn. la direction"
+" Bredabaan 1265"
+" 2900 Schoten"
+" Belgique "
+
+msgid "WARRANTY_BLOCK_5"
+msgstr "Tous les produits vendu par Sawiday.be dans la boutique en ligne sont conformes et bénéficient d'une garantie d'un fabricant valide. Par marque et par produit la garantie de fabrication est variable, elle peut s'élever jusqu'à 15 ans. Si vous souhaitez faire usage de cette garantie, vous pouvez remplir une demande de service avec vos coordonnées et cas de garantie. Outre les droits statutaires du fabricant, les règles de garantie et de conformité sont en vigueur sans préjudice. Une garantie légale de conformité veut dire que l'article fonctionne selon des expectations raisonnables. Pour juger la conformité du produit veuillez vous référer à la garantie légale de conformité. "
+
+msgid "WARRANTY_SERVICE_REQUEST"
+msgstr "Remplissez une demande de service directement"
+
+msgid "FAQ_BLOCK_1"
+msgstr "Ci-dessous vous trouverez les questions posées les plus souvent. Votre question ne s'y trouve pas ? N'hésitez pas à nous <a href=/contact></a> contacter </a>."
+
+msgid "HERO_DEFAULT_QUOTE"
+msgstr "Aménager une salle de bains relève du défi! Nous le comprenons. N'hésitez pas à nous poser vos questions."
+
+msgid "FAQ_PAYMENT_QUESTION_2"
+msgstr ""
+"Quels modes de paiement puis-je utiliser ?"
+""
+
+msgid "FAQ_PAYMENT_QUESTION_3"
+msgstr ""
+"Le paiement doit-il être effectué avant la livraison?"
+""
+
+msgid "FAQ_PAYMENT_QUESTION_4"
+msgstr ""
+"Quel est le numéro de compte de Sawiday.be?"
+""
+
+msgid "FAQ_PAYMENT_QUESTION_6"
+msgstr ""
+"Comment puis-je être sûr d'avoir payé ?"
+""
+
+msgid "FAQ_PAYMENT_ANSWER_1_DEPRECATED"
+msgstr ""
+"<table class=\"infotable responsive-table\">"
+"        <thead>"
+"            <tr>"
+"                <th></th>"
+"                <th>Mode de paiement</th>"
+"                <th>Frais de paiement</th>"
+"                <th>Remarque</th>"
+"            </tr>"
+"        </thead>"
+"        <tbody>"
+"                                            <tr class=\"light\">"
+"                    <td class=\"icon-col\" data-label=\"\"><img class=\"payment-icon\" src=\"{$static_skin}images/paymentmethod/bm-ico-mr+cash.png\" alt=\"ico Bancontact / Mr Cash\"></td>"
+"                    <td class=\"name-col\" data-label=\"Mode de paiement\">Bancontact / Mr Cash</td>"
+"                    <td data-label=\"Frais de paiement\">"
+"                                                    Pas de frais"
+"                                            </td>"
+"                    <td data-label=\"Remarque\">A partir de 150€ livraision gratuite.</td>"
+"                </tr>"
+"                                            <tr class=\"dark\">"
+"                    <td class=\"icon-col\" data-label=\"\"><img class=\"payment-icon\" src=\"{$static_skin}images/paymentmethod/bm-ico-virement+bancaire.png\" alt=\"ico Paiement par virement\"></td>"
+"                    <td class=\"name-col\" data-label=\"Mode de paiement\">Paiement par virement</td>"
+"                    <td data-label=\"Frais de paiement\">"
+"                                                    Pas de frais"
+"                                            </td>"
+"                    <td data-label=\"Remarque\">Livraison gratuite à partir de 150€ + délai de livraison plus long*</td>"
+"                </tr>"
+"                                            <tr class=\"light\">"
+"                    <td class=\"icon-col\" data-label=\"\"><img class=\"payment-icon\" src=\"{$static_skin}images/paymentmethod/bm-ico-creditcard.png\" alt=\"ico Carte de crédit\"></td>"
+"                    <td class=\"name-col\" data-label=\"Mode de paiement\">Carte de crédit</td>"
+"                    <td data-label=\"Frais de paiement\">"
+"                                                                                                           Pas de frais"
+"                                            </td>"
+"                    <td data-label=\"Remarque\">Montant d'ordre 2.000€ au maximum</td>"
+"                </tr>"
+"                                            <tr class=\"dark\">"
+"                    <td class=\"icon-col\" data-label=\"\"><img class=\"payment-icon\" src=\"{$static_skin}images/paymentmethod/bm-ico-paypal.png\" alt=\"ico PayPal\"></td>"
+"                    <td class=\"name-col\" data-label=\"Mode de paiement\">PayPal</td>"
+"                    <td data-label=\"Frais de paiement\">"
+"                                                    Pas de frais"
+"                                            </td>"
+"                    <td data-label=\"Remarque\">A partir de 150€ livraison gratuite</td>"
+"                </tr>"
+"                                            <tr class=\"light\">"
+"                    <td class=\"icon-col\" data-label=\"\"><img class=\"payment-icon\" src=\"{$static_skin}images/paymentmethod/bm-ico-mr+cash.png\" alt=\"ico Payer dans le magasin\"></td>"
+"                    <td class=\"name-col\" data-label=\"Mode de paiement\">Payer dans le magasin</td>"
+"                    <td data-label=\"Frais de paiement\">"
+"                                                    Pas de frais"
+"                                            </td>"
+"                    <td data-label=\"Remarque\">Il est possible que nous vous demandons de payer un acompte.</td>"
+"                </tr>"
+"                                            <tr class=\"dark\">"
+"                    <td class=\"icon-col\" data-label=\"\"><img class=\"payment-icon\" src=\"{$static_skin}images/paymentmethod/bm-ico-rembours.png\" alt=\"ico Contre remboursement\"></td>"
+"                    <td class=\"name-col\" data-label=\"Mode de paiement\">Contre remboursement</td>"
+"                    <td data-label=\"Frais de paiement\">"
+"                                                    15 €                                                                                  Frais supplémentaires"
+"                                            </td>"
+"                    <td data-label=\"Remarque\">Payer au transporteur**</td>"
+"                </tr>"
+"                                                                                            </tbody>"
+"    </table>"
+"<p>* Normalement, un paiement par virement bancaire cause un retard de commande d'un jour.<br>"
+"** Les frais de paiement sont une addition aux frais de port standards. Pour les commandes de plus de 300,00 €, nous contrôlons toujours si c'était vous qui a placé la commande. De plus, nous vous demanderons de payer un acompte, nous vous contacterons avec les détails."
+
+msgid "FAQ_PAYMENT_ANSWER_2"
+msgstr ""
+"Sawiday accepte un large éventail de méthodes de paiement. Veuillez trouver ci-dessous un résumé détaillé.<br/>"
+"<br/>"
+""
+"<b> Bancontact/Mister Cash </b><br/>"
+"Avec Bancontact, vous réglez votre achat en ligne en toute sécurité. Vous payez dans votre environnement de paiement en ligne de confiance, basé sur les méthodes de sécurité spécifiques de votre banque.<br/>"
+"<br/>"
+"Avantages Bancontact:<br/>"
+"- Vous gardez le contrôle et la vue d'ensemble du paiement.<br/>"
+"- Le paiement est effectué directement, ce qui accélère le processus de traitement de votre commande.<br/>"
+"- À partir de 150 euros, votre commande sera livrée gratuitement.<br/>"
+"<br/>"
+"Comment cela fonctionne-t-il ?<br/>"
+"- Pendant le processus de commande, vous indiquez que vous voulez payer par Bancontact.<br/>"
+"- Sélectionnez votre banque, après quoi vous serez redirigé vers la page de connexion de votre banque.<br/>"
+"- Saisissez vos données de connexion et autorisez le paiement.<br/>"
+"<br/>"
+"Vous pouvez utiliser Bancontact si vous êtes client de Dexia, Fortis, ING, FINTRO, KBC, CBC, AXA banque et VDK Spaarbank."
+"<br/>"
+"<br/>"
+"<Virement bancaire </b><br/>"
+"Si vous n'utilisez pas de services bancaires sur Internet, vous pouvez également régler votre commande par virement bancaire. "
+"- Vous transférez le montant dû sur le compte de Buckaroo. Ce fournisseur de services de paiement veille à ce que votre paiement soit traité en toute sécurité. Voici le numéro de compte (IBAN) : NL05 RABO 0121 503 038 à l'attention de Buckaroo.<br/>"
+"- Attention : indiquez dans la description le numéro de référence de paiement que vous avez reçu de notre part par e-mail.<br/>"
+"- Dès que Buckaroo a reçu votre paiement, Sawiday reçoit une confirmation de paiement. Nous nous chargeons ensuite de traiter votre commande.<br/>"
+"- Le virement bancaire est un moyen de paiement relativement lent. Prenez donc en compte un à trois jours ouvrables de temps de transfert.<br/>"
+"<br/>"
+""
+"<b>Carte de crédit</b><br/>"
+"Sawiday accepte aussi les payements par VISA, Mastercard, Maestro ou V-Pay.<br/> "
+"- Remplissez d'abord les données de votre carte de crédit, puis autorisez le paiement.<br/> "
+"- Veuillez noter que les paiements par carte de crédit chez Sawiday sont limités à un montant de 2 000 €.<br/>"
+"<br/>"
+""
+"<b>Règler le paiement au showroom </b><br/>."
+"Si vous venez récupérer votre commande dans l'une de nos salles d'exposition, vous pouvez également payer sur place en espèces ou par carte bancaire.<br/>"
+"<br/>"
+""
+"<b>PayPal</b><br/>"
+"Sawiday vous propose également la possibilité de payer avec votre compte PayPal.<br/>"
+"- Complétez votre adresse e-mail et votre mot de passe PayPal et le paiement sera effectué immédiatement.<br/>"
+"- Dès que votre paiement aura été enregistré, votre commande sera traitée.<br/>"
+
+msgid "FAQ_PAYMENT_ANSWER_3"
+msgstr "Oui. Avant de livrer une commande, nous vous demandons de bien vouloir régler tous les montants dus."
+
+msgid "FAQ_PAYMENT_ANSWER_4"
+msgstr ""
+"Le numéro de compte de Sawiday.be est (IBAN): BE26 0016 1009 6229 de Buckaroo<br><br> <b>Attention :</b><br>Veuillez indiquer dans la description la référence que vous avez reçue de notre part par courrier électronique. À défaut de cette référence de paiement spécifique, le paiement ne pourra pas être traité immédiatement. Le numéro de commande et le numéro de facture ne peuvent pas être utilisés comme référence de paiement."
+""
+
+msgid "FAQ_PAYMENT_ANSWER_5"
+msgstr ""
+
+msgid "FAQ_PAYMENT_ANSWER_6"
+msgstr ""
+"Vous pouvez consulter votre <a href=\"https://www.sawiday.be/etat-de-commande/\">Etat de commande</a> afin de savoir si vous avez déjà payé la facture de votre commande. Si vous avez choisi de payer par virement bancaire, vous recevrez une confirmation de paiement de notre part au moment où nous avons reçu votre paiement."
+""
+
+msgid "FAQ_RETURN_QUESTION_1"
+msgstr "Je ne suis pas satisfait de mes articles, que faire?"
+
+msgid "FAQ_RETURN_QUESTION_2"
+msgstr "Comment puis-je renvoyer mes articles?"
+
+msgid "FAQ_RETURN_QUESTION_3"
+msgstr "Quels sont les frais de retour?"
+
+msgid "FAQ_RETURN_QUESTION_4"
+msgstr "Quelles sont les conditions de retour?"
+
+msgid "FAQ_RETURN_QUESTION_5"
+msgstr "Comment puis-je annuler ma commande?"
+
+msgid "FAQ_RETURN_QUESTION_6"
+msgstr ""
+"Y a-t-il des articles que je ne peux pas retourner?"
+""
+
+msgid "FAQ_RETURN_QUESTION_7"
+msgstr ""
+"Puis-je personnellement retourner ma commande dans le magasin?"
+""
+
+msgid "FAQ_RETURN_QUESTION_8"
+msgstr "Puis-je échanger un article?"
+
+msgid "FAQ_RETURN_QUESTION_9"
+msgstr ""
+"Quel est le délais de retour pour les articles livrés?"
+""
+
+msgid "FAQ_RETURN_QUESTION_10"
+msgstr "Après combien de jours puis-je m'attendre à ce que le montant de l'achat soit remboursé sur mon compte?"
+
+msgid "FAQ_RETURN_QUESTION_11"
+msgstr "Est-ce que mon retour peut être récupéré à domicile?"
+
+msgid "FAQ_RETURN_QUESTION_12"
+msgstr ""
+"Mes produits sont livrés endommagés, que faire?"
+""
+
+msgid "FAQ_RETURN_QUESTION_13"
+msgstr "Ma commande a été annulée par Sawiday, que dois-je faire maintenant ?"
+
+msgid "FAQ_RETURN_ANSWER_1"
+msgstr ""
+"Il peut arriver que le produit que vous avez commandé ne corresponde pas à vos attentes. Sawiday vous permet d’échanger un article non utilisé endéans les 30 jours à condition qu'il se trouve toujours dans son emballage d’origine. Vous pouvez enregistrer cette demande de retour facilement avec une <a href=\"/fr-be/demande-annulation/\">demande de retour</a>.<p> "
+"Si le produit est endommagé ou incomplet, contactez notre service client. "
+"<p><b>Attention :</b>Les carreaux sont exclus de notre politique de retour. Nos produits de carrelage sont fabriqués dans différents lots de couleurs, ce qui peut entraîner des variations de teinte entre les différents stocks. Malheureusement, cela signifie que nous ne pouvons pas accepter les retours de carreaux.</p> "
+"</p> Si le produit est endommagé ou incomplet, veuillez contacter notre service clientèle afin que nous puissions trouver une solution adaptée à vos besoins.</p>"
+
+msgid "FAQ_RETURN_ANSWER_2"
+msgstr ""
+"Il est toujours possible que le produit que vous avez commandé ne corresponde pas à vos attentes. Sawiday permet de retourner un article non utilisé endéans les 30 jours, à condition qu'il se trouve toujours dans son emballage d’origine. Si le produit retourné remplit les conditions, vous serez remboursé."
+"Vous pouvez enregistrer votre demande de retour facilement avec une <a href=\"/fr-be/demande-annulation/\">demande d'annulation</a>. <br/><br/>"
+""
+"<b>Adresse</b><br/>"
+"Le produits remplissant les conditions reprises si-dessus peuvent être renvoyés à l'adresse suivante :<br/><br/>"
+""
+"P/A BX SIR – Sawiday<br>"
+"Vilvoordsesteenweg 233<br>"
+"1099 Bruxelles X<br>"
+""
+"<p><b>Attention :</b> Les carreaux sont exclus de ces conditions de retour. Malheureusement, en raison des différents lots de couleurs et des différentes nuances, nous ne pouvons pas reprendre les carreaux.</p>"
+""
+""
+""
+""
+
+msgid "FAQ_RETURN_ANSWER_3"
+msgstr ""
+"Les frais occassionés par le renvoie de votre article par voie postale, ne sont malheureusement pas pris en charge par Sawiday. Selon le type de produit, vous pouvez nous le renvoyer avec Bpost ou par transporteur. Les frais varient selon le produit."
+""
+
+msgid "FAQ_RETURN_ANSWER_4"
+msgstr ""
+"L’article peut être renvoyé s'il répond aux conditions suivantes :"
+"<br>"
+"- Endéans les 30 jours après de livraison ;<br>"
+"- S'il est complet et en bon état ;<br>"
+"- S'il est inutilisé ;<br>"
+"- S'il est emballé dans son emballage d’origine. (il est interdit d’écrire sur l’emballage).<br>"
+"- S'il s'agit d'un article sur mesure ou personnalisé, vous ne pouvez pas le retourner. Ils sont exclus du droit de révocation.<br>"
+"<br>"
+"Pour les produits qui sont endommagés ou qui présentent une usure, nous nous réservons le droit de refuser le retour ou facturer les dégâts</a>.<br>"
+"<p><b>Attention : </b>Les carreaux sont exclus de notre politique de retour. Nos produits de carrelage sont fabriqués dans différentes séries de couleurs. Cela signifie que le stock que nous avons aujourd'hui en entrepôt peut différer d'un nouvel envoi et peut entraîner des variations de couleur lorsqu'ils sont placés ensemble. Pour cette raison, nous ne pouvons malheureusement pas accepter les retours de carreaux.</p>"
+""
+
+msgid "FAQ_RETURN_ANSWER_5"
+msgstr ""
+"Il est possible d’annuler votre commande. Nous vous demandons de nous contacter par mail dès que possible. Veuillez mentionner votre nom et numéro de commande. Le plus vite que nous recevons votre annulation, plutôt nous pourrons arrêter le traitement. Les commandes qui déjà ont été traitées ne peuvent plus être annulées. Cependant et en cas de besoin vous pouvez toujours nous renvoyer les articles que vous avez reçus."
+""
+""
+
+msgid "FAQ_RETURN_ANSWER_6"
+msgstr ""
+"Oui, les produits suivants sont exclus du droit de retour :"
+"<ul>"
+"<li>Produits sur mesure;</li>"
+"<li>Carreaux (en raison des nuances et des numéros de lot);</li>"
+"<li>Produits en déstockage;</li>"
+"<li>Les bons d'achat, entièrement ou partiellement utilisés.</li>"
+"</ul>"
+
+msgid "FAQ_RETURN_ANSWER_7"
+msgstr ""
+"Oui, si vous souhaitez nous retourner un article, vous pouvez également vous rendre dans un de nos <a href=\"/fr-be/service-client/showrooms/\">showrooms</a>. Avant de vous y rendre, veuillez remplir cette <a href=\"/fr-be/demande-annulation/\">demande de retour</a> à l'avance afin que nous puissions traiter votre demande aussi efficacement que possible."
+"<br>"
+"Le retour d'une commande est possible en magasin du lundi au vendredi jusqu'à 18h00 et le samedi jusqu'à 12h00. Attention, nous n'acceptons pas les reours de produits en magasin pendant les heures d'ouverture exceptionnelles."
+""
+""
+
+msgid "FAQ_RETURN_ANSWER_8"
+msgstr "Malheureusement, il n'est pas possible d'échanger un produit. Evidemment, il est possible de retourner votre article et passer une nouvelle commande."
+
+msgid "FAQ_RETURN_ANSWER_9"
+msgstr ""
+"Chez Sawiday, vous pouvez retourner votre article dans les 30 jours après la livraison de votre commande."
+""
+""
+
+msgid "FAQ_RETURN_ANSWER_10"
+msgstr "Vous serez remboursé sur votre compte endéans les 14 jours suivant la date ou nous avons réceptionné le produit. "
+
+msgid "FAQ_RETURN_ANSWER_11"
+msgstr "Ceci n'est pas possible. Vous devez organiser vous-même l'expédition d'un envoi de retour."
+
+msgid "FAQ_RETURN_ANSWER_12"
+msgstr ""
+"Il est important de vérifier votre commande, dès qu'elle est livrée, afin de savoir si elle est complète et en bon état. En cas de problèmes, veuillez contacter notre service client au plus tard 48h après la livraison. Vous pouvez nous informer d'un dégât ou d'une pièce manquante éventuel en remplissant notre formulaire de <a href=\"/fr-be/demande-de-service/\">demande de service</a>."
+""
+
+msgid "FAQ_RETURN_ANSWER_13"
+msgstr ""
+"Il peut arriver que nous soyons obligés d'annuler votre commande. Un article ou une commande peut être annulé pour plusieurs raisons:<br/><br/>"
+""
+"- L'article n'est (quand-même) pas disponible<br/>"
+"- Les coordonnées indiquées ne sont pas claires ou ne sont pas correctes<br/>"
+"- Si la commande est annulée, votre obligation de paiement sera annulée ou nous vous rembourserons le montant déjà payé."
+
+msgid "FAQ_ORDER_QUESTION_1"
+msgstr "Puis-je passer une commande dans un showroom ?"
+
+msgid "FAQ_ORDER_QUESTION_2"
+msgstr "Où puis-je suivre ma commande ?"
+
+msgid "FAQ_ORDER_QUESTION_3"
+msgstr ""
+"Puis-je passer une commande par téléphone ou par e-mail ?"
+""
+
+msgid "FAQ_ORDER_QUESTION_4"
+msgstr "Où puis-je trouver l'Etat de commande ?"
+
+msgid "FAQ_ORDER_QUESTION_5"
+msgstr ""
+"Comment puis-je passer une commande?"
+""
+
+msgid "FAQ_ORDER_QUESTION_6"
+msgstr "Puis-je encore changer/modifier ma commande ?"
+
+msgid "FAQ_ORDER_QUESTION_7"
+msgstr "Puis-je annuler une commande ?"
+
+msgid "FAQ_ORDER_QUESTION_8"
+msgstr ""
+"Comment être sûr d'avoir passé une commande ?"
+""
+
+msgid "FAQ_ORDER_QUESTION_9"
+msgstr "Je n'ai pas reçu de facture, que faire ?"
+
+msgid "FAQ_ORDER_QUESTION_10"
+msgstr "Où est-ce que je trouve le numéro de commande ?"
+
+msgid "FAQ_ORDER_QUESTION_11"
+msgstr "Je n'ai pas reçu une confirmation de ma commande, que faire ?"
+
+msgid "FAQ_ORDER_QUESTION_13"
+msgstr ""
+"Les prix sur le site, sont-ils les TVA inclus ?"
+""
+
+msgid "FAQ_ORDER_ANSWER_1"
+msgstr "Oui, bien-entendu, rien ne vous empêche de passer votre commande auprès de nos experts présents dans nos showrooms. Vous y bénéficierez d'une écoute et d'un conseil sur mesure."
+
+msgid "FAQ_ORDER_ANSWER_2"
+msgstr "Vous pouvez suivre votre commande sur <a href=\"/fr-be/etat-de-commande/\">Etat de commande.</a>"
+
+msgid "FAQ_ORDER_ANSWER_3"
+msgstr "Oui, il est tout à fait possible de passer une commande par téléphone ou par e-mail. Veuillez consulter les heures d'ouverture de notre <a href=\"/fr-be/contact/\">service client</a>."
+
+msgid "FAQ_ORDER_ANSWER_4"
+msgstr "Vous trouverez l'état de commande en cliquant <a href=\"https://www.sawiday.be/fr-be/etat-de-commande/\">ici</a>. Vous pouvez retrouver votre état de commande dans le menu du Service client, à gauche de la page."
+
+msgid "FAQ_ORDER_ANSWER_5"
+msgstr ""
+"Chez Sawiday, commander votre produit favorit est possible 24 h sur 24, 7 jours sur 7. Vous préférez faire vos achats en magasin, par téléphone ou par e-mail ? Ceci est, bien entendu, tout à fait possible. Pour commander sur notre boutique en ligne, il suffit de suivre les quatre étapes suivantes : <br/><br/>"
+""
+"<b>Après avoir sélectionné l'article souhaité, cliquez sur le bouton orange \"Ajouter au panier\"</b><br/>"
+"Vous pouvez ensuite continuer vos achats et compléter votre commande avec d'autres produits ou consulter votre panier d'achat."
+"Si vous disposez d'un code de réduction, vous pouvez également le remplir à cette étape. (Les codes de réduction ne sont pas délivrés sur simple demande, mais sont attribués dans le cadre de certaines actions promotionnelles.)"
+"Une fois vos achats terminés, cliquez sur \"Valider et payer\".<br/><br/>"
+""
+"<b> Remplissez vos données personnelles</b><br/>"
+"Veuillez maintenant remplir vos données personnelles. Ces informations sont nécessaires au traitement de votre commande et ne seront pas utilisées à d'autres fins. <br/><br/>"
+""
+"<b>Choissisez le mode de livraison</b><br/> "
+"Vous avez placé tous les produits dans votre panier et rempli vos données personnelles. Le mode de livraison doit être choisi à la 2e étape. Vous pouvez vous faire livrer le produit gratuitement à domicile ou retirer vous-même votre commande en magasin (sélectionnez le showroom de Zaventem ou le showroom de Schoten). Lorsque votre commande sera prête,  vous serez informé ou invité à indiquer une date de livraison. En cas de doute, vous pouvez également (temporairement) enregistrer le panier et vous l'envoyer par e-mail. <br/><br/>"
+""
+"<b>Régler la commande</b><br/> "
+"Vous retrouverez sur cette page une résumé complet de votre commande. Pour finaliser votre commande, complétez les informations mode de payement et cliquez sur \"régler la commande\". Sawiday propose un large éventail de méthodes de paiement. En cliquant sur le bouton \"régler la commande\", vous acceptez immédiatement les conditions générales. Vous recevrez ensuite un e-mail de confirmation de votre commande.<br/><br/>"
+""
+"<b>Merci et à bientôt !</b><br/> "
+"Affichage de votre numéro de commande. Une confirmation de votre commande a été envoyée à votre e-mail."
+"Vous pouvez toujours verifier le status actuel de votre commande sur État de commande. <a href=\"https://www.sawiday.be/fr-be/etat-de-commande/\">Accès direct à votre commande</a>."
+""
+
+msgid "FAQ_ORDER_ANSWER_6"
+msgstr ""
+"Vous pouvez apporter des modifications à votre commande. Veuillez nous contacter dès que possible <a href=\"/fr-be/contact/\"> par e-mail</a>, en mentionnant votre numéro de commande. "
+"Une commande qui a déjà été traitée ne pourra plus être modifiée. Un produit peut toujours être retourné après réception."
+
+msgid "FAQ_ORDER_ANSWER_7"
+msgstr ""
+"Vous pouvez annuler votre commande. Veuillez nous contacter dès que possible <a href=\"/fr-be/contact/\"> par e-mail</a>, en indiquant votre numéro de commande. "
+"Une commande qui a déjà été traitée ne pourra plus être annulée. Un produit livré peut toujours être retourné."
+
+msgid "FAQ_ORDER_ANSWER_8"
+msgstr "Vous recevrez un e-mail de confirmation lorsque nous avons reçu votre commande (cela peut prendre 15 minutes). Si vous n'avez rien reçu et si vous ne trouvez pas de mail, ni dans votre boite de réception ni dans les courriers indésirables, contactez notre service client."
+
+msgid "FAQ_ORDER_ANSWER_9"
+msgstr "Dès réception de la commande dans notre système, la facture vous sera envoyée par email. Vous aimeriez connaître l'état de votre commande ?  Cliquez <a href=\"https://www.sawiday.be/fr-be/etat-de-commande/\">ici</a>. Vous n'avez pas reçu de facture après avoir passé commande ? Contactez-nous pour plus d'information."
+
+msgid "FAQ_ORDER_ANSWER_10"
+msgstr "Vous retrouverez votre numéro de commande dans l'e-mail de confirmation que nous vous avons envoyé. Vous n'avez pas reçu de mail ?  Veuillez contacter notre service client."
+
+msgid "FAQ_ORDER_ANSWER_11"
+msgstr "Si vous n'avez pas reçu d'e-mail de confirmation (cela peut prendre 15 minutes) nous vous prions de bien vouloir contrôler votre boîte de courriers indésirables. Vous ne retrouvez pas de mail de confirmation ? Veuillez contacter notre service client."
+
+msgid "FAQ_ORDER_ANSWER_13"
+msgstr "Oui, la TVA est inclue dans les prix indiqués sur le site."
+
+msgid "FAQ_MISC_QUESTION_1"
+msgstr "Est-ce que vous avez un magasin ou showroom ? "
+
+msgid "FAQ_MISC_QUESTION_2"
+msgstr "Comment puis-je vous contacter ?"
+
+msgid "FAQ_MISC_QUESTION_3"
+msgstr "Il s'est produit une erreur sur le site, que faire?"
+
+msgid "FAQ_MISC_QUESTION_4"
+msgstr "Est-ce que vous installez les produits achetés chez Sawiday ?"
+
+msgid "FAQ_MISC_QUESTION_5"
+msgstr "Il y a des installateurs que vous recommandez ?"
+
+msgid "FAQ_MISC_QUESTION_6"
+msgstr "Avez-vous du stock aux magasins ?"
+
+msgid "FAQ_MISC_QUESTION_7"
+msgstr "Puis-je visiter un showroom sans rendez-vous ?"
+
+msgid "FAQ_MISC_QUESTION_8"
+msgstr "Quand est la nocturne, la soirée ouverte ?"
+
+msgid "FAQ_MISC_QUESTION_9"
+msgstr "Je ne trouve pas mon article sur le site, quoi faire ?"
+
+msgid "FAQ_MISC_QUESTION_10"
+msgstr "Puis-je commander des pièces détachées chez Sawiday ?"
+
+msgid "FAQ_MISC_QUESTION_11"
+msgstr "Est-il possible de prendre rendez-vous avec un(e) employé(e) du magasin?"
+
+msgid "FAQ_MISC_QUESTION_12"
+msgstr "Je ne trouve pas ma question, quoi faire ?"
+
+msgid "FAQ_MISC_ANSWER_1"
+msgstr "Oui, nous avons des showrooms ! Sur notre <a href=\"/fr-be/\">page de showrooms</a> vous pouvez voir où ils se trouvent."
+
+msgid "FAQ_MISC_ANSWER_2"
+msgstr "Vous pouvez nous contacter de différentes manières. Voyez notre <a href=\"/fr-be/contact/\">page contact.</a>"
+
+msgid "FAQ_MISC_ANSWER_3"
+msgstr "Veuillez contacter notre service client et décrivez le problème de façon détaillée. Nous nous engageons à résoudre le problème dès que possible."
+
+msgid "FAQ_MISC_ANSWER_4"
+msgstr "Non, vous êtes responsable de l'installation des produits vous-même."
+
+msgid "FAQ_MISC_ANSWER_5"
+msgstr "Sawiday ne dispose malheureusement pas d'une équipe d'installateurs."
+
+msgid "FAQ_MISC_ANSWER_6"
+msgstr "Le bureau central de Sawiday se trouve annexe au Showroom à Rosmalen. C'est la raison pour laquelle ce showroom dispose d'un stock limité. Les autres showrooms, malheureusement, n'ont pas de stock. Nous pouvons envoyer des articles vers les différents showrooms, de sorte qu'ils peuvent garder les produits pour vous, sans obligations. Faites attention : Si vous voulez être sûr qu'un article soit en stock, contactez-le showroom que vous voulez visiter."
+
+msgid "FAQ_MISC_ANSWER_7"
+msgstr "Oui, vous pouvez visiter nos showrooms sans rendez-vous."
+
+msgid "FAQ_MISC_ANSWER_8"
+msgstr "Pour les heures d'ouverture & nocturnes, nous vous dirigeons vers notre <a href=\"/fr-be/\">page de showrooms</a>."
+
+msgid "FAQ_MISC_ANSWER_9"
+msgstr "Malheureusement, nous ne montrons pas tous les produits en ligne. Mais pas de soucis, notre gamme est beaucoup plus étendue que ce que nous offrons sur le site. Si vous souhaitez un article spécifique que vous ne trouvez pas, vous pouvez nous envoyer un mail avec autant d'information que possible et nous essayerons de vous aider."
+
+msgid "FAQ_MISC_ANSWER_10"
+msgstr "Non, nous ne vendons pas de pièces détachées."
+
+msgid "FAQ_MISC_ANSWER_11"
+msgstr "Oui, c'est possible ! Contactez le <a href=\"/fr-be/\">showroom</a> de votre choix afin de prendre rendez-vous."
+
+msgid "FAQ_MISC_ANSWER_12"
+msgstr "Si votre question reste sans réponse, vous pouvez toujours contacter notre service client."
+
+msgid "FAQ_DELIVERY_QUESTION_1"
+msgstr "Quand ma commande sera-t-elle livrée?"
+
+msgid "FAQ_DELIVERY_QUESTION_2"
+msgstr "A combien s'élèvent les frais de livraison ?"
+
+msgid "FAQ_DELIVERY_QUESTION_3"
+msgstr "Quels sont les délais de livraison?"
+
+msgid "FAQ_DELIVERY_QUESTION_4"
+msgstr "Puis-je retirer ma commande au magasin?"
+
+msgid "FAQ_DELIVERY_QUESTION_5"
+msgstr ""
+"Avec quelle entreprise de transport ma commande sera-t-elle livrée ? "
+""
+
+msgid "FAQ_DELIVERY_QUESTION_6"
+msgstr "Que ce passe-t-il avec ma commande quand je ne suis pas chez-moi au moment de la livraison?"
+
+msgid "FAQ_DELIVERY_QUESTION_7"
+msgstr ""
+"Est-ce que je reçois un code Track & Trace?"
+""
+
+msgid "FAQ_DELIVERY_QUESTION_8"
+msgstr ""
+"Puis-je prendre rendez-vous pour la livraison?"
+""
+
+msgid "FAQ_DELIVERY_QUESTION_9"
+msgstr "Est-ce que vous livrez à l'étage?"
+
+msgid "FAQ_DELIVERY_QUESTION_10"
+msgstr ""
+"Quels sont les modes d'expédition possibles?"
+""
+
+msgid "FAQ_DELIVERY_QUESTION_11"
+msgstr ""
+"Est-ce que vous livrez aussi à l'étranger?"
+""
+
+msgid "FAQ_DELIVERY_QUESTION_12"
+msgstr ""
+"Puis-je faire livrer ma commande à une autre adresse?"
+""
+
+msgid "FAQ_DELIVERY_QUESTION_13"
+msgstr "Quels sont les jours de livraison à domicile?"
+
+msgid "FAQ_DELIVERY_QUESTION_14"
+msgstr "Que dois-je faire si la commande n'est pas livrée dans son intégralité?"
+
+msgid "FAQ_DELIVERY_QUESTION_15"
+msgstr ""
+"Une autre personne que moi peut-elle retirer ma commande en magasin?"
+""
+
+msgid "FAQ_DELIVERY_QUESTION_16"
+msgstr ""
+"Quels sont les heures d'ouverture pour retirer mes articles au magasin?"
+""
+
+msgid "FAQ_DELIVERY_ANSWER_1"
+msgstr ""
+"<p><strong>Code de suivi</strong></p>"
+"<p>Afin de suivre votre achat, nous vous communiquons un <strong>code de suivi</strong> <strong>une fois que votre commande est expédiée</strong>. Ce code vous est envoyé à l'adresse email indiquée lors de votre achat (n'oubliez pas également de consulter vos courriers indésirables)</p>"
+"<p>Pour suivre l'acheminement de votre commande, rendez-vous sur \"<a href=\"/fr-be/etat-de-commande/\">Suivre ma commande</a>\" et connectez-vous en indiquant votre adresse email et le numéro de commande.</p>"
+"<p><strong>Estimation de livraison</strong></p>"
+"<p>Sur les fiches produits, juste au-dessus du bouton \"Ajouter au panier\", vous trouverez une date d'estimation de livraison si vous commandez le jour même.</p>"
+"<p>Remarque : Si vous commandez plusieurs produits, prenez pour référence celui dont la date d'estimation est la plus longue pour vous faire une idée de votre date de livraison.</p>"
+"<ul>"
+"<li>Exemple : Le délai de livraison du produit A est de 24h et tandis que celui du produit B est de 3 jours = la livraison de votre commande est estimée à 3 jours.</li>"
+"</ul>"
+"<p><span style=\"text-decoration: underline;\">Important</span> : Comme son nom l'indique, la durée mentionnée reste une <strong>estimation.</strong></p>"
+
+msgid "FAQ_DELIVERY_ANSWER_2"
+msgstr "La livraison à domicile est entièrement gratuite en Belgique pour les commandes à partir d’un montant d’achat de 150€, et réglées avec virement bancaire ou par Mister Cash. Les frais de livraison pour les commandes inférieures à €150,- dépendent de la nature et de la taille du colis. Pour les petit paquets, les frais de livraison s'élèvent à 4,95€. Pour les articles qui ont besoin d'être transporté par palette, les frais de transport s'élèvent à 29,95€. Un grand nombre de nos produits est envoyé en tant que colis, les frais s'élèvent à 14.95€. Si vous désirez faire livrer votre commande dans un autre pays, hors de la Belgique, nous vous prions de contacter notre service client. Ils vous informeront des possibilités et frais supplémentaires éventuels. "
+
+msgid "FAQ_DELIVERY_ANSWER_3"
+msgstr "Les délais de livraison peuvent varier d'un produit à l'autre. Pour cela, nous indiquons les délais de livraison actuels pour chaque article sur le site."
+
+msgid "FAQ_DELIVERY_ANSWER_4"
+msgstr "Vous pouvez venir retirer votre commande gratuitement dans le showroom de votre choix si vous l'avez indiqué lors de votre commande. Si vous avez indiqué vouloir une livraison à domicile, et que vous avez changé d'avis, veuillez nous contacter par mail/téléphone pour en savoir plus sur les éventuelles possibilités."
+
+msgid "FAQ_DELIVERY_ANSWER_5"
+msgstr ""
+"<b>Livraison petits articles</b><br/>"
+"La plupart de nos petits paquets sont envoyés avec PostNL ou Bpost. Le facteur livre le paquet chez vous à domicile. Si vous n’êtes pas à la maison au moment de la livraison, le facteur vous laissera une note avec laquelle vous pouvez aller chercher votre paquet au bureau de poste le plus proche.<br/><br/>"
+""
+"<b>Livraison grands articles/pallet/paquets</b><br/>"
+"Les paquets de taille importante sont en général livrés par un transporteur externe. Nous livrons uniquement du lundi au vendredi, pendant les heures ouvrables. Sawiday ne livre que des commandes complètes, votre commande ne sera donc pas livrée en plusieurs fois. Lorsque la commande est complète et prête à l'envoi, vous serez contacté par mail ou par téléphone afin de fixer un rendez-vous pour la livraison. Le jour même de livraison, vous pouvez contacter le transporteur, afin de connaitre l'heure de livraison approximative. Si vous n'êtes pas présent au moment de la livraison et que notre transporteur doit revenir un autre jour pour livrer votre commande, il est possible que des frais supplémentaires vous seront facturés. Notre transporteur livre votre commande jusqu'au premier seuil de votre bâtiment. Si vous habitez à l'étage, votre commande sera livrée au rez de chaussé.<br/><br/>"
+""
+
+msgid "FAQ_DELIVERY_ANSWER_6"
+msgstr "Si il s'agit d'un paquet-poste, il vous sera présenté à nouveau le lendemain. Les produits lourds et volumineux sont souvent expédiés par une entreprise de transport externe. Si vous n'êtes pas présent à la date de livraison convenue/communiquée et que notre transporteur doit présenter votre commande une deuxième fois, des frais de livraison supplémentaires peuvent être facturés."
+
+msgid "FAQ_DELIVERY_ANSWER_7"
+msgstr ""
+"Selon le mode de transport sélectionné, vous recevrez un code Track & Trace le jour de la livraison."
+""
+
+msgid "FAQ_DELIVERY_ANSWER_8"
+msgstr ""
+"Vous avez la possibilité de choisir le jour où vous souhaitez que la commande vous soit livrée. La livraison n'est possible qu'à partir du moment où les produits commandés sont en stock chez nous. </br></br>"
+""
+"Plusieurs options de délai de livraison s'offrent à vous au cours du processus de commande : </br>"
+"</br>"
+"- Livraison en soirée;</br>"
+"- Plages avant 12h00 et après 12h00 pour les envois de palettes via Van Spreuwel (frais supplémentaires : 25 €);</br>"
+"- Si vous optez pour le processus de livraison standard, nous indiquons le délai dans lequel la commande sera livrée."
+""
+"<b>Attention : </b>ces options varient selon le délai de commande, le transporteur et le délai de livraison."
+
+msgid "FAQ_DELIVERY_ANSWER_9"
+msgstr "Notre transporteur livre votre commande jusqu'au premier seuil de votre bâtiment. Si vous habitez à l'étage, votre commande sera livrée à la première porte."
+
+msgid "FAQ_DELIVERY_ANSWER_10"
+msgstr ""
+"Vous pouvez faire livrer votre commande à domicile, ou à une adresse alternative. Vous pouvez aussi choisir de vous faire livrer à un point d'enlèvement près de chez vous. Si vous le préférez, vous pouvez également venir retirer vos articles en magasin."
+""
+
+msgid "FAQ_DELIVERY_ANSWER_11"
+msgstr "Lorsque vous voulez vous faire livrer hors de la Belgique, nous vous demandons de contacter notre service client. Ils pourront vous indiquer les possibilités et les frais supplémentaires."
+
+msgid "FAQ_DELIVERY_ANSWER_12"
+msgstr ""
+"Durant le processus de passer une commande, vous avez le choix de faire livrer les produits à une autre adresse. De plus, vous pouvez également choisir de les faire livrer à un point d'enlèvement."
+""
+
+msgid "FAQ_DELIVERY_ANSWER_13"
+msgstr "Les commandes sont livrées du lundi au vendredi."
+
+msgid "FAQ_DELIVERY_ANSWER_14"
+msgstr "Lorsque votre commande n'est pas livrée dans son intégralité, contactez notre service client."
+
+msgid "FAQ_DELIVERY_ANSWER_15"
+msgstr ""
+"Oui, aucun problème. Veillez à toujours bien vouloir vous munir d'une copie de votre commande."
+""
+
+msgid "FAQ_DELIVERY_ANSWER_16"
+msgstr "Lorsque votre commande est prête à être enlevée, nous vous en informerons par e-mail. Vous pouvez venir retirer vos produits pendant les heures d'ouverture de nos showrooms. Le samedi nous sommes ouvert de 9h30 à 12h. Pour les autres heures d'ouverture, consultez sur notre <a href=\"/fr-be/\">page de Showroom</a>."
+
+msgid "FAQ_WARRANTY_QUESTION_1"
+msgstr "Combien de temps dure la garantie sur mes articles ?"
+
+msgid "FAQ_WARRANTY_QUESTION_2"
+msgstr "Qu'est-ce que je peux faire lorsque ma commande est endommagée ?"
+
+msgid "FAQ_WARRANTY_QUESTION_3"
+msgstr "Je ne suis pas satisfait de mes articles, que faire ?"
+
+msgid "FAQ_WARRANTY_QUESTION_4"
+msgstr "Comment procéder si j'ai une réclamation à faire?"
+
+msgid "FAQ_WARRANTY_QUESTION_5"
+msgstr "Quand ma demande de service sera-t-elle traitée ?"
+
+msgid "FAQ_WARRANTY_QUESTION_6"
+msgstr "Dans combien de temps aurai-je une réponse à ma réclamation?"
+
+msgid "FAQ_WARRANTY_QUESTION_7"
+msgstr "Quelles sont les Conditions Générales ?"
+
+msgid "FAQ_WARRANTY_QUESTION_8"
+msgstr "Bpost a reçu une signature, mais je n'ai pas reçu ma commande, quoi faire ?"
+
+msgid "FAQ_WARRANTY_ANSWER_1"
+msgstr "Tous les produits vendu par Sawiday.be dans la boutique en ligne, bénéficient d'une garantie d'un fabricant valide. Par marque et par produit elle peut s'élever jusqu'à 10 ans."
+
+msgid "FAQ_WARRANTY_ANSWER_2"
+msgstr "Si vous avez des problèmes, nous vous demandons de nous contacter grâce à notre <a href=\"https://www.sawiday.be/demande-de-service/\">formulaire de demande de service</a> au plus tard 48h après la livraison. Nous essayons toujours de traiter votre demande de service en moins de 24 heures (jours fériés et dimanches exceptés). Plus tôt vous rapportez le dommage, plus tôt nous pouvons chercher une solution. Nous vous prions d'envoyer en l’annexe des photos afin que nous puissions évaluer les dégâts."
+
+msgid "FAQ_WARRANTY_ANSWER_3"
+msgstr ""
+"Il est toujours possible que le produit que vous avez commandé ne répond pas à vos demandes. Sawiday vous offre le service d’échanger un article non utilisé endéans les 30 jours s'il est gardé dans l’emballage d’origine. Vous pouvez enregistrer votre retour facilement par une <a href=\"/demande-annulation/\">demande d'annulation</a>. "
+"Quand le produit est endommagé ou incomplet, vous pouvez toujours contacter notre service client. De cette façon nous pouvons trouver une solution pour votre inconfort."
+
+msgid "FAQ_WARRANTY_ANSWER_4"
+msgstr ""
+"En cas de question ou de réclamation, nous vous prions de bien vouloir contacter notre service client par téléphone ou par courriel. Si, finalement, vous n'êtes pas satisfait de la réponse de nos collaborateurs, vous pouvez soumettre votre réclamation par écrit à notre direction. Cela doit impérativement se faire par écrit à l'adresse suivante :"
+" "
+" Sawiday"
+" À l'attention de la direction"
+" Bredabaan 1265"
+" 2900 Schoten"
+" Belgique "
+
+msgid "FAQ_WARRANTY_ANSWER_5"
+msgstr "Nous nous engageons à traiter votre demande de service dans 24 heures."
+
+msgid "FAQ_WARRANTY_ANSWER_6"
+msgstr "Nous nous engageons à traiter votre question ou réclamation dans 24 heures."
+
+msgid "FAQ_WARRANTY_ANSWER_7"
+msgstr "Les conditions de vente générales de Sawiday sont conformes aux exigences de BeCom. Si vous souhaitez en savoir plus, nous vous prions de suivre le lien vers nos <a href=\"https://www.sawiday.be/fr-be/service-client/conditions-generales/\">Conditions Générales.</a>"
+
+msgid "FAQ_WARRANTY_ANSWER_8"
+msgstr "Contactez notre service client."
+
+msgid "FAQ_PAYMENT_QUESTION_1"
+msgstr "Quels sont les modes de paiement disponibles?"
+
+msgid "COMPANY_HEADING_1"
+msgstr "À propos de Sawiday"
+
+msgid "COMPANY_HEADING_2"
+msgstr "Notre culture"
+
+msgid "COMPANY_HEADING_3"
+msgstr "Partie de Sawiday Belgium BV"
+
+msgid "COMPANY_HEADING_4"
+msgstr "Manifeste"
+
+msgid "COMPANY_HEADING_5"
+msgstr "L'histoire de Sawiday.be"
+
+msgid "COMPANY_HEADING_6"
+msgstr "Impression Showroom"
+
+msgid "COMPANY_BLOCK_1"
+msgstr "Sawiday vous offre la gamme la plus étendue de produits sanitaires sur un site facilement accessible. De plus, nous disposons des showrooms et d'un service client à votre écoute. Sawiday accorde beaucoup d'importance à votre satisfaction."
+
+msgid "COMPANY_BLOCK_2"
+msgstr ""
+"Personnel<br>"
+"Avec attention pour chaque client, nous créons un accueil chaleureux. Nous prenons le temps et nous vous emmenons pour un voyage agréable aussi bien dans notre showroom que sur notre site Web.<br><br>"
+" "
+"Plaisant<br>"
+"Nous veillons à ce que votre visite dans un de nos showrooms soit pour vous une expérience plaisante. Tout en échangeant lors d’une conversation agréable, nous vous aidons et vous conseillons de notre mieux."
+"Choisir une salle de bains est une question sérieuse, mais aussi amusante. Tous nos showrooms sont équipés d’un coin café où vous pouvez vous reposer et réfléchir. Nous n’avons pas oublié les plus petits : Ils peuvent jouer dans l'aire de jeux réservé aux enfants tandis que vous vous concentrez sur votre future salle de bains !<br><br>"
+" "
+"Prestation<br>"
+"Une bonne réputation est importante, une bonne performance est indispensable ! Nous aimons réaliser tous vos rêves et vous aider au mieux de rendre le choix de votre salle de bains le plus facile possible. C’est la raison pour laquelle nous sommes toujours à votre disposition, aussi bien dans le showroom qu’au téléphone ou par mail.<br><br>"
+""
+"Professionnel<br>"
+"Chaque jour, nos collègues experts sont prêts à vous aider. Pas seulement grâce à leur connaissance sur les produits divers, mais aussi grâce à notre gamme innovatrice et notre site Web convivial. Nous avons réfléchi sur le processus d’achat, mais nous restons également toujours disponibles pour vous après vos achats."
+""
+
+msgid "COMPANY_BLOCK_3"
+msgstr "Sawiday fait partie de Sawiday Belgium BV, une entreprise ambitieuse qui grandit rapidement avec ses boutiques en ligne qui offrent des produits d'aménagement et sanitaires. De plus, nous avons des Showrooms situés aux Pays-Bas et en Belgique. L’équipe travaille quotidiennement à la réussite de l'entreprise et s'engage à maintenir ou améliorer le niveau de service."
+
+msgid "COMPANY_BLOCK_4"
+msgstr ""
+"Le service est l'un des aspects les plus importants chez Sawiday. Avec ce manifeste nous voulons vous montrer comment nous souhaitons obtenir un excellent niveau de service !"
+""
+
+msgid "COMPANY_MANIFEST_LINK"
+msgstr "Voir le manifeste"
+
+msgid "COMPANY_TIMELINE"
+msgstr ""
+"<h2 class=\"clean-head indent-content\">2007</h2>"
+"<ul class=\"indent-content no-style\">"
+"   <li>Départ sanitairwinkel.nl</li>"
+"    <li>Sanitairwinkel ouvre son premier showroom à Rosmalen (NL).</li>"
+"</ul>"
+"<br>"
+""
+"<h2 class=\"clean-head indent-content\">2009</h2>"
+"<ul class=\"indent-content no-style\">"
+"    <li>Sanitairwinkel gagne Makeover Webshop Belgique.</li>"
+"</ul>"
+"<br>"
+"<h2 class=\"clean-head indent-content\">2010</h2>"
+"<ul class=\"indent-content no-style\">"
+"    <li>Début sanitaiwinkel.be.</li>"
+"    <li>Sanitairwinkel ouvre un showroom à Kalmthout (BE).</li>"
+"</ul>"
+"<br>"
+"<h2 class=\"clean-head indent-content\">2012</h2>"
+"<ul class=\"indent-content no-style\">"
+"    <li>Sanitairwinkel est devenu 2ème au concours de Deloitte Technology Fast50 (Benelux).</li>"
+"</ul>"
+"<br>"
+"<h2 class=\"clean-head indent-content\">2013</h2>"
+"<ul class=\"indent-content no-style\">"
+"    <li>Sanitairwinkel est devenu le 126ème au concours Deloitte Technology Fast500 (mondial)</li>"
+"</ul>"
+"<br>"
+"<h2 class=\"clean-head indent-content\">2014</h2>"
+"<ul class=\"indent-content no-style\">"
+"    <li>Sanitairwinkel est devenu le leader du marché de salle de bains et sanitaire aux Pays-Bas et en Belgique.</li>"
+"</ul>"
+"<br>"
+"<h2 class=\"clean-head indent-content\">2015</h2>"
+"<ul class=\"indent-content no-style\">"
+"    <li>Début du site web wallon <a href=\"https://www.magasinsalledebains.be/\">Magasinsalledebains.be</a></li>"
+"</ul>"
+"<br>"
+"<h2 class=\"clean-head indent-content\">2016</h2>"
+"<ul class=\"indent-content no-style\">"
+"    <li>Magasin Salle De Bains déménage son showroom à Schoten (BE).</li>"
+"</ul>"
+"<br>"
+"<h2 class=\"clean-head indent-content\">2017</h2>"
+"<ul class=\"indent-content no-style\">"
+"    <li>Début du site web français <a href=\"https://www.magasinsalledebains.fr/\">Magasinsalledebains.fr</a></li>"
+"<li>Sanitairwinkel ouvre un showroom à Arnhem (NL)</li>"
+"</ul>"
+"<br>"
+"<h2 class=\"clean-head indent-content\">2019</h2>"
+"<ul class=\"indent-content no-style\">"
+"    <li>En Belgique, Magasin Salle de Bains ouvre son deuxième showroom à Zaventem.</li>"
+"</ul>"
+
+msgid "FAQ_DELIVERY_HEADING_1"
+msgstr "Livraison et retirer"
+
+msgid "FAQ_MISC_HEADING_1"
+msgstr "Autre"
+
+msgid "FAQ_ORDER_HEADING_1"
+msgstr "Commander"
+
+msgid "FAQ_PAYMENT_HEADING_1"
+msgstr "Paiement"
+
+msgid "FAQ_RETURN_HEADING_1"
+msgstr "Retourner et annuler"
+
+msgid "FAQ_WARRANTY_HEADING_1"
+msgstr "Garantie"
+
+msgid "CONTACT_OPTION_7_HEADING"
+msgstr "Ou visitez notre showroom à Schoten"
+
+msgid "CONTACT_OPTION_6_BLOCK"
+msgstr "Vous pouvez nous joindre par le formulaire ci-dessous. Remplissez vos données et choisissez un sujet. Nous vous contacterons dès que possible."
+
+msgid "RETURN_REQUEST_HERO_QUOTE"
+msgstr "Satisfait ou remboursé ?"
+
+msgid "PAYMENT_HEADING_8"
+msgstr "PayPal"
+
+msgid "PAYMENT_BLOCK_10"
+msgstr "Sawiday.be vous offre de payer avec votre compte PayPal. Payez simplement avec votre adresse e-mail et votre mot de passe PayPal. Le paiement est traité immédiatement et votre commande est passée en même temps. "
+
+msgid "FAQ_MISC_QUESTION_13"
+msgstr "Qu'est-ce que signifie la garantie du meilleur prix sur les produits ?"
+
+msgid "FAQ_MISC_ANSWER_13"
+msgstr ""
+"Sawiday n'a pas seulement la gamme la plus étendue, nous avons aussi des prix concurrentiels. Pour une partie de notre assortiment nous offrons la garantie du meilleur prix.<br><br>"
+""
+"<b>Conditions de la garantie du meilleur prix :</b><br><br>"
+""
+"<UL>"
+"<LI>Seulement valable sur les produits ou marques sélectionnés par Sawiday. Vous trouverez la mention sur la page de produit individuel.</LI>"
+"<LI>Le prix doit être vérifiable et visible sur un site belge.</LI>"
+"<LI>La dernière vérification de prix est faite par un employé de Sawiday.</LI>"
+"<LI>Pas valable en combinaison avec des promotions, fin de séries et modèles d'exposition.</LI>"
+"</UL>"
+"<br>"
+"Avez-vous trouvé un meilleur prix ailleurs ? Contactez notre <a href=\"\"/contact/\">service client</a>."
+
+msgid "FAQ_PAYMENT_QUESTION_7"
+msgstr ""
+"Que faire lorsque mon paiement a échoué ou est refusé? "
+""
+
+msgid "FAQ_PAYMENT_ANSWER_7"
+msgstr ""
+"Si vous rencontrez des problèmes lors du processus de paiement, veuillez contacter notre service clientèle."
+""
+
+msgid "PHONENUMBER_TOOLTIP"
+msgstr "Ayez votre numéro de commande ou numéro de devis à portée de main."
+
+msgid "DEVIATING_OPENING_TIMES"
+msgstr "Disponibilité exceptionnelle"
+
+msgid "CONTACT_OPTION_WHATSAPP_BLOCK"
+msgstr "Ajoutez-nous à vos contacts et contactez-nous facilement par Whatsapp."
+
+msgid "CONTACT_OPTION_WHATSAPP_HEADING"
+msgstr "Whatsapp"
+
+msgid "CONTACT_BIC"
+msgstr "BIC"
+
+msgid "DELIVERY_HEADING_9"
+msgstr "Livraison sur rendez-vous"
+
+msgid "DELIVERY_BLOCK_9"
+msgstr ""
+"Pendant que vous passez votre commande, il est possible de choisir la date de livraison. La livraison n'est possible qu'au moment où les produits commandés sont livrés chez nous par nos fournisseurs. Malheureusement, il n'est pas encore possible de prendre rendez-vous pour la livraison."
+""
+
+msgid "CONTACT_OPTION_WHATSAPP_NUMBER"
+msgstr "WhatsApp: 0468519664"
+
+msgid "PLAN_APPOINTMENT"
+msgstr "Prenez rendez-vous"
+
+msgid "CONTACT_OPTION_WHATSAPP_NUMBER_LINK"
+msgstr "https://api.whatsapp.com/send?l=fr&phone=32468519664"
+
+msgid "CONTACT_BUTTON_WHATSAPP"
+msgstr "Whatsappez-nous"
+
+msgid "FAQ_PAYMENT_QUESTION_8"
+msgstr "Qu'est-ce que le service Buckaroo?"
+
+msgid "FAQ_PAYMENT_ANSWER_8"
+msgstr "Buckaroo se charge de traiter les paiements sur Sawiday.be. Ils sont sous la surveillance de la Nederlandse Bank (Pays-Bas) et les paiements sont effectués sur un compte de la Stichting Derdengelden (Pays-Bas)."
+
+msgid "FAQ_PAYMENT_QUESTION_9"
+msgstr ""
+"Comment puis-je utiliser une code de réduction ?"
+""
+
+msgid "FAQ_PAYMENT_ANSWER_9"
+msgstr "Lorsque vous allez à la page de votre panier d'achat, vous y trouverez l'option d'ajouter un code de réduction. Lorsque vous l'ajoutez, la réduction sera déduite immédiatement."
+
+msgid "FAQ_SUBJECT_1"
+msgstr "Commander"
+
+msgid "FAQ_SUBJECT_2"
+msgstr "Régler la commande"
+
+msgid "FAQ_SUBJECT_3"
+msgstr "Livraison et enlèvement"
+
+msgid "FAQ_SUBJECT_4"
+msgstr "Annulation & Retour"
+
+msgid "FAQ_SUBJECT_5"
+msgstr "Garantie & réclamations"
+
+msgid "DIRECT_ACTIONS_TITLE"
+msgstr "Services"
+
+msgid "DIRECT_ACTION_1"
+msgstr "État de commande"
+
+msgid "DIRECT_ACTION_2"
+msgstr "Demande de service"
+
+msgid "DIRECT_ACTION_3"
+msgstr "Nous renvoyer un produit"
+
+msgid "CONTACT_OPTIONS_TITLE"
+msgstr "Vous avez encore d'autres questions ?"
+
+msgid "CONTACT_OPTIONS_SUBTITLE"
+msgstr ""
+"Notre service client est disponible aujourd'hui jusqu'à "
+"                <span class=\"service-closing-time\">18:00</span>h <i>En raison de la maintenance de notre système téléphonique, nous serons moins accessibles le 25 octobre. Nous serons disponibles par e-mail et par chat.</i>"
+
+msgid "CONTACT_OPTION_1_TITLE"
+msgstr "Téléphone"
+
+msgid "CONTACT_OPTION_1_TEXT"
+msgstr "06 848 0114"
+
+msgid "CONTACT_OPTION_1_SUBTEXT"
+msgstr ""
+"De <span class=\"service-opening-time\">9h00</span> à"
+"                <span class=\"service-closing-time\">18h00</span>"
+
+msgid "CONTACT_OPTION_2_TITLE"
+msgstr ""
+
+msgid "CONTACT_OPTION_2_TEXT"
+msgstr "0468 51 96 64"
+
+msgid "CONTACT_OPTION_2_SUBTEXT"
+msgstr ""
+"Entre <span class=\"service-opening-time\">09:00</span>h - "
+"                <span class=\"service-closing-time\">18:00</span>h"
+
+msgid "CONTACT_OPTION_3_TITLE"
+msgstr "<span data-text=\"Contactez-nous par chat\">Chat</span>"
+
+msgid "CONTACT_OPTION_3_TEXT"
+msgstr ""
+"<span data-text=\"Message chat à\">Cliquez-ici pour chatter en direct</span>"
+"                <span class=\"robin-customer-service__name\"></span>"
+
+msgid "CONTACT_OPTION_3_SUBTEXT"
+msgstr "<span data-text=\"Online\"></span>"
+
+msgid "CONTACT_OPTION_4_TITLE"
+msgstr "Visite showroom"
+
+msgid "CONTACT_OPTION_4_TEXT"
+msgstr "3 showrooms modernes"
+
+msgid "CONTACT_OPTION_4_SUBTEXT"
+msgstr "Consultez les heures d'ouverture"
+
+msgid "CONTACT_OPTION_5_TITLE"
+msgstr "E-mail"
+
+msgid "CONTACT_OPTION_5_TEXT"
+msgstr "Remplissez notre formulaire"
+
+msgid "CONTACT_OPTION_5_SUBTEXT"
+msgstr "Réponse rapide"
+
+msgid "OVERVIEW_MOST_ASKED_TITLE"
+msgstr "Foire aux questions (FAQ)"
+
+msgid "OVERVIEW_FAQ_SUBJECTS_TITLE"
+msgstr "Ou choisissez un sujet"
+
+msgid "FEEDBACK_TITLE"
+msgstr "Avons-nous répondu à votre question ? "
+
+msgid "FEEDBACK_BUTTON_YES"
+msgstr "Oui"
+
+msgid "FEEDBACK_BUTTON_NO"
+msgstr "Non"
+
+msgid "FEEDBACK_TEXT_NO"
+msgstr ""
+"Vous navez pas encore obtenu de reponse a votre question ?<br/> Nous vous invitons a "
+"                <a href=\"/fr-be/contact/\">prendre contact</a> avec notre service client."
+
+msgid "CUSTOMERSERVICE_MENU_BUTTON"
+msgstr "Choisir un sujet"
+
+msgid "FAQ_PAYMENT_ANSWER_1"
+msgstr ""
+"<table class=\"table mb-3\">"
+"        <tbody>"
+"                                            <tr>"
+"                    <td data-label=\"Mode de paiement\">Bancontact / Mr Cash</td>"
+"                    <td data-label=\"Frais de paiement\">"
+"                                                    Pas de frais"
+"                                            </td>"
+"                    <td data-label=\"Remarque\">Livraison gratuite à partir de 150 €.</td>"
+"                </tr>"
+"                                            <tr>"
+"                    <td data-label=\"Mode de paiement\">Paiement par virement</td>"
+"                    <td data-label=\"Frais de paiement\">"
+"                                                    Pas de frais"
+"                                            </td>"
+"                    <td data-label=\"Remarque\">Livraison gratuite à partir de 150 € + délai de livraison plus long.*</td>"
+"                </tr>"
+"                                            <tr>"
+"                    <td data-label=\"Mode de paiement\">Carte de crédit</td>"
+"                    <td data-label=\"Frais de paiement\">"
+"                                                                                                           Pas de frais"
+"                                            </td>"
+"                    <td data-label=\"Remarque\">Montant de 2.000 € au maximum.</td>"
+"                </tr>"
+"                                            <tr>"
+"                    <td data-label=\"Mode de paiement\">PayPal</td>"
+"                    <td data-label=\"Frais de paiement\">"
+"                                                    Pas de frais"
+"                                            </td>"
+"                    <td data-label=\"Remarque\">Livraison gratuite à partir de 150 €.</td>"
+"                </tr>"
+"                                            <tr>"
+"                    <td data-label=\"Mode de paiement\">Payer en magasin</td>"
+"                    <td data-label=\"Frais de paiement\">"
+"                                                    Pas de frais"
+"                                            </td>"
+"                    <td data-label=\"Remarque\">Il est possible que nous vous demandions de payer un acompte.</td>"
+"                </tr>"
+"                </tr>"
+"                                                                                            </tbody>"
+"    </table>"
+"<p>* Un paiement par virement bancaire retarde d'un jour ouvrable la livraison du produit commandé.<br>"
+
+msgid "TERMS_AND_CONDITIONS_HEADING_1"
+msgstr "Conditions Générales"
+
+msgid "ORDER_STATUS_PICKUP_ADDRESS"
+msgstr "adresse de retrait"
+
+msgid "SHOWROOMS_OPENS_ON"
+msgstr "Ouverture prochaine"
+

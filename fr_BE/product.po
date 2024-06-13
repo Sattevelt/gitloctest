@@ -1,0 +1,1312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "SHOPPINGCART_ADDED_MULTIPLE"
+msgstr "Les produits suivants ont été mis dans votre panier :"
+
+msgid "CONTINUE_SHOPPING"
+msgstr "Continuer mes achats"
+
+msgid "TO_SHOPPINGCART"
+msgstr "Aller au panier d'achat"
+
+msgid "COMPLETE_ORDER_EXTRA_PRODUCTS"
+msgstr "Completez votre commande et ajoutez les éléments suivants"
+
+msgid "SHOPPINGCART_ADDED"
+msgstr "%s est placé dans votre panier d'achat"
+
+msgid "DESCRIPTION"
+msgstr "Description du produit"
+
+msgid "SPECIFICATIONS"
+msgstr "Spécifications"
+
+msgid "QUESTIONS"
+msgstr "Questions? Appelez: (+32)(0)68480114 ou envoyez un courriel!"
+
+msgid "BUTTON_RESERVE"
+msgstr "Réserver modèle d'exposition"
+
+msgid "BUTTON_RESERVE_ALT"
+msgstr "Bouton de commande pour modèle d'exposition"
+
+msgid "RESERVE_SHOWROOM_QUESTION"
+msgstr "Veuillez réserver le modèle d'exposition s.v.p."
+
+msgid "SOCIAL_MEDIA_SHARE_TEXT"
+msgstr "Article intéressant, trouvé chez Sawiday !"
+
+msgid "SOCIAL_MEDIA_FACEBOOK_ALT"
+msgstr "logo facebook"
+
+msgid "SOCIAL_MEDIA_FACEBOOK_TITLE"
+msgstr "Envoyez à Facebook"
+
+msgid "SOCIAL_MEDIA_GOOGLE_ALT"
+msgstr "Logo Google"
+
+msgid "SOCIAL_MEDIA_GOOGLE_TITLE"
+msgstr "Envoyez à Google+"
+
+msgid "SOCIAL_MEDIA_MAIL_ALT"
+msgstr "logo courriel"
+
+msgid "SOCIAL_MEDIA_MAIL_TITLE"
+msgstr "Envoyez par mail"
+
+msgid "SOCIAL_MEDIA_TWITTER_TITLE"
+msgstr "Envoyez à Twitter"
+
+msgid "SELECT_ADDITIONAL"
+msgstr "Sélectionnez produits complémentaires"
+
+msgid "COMPOSITION_PRICE"
+msgstr "Cet ensemble à pour vous un prix définitive de"
+
+msgid "CHOOSE_THIS_ALTERNATIVE"
+msgstr "Choisissez cette alternative"
+
+msgid "CHOOSE_ALTERNATIVE"
+msgstr "Cherchez une alternative"
+
+msgid "INFO"
+msgstr "Information"
+
+msgid "IN_STOCK"
+msgstr "En stock"
+
+msgid "DELIVERY"
+msgstr "Livraison"
+
+msgid "PRINT_LOCATION"
+msgstr ""
+"<table>"
+" 			<tr>"
+" 				<td><img src=\"//static.rorix.nl/sanitairwinkel/sanitairwinkel_be/images/logo.png\" alt=\"sanitairwinkel logo\" /></td>"
+" 				<td>"
+" 					<table>"
+" 						<tr><td class=\"kop\">Sawiday.be</td></tr>"
+" 						<tr><td>Bredabaan 1265</td></tr>"
+" 						<tr><td>2900 Schoten</td></tr>"
+" 						<tr><td>(+32)(0)68480114  (service client)</td></tr>"
+" 						<tr><td>info@sawiday.be</td></tr>"
+" 					</table>"
+" 				</td>"
+" 			</tr>"
+" 		</table>"
+
+msgid "PRINT_MSRP"
+msgstr "Prix recommandé"
+
+msgid "PRINT_OUR_PRICE"
+msgstr "Notre prix"
+
+msgid "CUSTOMERS_ALSO_BOUGHT"
+msgstr "D'autres clients commandaient aussi"
+
+msgid "CAROUSEL_IMAGES_ALL"
+msgstr "Tout"
+
+msgid "CAROUSEL_IMAGES_CUSTOMER"
+msgstr "Clients"
+
+msgid "CAROUSEL_IMAGES_DOCS"
+msgstr "Dessins"
+
+msgid "CAROUSEL_IMAGES_VIDEO"
+msgstr "Vidéo"
+
+msgid "DOCUMENT_TYPE"
+msgstr "Type de document"
+
+msgid "OUTLET_PRODUCT"
+msgstr "Produit Second Choix"
+
+msgid "SHOWROOM_PRODUCT"
+msgstr "Modèle d'exposition"
+
+msgid "SHOWROOM_PRODUCT_RULES"
+msgstr ""
+"En raison de haute réduction et un stock limitée, nous sommes obligés de respecter les règles suivantes :<br />"
+"			<ul>"
+"				<li>Uniquement disponible dans notre magasin, impossible de le commander en ligne;</li>"
+"				<li>Uniquement à emporter, ne peut pas être envoyé;</li>"
+"				<li>Réserver est possible, mais seulement pour la durée d'un jour;</li>"
+"				<li>Malheureusement, nous ne pouvons pas donner une garantie sur ces produits;</li>"
+"				<li>Les produits ne peuvent pas être retournés.</li>"
+"				<li>Inspectez donc bien le produit, il pourrait y avoir des dommages</li>"
+"			</ul>"
+
+msgid "OUTLET_PRODUCT_RULES"
+msgstr ""
+"<ul>"
+"				<li>Il s'agit d'un produit retourné inutilisé.</li>"
+"				<li>Il est possible que le produit ne se trouve plus dans son emballage d'origine.</li>"
+"				<li>Le produit a été vérifié par un de nos collègues et ne présente aucun dommage ni défaut.</li>"
+"			</ul>"
+
+msgid "PRODUCT_SOLD_OUT"
+msgstr "Malheureusement, ce produit est épuisé et n'est plus disponible."
+
+msgid "SUPPLIER_SKU"
+msgstr "Numéro de fournisseur"
+
+msgid "PRODUCT_EAN"
+msgstr "EAN"
+
+msgid "WARRANTY_MANUFACTURER"
+msgstr "Garantie d'usine"
+
+msgid "WARRANTY"
+msgstr "%d ans"
+
+msgid "IN_SHOWROOM"
+msgstr "Dans le magasin à"
+
+msgid "SEE_ALL_BRAND_PRODUCTS"
+msgstr "Voir tous les produits de"
+
+msgid "OR_OF"
+msgstr "ou de"
+
+msgid "SEE_ALL"
+msgstr "Voir tous"
+
+msgid "POSIBLE_ALTERNATIVES"
+msgstr "Alternatives possibles"
+
+msgid "WHY_US"
+msgstr "Pourquoi Sawiday.be?"
+
+msgid "WHY_US_LIST"
+msgstr ""
+"<ul>"
+"      <li><a href=\"/fr-be/service-client/a-propos-sawiday/#showrooms\">Magasin à Schoten et Zaventem</a></li>"
+"                     <li><a href=\"https://service.sawiday.com/hc/fr-be/sections/9878562534301-Annulation-Retour\">30 jours droit de retour</a></li>"
+"                     <li><a href=\"https://service.sawiday.com/hc/fr-be/sections/9878561634717-Livraison-et-enlèvement\">Livré sur rendez-vous</a></li>"
+"                     <li><a href=\"/fr-be/service-client/livrer-ou-retirer/#livraison\">Livraison gratuite à partir de €%s,-</a></li>"
+"                     <li class=\"global-review-trustpilot\">Commentaire:  <span class=\"ratingNumberTrustPilot tp-score\"></span></li>"
+"                     <li><a href=\"/fr-be/marques/\">Prix net pour tout le monde</a></li>"
+"     </ul>"
+
+msgid "SELECT_VERSION"
+msgstr "Sélectionnez votre variante"
+
+msgid "LAST_IN_STOCK"
+msgstr "1 en stock !"
+
+msgid "DELIVERY_IMMEDIATELY"
+msgstr "Livré demain"
+
+msgid "NUM_IN_STOCK"
+msgstr "Encore %d en stock"
+
+msgid "DELIVERY_NOT_AVAILABLE"
+msgstr "Pas disponible"
+
+msgid "PICKUP_ONLY"
+msgstr "Uniquement à retirer"
+
+msgid "FREE_DELIVERY"
+msgstr "Livraison à domicile gratuite"
+
+msgid "DELIVERY_APPOINTMENT_PICKUP"
+msgstr "Livraison/retirer sur rendez-vous"
+
+msgid "ACTION_REMAINING_TIME"
+msgstr "Action encore valable"
+
+msgid "MSRP"
+msgstr "Prix suggéré"
+
+msgid "NORMAL_PRICE"
+msgstr "Normal"
+
+msgid "DISCOUNT"
+msgstr "Votre avantage"
+
+msgid "INCL_TAX"
+msgstr "TVA incl."
+
+msgid "CHEAPER_ELSEWHERE"
+msgstr "Moins cher ailleurs?"
+
+msgid "CHEAPER_ELSEWHERE_REPORT"
+msgstr "Dites-le nous!"
+
+msgid "DISCONTINUED_PRODUCT"
+msgstr "Produit n'est plus disponible"
+
+msgid "ALTERNATIVE_PRODUCT"
+msgstr "Produit de remplacement"
+
+msgid "ALTERNATIVE_PRODUCT_SHOW"
+msgstr "Regardez l'article de remplacement"
+
+msgid "ALTERNATIVE_PRODUCT_CHEAPER"
+msgstr "%d%% moins cher"
+
+msgid "DISCOUNT_SET"
+msgstr "Set à prix avantageux"
+
+msgid "DELIVERY_SHIPPING"
+msgstr "Livraison/expédition"
+
+msgid "PAYMENT"
+msgstr "Paiement"
+
+msgid "ORDER_ACCESSORIES"
+msgstr "Completez votre commande avec les accessoires suivants"
+
+msgid "FILTER_REMOVE"
+msgstr "Supprimer %s de votre sélection"
+
+msgid "PAYMENT_TAB_TEXT"
+msgstr "Tous les prix chez Sawiday.be incluent 21% de TVA. Sawiday vous permet de payer comme vous le souhaitez. Ainsi, vous pouvez payer par :"
+
+msgid "PAYMENT_METHOD"
+msgstr "Mode de paiement"
+
+msgid "PAYMENT_COSTS"
+msgstr "Frais de paiement"
+
+msgid "PAYMENT_TAB_EXCEPTION"
+msgstr "* Paiement par virement bancaire signifie souvent que votre commande aura un retard d'un jour."
+
+msgid "PAYMENT_METHODS_URL"
+msgstr "<a href=\"https://service.sawiday.com/hc/fr-be/sections/9878560762781-Payer\" target=\"_blank\">Options de paiement chez Sawiday</a>"
+
+msgid "PAYMENT_ROW_REMBOURS"
+msgstr ""
+
+msgid "PAYMENT_ROW_SHOWROOM"
+msgstr "Il est possible que nous vous demandons de payer un acompte."
+
+msgid "PAYMENT_ROW_IDEAL_DEPRECATED"
+msgstr "A partir de 150,- livraison gratuite"
+
+msgid "PAYMENT_ROW_VOORAF_OVERMAKEN_DEPRECATED"
+msgstr "Livraison gratuite à partir de 150,- + délai de livraison plus long*"
+
+msgid "EX_TAX"
+msgstr "TVA excl."
+
+msgid "CHEAPER_ELSEWHERE_TITLE"
+msgstr "Le produit est moins cher ailleurs ?"
+
+msgid "CHEAPER_ELSEWHERE_DETAILS"
+msgstr "Si vous, malgré la politique des prix concurrentiels, trouver exactement le même produit moins cher ailleurs, veuillez nous le signaler. Il est possible qu'on vous fasse une contre-offre. Après avoir passé une commande il n'est plus possible de réclamer une différence de prix."
+
+msgid "LINK_COMPETITOR"
+msgstr "Lien concurrent"
+
+msgid "SHIPPINGCOSTS_COMPETITOR"
+msgstr "Frais de port concurrent"
+
+msgid "YOUR_NAME"
+msgstr "Votre nom"
+
+msgid "YOUR_EMAILADDRESS"
+msgstr "Votre adresse e-mail"
+
+msgid "YOUR_PHONENUMBER"
+msgstr "Votre numéro de téléphone"
+
+msgid "CHEAPER_ELSEWHERE_SEND"
+msgstr "Merci pour votre message.<br />Le département de vente vous contactera dès que possible."
+
+msgid "SEE_ALL_REVIEWS"
+msgstr "Voir tous les commentaires"
+
+msgid "NO_REVIEW_WRITE_ONE"
+msgstr ""
+"Il n'y a encore aucune critique sur le <strong>%s</strong>.<br />"
+"		Soyez le premier à écrire une critique sur ce produit!"
+
+msgid "REVIEW_HELP_OTHERS"
+msgstr "Donnez votre avis et aidez les autres à faire leur choix."
+
+msgid "REVIEW_PRIZE"
+msgstr "Le meilleur commentaire peut gagner un chèque-cadeau d'une valeur de 100 euros."
+
+msgid "SHOWROOM_AVAILABLE_STORES"
+msgstr "Sawiday a deux showrooms : à Schoten (Belgique) et à Zaventem. Nos salles d'exposition ont une superficie limitée, donc nous ne pouvons pas montrer tous les produits offerts."
+
+msgid "NOT_IN_SHOWROOM"
+msgstr "Malheureusement ce produit ne se trouve pas dans notre magasin. Eventuellement, contactez-nous pour voir s'il existe un produit similaire."
+
+msgid "SHOWROOMS_URL"
+msgstr "<a href=\"/fr-be/service-client/a-propos-sawiday/#showroom\" target=\"_blank\">Les showrooms de Sawiday</a>"
+
+msgid "SHOWROOM_AVAILABLE_IN"
+msgstr "Ce produit (ou une variante similaire) est présent dans notre showroom à"
+
+msgid "SHOWROOM_INFO_KAL_DEPRECATED"
+msgstr ""
+"Schoten.</p>"
+"             <p>Visitez-nous</p>"
+"             <p><a href=\"/fr-be/service-client/a-propos-sawiday/#showroom\">Sawiday.be</a><br/>"
+"                 Bredabaan 1265<br/>"
+"                 2900 Schoten<br/>"
+"                 Belgique</p>"
+
+msgid "SHOWROOM_INFO_ROS_KAL_DEPRECATED"
+msgstr ""
+"Schoten et Rosmalen (Pays-Bas).</p>"
+"             <p>Visitez-nous!</p>"
+"             <p><a href=\"/fr-be/klantenservice/over-sanitairwinkel/#showrooms\">Sawiday.be</a><br/>"
+"                 Bredabaan 1265<br/>"
+"                 2900 Schoten<br/>"
+"                 Belgique</p>"
+"             <p>Sanitairwinkel.nl<br/>"
+"                 Graafsebaan 141<br/>"
+"                 5248 NL Rosmalen<br/>"
+"                 Pay-Bas</p>"
+
+msgid "SHOWROOM_INFO_AMS_ROS_DEPRECATED"
+msgstr ""
+"Amsterdam et Rosmalen.</p>"
+""
+"		<p>Visitez-nous!</p>"
+""
+"		<p><a href=\"/fr-be/klantenservice/showroom-amsterdam/\">Sanitairwinkel.nl Amsterdam</a><br />"
+"		Willem de Zwijgerlaan 344<br />"
+"		1055RD Amsterdam<br />"
+"		Pays-Bas</p>	"
+"		 "
+"		<p><a href=\"/fr-be/klantenservice/showroom-rosmalen/\">Sanitairwinkel.nl Rosmalen</a><br />"
+"		Graafsebaan 141<br />"
+"		5248 NL Rosmalen<br />"
+"		Pays-Bas</p>"
+
+msgid "SHOWROOM_INFO_AMS_KAL_DEPRECATED"
+msgstr ""
+"Amsterdam et Schoten (Belgique).</p>"
+" "
+" 		<p>Visitez-nous!</p>"
+" "
+" 		<p><a href=\"/fr-be/klantenservice/showroom-amsterdam/\">Sanitairwinkel.nl Amsterdam</a><br />"
+" 		Willem de Zwijgerlaan 344<br />"
+" 		1055RD Amsterdam<br />"
+" 		Pays-Bas</p>	"
+" "
+" 		<p>Sawiday.be<br />"
+" 		Bredabaan 1265<br />"
+"        2900 Schoten<br />"
+" 		Belgique</p>"
+
+msgid "SHOWROOM_INFO_AMS_ROS_KAL_DEPRECATED"
+msgstr ""
+"Amsterdam, Rosmalen et Schoten (Belgique).</p>"
+"  "
+"  		<p>Visitez-nous</p>"
+"  "
+"  		<p><a href=\"/fr-be/klantenservice/showroom-amsterdam/\">Sanitairwinkel.nl Amsterdam</a><br />"
+"  		Willem de Zwijgerlaan 344<br />"
+"  		1055RD Amsterdam<br />"
+"  		Pays-Bas</p>	"
+"  		 "
+"  		<p><a href=\"/fr-be/klantenservice/showroom-rosmalen/\">Sanitairwinkel.nl Rosmalen</a><br />"
+"  		Graafsebaan 141<br />"
+"  		5248 NL Rosmalen<br />"
+"  		Pays-Bas</p>"
+"  "
+"  		<p>Sawiday.be Schoten<br />"
+"  		Bredabaan 1265<br />"
+"         2900 Schoten<br />"
+"  		Belgique</p>"
+
+msgid "SHOWROOM_INFO_ROS_DEPRECATED"
+msgstr ""
+"Rosmalen (Pays-Bas).</p>"
+"            <p>Visitez-nous!!</p>"
+"            <p>Sanitairwinkel.nl<br/>"
+"                Graafsebaan 141<br/>"
+"                5248 NL Rosmalen<br/>"
+"                Pays-Bas</p>"
+
+msgid "SHOWROOM_INFO_AMS_DEPRECATED"
+msgstr ""
+"Amsterdam.</p>"
+""
+"		<p>Visitez-nous!</p>"
+""
+"		<p><a href=\"/fr-be/klantenservice/showroom-amsterdam/\">Sanitairwinkel.nl Amsterdam</a><br />"
+"		Willem de Zwijgerlaan 344<br />"
+"		1055RD Amsterdam<br />"
+"		Pays-Bas</p>"
+
+msgid "DELIVERY_ONE_WEEK"
+msgstr "Dans les 7 jours"
+
+msgid "DELIVERY_TWO_WEEKS"
+msgstr "Dans les 15 jours"
+
+msgid "OVERVIEW_PRODUCT_NOT_FOUND"
+msgstr ""
+"<p>Vous n'avez pas trouvé ce que vous cherchez ?<br />Supprimez/changez les filtres afin de trouver des articles.</p>"
+"									<p>Cherchez-vous quelque chose de spéciale ? Envoyez-nous le numéro d'article et nous vous donnerons notre meilleur prix !</p>"
+
+msgid "MAKE_YOUR_CHOICE"
+msgstr "Faites votre choix..."
+
+msgid "PRICE_LOW_HIGH"
+msgstr "Prix croissant"
+
+msgid "PRICE_HIGH_LOW"
+msgstr "Prix décroissant"
+
+msgid "DELIVERY_LOW_HIGH"
+msgstr "Délai de livraison (bas - haut)"
+
+msgid "STOCK_INFORMATION"
+msgstr "Informations du stock"
+
+msgid "STOCK_STATUS"
+msgstr "Stock"
+
+msgid "DELIVER"
+msgstr "Faire livrer"
+
+msgid "DOCUMENTS"
+msgstr "Documents"
+
+msgid "FREE_DELIVERY_FROM_PRICE"
+msgstr "Livraison gratuite à partir de %d euro"
+
+msgid "AVAILABLE_VERSIONS"
+msgstr "Disponible dans les variantes suivantes"
+
+msgid "SEE_ALL_VERSIONS"
+msgstr "Consultez l'article pour toutes les %d variantes"
+
+msgid "VERSION_COUNT"
+msgstr "%d variantes"
+
+msgid "BUNDEL_ADD_EXTRA"
+msgstr "Complétez ce produit | %s"
+
+msgid "BUNDEL_PREVIEW"
+msgstr "Obtenir un aperçu de votre kit combiné."
+
+msgid "BUNDEL_PRODUCT_X_REQUIRED"
+msgstr "Ce produit est dx % indispensable pour compléter votre ensemble."
+
+msgid "UNIT_PRICE"
+msgstr "Prix par pièce"
+
+msgid "SET_DISCOUNT"
+msgstr "Réduction set"
+
+msgid "BUNDEL_CHOOSE_OPTIONS"
+msgstr "Faites un choix entre les options suivantes"
+
+msgid "BUNDEL_CLICK_PRODUCTINFO"
+msgstr "Cliquez ici pour voir les informations sur le produit."
+
+msgid "SET_PRICE"
+msgstr "Prix par set"
+
+msgid "BUNDEL_PRICE_FOR_AMOUNT"
+msgstr "Pour %d pc."
+
+msgid "PICKUP_SEND_HEADER"
+msgstr "Chez Sawiday vous avez  le choix de faire livrer à domicile ou de retirer votre commande dans un de nos showrooms."
+
+msgid "PICKUP_SEND_DESCRIPTION"
+msgstr "Les frais d'expédition seront toujours affichés dans votre panier. Pour les commandes de plus de € %1$s payées avec Bancontact/Mister Cash ou avec paiement par virement, aucuns frais de livraison seront établis."
+
+msgid "PICKUP_SEND_FOOTER"
+msgstr ""
+"Il est possible de retirer votre commande à Schoten ou Zaventem. C'est alors que vous pouvez passer dans notre magasin:"
+"         <p>Bredabaan 1265<br />"
+"            2900 Schoten<br />"
+"            Belgique"
+"         </p>"
+"<p>Leuvensesteenweg 1-3<br />"
+"            1932 Zaventem (Sint-Stevens-Woluwe)<br />"
+"            Belgique"
+"         </p>"
+
+msgid "PICKUP_SEND_FREE_DELIVERY"
+msgstr "Pour la livraison de ce produit, vous ne payez aucuns frais de transport."
+
+msgid "PICKUP_SEND_DELIVERY_COSTS"
+msgstr "Pour la livraison de ce produit, vous payez %s de frais d'expédition."
+
+msgid "PICKUP_SEND_MORE_INFORMATION"
+msgstr "<a href=\"https://service.sawiday.com/hc/fr-be/sections/9878561634717-Livraison-et-enlèvement\" target=\"_blank\">Informations sur la livraison et enlèvement de votre commande.</a>"
+
+msgid "REQUEST_PRODUCT_SAMPLE_BUTTON"
+msgstr "<div style=\"float: right;margin-right: 5px;padding-top:5px;\"><img src=\"//static.rorix.nl/skins/1/images/monster_aanvragen.png\" width=\"183\" height=\"34\" alt=\"Demander échantillon\" class=\"request_product_sample\" style=\"cursor: pointer;\" data-productcode=\"%s\" data-productnaam=\"%s\" /></div>"
+
+msgid "PAYMENT_ROW_MR_CASH"
+msgstr "A partir de 150,- livraision gratuite."
+
+msgid "ARTICLENUMBER"
+msgstr "Numéro de produit"
+
+msgid "PRODUCT_IMAGES"
+msgstr "Photos du produit"
+
+msgid "PRODUCT_CLIENT_IMAGES"
+msgstr "Photos de clients"
+
+msgid "PRODUCT_DOCS_IMAGES"
+msgstr "Dessins"
+
+msgid "PRODUCT_DOCS"
+msgstr "Documents"
+
+msgid "PRODUCT_VIDEO"
+msgstr "Vidéo"
+
+msgid "VARIANT"
+msgstr "Variante"
+
+msgid "PRODUCT_REVIEW_RATING"
+msgstr "Produit a été évalué avec la note"
+
+msgid "USP_WARRANTY"
+msgstr "%d ans de garantie"
+
+msgid "USP_WARRANTY_FALLBACK"
+msgstr "Garantie d'usine"
+
+msgid "USP_CHOOSE_DELIVERY_DATE"
+msgstr "Choisissez votre date de livraison"
+
+msgid "USP_RETURN_POLICY"
+msgstr "30 jours de droit de retour"
+
+msgid "USP_IN_ONE_SHOWROOM"
+msgstr "Présent dans le magasin à %s"
+
+msgid "USP_IN_MULTIPLE_SHOWROOMS"
+msgstr "Présent dans les showrooms à %s"
+
+msgid "USP_HEADER"
+msgstr "Service de ce produit"
+
+msgid "ADD_TO_SHOPPINGCART"
+msgstr "Ajouter au panier"
+
+msgid "SELECTED_VARIANT"
+msgstr "Sélectionné"
+
+msgid "YOU_SAVE_AMOUNT"
+msgstr "Vous économisez : %d%%"
+
+msgid "PRODUCT_INFORMATION"
+msgstr "Informations sur le produit"
+
+msgid "PRODUCT_PAYMENT_METHODS_AND_COSTS"
+msgstr "Mode de paiement & frais de paiement"
+
+msgid "AVAILABILITY"
+msgstr "Disponibilité"
+
+msgid "PICKUP_IN"
+msgstr "Retirer à %s"
+
+msgid "PICKUP"
+msgstr "Retirer"
+
+msgid "PERCENT_OF_THE_ORDERVALUE"
+msgstr "%d%% du montant de l'offre"
+
+msgid "PRODUCT_AVAILABLE_IN_SHOWROOM"
+msgstr "Ce produit est exposé dans le magasin à %s."
+
+msgid "ORDER_TODAY_DELIVER_TOMORROW"
+msgstr "Commandé aujourd'hui, livré à domicile demain."
+
+msgid "ORDER_TODAY_DELIVER_THE_DAY_AFTER_TOMORROW"
+msgstr "Commandé aujourd'hui, livré à domicile le jour après-demain."
+
+msgid "ORDER_TODAY_DELIVER_ON_X"
+msgstr "Commandé aujourd'hui, livré à domicile %s."
+
+msgid "DELIVER_IN_X_WORKINGDAYS"
+msgstr "Livraison à partir de %d journées de travail."
+
+msgid "DELIVER_IN_X_WEEKS"
+msgstr "Disponible en %d semaines."
+
+msgid "PAYMENTMETHOD_DELIVERYTIME_WARNING_DEPRECATED"
+msgstr "Ce moyen de paiement peut avoir des effets sur le délai de livraison. Si vous choisissez le moyen 'payer au magasin', il est possible qu'on vous demande de payer un acompte. Les commandes de € 150 ou plus, payées par MrCash/Bancontact ou par paiement par virement sont livrées gratuitement."
+
+msgid "ACCESSORIES"
+msgstr "Accessoires"
+
+msgid "LAST_VISITED"
+msgstr "Dernières visites"
+
+msgid "OTHERS_BOUGHT"
+msgstr "Autres ont acheté"
+
+msgid "LATE_NIGHT_STORE_OPENING"
+msgstr "Soir de magasins ouverts"
+
+msgid "CUSTOMER_SERVICE_AVAILABLE"
+msgstr ""
+"Vandaag zijn wij bereikbaar tot:"
+"Aujourd´hui, nous sommes accessible jusqu'à :"
+
+msgid "CUSTOMER_SERVICE_NOT_AVAILABLE"
+msgstr "Nous sommes de nouveau accessible par téléphone dès :"
+
+msgid "CUSTOMER_SERVICE_SEND_US_AN_EMAIL"
+msgstr "Avez-vous des questions ? Envoyez-nous un <a href=\"mailto: info@sawiday.be?subject=Question: %s %s\">courriel</a>"
+
+msgid "OR_CALL_PHONE_NUMBER"
+msgstr "ou téléphonez"
+
+msgid "NEED_ADVICE"
+msgstr "Besoin de conseils ?"
+
+msgid "RECOMMENDED_ACCESSORIES"
+msgstr "Parties recommendées"
+
+msgid "PLACE_ORDER"
+msgstr "Commander"
+
+msgid "BUNDEL_CHOSEN_PRODUCT"
+msgstr "Produit choisi"
+
+msgid "BUNDEL_CHOOSE_ADDITIONAL_PRODUCTS"
+msgstr "Choisissez vos produits supplémentaires"
+
+msgid "BUNDEL_PUT_TOGETHER_YOUR_BUNDLE"
+msgstr "Composez votre lot."
+
+msgid "BUNDEL_PUT_TOGETHER_YOUR_PRODUCT"
+msgstr "Complétez votre produit."
+
+msgid "BUNDEL_CHOSEN_1_ADDITIONAL_PRODUCT_FOR_X_PRICE"
+msgstr "Vous avez sélectionné un produit supplémentaire. Cette combinaison donne un prix total de :"
+
+msgid "BUNDEL_CHOSEN_X_ADDITIONAL_PRODUCTS_FOR_X_PRICE"
+msgstr "Vous avez sélectionné des produits supplémentaires. Cette combinaison donne un prix total de :"
+
+msgid "BUNDEL_SAVE_CHOICE"
+msgstr "Sauvegardez votre choix."
+
+msgid "BUNDEL_CHOOSE_ALTERNATIVE_PRODUCT"
+msgstr "Choisissez un produit de remplacement."
+
+msgid "BUNDEL_CHOSEN_NO_PRODUCTS"
+msgstr "Vous n'avez pas choisi de produits."
+
+msgid "DETAILS_SHOWROOM"
+msgstr "Détails de la salle d'exposition"
+
+msgid "PRODUCT_DELIVERY_NOT_AVAILABLE"
+msgstr "Produit n'est pas/plus disponible."
+
+msgid "INFORM_FOR_ALTERNATIVES"
+msgstr "<a href=\"mailto:%s?subject=Product niet meer Leverbaar\">Renseignez-vous</a> sur les alternatives possibles, sans contraintes."
+
+msgid "DOCS_CLICK_TO_OPEN_OR_RIGHTCLICK_TO_SAVE"
+msgstr "Cliquez afin d'ouvrir ce document of cliquez le bouton droite->enregistrer afin de le enregister."
+
+msgid "DOCS_PDF_DOCUMENT"
+msgstr "Document PDF"
+
+msgid "DOCS_TEXT_FILE"
+msgstr "Document text"
+
+msgid "DOCS_WORD_DOCUMENT"
+msgstr "Document word"
+
+msgid "DOCS_X_FILE"
+msgstr "%s document"
+
+msgid "PICKUP_IMMEDIATELY"
+msgstr "Retirer instantanément"
+
+msgid "PICKUP_IN_1_WORKINGDAY"
+msgstr "Retirer après un jour ouvrable."
+
+msgid "PICKUP_IN_X_WORKINGDAYS"
+msgstr "Retirer après %d de jours ouvrables"
+
+msgid "TRUSTPILOT_BOX"
+msgstr ""
+"<div class=\"whyBox\"><div class=\"tp_-_box\" data-tp-settings=\"domainId:266992,linkColor:35689A,fontFamily:Arial,fontColor:444440,bgBarColor:EEEEEE,borderRadius:0,borderColor:CECECE,showReviews:False,showUserImage:False,width:300,numOfReviews:2,height:0,showSelectedRatings:False\">"
+"<a href=\"https://fr.trustpilot.com/review/sawiday.be?utm_medium=trustboxes&utm_source=Grid\" hidden>Avis Sawiday</a>"
+"</div></div>"
+
+msgid "OPISOP"
+msgstr "QUANTITÉ LIMITÉE"
+
+msgid "PROMO_ACTIE"
+msgstr "Promo"
+
+msgid "SHOWROOM_MODEL"
+msgstr "MODÈLE D'EXPOSITION"
+
+msgid "IN_FOLDER"
+msgstr "BROCHURE"
+
+msgid "SEE_PRODUCT"
+msgstr "Découvrir"
+
+msgid "PROMO_OUTLET"
+msgstr "SECOND CHOIX"
+
+msgid "FREE_SHIPPING"
+msgstr "LIVRAISON GRATUITE"
+
+msgid "LABEL_NEW"
+msgstr "NOUVEAU"
+
+msgid "PROMO_DEAL"
+msgstr "PROMO DU JOUR"
+
+msgid "QUESTIONS_ADVICE"
+msgstr "Une question ou besoin d'aide?"
+
+msgid "COUNTDOWN_DAYS"
+msgstr "jour(s)"
+
+msgid "COUNTDOWN_HOURS"
+msgstr "heure(s)"
+
+msgid "COUNTDOWN_MINUTES"
+msgstr "minute(s)"
+
+msgid "COUNTDOWN_SECONDS"
+msgstr "seconde(s)"
+
+msgid "RESERVATION_RESTRICTION"
+msgstr "un jour au maximum"
+
+msgid "RESERVEER_NU"
+msgstr "Réservez maintenant!"
+
+msgid "ASK_QUESTION"
+msgstr "Posez votre question"
+
+msgid "VANAF"
+msgstr "A partir de"
+
+msgid "OUTLETISSTOCK"
+msgstr "Tous les produits Second Choix sont des produits en stock."
+
+msgid "CURRENTSTOCKAMOUNT"
+msgstr "En ce moment nous avons"
+
+msgid "ONLY"
+msgstr "seulement"
+
+msgid "ITEMS"
+msgstr "Exemplaires"
+
+msgid "ITEM"
+msgstr "exemplaire"
+
+msgid "BE_QUICK"
+msgstr "Soyez rapide, les quantités sont limitées !"
+
+msgid "CHOOSE_ALT"
+msgstr "Alternative"
+
+msgid "TO_SHOPPINGCART_SHORT"
+msgstr "Panier d'achat"
+
+msgid "VIEW_IN_SHOWROOM_AT"
+msgstr "Exposé à"
+
+msgid "RECEPT_NO_PRODUCTS_SELECTED"
+msgstr "Vous n’avez pas encore sélectionné des produits supplémentaires. Il est possible que votre produit ne soit pas complet maintenant."
+
+msgid "RECEPT_ONE_PRODUCTS_SELECTED"
+msgstr "Vous avez sélectionné 1 article supplémentaire. Cette combinaison fait un total de :"
+
+msgid "RECEPT_X_PRODUCTS_SELECTED"
+msgstr "Vous avez sélectionné %i de produits supplémentaires. Cette combinaison fait un total de :"
+
+msgid "COUNT_ACCESSORIES_TOTALS"
+msgstr "Vous avez sélectionnez %count% article(s) supplémentaire(s). <br /> Cette combinaison a un total de"
+
+msgid "META_DESCR_PART_TWO"
+msgstr "produits à prix choc en ligne chez"
+
+msgid "META_DESCR_PART_ONE"
+msgstr "Vous cherchez un(e) %productname%? Commandez-le et d’autres"
+
+msgid "PRODUCT_ATTRIBUTES"
+msgstr "Informations du produit"
+
+msgid "CHECK_OUT_PRODUCT_IN_SHOWROOMS"
+msgstr "Voyez votre produit dans un de nos showrooms"
+
+msgid "CUSTOM_DELIVERY"
+msgstr "(délai de livraison adapté)"
+
+msgid "CUSTOM_DELIVERY_DATE"
+msgstr ""
+
+msgid "PAYMENT_ROW_CREDITCARD"
+msgstr "Montant d'ordre 5.000,- au maximum"
+
+msgid "PAYMENT_ROW_KLARNA"
+msgstr "Montant d'ordre 750,- au maximum"
+
+msgid "PAYMENT_TAB_SECOND_EXCEPTION"
+msgstr ""
+""
+""
+
+msgid "DETAILS"
+msgstr "Voir produit"
+
+msgid "RELATED_PRODUCTS"
+msgstr "Produits complémentaires"
+
+msgid "FREE_SHIPMENT"
+msgstr "Livraison gratuite"
+
+msgid "STANDARD_WARRANTY"
+msgstr "2 ans de garantie"
+
+msgid "CUSTOM_WARRANTY"
+msgstr "Garantie de %d ans"
+
+msgid "TECHNICAL_DOCUMENTS"
+msgstr "Documents techniques"
+
+msgid "EXTRA_COSTS"
+msgstr "Frais supplémentaires"
+
+msgid "NO_COSTS"
+msgstr "Pas de frais"
+
+msgid "ATTRIBUTE_GROUP_SHOW"
+msgstr "Montrer toutes les informations"
+
+msgid "ATTRIBUTE_GROUP_HIDE"
+msgstr "Cacher toutes les informations"
+
+msgid "HURRY_UP_LEFT"
+msgstr "Commandé en moins de"
+
+msgid "HURRY_UP_RIGHT"
+msgstr ", livré chez vous %s."
+
+msgid "ATTRIBUTE_GROUP_MISC"
+msgstr "Autres spécifications"
+
+msgid "PRODUCTS_VISIBLE"
+msgstr "Ci-dessus il y a <b>%s articles</b> visibles. "
+
+msgid "PRODUCT_VISIBLE"
+msgstr "Ci-dessus il y a <b>1 article</b> visible"
+
+msgid "PAYMENT_ROW_PAYPAL_DEPRECATED"
+msgstr "A partir de 150,- livraison gratuite"
+
+msgid "IN_PROMO"
+msgstr "En promo"
+
+msgid "LESS_THAN_X_IN_STOCK_MESSAGE"
+msgstr "Moins de %d articles en stock"
+
+msgid "BUSINESS"
+msgstr "Espace Pro"
+
+msgid "BUSINESS_TAB_HEADING"
+msgstr "Devenir client professionnel chez Sawiday ?"
+
+msgid "BUSINESS_TAB_PARAGRAPH_1"
+msgstr "En étant installateur, plombier ou entrepreneur de construction avec votre propre entreprise, vous avez déjà beaucoup de choses à faire. Pourquoi pas vous faciliter la vie ? Vous avez la possibilité d'offrir un service supplémentaire à vos clients et de profiter vous-même d'avantages divers chez Sawiday Professionnel."
+
+msgid "BUSINESS_TAB_PARAGRAPH_2"
+msgstr "Avec Sawiday Professionnel vous pouvez compter sur une approche personnelle, professionnelle et rapide. Service et conseilles sur mesure et un seul point d'information. En plus, vous profitez d'une réduction attirante et vous recevrez une commission si vous présenterez de nouveaux clients. Notre salle d'exposition est à votre disposition et nous pouvons livrer les produits rapidement. Pour plus d'information, lisez notre <a href=\"/fr-be/b2b/\" target=\"_blank\">page professionnelle</a>."
+
+msgid "BUSINESS_TAB_PARAGRAPH_3"
+msgstr ""
+"Nous souhaitons vous connaitre, notre équipe d'experts est à votre disposition et vous et votre client afin de vous donner des conseils et le meilleur service !"
+""
+""
+
+msgid "BUSINESS_TAB_PARAGRAPH_4"
+msgstr "Prenez contact avec nous par téléphone sur le numéro  06 848 0114 ou envoyez un mail à <a href='mailto:info@sawiday.be'>info@sawiday.be</a>. "
+
+msgid "BUSINESS_ORDER_MESSAGE"
+msgstr "Commander à gros ou comme client professionnel ?"
+
+msgid "BRAND_INFO"
+msgstr " À propos de %s"
+
+msgid "SEEN_PRODUCT"
+msgstr "Vous avez déjà vu ce produit."
+
+msgid "DELIVERY_POINT_PICKUP_TOOLTIP"
+msgstr "La date de retrait est variable selon les heures d'ouvertures du point de retrait choisi."
+
+msgid "DELIVERY_THREE_DAYS"
+msgstr "Dans les 3 jours"
+
+msgid "UNKNOWN_PICKUP_DATE"
+msgstr "Date d'enlèvement inconnue"
+
+msgid "COMPARE_NO_PRODUCTS"
+msgstr "Le comparateur est vide. Retournez vers l'accueil ou cliquez sur les catégories du menu afin de continuer vos achats."
+
+msgid "COMPARE_NO_PRODUCTS_TITLE"
+msgstr "Pas de produits dans le comparateur."
+
+msgid "PICKUP_IN_SHOWROOM"
+msgstr "Retirer du showroom"
+
+msgid "ACTION"
+msgstr "Action"
+
+msgid "PRICE_PER"
+msgstr "Prix par"
+
+msgid "TILECALC_TITLE"
+msgstr "Aide au calcul"
+
+msgid "TILECALC_AMOUNT"
+msgstr "Nombre de"
+
+msgid "TILECALC_INCL"
+msgstr "inclu."
+
+msgid "TILECALC_LOSS"
+msgstr "Chute de carrelage"
+
+msgid "TILECALC_PACKAGING"
+msgstr "Emballage"
+
+msgid "TILECALC_PER"
+msgstr "par"
+
+msgid "TILECALC_TOTAL"
+msgstr "Total"
+
+msgid "LOOK_PICKUP_SHOWROOM_AVAILABLE"
+msgstr "Exposé au showroom"
+
+msgid "LOOK_PICKUP_SHOWROOM_NOT_AVAILABLE"
+msgstr "Pas exposé au showroom"
+
+msgid "LOOK_PICKUP_SHOWROOM_TEXT"
+msgstr "Voulez-vous voir ou retirer ce produit gratuitement dans notre showroom ?"
+
+msgid "LOOK_PICKUP_SHOWROOM_TITLE"
+msgstr "Voir ou retirer dans notre showroom ?"
+
+msgid "POPUP_ADD_TO_CART_TITLE"
+msgstr "Ajouté à votre panier"
+
+msgid "PRODUCT_INFO_TAB_DESCRIPTION"
+msgstr "Description"
+
+msgid "PRODUCT_INFO_TAB_SPECIFICATIONS"
+msgstr "Spécifications"
+
+msgid "PRODUCT_INFO_TAB_DOCUMENTS"
+msgstr "Fiches techniques"
+
+msgid "PRODUCT_INFO_TAB_REVIEWS"
+msgstr "Avis"
+
+msgid "TECHNICAL_DOCUMENT"
+msgstr "Fiche technique"
+
+msgid "ALTERNATIVE_PRODUCTS"
+msgstr "Articles similaires"
+
+msgid "OTHER_PRODUCTS_SERIE"
+msgstr "Autres produits de cette série"
+
+msgid "PRODUCT_BUNDLES_TITLE"
+msgstr "Ce que nos clients achètent avec ce produit"
+
+msgid "PRODUCT_BUNDLES_ALTERNATIVES_TITLE"
+msgstr "Choisissez entre les possibilités suivantes"
+
+msgid "TILECALC_NONE"
+msgstr "Aucun"
+
+msgid "TILECALC_CONTENT_PER_PACKAGE"
+msgstr "Dans un %1$s il y a %2$s %3$s."
+
+msgid "TILECALC_PRICE_PER"
+msgstr "Prix par %s"
+
+msgid "TILECALC_TOTAL_PRICE"
+msgstr "Total"
+
+msgid "BOUGHT_TOGETHER"
+msgstr "Recommandations produits"
+
+msgid "ADD_SET_TO_SHOPPINGCART"
+msgstr "Ajouter set au panier d'achat"
+
+msgid "NOT_AVAILABLE_DUE_TO_OUTLET_DAYS"
+msgstr "temporairement indisponible suite à notre action de déstockage"
+
+msgid "BEST_PRICE_GUARANTEE"
+msgstr "<br>-----<br><b>Garantie Meilleur Prix!</b><br><br>Vous bénéficiez de la garantie meilleur prix sur cet article! Chez Sawiday, nous garantissons toujours un excellent rapport qualité/prix et un service de première qualité. Nous travaillons quotidiennement de manière à vous assurer le meilleur prix sur nos marques. Profitez-en! Si vous avez constaté le même produit à un prix inférieur chez un autre fournisseur, remplissez le <a href=\"/fr-be/garantie-meilleur-prix/\" target=\"_blank\">formulaire garantie meilleur prix</a>"
+
+msgid "USP_FREE_PICKUP_SHOWROOM"
+msgstr ""
+
+msgid "VISIBLE_IN_SHOWROOM_TITLE"
+msgstr "Exposé(e) au showroom(s) de :"
+
+msgid "PRODUCT_INFO_TAB_DELIVERY"
+msgstr "Informations de commande et de livraison"
+
+msgid "TAB_DELIVERY_RETURN_TEXT"
+msgstr "<p>Il est toujours possible que le produit que vous avez commandé ne répond pas à vos demandes. Sawiday vous offre le service d’échanger un article non utilisé endéans les 30 jours s'il est gardé dans l’emballage d’origine. Vous ne payez pas de frais de retour si vous retournez votre produit dans un de nos showrooms. Vous serez remboursé dans 15 jours après la date de retour.</p>"
+
+msgid "TAB_DELIVERY_RETURN_TITLE"
+msgstr "Retourner sans frais dans notre showrooms"
+
+msgid "TAB_DELIVERY_PICKUP_TEXT"
+msgstr ""
+"<p>Vous pouvez également venir retirer ce produit gratuitement dans un de nos showrooms. Voir ci-dessous pour une indication de la date de ramassage par showroom. Veuillez compléter votre commande en ligne et indiquer dans le processus de commande le showroom où vous souhaitez récupérer votre commande."
+""
+"Cet article est-il un modèle de showroom ? Réservez-le pour une durée maximale d'un jour. Le montant de commande est à régler sur place dans le showroom.</p>"
+
+msgid "TAB_DELIVERY_PICKUP_TITLE"
+msgstr "Retirer gratuitement dans le showroom"
+
+msgid "TAB_DELIVERY_DELIVERY_TEXT"
+msgstr "<p>Dans votre panier, vous pouvez voir la date de livraison prévue du total de la commande. Vous pouvez choisir un jour de livraison qui vous convient.</p>"
+
+msgid "TAB_DELIVERY_DELIVERY_DATE"
+msgstr "Ce produit à un délai de livraison de :"
+
+msgid "TAB_DELIVERY_DELIVERY_TITLE"
+msgstr "Livraison"
+
+msgid "NOT_AVAILABLE_DUE_TO_CORONA"
+msgstr "Temporairement indisponible en raison des mesures de Coronavirus."
+
+msgid "NOT_VISIBLE_IN_SHOWROOM_TITLE"
+msgstr "Pas exposé dans nos showrooms"
+
+msgid "NOT_VISIBLE_IN_SHOWROOM_TEXT"
+msgstr "Nous sommes là pour vous conseiller sur des produits similaires."
+
+msgid "NOT_VISIBLE_IN_SHOWROOM_LINKTEXT"
+msgstr "Visitez nos showrooms"
+
+msgid "DELIVERY_FIVE_DAYS"
+msgstr "Dans les 5 jours"
+
+msgid "OUTLET_PRODUCT_LINK"
+msgstr "Voir le produit outlet"
+
+msgid "SHOWROOM_PRODUCT_LINK"
+msgstr "<p>(TEMP) Voir le modèle de showroom à %s</p>"
+
+msgid "ALTERNATIVE_PRODUCT_PRICINGS"
+msgstr "à partir de €%s"
+
+msgid "PRODUCT_USP_TRUSTPILOT_RATING"
+msgstr ""
+"<span class=\"reviews\">%s</span> avis, avec une évaluation de "
+"                <span class=\"score\">%s</span>"
+
+msgid "DELIVERY_TODAY"
+msgstr "Livré aujourd'hui"
+
+msgid "VARIANT_ALERT"
+msgstr "Ce produit n'est pas disponible. Nous vous proposerons un produit alternatif ci-dessous."
+
+msgid "VARIANT_IN_SHOWROOM_LINKTEXT"
+msgstr "Découvrez les variantes de ce produit exposées à "
+
+msgid "VARIANT_IN_SHOWROOM_POPUP_TITLE"
+msgstr "Découvrez les variantes de ce produit exposées à"
+
+msgid "VARIANT_IN_SHOWROOM_POPUP_TEXT"
+msgstr ""
+"Venez découvrir les variantes de ce produit dans l'un de nos showrooms."
+"                Pour plus d'information cliquez sur un produit."
+
+msgid "OR"
+msgstr "ou"
+
+msgid "FLOWBOX_PRODUCTPAGE_TITLE"
+msgstr "Idées Sawiday !"
+
+msgid "FLOWBOX_PRODUCTPAGE_TEXT"
+msgstr "Découvrez à quoi ressemble ce produit - ou un produit similaire - une fois installé dans un foyer ! <p>Taguez <strong>#mysawiday</strong> et partagez avec nous vos plus beaux projets réalisés avec vos produits dénichés chez Sawiday. Découvrez toutes les photos <a href=\"https://www.sawiday.be/fr-be/mysawiday\">ici</a href> ! </p>"
+
+msgid "INACTIEF_PRODUCT"
+msgstr "Le produit ne peut pas être commandé en ligne"
+
+msgid "TILECALC_NOT_IN_STOCK_ERROR"
+msgstr "Nombre d'articles en stock: "
+
+msgid "TILECALC_LOSS_POPUP"
+msgstr ""
+"<p>Pour calculer le bon nombre de carreaux, il ne suffit pas de simplement calculer la surface exacte. Lors de la pose de carrelage, il est très courant d'avoir un certain pourcentage de perte parce que vous aura besoin de découper des carreaux. Plus la surface est petite, plus la chute de carrelage sera importante en pourcentage.</p>"
+"<p>En moyenne, il est conseillé de calculer une perte de coupe de 10%. Disposez-vous d'une pièce comportant de nombreuses parties inclinées ou bien des niches ou des coins qui seront-elles également carrelées ? Dans ce cas, ajoutez encore 5%. Les motifs de pose classiques présentent généralement moins de pertes que les motifs plus compliqués tels que les chevrons, les ellipses, les pointes de Hongrie ou les hexagones.</p>"
+"<p> En pratique, il vaut mieux commander un mètre carré de trop que de manquer un seul carreau. Le carreleur peut alors non seulement finir son travail, mais aussi la couleur des carreaux commandés supplémentaires peut varier légèrement. Nous vous conseillons également de garder quelques carreaux supplémentaires. Ainsi, vous pourrez remplacer des carreaux à l'avenir si nécessaire.</p>"
+"<p> La perte est calculée sur la base de la surface et du motif de pose. On utilise généralement les pourcentages suivants :</p>"
+"<ul>"
+"<li> 10% en cas de pose droite</li>"
+"<li> 15 % en cas de pose en motifs</li>"
+"</ul>"
+"<p><strong>Attention :</strong> la perte de coupe est une indication. Aucun droit ne peut en être déduit.</p>"
+""
+
+msgid "TILECALC_LOSS_POPUP_TITLE"
+msgstr "Chute de carrelage"
+
+msgid "PICKUP_IN_OUTLETSTORE"
+msgstr "Retirer du Outlet Uden"
+
+msgid "OUTLETSTORE_PRODUCT_RULES"
+msgstr ""
+"<p><strong><span style=\"color: #ff0000;\">Produit Outlet Uden</span></strong>"
+"<br> En raison de la remise élevée et du stock limité, nous sommes tenus d'appliquer les règles suivantes :</p> "
+"<ul> <li> Un modèle d'exposition ou un produit Outlet (Déstockage) ne peut être retiré que dans la succursale où se "
+"trouve l'article et ne sera donc pas expédié;</li> "
+"<li> Les droits de garantie ne s’appliquent pas aux modèles d’exposition;</li> "
+"<li> Un modèle d’exposition ne peut être ni retourné ni échangé;</li> "
+"<li> Vérifiez soigneusement que le produit ne présente aucun défaut.</li> "
+"</ul><p><br>"
+
+msgid "LABEL_OUTLET_STORE"
+msgstr "OUTLET"
+
+msgid "POPUP_ADD_TO_CART_CROSS_SELLING_TITLE"
+msgstr "Cela pourrait également vous intéresser"
+
+msgid "PRODUCT_WARRANTY_REGARDS"
+msgstr "Concerne"
+
+msgid "SHOW_MORE_VARIANTS_BUTTON"
+msgstr "Voir d'autres variantes de ce produit ici"
+
+msgid "VARIANT_PLURAL"
+msgstr "Variantes"
+
+msgid "SEE_PRODUCT_IN_SHOWROOM"
+msgstr "Exposé au showroom"
+
+msgid "SEE_VARIANT_IN"
+msgstr "Voir alternative à"
+
+msgid "PRODUCT_AVAILABLE_ONLINE_ONLY"
+msgstr "Ce produit n'est pas exposé dans nos showrooms"
+
+msgid "PRODUCT_ADVISE_VARIANTS"
+msgstr "Nous vous conseillerons sur les possibilités dans nos showrooms"
+
+msgid "ADD_TILE_SAMPLE_TO_CART"
+msgstr "Commandez un échantillon"
+
+msgid "TILE_SAMPLE_ORIGINAL_PRODUCT_LINK"
+msgstr "Voir la tuile d'origine"
+
+msgid "FREE_DELIVERY_ALSO_AT_NIGHT"
+msgstr "Livraison à domicile gratuite, même le soir"
+
+msgid "DISCOUNT_PROMO"
+msgstr "Économisez"
+
+msgid "PRODUCT_INFO_ANCHOR_DESCRIPTION"
+msgstr "Description"
+
+msgid "PRODUCT_INFO_ANCHOR_SPECIFICATIONS"
+msgstr "Spécifications"
+
+msgid "PRODUCT_INFO_ANCHOR_TECHNICAL_DOCUMENTS"
+msgstr "Fiches techniques"
+
+msgid "PRODUCT_INFO_ANCHOR_ABOUT_BRAND"
+msgstr "À propos de %s"
+
+msgid "PRODUCT_INFO_ANCHOR_ORDER_INFORMATION"
+msgstr "Informations de livraison"
+
+msgid "PRODUCT_INFO_ANCHOR_REVIEWS"
+msgstr "Avis"
+
+msgid "PRODUCT_INFO_ANCHOR_AT_OUR_CUSTOMERS"
+msgstr "Chez nos clients"
+
+msgid "BUSINESS_SIGN_UP_TEXT"
+msgstr "<p>Avez-vous besoin d'installations sanitaires régulièrement, ou voulez -vous commander une grande quantité de produits ? Alors découvrez les avantages de Sawiday Business et <a href=\"/fr-be/business/\" data-gtm-event=\"click\" data-gtm-category=\"productactions\" data-gtm-action=\"b2b contact link\" data-gtm-label=\"\">contactez-nous !</a></p>"
+
+msgid "BUSINESS_SIGN_UP_TITLE"
+msgstr "Commande professionnelle ?"
+
+msgid "ACTION_DETAILS"
+msgstr "Voir le produit"
+
+msgid "ADD_TILE_SAMPLE_TO_CART_SUBTEXT"
+msgstr "(max 20x20cm)"
+
+msgid "PROF_TEXT_1"
+msgstr ""
+"Ce produit vous intéresse ? Nous vous aiderons dans l'un de nos "
+"                <a href=\"https://sanitairwinkel.nl/klantenservice/showrooms/\">showrooms.</a>"
+
+msgid "PROF_MODAL_TITLE"
+msgstr "Produits non ajoutés"
+
+msgid "PROF_MODAL_INTRO_TEXT"
+msgstr ""
+"Les produits ci-dessous ne peuvent pas etre commandes en ligne et n ont pas ete "
+"                ajoutes a votre panier. Veuillez nous contacter."
+
+msgid "USP_PROFESSIONAL_SHOWROOM"
+msgstr "Ce produit est vendu uniquement dans nos showrooms"
+
+msgid "USP_PROFESSIONAL_SERIES"
+msgstr "Grohe série professionnelle"
+
+msgid "TILECALC_CONTENT_PER_PACKAGE_TILES"
+msgstr "Dans un %1$s il y a %2$s %3$s."
+
+msgid "TILECALC_TILE"
+msgstr "carreaux"
+
+msgid "TILECALC_TOTAL_TITLE"
+msgstr "Total"
+
+msgid "RECOMMENDED_FOR"
+msgstr "<strong>%1$s x recommandé</strong> pour %2$s"
+
+msgid "PROS_CONS_TITLE"
+msgstr "Avantages et inconvénients"
+
+msgid "PRE_DISCOUNT_PRICE_TOOLTIP"
+msgstr "Le prix le plus bas des 30 derniers jours."
+
+msgid "DELIVERY_APPOINTMENT_PICKUP_PALLET"
+msgstr "Livraison sur rendez-vous"
+
+msgid "LABEL_BESTSELLER"
+msgstr "BESTSELLER"
+
+msgid "MORE_VARIANTS"
+msgstr "Disponible en pluseurs variantes"
+
+msgid "CURRENT_VARIANT"
+msgstr "Cette variante:"
+

@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "PAYMENT_COSTS"
+msgstr "Frais de paiement"
+
+msgid "USERDATA_TITLE"
+msgstr "Veuillez remplir vos données personnelles"
+
+msgid "USERDATA_TITLE_LOGGEDIN"
+msgstr "Vos données personnelles"
+
+msgid "USERDATA_PREVIOUS_PAGE"
+msgstr "Précédente"
+
+msgid "USERDATA_NEXT_PAGE"
+msgstr "Prochaine étape"
+
+msgid "USERDATA_CREATE_ACCOUNT"
+msgstr ""
+"Remplissez un mot de passe ci-dessous."
+"                (6 caractères au minimum, avec au moins 1 chiffre et lettre)"
+
+msgid "USERDATA_CUSTOMER_ACCOUNT_EXISTS"
+msgstr "Vous avez déjà un compte. Pour vous connecter, veuillez cliquer ici :<a href=\"#\"  class=\"open-login-form\">ici</a> "
+
+msgid "USERDATA_DIFFERENT_ADDRESS_POPUP_TITLE"
+msgstr "Veuillez choisir une autre adresse"
+
+msgid "USERDATA_LOGIN_POPUP_TITLE"
+msgstr "Se connecter"
+
+msgid "USERDATA_ADDRESS_UNKNOWN"
+msgstr ""
+
+msgid "DELIVERY_PAGE_TITLE"
+msgstr "Choisissez un mode de livraison"
+
+msgid "DESTINATIONS_CUSTOMER_NICE_NAME"
+msgstr "Livraison"
+
+msgid "DESTINATIONS_DELIVERYPOINT_NICE_NAME"
+msgstr "Recevoir votre colis dans un point d'enlèvement Bpost."
+
+msgid "DESTINATIONS_SHOWROOM_NICE_NAME"
+msgstr "Retirer dans notre magasin"
+
+msgid "DELIVERY_DELIVERY_METHOD"
+msgstr "Mode de livraison"
+
+msgid "DELIVERY_PREVIOUS_PAGE"
+msgstr "Précédente"
+
+msgid "DELIVERY_NEXT_PAGE"
+msgstr "Étape suivante"
+
+msgid "DELIVERY_NOTICE"
+msgstr ""
+"En raison de la combinaison des produits sélectionnés, le délai de livraison peut "
+"                différer de celui des produits individuels."
+
+msgid "PICKUP_FROM"
+msgstr "Retirer à partir de"
+
+msgid "PICKUPPOINTS"
+msgstr "Points de retrait"
+
+msgid "DELIVERY_APPOINTMENT"
+msgstr "Livraison sur rendez-vous"
+
+msgid "DELIVERY_PICK_A_DATE"
+msgstr "Choisissez la date de livraison"
+
+msgid "DELIVERY_LATER"
+msgstr "Plus tard"
+
+msgid "DELIVERY_PICK_LATER_DATE"
+msgstr "Choisir un délai de livraison plus long"
+
+msgid "DELIVERY_CHOOSE_TIMEFRAME"
+msgstr "Choisir une heure de livraison"
+
+msgid "DELIVERY_DIRECT"
+msgstr "Livraison la plus rapide possible"
+
+msgid "DELIVERY_INDICATION"
+msgstr "Indication du délai de livraison"
+
+msgid "DELIVERY_INDICATION_TEXT"
+msgstr "Nous vous contacterons dès que votre commande sera prête à être expédiée."
+
+msgid "DELIVERY_WILL_BE_DELIVERED"
+msgstr "Votre commande sera livrée le :"
+
+msgid "COMPLETED_TITLE"
+msgstr "Merci d'avoir passé votre commande"
+
+msgid "COMPLETED_CONTENT"
+msgstr ""
+"<p>Votre numéro de commande est le : <strong>%d</strong></p>"
+"			<p>Une confirmation de votre commande sera envoyée à votre e-mail.<br/>"
+"			Vous pouvez toujours verifier le status actuel de votre commande sur État de commande.</p>"
+
+msgid "COMPLETED_OUTSTANDING_AMOUNT"
+msgstr "Solde restant : € <strong>%1$s</strong>"
+
+msgid "COMPLETED_PAYMENT_TITLE"
+msgstr "Paiement "
+
+msgid "COMPLETED_VIDEO_TITLE"
+msgstr ""
+
+msgid "COMPLETED_VIDEO"
+msgstr ""
+
+msgid "SIDEBAR_TITLE"
+msgstr "Résumé commande: %1$s article(s)"
+
+msgid "SIDEBAR_USERDATA_TITLE"
+msgstr "Données"
+
+msgid "SIDEBAR_DELIVERY_ADDRESS"
+msgstr "Adresse de livraison"
+
+msgid "SIDEBAR_BUSINESS_DETAILS"
+msgstr "Données de facture"
+
+msgid "SIDEBAR_DELIVERY_METHOD"
+msgstr "Mode de livraison"
+
+msgid "SIDEBAR_CART_TITLE"
+msgstr "Panier d'achat"
+
+msgid "PAYMENT_TITLE"
+msgstr "Votre mode de paiement"
+
+msgid "PAYMENT_PREVIOUS_PAGE"
+msgstr "Précédente"
+
+msgid "PAYMENT_NO_COSTS"
+msgstr "Pas de frais de paiement"
+
+msgid "PAYMENT_MOST_USED_METHOD"
+msgstr "Mode de paiement le plus utilisé."
+
+msgid "PAYMENT_BUTTON"
+msgstr "Régler la commande"
+
+msgid "PAYMENT_WRAP_UP_DESCRIPTION"
+msgstr ""
+"En cliquant sur le bouton de paiement vous vous mettez d'accord avec les "
+"                                    <a href=\"/fr-be/service-client/conditions-generales/\" target=\"_blank\" "
+"                                    data-gtm-event=\"click\" data-gtm-category=\"Checkout\" "
+"                                    data-gtm-action=\"Payment methods\" data-gtm-label=\"Terms\">"
+"                                    termes et conditions générales</a>"
+
+msgid "PICKUPPOINT_SEARCHING_FOR_LOCATIONS_NEARBY"
+msgstr "Nous recherchons les points d’enlèvement dans votre région"
+
+msgid "PICKUPPOINT_PICKUP_WHERE"
+msgstr "Où voulez-vous retirer votre commande?"
+
+msgid "PICKUPPOINT_CLOSE_BY"
+msgstr "Points d’enlèvement près de chez vous"
+
+msgid "PICKUPPOINT_NOTIFICATION_MESSAGE"
+msgstr ""
+"<p>Retirer de l’adresse sélectionnée est possible à partir de<br /><br /> "
+"                <span id=\"pickupDate\"><strong>%s</strong></span><br /><br /> (faites attention : ce n’est qu’une "
+"                indication).</p><p>Votre paquet restera 3 semaines à l’adresse à emporter.</p>"
+
+msgid "PICKUPSHOWROOM_PICK_A_SHOWROOM"
+msgstr "Sélectionnez salle d'exposition"
+
+msgid "PICKUPPOINT_NO_RESULTS"
+msgstr "Malheureusement, il n'y a pas de points d'enlèvement pour cette adresse."
+
+msgid "LOGIN_TITLE"
+msgstr "Commander en tant qu'invité ou se connecter"
+
+msgid "LOGIN_PREVIOUS_PAGE"
+msgstr "Précédente"
+
+msgid "LOGIN_CONTINUE_AS_GUEST_TITLE"
+msgstr "Commander en tant qu'invité."
+
+msgid "LOGIN_CONTINUE_AS_GUEST_DESCRIPTION"
+msgstr "Vous pouvez passer votre commande sans créer de compte ! Créez éventuellement votre compte plus tard, si vous le souhaitez !"
+
+msgid "LOGIN_FORM_TITLE"
+msgstr "Vous êtes déjà client ?"
+
+msgid "LOGIN_FORM_DESCRIPTION"
+msgstr "Connectez-vous ici"
+
+msgid "DELIVERY_TRANSPORTER_MESSAGE_SPREUWEL"
+msgstr ""
+
+msgid "SAVE_ERROR_TITLE"
+msgstr "Erreur en passant commande"
+
+msgid "SAVE_ERROR_DESCRIPTION"
+msgstr "Malheureusement, votre commande ne pouvait pas être passée à cause d'une erreur. Veuillez nous contacter svp."
+
+msgid "USERDATA_ADDRESS_TITLE"
+msgstr "Adresse"
+
+msgid "SHOWROOM_PICKUP_HOURS"
+msgstr "<p>Lun - ven 10:00 - 17:00h<br />Sam 10:00 - 12:00h</p>"
+
+msgid "DELIVERYTIME_DIFFERS_BY_PRODUCT_COMBINATION"
+msgstr "<b>IMPORTANT :</b> En raison de la combinaison de produits dans votre commande, le délai de livraison peut différer de celui des produits individuels."
+
+msgid "USERDATA_CREATE_ACCOUNT_TITLE"
+msgstr "<strong>Compte</strong> (recommandé)"
+
+msgid "FORM_TITLE"
+msgstr "Commander"
+
+msgid "FORM_EMAIL_TEXT"
+msgstr ""
+"<p>Saisissez votre adresse électronique ici pour vous connecter ou pour "
+"                continuer sans compte.</p>"
+
+msgid "FORM_PASSWORD_TEXT"
+msgstr ""
+"<p>Quel plaisir de vous revoir ! Utilisez votre mot de passe afin de vous "
+"                connecter et nous obtiendrons vos références.</p>"
+
+msgid "FORM_BUTTON_CONTINUE"
+msgstr "Continuer"
+
+msgid "FORM_BUTTON_NO_LOGIN"
+msgstr "Continuer sans se connecter"
+
+msgid "COMPLETED_SOCIAL_CONTENT"
+msgstr ""
+"<p>"
+"                    Tous les mois, un(e) gagnant(e) est tiré(e) au sort et remporte <b>un bon cadeau de 100 €.</b><br>"
+"                    Partagez votre plus belle photo sur un compte Instagram (publique) avec le hashtag #mysawiday et taguez @sawiday.be. Ou bien envoyez votre photo et numéro de commande à marketing@sawiday.be.<br>"
+"                    <a href=\"https://www.sawiday.be/fr-be/yessawi/concours/\">Voilà comment vous participez.</a>"
+"                </p>"
+
+msgid "COMPLETED_SOCIAL_TITLE"
+msgstr "#mysawiday"
+
+msgid "COMPLETED_SOCIAL_BUTTON_URL"
+msgstr "https://www.instagram.com/sawiday.be/"
+
+msgid "COMPLETED_SOCIAL_BUTTON_TEXT"
+msgstr "Suivez @sawiday.be sur Instagram pour plus d'inspiration."
+
+msgid "DELIVERY_CO2_NEUTRAL_TRANSPORT"
+msgstr "Notre transporteur assure une livraison neutre en CO<sub>2</sub>"
+
+msgid "CHECKOUT_MORE_ADDRESSES"
+msgstr "Voir plus d'adresses"
+

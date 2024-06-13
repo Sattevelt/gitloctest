@@ -1,0 +1,1004 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "EMAIL"
+msgstr "Adresse e-mail"
+
+msgid "NAME"
+msgstr "Nom"
+
+msgid "ALTER"
+msgstr "Modifier"
+
+msgid "PREVIEW"
+msgstr "Afficher l'example"
+
+msgid "ENTER_EMAILADDRESS"
+msgstr "Entrez votre adresse e-mail"
+
+msgid "COPYRIGHT"
+msgstr "Sawiday.fr"
+
+msgid "IMAGE"
+msgstr "Image"
+
+msgid "PHONENUMBER"
+msgstr "Numéro de téléphone"
+
+msgid "PRODUCT"
+msgstr "Produit"
+
+msgid "BRAND"
+msgstr "Marque"
+
+msgid "QUESTION"
+msgstr "Question"
+
+msgid "SKU"
+msgstr "Numéro d'article"
+
+msgid "MESSAGE"
+msgstr "Message"
+
+msgid "SHIPPINGCOSTS"
+msgstr "Frais de port"
+
+msgid "DELIVERY_DATE"
+msgstr "Date de livraison"
+
+msgid "CATEGORY"
+msgstr "Catégorie"
+
+msgid "BRANDS"
+msgstr "Marques de salle de bain et sanitaire"
+
+msgid "SERIE"
+msgstr "Série"
+
+msgid "YES"
+msgstr "Oui"
+
+msgid "NO"
+msgstr "Non"
+
+msgid "ADD"
+msgstr "Ajouter"
+
+msgid "PRICE"
+msgstr "Prix"
+
+msgid "SLOGAN"
+msgstr "Sawiday.fr, la boutique en ligne de salles de bains"
+
+msgid "SHOPPINGCART"
+msgstr "Mon panier"
+
+msgid "DESCRIPTION"
+msgstr "Description"
+
+msgid "INITIALS"
+msgstr "Prénom"
+
+msgid "SURNAME_PREFIX"
+msgstr "Entreprise"
+
+msgid "YOUR_DATA"
+msgstr "Vos données"
+
+msgid "SERVICE"
+msgstr "Service"
+
+msgid "MAXIMUM_SIZE"
+msgstr "(taille maximale %s)"
+
+msgid "SEARCH"
+msgstr "Chercher"
+
+msgid "DATA"
+msgstr "Données"
+
+msgid "OVERVIEW"
+msgstr "Récapitulatif panier"
+
+msgid "DONE"
+msgstr "Commandé"
+
+msgid "AMOUNT"
+msgstr "Nombre"
+
+msgid "SALUTATION"
+msgstr "Formule de politesse"
+
+msgid "DIMENSION"
+msgstr "Mesure"
+
+msgid "COLOR"
+msgstr "Couleur"
+
+msgid "NEXT"
+msgstr "Suivant"
+
+msgid "PREVIOUS"
+msgstr "Précédent"
+
+msgid "STATUS"
+msgstr "Etat"
+
+msgid "GREETING"
+msgstr "Monsieur, madame"
+
+msgid "PRODUCTS"
+msgstr "Produits"
+
+msgid "TOTAL_PRICE"
+msgstr "Montant total"
+
+msgid "REQUIRED_FIELDS"
+msgstr "Champs obligatoires"
+
+msgid "SANITAIRWINKEL"
+msgstr "Sawiday"
+
+msgid "BACK"
+msgstr "Retour"
+
+msgid "SHOWROOMS"
+msgstr "Showroom"
+
+msgid "CUSTOMER_SERVICE"
+msgstr "Service client"
+
+msgid "MONDAY"
+msgstr "Lundi"
+
+msgid "TUESDAY"
+msgstr "Mardi"
+
+msgid "WEDNESDAY"
+msgstr "Mercredi"
+
+msgid "THURSDAY"
+msgstr "Jeudi"
+
+msgid "FRIDAY"
+msgstr "Vendredi"
+
+msgid "SATURDAY"
+msgstr "Samedi"
+
+msgid "BUSINESS_HOURS"
+msgstr "Heures d'ouverture"
+
+msgid "NOT"
+msgstr "Pas"
+
+msgid "WEL"
+msgstr "Bien"
+
+msgid "GRADE"
+msgstr "Note"
+
+msgid "FROM"
+msgstr "de"
+
+msgid "CITY"
+msgstr "Ville"
+
+msgid "OFFER"
+msgstr "Offre"
+
+msgid "OFFERS"
+msgstr "Offres"
+
+msgid "SHARE"
+msgstr "Partager"
+
+msgid "TWEET"
+msgstr "Tweeter"
+
+msgid "DELETE"
+msgstr "Supprimer"
+
+msgid "FREE"
+msgstr "Gratuit"
+
+msgid "DISCOUNT"
+msgstr "Votre avantage"
+
+msgid "HOME"
+msgstr "Accueil"
+
+msgid "EDIT"
+msgstr "Modifier"
+
+msgid "BILLING_ADDRESS"
+msgstr "Adresse de facturation"
+
+msgid "COMPANY_NAME"
+msgstr "Nom d'entreprise"
+
+msgid "ADDRESS"
+msgstr "Adresse"
+
+msgid "DELIVERY_ADDRESS"
+msgstr "Adresse de livraison"
+
+msgid "ZIPCODE"
+msgstr "Code postal"
+
+msgid "HOUSE_NO"
+msgstr "Numéro "
+
+msgid "STREET"
+msgstr "Rue"
+
+msgid "SITE_TAG"
+msgstr "sanitairwinkel_be"
+
+msgid "AND"
+msgstr "et"
+
+msgid "CONTACT"
+msgstr "Contact"
+
+msgid "GLOSSARY"
+msgstr "Glossaire"
+
+msgid "SUBTOTAL"
+msgstr "Sous-total"
+
+msgid "BROWSE"
+msgstr "Parcourir"
+
+msgid "NUMBER"
+msgstr "Numéro"
+
+msgid "CONTACT_DATA"
+msgstr "Coordonnées"
+
+msgid "BUNDEL"
+msgstr "Lot"
+
+msgid "CANCEL"
+msgstr "Annuler"
+
+msgid "ALL"
+msgstr "Tous"
+
+msgid "WEEK"
+msgstr "semaine"
+
+msgid "WEEKS"
+msgstr "semaines"
+
+msgid "AANMELDEN"
+msgstr "Enregistrer"
+
+msgid "CAT_USP_1"
+msgstr "Toutes les grandes marques"
+
+msgid "CAT_USP_2"
+msgstr "Un choix énorme"
+
+msgid "CAT_USP_3"
+msgstr "Livraison gratuite àpd 500 €"
+
+msgid "CAT_USP_4"
+msgstr "Conseils professionnels"
+
+msgid "BESTELNR_DESCRIPTION"
+msgstr "Saisissez ici votre no. de commande qui se trouve sur votre facture."
+
+msgid "BESTELNR"
+msgstr "No. de commande"
+
+msgid "DATE_FORMAT"
+msgstr "jj-mm-aaaa"
+
+msgid "FIRSTNAME"
+msgstr "Prénom"
+
+msgid "SANITAIRWINKEL_SPACES"
+msgstr "Sawiday"
+
+msgid "OPENED_UNTIL"
+msgstr "Ouvert jusqu’à"
+
+msgid "OCLOCK"
+msgstr "heures"
+
+msgid "VNV_KOOPAVOND"
+msgstr "<p class=\"blue\">Ce soir</p><p class=\"orange\">ouvert</p>"
+
+msgid "PREVIEW_BUNDLE"
+msgstr "Résumé de votre lot"
+
+msgid "BUNDLE_PRODUCT_NOT_CHOOSABLE"
+msgstr "Vous ne pouvez pas choisir ce produit pour ce lot."
+
+msgid "CLOSE"
+msgstr "Fermer"
+
+msgid "TODAY"
+msgstr "Aujourd'hui"
+
+msgid "JANUARY"
+msgstr "janvier"
+
+msgid "FEBRUARY"
+msgstr "février"
+
+msgid "MARCH"
+msgstr "mars"
+
+msgid "APRIL"
+msgstr "avril"
+
+msgid "MAY"
+msgstr "mai"
+
+msgid "JUNE"
+msgstr "juin"
+
+msgid "JULY"
+msgstr "juillet"
+
+msgid "AUGUST"
+msgstr "août"
+
+msgid "SEPTEMBER"
+msgstr "septembre"
+
+msgid "OCTOBER"
+msgstr "octobre"
+
+msgid "NOVEMBER"
+msgstr "novembre"
+
+msgid "DECEMBER"
+msgstr "décembre"
+
+msgid "JANUARY_SHORT"
+msgstr "jan"
+
+msgid "FEBRUARY_SHORT"
+msgstr "fév"
+
+msgid "MARCH_SHORT"
+msgstr "mar"
+
+msgid "APRIL_SHORT"
+msgstr "avr"
+
+msgid "MAY_SHORT"
+msgstr "mai"
+
+msgid "JUNE_SHORT"
+msgstr "jun"
+
+msgid "JULY_SHORT"
+msgstr "jul"
+
+msgid "AUGUST_SHORT"
+msgstr "aoû"
+
+msgid "SEPTEMBER_SHORT"
+msgstr "sep"
+
+msgid "OCTOBER_SHORT"
+msgstr "oct"
+
+msgid "NOVEMBER_SHORT"
+msgstr "nov"
+
+msgid "DECEMBER_SHORT"
+msgstr "déc"
+
+msgid "SUNDAY"
+msgstr "dimanche"
+
+msgid "MONDAY_SHORT"
+msgstr "lun"
+
+msgid "TUESDAY_SHORT"
+msgstr "mar"
+
+msgid "WEDNESDAY_SHORT"
+msgstr "mer"
+
+msgid "THURSDAY_SHORT"
+msgstr "jeu"
+
+msgid "FRIDAY_SHORT"
+msgstr "ven"
+
+msgid "SATURDAY_SHORT"
+msgstr "sam"
+
+msgid "SUNDAY_SHORT"
+msgstr "dim"
+
+msgid "MONDAY_SHORTEST"
+msgstr "lu"
+
+msgid "TUESDAY_SHORTEST"
+msgstr "ma"
+
+msgid "WEDNESDAY_SHORTEST"
+msgstr "me"
+
+msgid "THURSDAY_SHORTEST"
+msgstr "je"
+
+msgid "FRIDAY_SHORTEST"
+msgstr "ve"
+
+msgid "SATURDAY_SHORTEST"
+msgstr "sa"
+
+msgid "SUNDAY_SHORTEST"
+msgstr "di"
+
+msgid "WEEK_SHORT"
+msgstr "sm"
+
+msgid "NO_WEEKEND_DELIVERY"
+msgstr "Ce jour, livraison n'est pas possible, choisissez un autre jour svp."
+
+msgid "NO_DELIVERY_ON_THIS_DAY"
+msgstr "On ne peut pas livrer ce jour, choisissez un autre jour."
+
+msgid "VALIDATION_ENTER_EMAILADDRESS"
+msgstr "Entrez votre adresse e-mail"
+
+msgid "RATINGS"
+msgstr "Avis"
+
+msgid "LINK"
+msgstr "lien"
+
+msgid "STORE_EMAIL"
+msgstr "info@sawiday.fr"
+
+msgid "BELGIUM"
+msgstr "Belgique"
+
+msgid "EXPAND"
+msgstr "Déplier"
+
+msgid "SELECT"
+msgstr "Sélectionner"
+
+msgid "CAT_SUBCAT_DETAILS"
+msgstr "Voir sous-catégorie"
+
+msgid "CAT_READ_MORE"
+msgstr "Plus d'infos sur %s"
+
+msgid "MORE"
+msgstr "Plus"
+
+msgid "LESS"
+msgstr "Moins"
+
+msgid "ADDED"
+msgstr "Ajouté"
+
+msgid "CLOSED"
+msgstr "Fermé"
+
+msgid "OPEN"
+msgstr "Joignable"
+
+msgid "NO_INFORMATION"
+msgstr "Pas d'information"
+
+msgid "TOTAL"
+msgstr "Total"
+
+msgid "META_TITLE_SEARCH"
+msgstr "Chercher sur %s | Sawiday"
+
+msgid "ADDRESS_NOT_FOUND"
+msgstr "Adresse introuvable."
+
+msgid "AUTOCOMPLETE_ERROR"
+msgstr "Erreur : Les données d'adresse ne pouvaient pas être complétées automatiquement."
+
+msgid "REFERENCE"
+msgstr "Référence"
+
+msgid "FORGOTTEN_PASSWORD"
+msgstr "Oublié votre mot de passe ?"
+
+msgid "PASSWORD"
+msgstr "Mot de passe"
+
+msgid "DELIVERY_INDICATION_TOOLTIP_DACHSER"
+msgstr "C’est un délai de livraison estimé. Les délais de livraison dépendent sur la région de livraison. Ce produit est livré sur rendez-vous, le transporteur vous appellera."
+
+msgid "DELIVERY_INDICATION_TOOLTIP_BPOST"
+msgstr "C’est un délai de livraison estimé."
+
+msgid "DELIVERY_INDICATION_TOOLTIP_2_DACHSER"
+msgstr "Notre transporteur vous contactera afin de prendre rendez-vous pour la livraison."
+
+msgid "DELIVERY_INDICATION_TOOLTIP_2_BPOST"
+msgstr "C’est un délai de livraison estimé."
+
+msgid "DELIVERY_INDICATION_TOOLTIP_MULTIPLE"
+msgstr "C'est un délai de livraison estimé."
+
+msgid "DELIVERY_INDICATION_TOOLTIP_POSTNL"
+msgstr ""
+
+msgid "DELIVERY_INDICATION_TOOLTIP_SPREUWEL"
+msgstr ""
+
+msgid "SOCIAL_MEDIA_URL_FACEBOOK"
+msgstr "https://www.facebook.com/sawiday.fr/"
+
+msgid "SOCIAL_MEDIA_URL_PINTEREST"
+msgstr "https://www.pinterest.fr/Sawidayfr"
+
+msgid "SOCIAL_SHARE_PRODUCT"
+msgstr "Partagez ce produit :"
+
+msgid "LOGIN_NO_POST"
+msgstr "Vous n'avez pas rentré d'identifiant ou de mot de passe"
+
+msgid "DATE"
+msgstr "Date"
+
+msgid "PASSWORD_PLACEHOLDER"
+msgstr "Mot de passe"
+
+msgid "CONFIRM_PASSWORD_PLACEHOLDER"
+msgstr "Confirmez le mot de passe"
+
+msgid "CLOSED_TODAY"
+msgstr "Fermé aujourd'hui"
+
+msgid "OPEN_FROM_TO"
+msgstr "Aujourd'hui ouvert de %sh à %sh"
+
+msgid "NO_OPENINGHOUR_EXCEPTIONS"
+msgstr "<i>Aucune exception trouvée</i>"
+
+msgid "DEVIATING_OPENING_TIMES"
+msgstr "Heures d'ouverture exceptionnelles"
+
+msgid "SCROLL_TO_TOP"
+msgstr "Retourner en haut"
+
+msgid "DEAR"
+msgstr "Chère madame/Cher monsieur"
+
+msgid "PAYMENT_STATUS"
+msgstr "Etat du paiement"
+
+msgid "REMARKS"
+msgstr "Remarques"
+
+msgid "ORDER_STATUS"
+msgstr "Etat de commande"
+
+msgid "SOCIAL_MEDIA_URL_INSTAGRAM"
+msgstr "https://www.instagram.com/sawiday.fr/"
+
+msgid "EXPECTED_DELIVERY_DATE"
+msgstr "Livraison à partir du"
+
+msgid "EXPECTED_PICKUP_DATE"
+msgstr "Date de retrait prévue"
+
+msgid "TRANSPORTER"
+msgstr "Transporteur"
+
+msgid "DELIVERED_ON"
+msgstr "Livraison à partir du"
+
+msgid "TO_BE_DETERMINED"
+msgstr "à déterminer"
+
+msgid "VISIT_US"
+msgstr "Visitez-nous"
+
+msgid "REVIEWS_OPTIONAL_PLURAL"
+msgstr "Avis"
+
+msgid "COMPARE_HEADING"
+msgstr "Comparer produits"
+
+msgid "COMPARE_QUESTION"
+msgstr "Avez-vous une question ou besoin d'informations sur un produit ?"
+
+msgid "COMPARE_CONTACT_US"
+msgstr "Contactez-nous!"
+
+msgid "COMPARE_NOT_MOBILE"
+msgstr "Cette page n'est pas approprié pour appareils mobiles"
+
+msgid "COMPARE_COMPARE"
+msgstr "Comparer"
+
+msgid "COMPARE_PRODUCTS"
+msgstr "Produits"
+
+msgid "COMPARE_SHOW"
+msgstr "Voir comparaison"
+
+msgid "COMPARE_MAX_PRODUCTS"
+msgstr "Il est possible de comparer 3 produits au maximum"
+
+msgid "COMPARE_FREE_SPOT"
+msgstr "Cette place est libre pour un produit à comparer"
+
+msgid "BACK_TO_HOMEPAGE"
+msgstr "Retournez à la page d'accueil"
+
+msgid "DELIVERED"
+msgstr "Livré"
+
+msgid "COMPARE_MORE_PRODUCTS"
+msgstr "Ajoutez plus de produits afin de les comparer."
+
+msgid "PICKUP_DATE"
+msgstr "Date d'enlèvement"
+
+msgid "VIEW_ORDER_STATUS"
+msgstr "Etat de commande"
+
+msgid "PICK_YOUR_DELIVERY_DATE"
+msgstr "Choisissez la date de livraison"
+
+msgid "OWN_DELIVERY_SERVICE"
+msgstr "notre transporteur"
+
+msgid "SUPPLIER"
+msgstr "fournisseur"
+
+msgid "PRODUCT_CONFIG"
+msgstr "Guide choisir"
+
+msgid "PRODUCT_CONFIG_BUTTON_OPEN"
+msgstr "Ouvrir le guide choisir"
+
+msgid "PRODUCT_CONFIG_BUTTON_CLOSE"
+msgstr "Fermer le guide choisir"
+
+msgid "PRODUCT_CONFIG_ERROR"
+msgstr "Faites votre choix"
+
+msgid "PRODUCT_CONFIG_RESULTS"
+msgstr "Voir les résultats"
+
+msgid "PRODUCT_CONFIG_TOILET_TITLE"
+msgstr "Quelle lunette wc va sur mon WC ? "
+
+msgid "PRODUCT_CONFIG_TOILET_Q1"
+msgstr "Choisissez la lunette WC en fonction de la forme"
+
+msgid "PRODUCT_CONFIG_TOILET_Q2"
+msgstr "Comment monter votre abattant de toilette ?"
+
+msgid "PRODUCT_CONFIG_TOILET_Q3"
+msgstr "Mesurez votre cuvette et entrez les dimensions en mm."
+
+msgid "PRODUCT_CONFIG_TOILET_Q3_POPUP_LINK"
+msgstr "Aide pour mesurer vos toilettes"
+
+msgid "PRODUCT_CONFIG_TOILET_Q3_POPUP_TEXT"
+msgstr ""
+"Afin que votre lunette wc ira parfaitement sur votre cuvette, il est important de bien mesurer votre cuvette."
+"Dimension 1: Mesurez la distance à partir du milieu de chaque trou."
+"Dimension 2: Mesurez la distance entre la partie extérieure, au milieu du trou de la cuvette."
+"Dimension 3: Mesurez la distance des trous à l'avant de la cuvette."
+
+msgid "PRODUCT_CONFIG_TOILET_Q3_INPUT1"
+msgstr "Dimensions en mm"
+
+msgid "PRODUCT_CONFIG_TOILET_Q3_INPUT2"
+msgstr "Dimensions en mm"
+
+msgid "PRODUCT_CONFIG_TOILET_Q3_INPUT3"
+msgstr "Dimensions en mm"
+
+msgid "MORE_INFORMATION"
+msgstr "Plus d’informations"
+
+msgid "READ_MORE"
+msgstr " En savoir plus"
+
+msgid "CATEGORIES"
+msgstr "Nos catégories"
+
+msgid "INFORMATION"
+msgstr "Information"
+
+msgid "DATE_OF_BIRTH"
+msgstr "Date de naissance"
+
+msgid "BACK_TO"
+msgstr "Vers"
+
+msgid "ARIA_PAGINATION_GO_TO_PAGE"
+msgstr "Vers la page"
+
+msgid "ARIA_PAGINATION_CURRENT_PAGE"
+msgstr "Page actuelle, page"
+
+msgid "ARIA_PAGINATION_GO_TO_PREV_PAGE"
+msgstr "Vers la page précédente"
+
+msgid "ARIA_PAGINATION_GO_TO_NEXT_PAGE"
+msgstr "Vers la page suivante"
+
+msgid "ARIA_PAGINATION_NAVIGATION"
+msgstr "Navigation de page"
+
+msgid "READ_LESS"
+msgstr "Voir moins"
+
+msgid "PAYMENT_LINK"
+msgstr "Lien de paiement"
+
+msgid "PICK_SUB_CATEGORY"
+msgstr "Choisissez (sous)catégorie"
+
+msgid "FILTER_AND_SORT"
+msgstr "Filtrer et ranger"
+
+msgid "SHOW_X_ARTICLES"
+msgstr "Afficher %s produits"
+
+msgid "DATE_PREFERENCE"
+msgstr "Date de préférence"
+
+msgid "PICK_A_CATEGORY"
+msgstr "Choisissez (sous)catégorie"
+
+msgid "FILTER_WITHIN_X_ARTICLES"
+msgstr "Filtrer parmi %d produits"
+
+msgid "MONTH"
+msgstr "Mois"
+
+msgid "YEAR"
+msgstr "Année"
+
+msgid "TO"
+msgstr "à"
+
+msgid "MORE_CATEGORIES"
+msgstr "catégories"
+
+msgid "QUOTATION_NO"
+msgstr "Numéro de devis"
+
+msgid "ACCEPT_QUOTATION_MESSAGE"
+msgstr ""
+"<p><b>Nous vous remercions pour votre commande et votre confiance en Sawiday !</b>"
+"<br><br>"
+"Votre commande est en cours de traitement. Nous vous contacterons dans les plus brefs délais pour la suite de la procédure.</p>"
+
+msgid "MODIFY_QUOTATION_MESSAGE"
+msgstr "Merci ! Nous avons bien reçu votre demande et nous vous contacterons dès que possible."
+
+msgid "SAWIDAY_NAMECHANGE_POPUP_TITLE"
+msgstr "Bonne nouvelle !"
+
+msgid "SAWIDAY_NAMECHANGE_POPUP_CONTENT"
+msgstr "<p>Sawiday a changé de nom ! Retrouvez-nous désormais sur Sawiday.fr !</span></p><p>Continuons à créer ensemble les plus belles salles de bains !</p>"
+
+msgid "SAWIDAY_NAMECHANGE_POPUP_BUTTONTEXT"
+msgstr "Vers le site"
+
+msgid "DAYTIME_MONDAY"
+msgstr "Lundi"
+
+msgid "DAYTIME_MONDAYDAYTIME"
+msgstr "Lundi dans la journée"
+
+msgid "DAYTIME_MONDAYMORNING"
+msgstr "Lundi matin"
+
+msgid "DAYTIME_MONDAYAFTERNOON"
+msgstr "Lundi après-midi"
+
+msgid "DAYTIME_MONDAYEVENING"
+msgstr "Lundi soir"
+
+msgid "DAYTIME_MONDAYNIGHT"
+msgstr "Lundi soir"
+
+msgid "DAYTIME_TUESDAY"
+msgstr "Mardi"
+
+msgid "DAYTIME_TUESDAYDAYTIME"
+msgstr "Mardi dans la journée"
+
+msgid "DAYTIME_TUESDAYMORNING"
+msgstr "Mardi matin"
+
+msgid "DAYTIME_TUESDAYAFTERNOON"
+msgstr "Mardi après-midi"
+
+msgid "DAYTIME_TUESDAYEVENING"
+msgstr "Mardi soir"
+
+msgid "DAYTIME_TUESDAYNIGHT"
+msgstr "Mardi soir"
+
+msgid "DAYTIME_WEDNESDAY"
+msgstr "Mercredi"
+
+msgid "DAYTIME_WEDNESDAYDAYTIME"
+msgstr "Mercredi dans la journée"
+
+msgid "DAYTIME_WEDNESDAYMORNING"
+msgstr "Mercredi matin"
+
+msgid "DAYTIME_WEDNESDAYAFTERNOON"
+msgstr "Mercredi après-midi"
+
+msgid "DAYTIME_WEDNESDAYEVENING"
+msgstr "Mercredi soir"
+
+msgid "DAYTIME_WEDNESDAYNIGHT"
+msgstr "Mercredi soir"
+
+msgid "DAYTIME_THURSDAY"
+msgstr "Jeudi"
+
+msgid "DAYTIME_THURSDAYDAYTIME"
+msgstr "Jeudi dans la journée"
+
+msgid "DAYTIME_THURSDAYMORNING"
+msgstr "Jeudi matin"
+
+msgid "DAYTIME_THURSDAYAFTERNOON"
+msgstr "Jeudi après-midi"
+
+msgid "DAYTIME_THURSDAYEVENING"
+msgstr "Jeudi soir"
+
+msgid "DAYTIME_THURSDAYNIGHT"
+msgstr "Jeudi soir"
+
+msgid "DAYTIME_FRIDAY"
+msgstr "Vendredi"
+
+msgid "DAYTIME_FRIDAYDAYTIME"
+msgstr "Vendredi dans la journée"
+
+msgid "DAYTIME_FRIDAYMORNING"
+msgstr "Vendredi matin"
+
+msgid "DAYTIME_FRIDAYAFTERNOON"
+msgstr "Vendredi après-midi"
+
+msgid "DAYTIME_FRIDAYEVENING"
+msgstr "Vendredi soir"
+
+msgid "DAYTIME_FRIDAYNIGHT"
+msgstr "Vendredi soir"
+
+msgid "DAYTIME_SATURDAY"
+msgstr "Samedi"
+
+msgid "DAYTIME_SATURDAYDAYTIME"
+msgstr "Samedi dans la journée"
+
+msgid "DAYTIME_SATURDAYMORNING"
+msgstr "Samedi matin"
+
+msgid "DAYTIME_SATURDAYAFTERNOON"
+msgstr "Samedi après-midi"
+
+msgid "DAYTIME_SATURDAYEVENING"
+msgstr "Samedi soir"
+
+msgid "DAYTIME_SATURDAYNIGHT"
+msgstr "Samedi soir"
+
+msgid "DAYTIME_SUNDAY"
+msgstr "Dimanche"
+
+msgid "DAYTIME_SUNDAYDAYTIME"
+msgstr "Dimanche dans la journée"
+
+msgid "DAYTIME_SUNDAYMORNING"
+msgstr "Dimanche matin"
+
+msgid "DAYTIME_SUNDAYAFTERNOON"
+msgstr "Dimanche après-midi"
+
+msgid "DAYTIME_SUNDAYEVENING"
+msgstr "Dimanche soir"
+
+msgid "DAYTIME_SUNDAYNIGHT"
+msgstr "Dimanche soir"
+
+msgid "DAYTIME_TODAY"
+msgstr "Aujourd'hui"
+
+msgid "DAYTIME_TODAYDAYTIME"
+msgstr "Aujourd'hui dans la journée"
+
+msgid "DAYTIME_TODAYMORNING"
+msgstr "Ce matin"
+
+msgid "DAYTIME_TODAYAFTERNOON"
+msgstr "Cet après-midi"
+
+msgid "DAYTIME_TODAYEVENING"
+msgstr "Ce soir"
+
+msgid "DAYTIME_TODAYNIGHT"
+msgstr "La nuit prochaine"
+
+msgid "DAYTIME_TOMORROW"
+msgstr "Demain"
+
+msgid "DAYTIME_TOMORROWDAYTIME"
+msgstr "Demain dans la journée"
+
+msgid "DAYTIME_TOMORROWMORNING"
+msgstr "Demain matin"
+
+msgid "DAYTIME_TOMORROWAFTERNOON"
+msgstr "Demain après-midi"
+
+msgid "DAYTIME_TOMORROWEVENING"
+msgstr "Demain soir"
+
+msgid "DAYTIME_TOMORROWNIGHT"
+msgstr "Demain soir"
+
+msgid "DAYTIME_UNKNOWN"
+msgstr "Inconnu"
+
+msgid "DAYTIME_DELIVERY"
+msgstr "Livraison en journée"
+
+msgid "CANCELLED"
+msgstr "Annulé"
+
+msgid "ORDER_NO"
+msgstr "No. de commande"
+
+msgid "COMPANY_DETAILS"
+msgstr "Données entreprise"
+
+msgid "REVIEW_RATING_BANNER"
+msgstr "sur <span>%s</span> avis"
+
+msgid "MORE_IMAGES"
+msgstr ""
+"Voir %1$d autre image"
+""
+""
+
+msgid "MORE_IMAGES_PLURAL"
+msgstr "Voir %1$d autres images"
+
+msgid "LESS_IMAGES"
+msgstr "Afficher moins d'images"
+
+msgid "NUMBER_OF_BOXES"
+msgstr "Nombre de cartons"
+
+msgid "SHOW_MORE_OPTIONS"
+msgstr "Afficher plus d'options"
+

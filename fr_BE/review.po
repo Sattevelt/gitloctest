@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "SUCCESS"
+msgstr "Merci pour votre commentaire. Votre contribution sera examinée dès que possible."
+
+msgid "FOOTER"
+msgstr "Commentaires sont toujours examinées par notre équipe d'assistance clientèle avant leur validation en ligne. Le traitement de votre commentaire peut prendre jusqu'à 3 jours ouvrables."
+
+msgid "PLACE_MORE"
+msgstr "Placez plus de commentaires et augmentez vos chances de gagner le chèque-cadeau d'une valeur de 100 euros."
+
+msgid "CONCERNS_ORDER"
+msgstr "Votre commentaire concerne le numéro de commande de %d"
+
+msgid "RATING_BAD"
+msgstr "Mauvais"
+
+msgid "RATING_MODERATE"
+msgstr "Assez bien"
+
+msgid "RATING_SUFFICIENT"
+msgstr "Suffisant"
+
+msgid "RATING_AMPLE"
+msgstr "Plus que suffisant"
+
+msgid "RATING_EXCELLENT"
+msgstr "Excellent"
+
+msgid "TITLE"
+msgstr "Ajouter un commentaire"
+
+msgid "PRODUCT_OPINION"
+msgstr "Que pensez-vous de ce produit ?"
+
+msgid "RATING_EXPLAIN"
+msgstr "Donnez une explication à votre appréciation"
+
+msgid "RATING_EXPLAIN_PLACEHOLDER"
+msgstr "Indiquez ici tous les points positifs et négatifs par produit. Ce qui est utile ou non ? Pensez aussi au rapport qualité/prix et si le produit répond à vos attentes."
+
+msgid "ADD_PICTURES"
+msgstr "Ajoutez éventuellement des photos du produit"
+
+msgid "ICONS"
+msgstr ""
+"<a href=\"https://www.becommerce.be/fr\" target=\"_blank\" style=\"margin:0px 0px 0px 490px;\">"
+"    <img src=\"//static.rorix.nl/skins/1/images/becommerce.png\" style=\"\" alt=\"BeCommerce\"/>"
+"</a>"
+
+msgid "REVIEW_IMAGE"
+msgstr "Photo de client"
+
+msgid "LEAVE_REVIEW"
+msgstr "Donnez votre avis"
+
+msgid "REVIEW_SCORE"
+msgstr "Produit a reçu un"
+
+msgid "REVIEW_SINGULAR"
+msgstr "avis"
+
+msgid "REVIEW_PLURAL"
+msgstr "avis"
+
+msgid "PLEASE_ENTER_NAME"
+msgstr "Entrez votre nom."
+
+msgid "PLEASE_ENTER_REVIEW"
+msgstr "Donnez votre avis."
+
+msgid "PLEASE_ENTER_RATING"
+msgstr "Donnez votre évaluation."
+
+msgid "PLEASE_ENTER_CITY"
+msgstr "Entrez votre lieu de résidence."
+
+msgid "SELECT_MAX_2_IMAGES"
+msgstr "Sélectionnez 2 images au maximum pour ce produit."
+
+msgid "DONT_ENTER_DATA"
+msgstr "N'entrez pas de données dans le champ à côté pour un traitement correct."
+
+msgid "DONT_PUBLISH_MY_NAME"
+msgstr "Ne montrez pas mon nom."
+
+msgid "REVIEW_UPLOAD_SUCCESS"
+msgstr "Votre avis est ajouté avec succès et sera publié après une contrôle."
+
+msgid "REVIEW_UPLOAD_FAIL"
+msgstr "Une erreur s'est produite en ajoutant votre évaluation."
+
+msgid "ADD_REVIEW_SHORT"
+msgstr "Votre avis"
+
+msgid "RATING_GOOD"
+msgstr "Bien"
+
+msgid "REVIEWS_PAGE_TITLE"
+msgstr "Sawiday : Avis et reviews"
+
+msgid "REVIEWS_PAGE_INTRO"
+msgstr ""
+"<p>Votre expérience est importante pour nous. Les retours positifs et négatifs sont les bienvenus car ils nous aident à comprendre ce qui fonctionne bien et ce qui peut être amélioré. Nous ne proposons pas de récompenses pour les avis écrits.Souhaitez-vous savoir comment nos clients nous évaluent?</p>"
+
+"<p>Souhaitez-vous partager votre expérience avec nous ? Vous pouvez le faire via le bouton ci-dessous.</p>"
+
+"<p>Tous les avis sur Sanitairwinkel.nl sont disponibles sur cette page. Nous utilisons le système de reviews indépendant Kiyoh. Tous les avis et expériences partagés sont donc vérifiés et ne sont pas des avis fictifs.</p>"
+
+msgid "REVIEWS_PAGE_BUTTON_ADD"
+msgstr ""
+""
+"<p><a href=\"https://www.kiyoh.com/add-review/1076957/sawiday_be\" class=\"btn\" target=\"_blank\"><span>ajouter un avis</span></a></p>"
+""
+
+msgid "REVIEWS_LOGOS"
+msgstr ""
+
+msgid "RATING_AVERAGE"
+msgstr "Moyen"
+
+msgid "RATING_VERY_BAD"
+msgstr "Mauvais"
+
+msgid "REVIEW_SCORE_WORDING_VERY_BAD"
+msgstr "Mauvais"
+
+msgid "REVIEW_SCORE_WORDING_BAD"
+msgstr "Bas"
+
+msgid "REVIEW_SCORE_WORDING_AVERAGE"
+msgstr "Moyen"
+
+msgid "REVIEW_SCORE_WORDING_GOOD"
+msgstr "Bien"
+
+msgid "REVIEW_SCORE_WORDING_EXELENT"
+msgstr "Excellent"
+
+msgid "REVIEW_BADGE_TEXT"
+msgstr "%1$s avis dans <br />les 12 derniers mois"
+
+msgid "REVIEW_REVIEWS_TITLE"
+msgstr "Sanitairwinkel obtient de ses clients sur Kiyoh une note de %1$s basée sur %2$s avis dans les 12 derniers mois!"
+
+msgid "REVIEW_REVIEWS_SUBTITLE"
+msgstr "Consultez ici tous les avis de Sanitairwinkel sur Kiyoh."

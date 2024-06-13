@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "TITLE"
+msgstr "Formulaire de contact"
+
+msgid "IMAGE_UPLOAD_ERROR"
+msgstr "Une erreur s'est produite lors de l'ajout des images"
+
+msgid "META_DESCRIPTION"
+msgstr "Contactez Sawiday"
+
+msgid "SUBJECT_QUESTION_ORDER"
+msgstr "Vous pouvez toujours vérifier l'état de votre commande sur notre site web en cliquant sur le lien état de commande."
+
+msgid "SUBJECT_COMPLAINT"
+msgstr "Vous recevrez toujours une réponse sur votre réclamation endéans les 5 jours ouvrables. Pour pouvoir accepter votre réclamation, nous vous demandons de compléter les informations ci-dessous."
+
+msgid "SUBJECT_DAMAGE"
+msgstr "Vous recevrez toujours une réponse endéans les 5 jours ouvrables sur votre dommage. Pour accepter vos dommages, nous vous demandons de compléter les informations ci-dessous."
+
+msgid "SUBJECT_RETURN"
+msgstr "Il est toujours possible que le produit ne satisfait pas à vos attentes. Pour gérer votre demande de retour, veuillez consulter nos conditions de retour et puis remplissez les informations ci-dessous."
+
+msgid "SUBJECT_CHEAPER"
+msgstr "Si, malgré notre politique de prix concurrentiels, vous trouvez exactement le même produit moins cher ailleurs, veuillez nous le signaler. Peut être nous pouvons vous faire une contre-offre. Après avoir passé une commande, vous ne pouvez plus réclamer toute différence de prix chez nous."
+
+msgid "SUBJECT_ERROR"
+msgstr "Veuillez donner autant de détails que possible de vos actions jusqu'à ce que vous faisiez l'erreur. Pourriez vous nous donner votre navigateur web et le système d'exploitation en plus ? Comme cela nous trouvons une solution le plus vite possible!"
+
+msgid "SUBJECT_PRODUCT_NOT_FOUND"
+msgstr "Vous ne trouvez pas ce que vous cherchez ? Nous pouvons livrer des articles de toutes les grandes marques. Cherchez-vous quelque chose de spéciale ? Envoyez-nous le numéro d'article et nous vous donnerons notre meilleur prix !"
+
+msgid "SUBJECT_QUESTION_PRODUCT"
+msgstr "Si l'information sur notre site web ne suffit pas ou si vous souhaitez des conseils ? Posez votre question !"
+
+msgid "LABEL_COMPLAINT"
+msgstr "Description de la réclamation"
+
+msgid "LABEL_DAMAGE"
+msgstr "Description des dommages"
+
+msgid "LABEL_ERROR"
+msgstr "Description erreur"
+
+msgid "SUCCESS"
+msgstr ""
+"<h2>Merci pour votre e-mail.</h2>"
+"<p>Nous traiterons votre question dès que possible.</p>"
+
+msgid "FORM_INCOMPLETE"
+msgstr "Vous n'avez pas rempli tous les champs qui sont nécessaire pour un traitement correct et rapide."
+
+msgid "SELECT_SUBJECT_GENERAL"
+msgstr "Question générale"
+
+msgid "SELECT_SUBJECT_QUESTION_PRODUCT"
+msgstr "Question sur un produit"
+
+msgid "SELECT_SUBJECT_QUESTION_ORDER"
+msgstr "Question sur votre commande"
+
+msgid "SELECT_SUBJECT_PRODUCT_NOT_FOUND"
+msgstr "Produit pas trouvé"
+
+msgid "SELECT_SUBJECT_COMPLAINT"
+msgstr "Réclamation"
+
+msgid "SELECT_SUBJECT_DAMAGE"
+msgstr "Demande de service"
+
+msgid "SELECT_SUBJECT_RETURN"
+msgstr "Question à propos de retours"
+
+msgid "SELECT_SUBJECT_CHEAPER"
+msgstr "Un meilleur prix ailleurs"
+
+msgid "SELECT_SUBJECT_ERROR"
+msgstr "Erreur sur le site web"
+
+msgid "SELECT_SUBJECT"
+msgstr "Sélectionnez votre sujet"
+
+msgid "ENTER_NOTHING"
+msgstr "N'entrer aucune donnée dans le champ à droite pour un fonctionnement correct."
+
+msgid "INFORMATION_TITLE"
+msgstr "Données de contact"
+
+msgid "PAGE_TITLE"
+msgstr "Contacter"
+
+msgid "DESCRIPTION"
+msgstr "Le service client de Sawiday.fr est prêt à vous assister rapidement et adéquat. Vous pouvez nous joindre par mail, téléphone, courrier et fax. En outre, vous pouvez bien sûr venir à notre magasin."
+
+msgid "OTHER_INFORMATION"
+msgstr "Autres informations"
+
+msgid "PICKUP_LOCATION"
+msgstr "Point d'enlèvement"
+
+msgid "SELECT_SUBJECT_REQUEST_SAMPLE"
+msgstr "Demander échantillon"
+
+msgid "SEND_REQUEST"
+msgstr "Envoyer demande"
+
+msgid "CONTACT_OPEN"
+msgstr "Visitez, appelez ou envoyez-nous un courriel !"
+
+msgid "CONTACT_CLOSED"
+msgstr "Envoyez-nous un courriel!"
+
+msgid "THANKS_MESSAGE_SENT"
+msgstr "Merci, votre message est envoyé."
+
+msgid "CONTACT_FORM_EMAIL_CONFIRMATION_SUBJECT"
+msgstr "Nous avons bien reçu votre message!"
+
+msgid "CONTACT_FORM_EMAIL_CONFIRMATION"
+msgstr "Cher monsieur, chère madame,<br /><br />Nous confirmons d'avoir reçu votre message par le formulaire de contact. Nous vous contacterons dès que possible.<br /><br />Cordialement,<br />Service client Sawiday.fr"
+
+msgid "MAKE_APPOINTMENT"
+msgstr "Prendre rendez-vous"
+
+msgid "CHOOSE"
+msgstr "Choisissez.."
+
+msgid "VISITREQUEST_ERROR"
+msgstr "Une erreur s'est produite lors du traitement de votre demande:"
+
+msgid "SENDING_MAIL_FAILED"
+msgstr "Ce n'était pas possible de vous envoyer un courriel. Réessayez plus tard, s'il vous plait!"
+
+msgid "VIDEO_CALL"
+msgstr "Je préfère faire appel au service télé-conseil (appel vidéo)"
+
+msgid "UPLOAD_FILE_VISIT_REQUEST"
+msgstr "Téléchargez ici une photo / un dessin / un devis (facultatif mais utile)"
+
+msgid "ATTACHMENT"
+msgstr "Annexe"
+
+msgid "ERROR_FILE_UPLOAD_BLOCKED"
+msgstr "Le type de fichier %s est bloqué"
+
+msgid "ERROR_FILE_UPLOAD_SIZE"
+msgstr "Le fichier est trop volumineux"
+
+msgid "ERROR_FILE_UPLOAD_NO_FILE"
+msgstr "Le fichier n'a pas été envoyé correctement"
+
+msgid "ERROR_FILE_UPLOAD_DEFAULT"
+msgstr "Le téléchargement a échoué, veuillez réessayer"
+
+msgid "CONTACT_US"
+msgstr "Envoyez votre message, nous vous recontacterons au plus vite."
+
+msgid "TIME_FRAME_QUESTION"
+msgstr "Dans quel délai avez-vous besoin de vos produits?"
+
+msgid "TIME_FRAME_ANSWER_WITHIN_MONTH"
+msgstr "Dans un mois ou moins"
+
+msgid "TIME_FRAME_ANSWER_WITHIN_THREE_MONTHS"
+msgstr "Dans trois mois"
+
+msgid "TIME_FRAME_ANSWER_BETWEEN_TWO_THREE_MONTHS"
+msgstr "Entre trois et six mois"
+
+msgid "TIME_FRAME_ANSWER_SIX_MONTHS_OR_LATER"
+msgstr "Dans six mois ou plus tard"
+
+msgid "STYLE_MOODBOARD_QUESTION"
+msgstr "Avez-vous déjà trouvé un style, un moodboard ou une salle de bain qui vous intéresse?"
+
+msgid "STYLE_MOODBOARD_EXPLANATION"
+msgstr "Copiez les liens du site web ou les noms du moodboard ici (plusieurs liens possibles)"
+
+msgid "CONTACT_FORM_B2B_TEXT"
+msgstr "<h2 class=\"heading-dot\">Contactez-nous</h2><p>Vous désirez devenir client Business, vous souhaitez recevoir un devis ou vous aimeriez nous poser une question ? Laissez-nous vos coordonnées en utilisant le formulaire ci-joint et nous vous contacterons dès que possible.</p><ul><li>Appelez-nous : +33 9 80090519 / +32 (0)469 10 58 30</li><li>Envoyez-nous un e-mail: business@sawiday.fr</li></ul><br /><h3>ADRESSE DE VISITE</h3><p>Sawiday Belgique<br />Chaussée de Louvains 1-3<br />1932 Zaventem (Woluwe-Saint-Etienne)</p>"
+
+msgid "MAKE_APPOINTMENT_HEADER"
+msgstr "Prendre rendez-vous"
+

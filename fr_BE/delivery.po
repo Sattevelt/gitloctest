@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "TOMORROW_IN_HOUSE"
+msgstr "Livré demain"
+
+msgid "ON_STOCK"
+msgstr "En stock"
+
+msgid "WITHIN_X_DAYS"
+msgstr "dans les %d jours"
+
+msgid "WITHIN_ONE_WEEK"
+msgstr "sous 7 jours"
+
+msgid "WITHIN_X-Y_WEEKS"
+msgstr "%d - %d semaines"
+
+msgid "BY_APPOINTMENT"
+msgstr "Livraison sur rendez-vous"
+
+msgid "ORDER_TODAY_BEFORE"
+msgstr "Commandé avant %s heures, livré chez vous %s"
+
+msgid "ORDER_TODAY"
+msgstr "Commandé aujourd’hui, livré chez vous %s"
+
+msgid "DELIVERED_AT"
+msgstr "%s, livré chez vous %s"
+
+msgid "DELIVERED_FROM_DAYS"
+msgstr "Livré chez vous dans les %s jours"
+
+msgid "DELIVERED_FROM_WEEKS"
+msgstr "Livré chez vous dans les %d semaines"
+
+msgid "INSTANT_PICKUP"
+msgstr "Enlèvement direct"
+
+msgid "TAKE_AWAY_FROM"
+msgstr "Commandez et retirez dès le "
+
+msgid "FROM_DAYS"
+msgstr "dans les %s jours"
+
+msgid "DELIVERED_TODAY"
+msgstr "Livré aujourd'hui"
+

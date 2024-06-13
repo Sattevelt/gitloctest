@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "WIDGET_TITLE"
+msgstr "Comparer"
+
+msgid "WIDGET_BUTTON_SHOW"
+msgstr "Voir comparaison"
+
+msgid "PRODUCT_CHECKBOX_LABEL"
+msgstr "Comparer"
+
+msgid "COMPARE_PRODUCT_AMOUNT_REACHED"
+msgstr "Limite de 5 produits atteinte. Supprimez un produit pour ajouter un nouveau produit."
+
+msgid "COMPARE_PAGE_TITLE"
+msgstr "comparer les produits"
+
+msgid "COMPARE_PAGE_KEYWORDS"
+msgstr ""
+
+msgid "COMPARE_PAGE_DESCRIPTION"
+msgstr ""
+

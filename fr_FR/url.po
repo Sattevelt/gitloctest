@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "serviceaanvraag"
+msgstr "demande-de-service"
+
+msgid "bestelstatus"
+msgstr "etat-de-commande"
+
+msgid "winkelwagen"
+msgstr "panier"
+
+msgid "nieuwsbrief"
+msgstr "newsletter"
+
+msgid "aanmelden"
+msgstr "sinscrire"
+
+msgid "wijzigen"
+msgstr "modifier"
+
+msgid "afmelden"
+msgstr "desabonner"
+
+msgid "merken"
+msgstr "marques"
+
+msgid "zoeken"
+msgstr "chercher"
+
+msgid "retouraanvraag"
+msgstr "demande-annulation"
+
+msgid "aangevraagd"
+msgstr "Envoyé"
+
+msgid "gegevens"
+msgstr "donnees"
+
+msgid "overzicht"
+msgstr "resume"
+
+msgid "afgerond"
+msgstr "complete"
+
+msgid "fout"
+msgstr "erreur"
+
+msgid "afhaalpunt"
+msgstr "point d'enlèvement"
+
+msgid "resetpassword"
+msgstr "retrablir-mot-de-passe"
+
+msgid "customer"
+msgstr "client"
+
+msgid "enter"
+msgstr "remplir"
+
+msgid "maillink"
+msgstr "mail"
+
+msgid "set"
+msgstr "ensemble"
+
+msgid "accountactivation"
+msgstr "activation-de-compte"
+
+msgid "activate"
+msgstr "activer"
+
+msgid "setpassword"
+msgstr "creer-mot-de-passe"
+
+msgid "inloggen"
+msgstr "connecter"
+
+msgid "SCHEDULE"
+msgstr "planifier"
+
+msgid "SHOPPING_CART"
+msgstr "panier"
+
+msgid "SHOPPING_CART_CUSTOMER_DATA"
+msgstr "donnees"
+
+msgid "SHOPPING_CART_LOGIN"
+msgstr "login"
+
+msgid "SHOPPING_CART_DELIVERY"
+msgstr "livraison"
+
+msgid "SHOPPING_CART_PAYMENT"
+msgstr "paiement"
+
+msgid "SHOPPING_CART_FAILED"
+msgstr "erreur"
+
+msgid "SHOPPING_CART_COMPLETED"
+msgstr "complete"
+
+msgid "SHOPPING_CART_ADD_PRODUCT"
+msgstr "ajouter"
+
+msgid "SHOPPING_CART_CHANGE_PRODUCT_AMOUNT"
+msgstr "update"
+
+msgid "SHOPPING_CART_REMOVE_PRODUCT"
+msgstr "supprimer"
+
+msgid "SHOPPING_CART_ADD_PROMOTION"
+msgstr "ajouter-promotion"
+
+msgid "SHOPPING_CART_STORE_AND_MAIL"
+msgstr "mail"
+
+msgid "SHOPPING_CART_RESTORE"
+msgstr "récupérer"
+
+msgid "SHOPPING_CART_PAY_RETRY"
+msgstr "payer-commande"
+
+msgid "FINALIZE_FAILED"
+msgstr "commandeinachevee"
+
+msgid "ORDER"
+msgstr "commande"
+
+msgid "ORDER_PAYMENT"
+msgstr "paiement"
+
+msgid "ORDER_HANDLE_PAYMENT"
+msgstr "traitement"
+
+msgid "VALIDATE_GIFTCARD"
+msgstr "cadeaubon-valideren"
+
+msgid "SCHEDULE_PROCESS"
+msgstr "planifier-traiter"
+
+msgid "COMPARE_PRODUCTS"
+msgstr "comparer"
+
+msgid "VISITREQUEST"
+msgstr "visite-rendez-vous"
+
+msgid "VISITREQUEST_PROCESS"
+msgstr "traiter"
+
+msgid "ORDER_FINALIZE_PAYMENT"
+msgstr "finaliser"
+
+msgid "SEARCH_PAGE_TITLE"
+msgstr "Resultats de recherche pour %s"
+
+msgid "SEARCH_URL"
+msgstr "chercher"
+
+msgid "SHOPPING_CART_REMOVE_PROMOTION"
+msgstr "supprimer-promotion"
+
+msgid "QUOTATION"
+msgstr "devis"
+
+msgid "ACCEPT_QUOTATION"
+msgstr "accepter"
+
+msgid "EDIT"
+msgstr "modifier"
+
+msgid "COMPARE_QUOTATION"
+msgstr "devis"
+
+msgid "GLOSSARY"
+msgstr "glossaire"
+
+msgid "FLOWBOX"
+msgstr "mysawiday"
+
+msgid "CUSTOMER_ACCOUNT"
+msgstr "compte"
+
+msgid "CUSTOMER_ACCOUNT_ADDRESS_LIST"
+msgstr "adresses"
+
+msgid "CUSTOMER_ACCOUNT_DETAILS"
+msgstr "données"
+
+msgid "CUSTOMER_ACCOUNT_ORDER_OVERVIEW"
+msgstr "commandes"
+
+msgid "CUSTOMER_ACCOUNT_PREFERENCES"
+msgstr "préférences"
+
+msgid "CUSTOMER_ACCOUNT_DISCOUNTS"
+msgstr "remises"
+
+msgid "CUSTOMER_ACCOUNT_LOGIN"
+msgstr "se-connecter"
+
+msgid "CUSTOMER_ACCOUNT_LOGOUT"
+msgstr "se-déconnecter"
+
+msgid "NEW"
+msgstr "Nouveau"
+
+msgid "CUSTOMER_ACCOUNT_CREATION"
+msgstr "enregistrez"
+
+msgid "URL_WISHLIST"
+msgstr "liste-denvies"
+
+msgid "CUSTOMER_PROFILE"
+msgstr "profil"
+

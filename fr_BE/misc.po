@@ -1,0 +1,909 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "SEARCH_BRAND"
+msgstr "Recherche par marque"
+
+msgid "BRAND_NOT_IN_ASSORTMENT"
+msgstr "Cette marque, nous n'avons pas encore dans notre gamme."
+
+msgid "BUSINESS_PAGE_NOT_AVAILABLE"
+msgstr "Page d'entreprise n'est pas disponible."
+
+msgid "BUSINESS_HEADER"
+msgstr "Sawiday pour l´entreprise"
+
+msgid "USP1"
+msgstr "<img width=\"20\" height=\"20\" alt=\"klok\" src=\"//static.rorix.nl/skins/1/images/huis_grijs.png\"><a href=\"/fr-be/service-client/a-propos-sawiday/#showrooms\"><span>Magasin à</span> <span style=\"color: #fa8d0c;\">Schoten et Zaventem</span></a>"
+
+msgid "USP2_DEPRECATED"
+msgstr "<img width=\"20\" height=\"20\" alt=\"bezorging\" src=\"//static.rorix.nl/skins/1/images/bezorgd_grijs.png\" style=\"margin-left: 93px;\"><a href=\"https://service.sawiday.com/hc/fr-be/sections/9878561634717-Livraison-et-enlèvement\"><span style=\"color: #fa8d0c;\">Livraison gratuite </span><span>à partir de € 150,-</span></a>"
+
+msgid "USP3"
+msgstr "<img width=\"20\" height=\"20\" alt=\"klok\" src=\"//static.rorix.nl/skins/1/images/klok_grijs.png\" style=\"margin-left: 94px;\"><a href=\"https://service.sawiday.com/hc/fr-be/sections/9878561634717-Livraison-et-enlèvement\"><span>Livraison </span><span style=\"color: #fa8d0c;\">sur rendez-vous</span></a>"
+
+msgid "USP4"
+msgstr "<img style='margin-left: 58px;' src=\"//static.rorix.nl/skins/1/images/becommerce_usp_icon.png\" alt=\"BeCommerce\" width=\"20\" height=\"20\" /><a href=\"https://www.becommerce.be/fr/membres/chercher-un-membre/d/certificate/206\" title=\"Faire son e-shopping en sécurité avec BeCommerce!\" target=\"_blank\"><span>Membre</span><span style=\"color: #fa8d0c;\">BeCommerce</span></a>"
+
+msgid "NAV_UPPER"
+msgstr ""
+"<ul>"
+"				<li><a href=\"/fr-be/service-client/a-propos-sanitairwinkel/#showrooms\">Showrooms</a></li>"
+"				<li>|</li>"
+"				<li><a href=\"/fr-be/etat-de-commande/\">Etat de commande</a></li>"
+"				<li>|</li>"
+"				<li><a href=\"/fr-be/demande-de-service/\">Demande de service</a></li>"
+"				<li>|</li>"
+"				<li><a href=\"/fr-be/contact/\">Contact</a></li>"
+"			</ul>"
+
+msgid "ALL_CATEGORIES"
+msgstr "Toutes les catégories"
+
+msgid "SEARCH_HERE"
+msgstr "Rechercher une marque, un produit..."
+
+msgid "NO_PRODUCTS"
+msgstr "Pas de produits"
+
+msgid "SURNAME"
+msgstr "Nom"
+
+msgid "SORT_BY"
+msgstr "Trier par"
+
+msgid "PRODUCTS_PER_PAGE"
+msgstr "Nombre"
+
+msgid "NO_RESULTS"
+msgstr "Aucun résultat trouvé"
+
+msgid "NO_PRODUCT_RESULTS"
+msgstr "Malheureusement, aucun produit a été trouvé qui correspondent aux options choisies. <br />Supprimez ou modifiez les filtres pour trouver des produits."
+
+msgid "SERVICE_REQUEST_INFO"
+msgstr "Pour toute réclamation, veuillez remplir la fiche de demande de service ci-dessous de la manière la plus complète possible.<br /> Nous vous contacterons dès que possible."
+
+msgid "SERVICE_REQUEST_COMPLETE"
+msgstr ""
+"<p>Merci d'avoir rentré votre demande de service.</p> "
+"			<p>Nous faisons de notre mieux pour traiter votre demande de service dès que possible.</p>"
+"			<p>En générale, vous recevrez une réponse en moins de 2 jours ouvrables pour votre demande de service.</p>"
+
+msgid "SERVICE_REQUEST"
+msgstr "Demande de service"
+
+msgid "ADD_PICTURE"
+msgstr "Ajoutez une photo"
+
+msgid "SERVICE_REQUEST_PICTURES"
+msgstr "En cas de dommages ou de réclamations nos fournisseurs demandent des images du produit endommagé. <br />Vous pouvez les télécharger ici."
+
+msgid "SERVICE_DESCRIPTION"
+msgstr "Description du service"
+
+msgid "PURCHASE_INFO"
+msgstr "Données d'achat"
+
+msgid "SEARCH_RESULTS_CATEGORY"
+msgstr "Catégories trouvées (%d résultats)"
+
+msgid "SEARCH_RESULTS_BRAND"
+msgstr "Marques trouvées (%d résultats)"
+
+msgid "SEARCH_RESULTS_BRAND_CATEGORY"
+msgstr "Marques trouvées par catégories (%d résultats)"
+
+msgid "SEARCH_RESULTS"
+msgstr "Résultats de recherche pour '%s'"
+
+msgid "MORE_RESULTS"
+msgstr "Plus de résultats >"
+
+msgid "SEARCH_RESULTS_PRODUCT"
+msgstr "Produits trouvés (%d résultats)"
+
+msgid "SEARCH_NO_RESULTS"
+msgstr ""
+"Malheureusement, il n'y a pas de résultats. "
+""
+"Veuillez changer les mots de recherche. Faites usage d'un synonyme ou changez l'orthographe par exemple. Vous pouvez aussi chercher une marque ou numéro d'article."
+
+msgid "SEARCH_NO_RESULTS_TODO"
+msgstr ""
+"<p>Que pouvez-vous faire ?</p>"
+"					<p>1. Contrôlez l'orthographe ou essayez un nouveau terme de recherche</p>"
+"					<p>2. Utilisez notre fonction 'recherche avancée'</p>"
+"					<p>3. Prenez contact avec nous par le formulaire de contact ci-dessous</p>"
+
+msgid "SEARCH_NO_RESULTS_TODO_GOOGLE"
+msgstr ""
+"<p>Que pouvez-vous faire ?</p>"
+"					<p>1. Vérifiez l'orthographe ou essayez une nouvelle recherche</p>"
+"					<p>2. Contactez-nous en utilisant le formulaire ci-dessous</p>"
+
+msgid "SEARCH_NO_RESULTS_GOOGLE"
+msgstr "Toujours pas trouvé ce que vous cherchez ?"
+
+msgid "COMMENT"
+msgstr "Remarque"
+
+msgid "OFFER"
+msgstr "Offre"
+
+msgid "YOUR_OFFER"
+msgstr "Votre devis"
+
+msgid "YOUR_PRODUCTS"
+msgstr "Vos produits"
+
+msgid "EXTRA_INFO"
+msgstr "Informations supplémentaires"
+
+msgid "ADD_PRODUCT"
+msgstr "Ajoutez un produit"
+
+msgid "ATTACH_OFFER"
+msgstr "Envoyez un devis"
+
+msgid "NEWSLETTER_SIGNUP_TITLE"
+msgstr "Inscription à la newsletter"
+
+msgid "NEWSLETTER_INVALID_EMAIL"
+msgstr "Adresse e-mail incorrecte. Vérifiez votre adresse email."
+
+msgid "NEWSLETTER_MAIL_EXISTS"
+msgstr ""
+"L'adresse e-mail que vous avez entrée est déjà enregistrée. Entrez une<br>"
+"						 autre adresse ou cliquez <a target=\"_blank\" href=\"/nieuwsbrief/wijzigen/\"> ici</a> pour modifier vos données."
+
+msgid "NEWSLETTER_UPDATED"
+msgstr "Vos données sont complétées."
+
+msgid "NEWSLETTER_ADDED"
+msgstr "Vos données ont été envoyées."
+
+msgid "PAGINATE_RESULT_BAR"
+msgstr "Résultats <span>%d</span>-<span>%d</span> de <span>%d</span>"
+
+msgid "ASSORTMENT"
+msgstr "Gamme"
+
+msgid "CALL_US"
+msgstr "Appelez-nous"
+
+msgid "MAIL_US"
+msgstr "Contactez-nous par mail"
+
+msgid "FULL_WEBSITE"
+msgstr "Site web complet"
+
+msgid "SEOTEXT_SEARCH_THREE"
+msgstr "%s disponible chez Sawiday.be. Nous vous proposons"
+
+msgid "SEOTEXT_SEARCH_SEVEN"
+msgstr ""
+"Nous offrons %s pour un prix compétitif pour votre salle de bain et votre style personnel."
+"		<br />"
+"		Nous expédions gratuitement dans de nombreux cas et la gamme complète de %s est disponible."
+"		Nos meilleurs sont les"
+
+msgid "SEOTEXT_CATEGORY"
+msgstr ""
+"<h2>Acheter %s</h2>"
+"			<p>Les produits de la gamme %s sont disponibles chez Sawiday.  Si vous ne retrouveriez pas  les produits de la gamme %s  en ligne, <a href=\"/fr-be/contact/\">posez ici votre question %s</a> ou <a href=\"/fr-be/service-client/a-propos-sawiday/\">visitez notre magasin</a>.</p>"
+
+msgid "SEOTEXT_BRAND"
+msgstr ""
+"<h2>%s</h2>"
+"				<p>%s est une marque reconnue et réputée dans le monde de la salle de bains et des équipements sanitaires. Sawiday propose une large gamme de la marque %s, toujours au meilleur prix. Nous exposons une séléction de produits de la marque %s dans nos showrooms. Vous avez une question concernant un produit %s ? Notre service client et nos conseillers commerciaux se feront un plaisir de répondre à toutes vos questions.</p>"
+"				<p></p>"
+"				<h2>Gamme</h2>"
+"				<p> Les produits de la marque %s vous font réaliser la salle de bains de vos rêves. Tous les produits de la marque %s sont disponibles chez Sawiday. Vous ne retrouver pas une produit sur notre site ? <a href=\"/fr-be/contact/\"></a>Soumettez votre question concernant la marque ici %s</a> ou <a href=\"/fr-be/service-client/showrooms/\"></a>visitez l'un de nos showrooms</a>.</p>."
+
+msgid "SEOTEXT_BRAND_SERIE"
+msgstr ""
+"<h2>%s %s</h2>"
+"			<p>%s est une des séries de la marque %s. La gamme %s %s est complète. Chez Sawiday, les produits de la collection %s %s vous sont proposés au meilleur prix. </p>                        "
+"			<p></p>"
+"			<h2>La gamme %s de %s</h2>"
+"			<p>La gamme %s est disponible pour une installation dans votre salle de bain ou WC chez Sawiday. Au cas où vous ne retrouveriez pas votre article %s %s en ligne, <a href=\"/contact/\">posez votre question à propos de %s %s </a> ici."
+
+msgid "SEOTEXT_BRAND_CATEGORY"
+msgstr ""
+"<h2>%s %s %s</h2>"
+"			<p>Vous-êtes à la recherche d'un produit de qualité ? La marque %s %s est disponible sur Sawiday. Achetez ici les produits de la gamme %s de %s %s à un prix fort intéressant. La gamme %s %s | %s est fabriquée de matériaux de grande qualité. </p>                        "
+"			<p></p>"
+"			<h2>Les %s | %s %s</h2>"
+"			<p>Les %s de la marque %s %s sont disponibles sur notre site et en magasin. Au cas où vous ne trouveriez pas votre %s %s produit en ligne, <a href=\"/fr-be/contact/\">posez votre question à propos de %s %s </a> ou <a href=\"/fr-be/service-client/showrooms/\">visitez un de nos showrooms</a>.</p>"
+
+msgid "A_CUSTOMER"
+msgstr "Un client"
+
+msgid "SAYS"
+msgstr "dit"
+
+msgid "PICTURES_OF"
+msgstr "Photos de"
+
+msgid "THE_CUSTOMER"
+msgstr "Le client"
+
+msgid "REVIEWS_PER_PAGE"
+msgstr "Commentaires par page"
+
+msgid "ADD_REVIEW"
+msgstr "Ajoutez une critique"
+
+msgid "REVIEW_ADDED"
+msgstr "Votre commentaire a été ajouté avec succès et sera publié après contrôle."
+
+msgid "REVIEW_FORM_INVALID"
+msgstr "Votre commentaire n'a pas pu être ajouté, vous n'avez pas rempli tous les champs obligatoires (marqués avec *)."
+
+msgid "EXPLANATION"
+msgstr "Explication"
+
+msgid "REVIEW_IMAGES"
+msgstr "Images éventuelles"
+
+msgid "APPRECIATION"
+msgstr "Appréciation"
+
+msgid "REVIEW_INVALID_ORDER_NO"
+msgstr "Votre commentaire n'a pas pu être ajouté, votre numéro de commande est incorrect."
+
+msgid "TRUSTPILOT_FACET_DEPRECATED"
+msgstr ""
+"<div class=\"tp_-_box\" data-tp-settings=\"domainId:266992,linkColor:35689A,fontFamily:Arial,fontColor:444440,bgBarColor:DDDDDD,borderRadius:0,borderColor:CECECE,showUserImage:False,width:187,numOfReviews:2,height:0,showSelectedRatings:False,locale:{$locale}\">"
+"			<a href=\"https://fr.trustpilot.com/review/sawiday.be?utm_medium=trustboxes&utm_source=Grid\" hidden>Avis Sawiday</a>"
+"		</div>"
+
+msgid "SHOWROOMBOX_FILTERS"
+msgstr ""
+"<ul>"
+" 			<li style=\"margin-bottom: 0px;\">"
+" 				<a title=\"Showroom Sawiday.be\" href=\"page/211/service-client/a-propos-sawiday/#showrooms\">"
+" 					<h4>Magasin Schoten</h4>"
+" 					<img width=\"170\" height=\"120\" alt=\"Showroom Sawiday Belgique\" src=\"//static.rorix.nl/sanitairwinkel/sanitairwinkel_be/images/toonzaal_belgie.png\">"
+" 					<address>"
+" 						Bredabaan 1265<br>"
+"                        2900 Schoten"
+" 					</address>"
+" 				</a>"
+" 			</li>"
+" 			<li style=\"margin-bottom: 0px;\">"
+" 				<h4>Heures d'ouverture</h4>"
+" 				<table style=\"width: 100%;\">"
+" 					<tbody><tr>"
+" 						<td>lun</td>"
+" 						<td>9:30 - 18:00 heure</td>"
+" 					</tr>"
+" 					<tr>"
+" 						<td>mar</td>"
+" 						<td>9:30 - 18:00 heure</td>"
+" 					</tr>"
+" 					<tr>"
+" 						<td>mer</td>"
+" 						<td>9:30 - 18:00 heure</td>"
+" 					</tr>"
+" 					<tr>"
+" 						<td>jeu</td>"
+" 						<td>9:30 - 20:00 heure</td>"
+" 					</tr>"
+" 					<tr>"
+" 						<td>ven</td>"
+" 						<td>9:30 - 18:00 heure</td>"
+" 					</tr>"
+" 					<tr>"
+" 						<td>sam</td>"
+" 						<td>9:30 - 17:00 heure</td>"
+" 					</tr>"
+" 					<tr>"
+" 						<td><img src=\"//static.rorix.nl/sanitairwinkel/sanitairwinkel_be/images/telefoon_grijs.png\"></td>"
+" 						<td>(+32)(0)68 48 01 14</td>"
+" 					</tr>"
+" 				</tbody></table>"
+" 			</li>"
+" 		</ul>"
+
+msgid "ACTIVE_FILTERS"
+msgstr "Filtres actifs"
+
+msgid "ALL_FILTERS"
+msgstr "Tous les filtres"
+
+msgid "POPULARITY"
+msgstr "Popularité"
+
+msgid "LAST_ADDED"
+msgstr "Derniers ajouts"
+
+msgid "COMBINATION_SET"
+msgstr "Kit combiné"
+
+msgid "REVIEW_EXPLANATION_PLACEHOLDER"
+msgstr "Entrez ici aussi détaillé que possible par produit tous les points positifs et négatifs. Ce qui est utile ou ce qui ne l'est pas ? Pensez aussi au rapport qualité/prix et si le produit répond à vos attentes."
+
+msgid "SUBCAT_PRODUCT_COUNT"
+msgstr "%d produits"
+
+msgid "MAKE_YOUR_CHOICE"
+msgstr "Faites votre choix"
+
+msgid "NEWSLETTER_SIGNUP_LINK"
+msgstr "/generiek/tools/nieuwsbrief/aanmelden.php"
+
+msgid "NEWSLETTER_CHANGE_LINK"
+msgstr "/generiek/tools/nieuwsbrief/afmelden.php"
+
+msgid "NEWSLETTER_UNSUBSCRIBE_LINK"
+msgstr "/generiek/tools/nieuwsbrief/afmelden.php"
+
+msgid "YOUR_PAYMENT_METHOD"
+msgstr "Votre mode de paiement"
+
+msgid "BUSINESS"
+msgstr "Professionnel"
+
+msgid "PRIVATE"
+msgstr "Privé"
+
+msgid "PERSONAL_INFORMATION"
+msgstr "Données personnelles"
+
+msgid "ACCOUNT_NUMBER"
+msgstr "Numéro de compte"
+
+msgid "MOBILE_GOOGLE_ANALYTICS"
+msgstr ""
+"<!-- Google Analytics -->"
+"	<script type=\"text/javascript\">"
+"		var _gaq = _gaq || [];"
+"		_gaq.push(['_setAccount', 'UA-732769-2']);"
+"		_gaq.push(['_trackPageview']);"
+""
+"		(function() {"
+"			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;"
+"			ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';"
+"			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);"
+"		})();"
+"	</script>"
+"	<!-- Google Analytics end -->"
+
+msgid "NO_CONCEPTS"
+msgstr "Pas de gloses"
+
+msgid "GLOSSARY_SANITARY"
+msgstr "Glossaire salle de bains et plomberie"
+
+msgid "QUICK_TO_PAGE"
+msgstr "Page"
+
+msgid "SEO_MENU_TITLE"
+msgstr "Liens utiles"
+
+msgid "CUSTOMERSERVICE_MENU_TITLE"
+msgstr "Service client"
+
+msgid "CUSTOMERSERVICE_SLIDER"
+msgstr ""
+"<img class=\"service_waslijn\" src=\"//static.rorix.nl/skins/1/images/klantenservice/waslijn11.jpg\" />"
+"<img class=\"service_waslijn\" src=\"//static.rorix.nl/skins/1/images/klantenservice/waslijn22.jpg\" />"
+"<img class=\"service_waslijn\" src=\"//static.rorix.nl/skins/1/images/klantenservice/waslijn33.jpg\" />"
+
+msgid "IP2C"
+msgstr ""
+"<h1 style=\"margin:4px 0 0 95px;color:#2A4860;font-size:14px;\">Vous vous trouvez sur Sanitairwinkel.nl depuis la Belgique.</h1>"
+"	<div id=\"winkelwagen-add\">"
+"	<div style='position:relative;left:10px;top:62px;'><a target='_top' href=\"https://www.sawiday.be/nl-be/\"><img style='border:1px solid gray;' src='//static.rorix.nl/skins/1/images/be-vlag.jpg' width='40' height='20'></a></div>"
+"	<a target='_top' href=\"http://www.sawiday.be/nl-be/\"><img src=\"//static.rorix.nl/skins/1/images/logo-be.jpg\" class=\"in-winkelwagen-img\"/></a></div>"
+"	<div style='margin-left:400px;margin-top:75px;width:50px;'><a target='_top' href=\"https://www.sawiday.be/nl-be/\"><img style='border:1px solid gray;' src='//static.rorix.nl/skins/1/images/be-vlag.jpg' width='40' height='20'></a></div>"
+"	<div style='margin-top:40px;color:black;left:0px;text-align:center;'>"
+"	Sanitairwinkel a aussi un établissement en Belgique. Vous pouvez le visiter par <a target='_top' style='text-decoration:none;color:black;' href=\"https://www.sawiday.be/nl-be/\"><u><b>Sawiday.be/nl-be</b></u></a><br><br>"
+"	Si vous souhaitez rester sur le site néerlandais, cliquez sur <a target='_top'  style='text-decoration:none;color:black;' href=\"https://www.sanitairwinkel.nl/\"><u><b>Sanitairwinkel.nl</b></u></a>"
+
+msgid "SEND_REVIEW"
+msgstr "Envoyer avis"
+
+msgid "CUSTOMERSERVICE_BREADCRUMB_ROOT"
+msgstr "Service client"
+
+msgid "RUNNING_TIME_OVER"
+msgstr "La promotion n'est plus valable."
+
+msgid "DAY"
+msgstr "jour(s)"
+
+msgid "DAYS"
+msgstr "jour(s)"
+
+msgid "HOUR"
+msgstr "heure(s)"
+
+msgid "MINUTES_SHORT"
+msgstr "min"
+
+msgid "SECONDS_SHORT"
+msgstr "sec"
+
+msgid "THIS_ACTION_WILL_RUN_FOR"
+msgstr "Promotion encore valable pour :"
+
+msgid "ERROR_UPLOADING_IMAGES_TOO_LARGE"
+msgstr "Une erreur s'est produite en téléchargeant vos images. Peut-être un des documents est trop grand. Le document ne peut pas dépasser les %s MB."
+
+msgid "FILESIZE_TOO_LARGE"
+msgstr "Une ou plusieurs images dépassent la limite de %s MB."
+
+msgid "UNSUPPORTED_FILETYPE_IMAGE"
+msgstr "Le type de document vous essayez de télécharger n'est pas compatible. Veuillez utiliser .jpg, .gif ou .png."
+
+msgid "UPLOAD_FAIL"
+msgstr "Une erreure s'est produite en téléchargeant vos documents."
+
+msgid "INVALID_EMAIL"
+msgstr "S'il vous plait, entrez un adresse e-mail valable."
+
+msgid "ERROR_SENDING_FORM"
+msgstr "Une erreur s'est produite, malheureusement nous ne pouvons pas envoyer le formulaire à cet instant."
+
+msgid "REVIEW_HIDE_NAME"
+msgstr "Ne publiez pas mon nom sur le site."
+
+msgid "SHOW_FILTERS"
+msgstr "Déployer les filtres "
+
+msgid "HIDE_FILTERS"
+msgstr "Rabattre les filtres "
+
+msgid "ENDS_IN"
+msgstr "Cette action se terminera dans :"
+
+msgid "NAVIGATION_USP_1"
+msgstr ""
+"<div class=\"t-usp\" data-gtm-event=\"click\" data-gtm-category=\"Header\" data-gtm-action=\"USP's\" data-gtm-label=\"Showrooms\">"
+"    <span class=\"house top-icon\"></span>"
+"    <a href=\"/fr-be/service-client/showroom/\">"
+"        <span>Deux</span> <span class=\"c-orange\">showrooms</span> modernes</span>"
+"    </a>"
+"</div>"
+
+msgid "NAVIGATION_USP_2"
+msgstr ""
+"<div class=\"t-usp\" data-gtm-event=\"click\" data-gtm-category=\"Header\" data-gtm-action=\"USP's\" data-gtm-label=\"BeCommerce\">"
+"     <span class=\"check top-icon\"></span>"
+"    <a href=\"https://www.becommerce.be/fr/membres/chercher-un-membre/d/certificate/1350\"  target=\"_blank\" rel=\"nofollow\">"
+"        <span>Membre </span>"
+"        <span class=\"c-orange\">BeCommerce</span>"
+"    </a>"
+"</div>"
+
+msgid "NAVIGATION_USP_3"
+msgstr ""
+"<div class=\"t-usp global-review-trustpilot\" data-gtm-event=\"click\" data-gtm-category=\"Header\" data-gtm-action=\"USP's\" data-gtm-label=\"Évaluation\">"
+" <span class=\"thumb top-icon\"></span>"
+"  <a href=\"/reviews/\">"
+"  <span>Évaluation client:</span>"
+"                <span class=\"c-orange usp-trustPilotScore tp-score\"> </span>"
+"  <span>/ 5</span>"
+" </a>"
+"</div>"
+
+msgid "NAVIGATION_USP_4"
+msgstr ""
+"<div class=\"t-usp\" data-gtm-event=\"click\" data-gtm-category=\"Header\" data-gtm-action=\"USP's\" data-gtm-label=\"Retour\"> "
+"<span class=\"return top-icon\"></span>"
+"    <a href=\"https://service.sawiday.com/hc/fr-be/sections/9878562534301-Annulation-Retour\">"
+"        <span class=\"c-orange\">30 jours </span>"
+"        <span>droit de retour</span>"
+"    </a>"
+"</div>"
+
+msgid "NAVIGATION_USP_5"
+msgstr ""
+"<div class=\"t-usp\" data-gtm-event=\"click\" data-gtm-category=\"Header\" data-gtm-action=\"USP's\" data-gtm-label=\"Livraison sur rendez-vous\">"
+"    <span class=\"clock top-icon\"></span>"
+"    <a href=\"https://service.sawiday.com/hc/fr-be/sections/9878561634717-Livraison-et-enlèvement\">"
+"        <span class=\"c-orange\">Livraison</span>"
+"        <span> sur rendez-vous</span>"
+"    </a>"
+"</div>"
+
+msgid "NAVIGATION_SERVICE_LINKS"
+msgstr ""
+"<a href=\"/fr-be/demande-de-service/\" class=\"extra-margin customer f-ease\">Demande de service</a>"
+"<a href=\"/fr-be/etat-de-commande/\" class=\"customer f-ease\">Etat de commande</a>"
+"<a href=\"https://service.sawiday.com/hc/fr-be\" class=\"customer f-ease\">Service client</a>"
+"<div class=\"contact-phone f-ease\">"
+"    <span class=\"tel top-icon svg-sprite\"></span>"
+"    <a class=\"telefoon\" href=\"tel:0032068480114\">(+32)(0)68 48 01 14</a>"
+"</div>"
+
+msgid "NAVIGATION_MOBILE_OFFER"
+msgstr "<a class=\"mobile-offer but bg-kblue\" href=\"https://service.sawiday.com/hc/fr-be\">Service client</a>"
+
+msgid "FILTERS_REVIEW_OVERVIEW"
+msgstr "<p><b class=\"c-kblue ratingNumberTrustPilot tp-reviews\"></b> de nos clients nous ont apprécié avec un moyen de <b class=\"c-kblue ratingStarsTrustPilot tp-star-count\"></b> étoiles.</p>"
+
+msgid "SUBSCRIBE_FAILED"
+msgstr "Malheureusement, votre demande ne pouvait pas être traité. Nos excuses."
+
+msgid "INVALID_SUBMIT"
+msgstr "Malheureusement, nous n'avons pas pu vous inscrire pour la newsletter. Nos excuses."
+
+msgid "EMPTY_FIRSTNAME"
+msgstr "Remplissez votre prénom, s'il vous plaît."
+
+msgid "EMPTY_SURNAME"
+msgstr "Remplissez votre nom de famille, s'il vous plaît."
+
+msgid "MINUTES"
+msgstr "minutes"
+
+msgid "DESTINATIONS_DELIVERYPOINT"
+msgstr "Point de collecte externe"
+
+msgid "DESTINATIONS_SHOWROOM"
+msgstr "Point de collecte interne"
+
+msgid "DESTINATIONS_CUSTOMER"
+msgstr "Adresse du client"
+
+msgid "GO_UP"
+msgstr "En haut"
+
+msgid "INVALID_ARGUMENT_ERROR"
+msgstr "Une erreur non-défini c'est produite (code : 100)"
+
+msgid "INVALID_CONFIG_ERROR"
+msgstr "Une erreur non-défini c'est produite (code : 200)"
+
+msgid "CONFIG_SETTING_NOT_FOUND_ERROR"
+msgstr "Une erreur non-défini c'est produite (code : 400)"
+
+msgid "GENERAL_ERROR"
+msgstr "Une erreur non-défini c'est produite (code : 500)"
+
+msgid "CUSTOMER_NOT_FOUND_ERROR"
+msgstr "Aucun client trouvé avec l'adresse e-mail %s"
+
+msgid "INVALID_EMAIL_ERROR"
+msgstr "Adresse e-mail non valable."
+
+msgid "INVALID_PASSWORD_ERROR"
+msgstr "Vous avez choisi un mot de passe non valable. Le mot de passe doit contenir au moins une lettre et un chiffre  et compter au moins 6 caractères."
+
+msgid "INVALID_TOKEN_ERROR"
+msgstr "Séquence non valable."
+
+msgid "NO_TOKEN_MATCH_ERROR"
+msgstr "Séquence non valable."
+
+msgid "PASSWORD_RESET_FAILED_ERROR"
+msgstr "La modification du mot de passe a échoué."
+
+msgid "PASSWORD_RESET_EMAIL_SUBJECT"
+msgstr "Créez un nouveau mot de passe"
+
+msgid "PASSWORD_RESET_BODY_DEPRECATED"
+msgstr ""
+"<Cher/Chère {$name},</p>"
+"<p>Vous avez oublié votre mot de passe ? Aucun problème : ce mail vous permet de créer facilement un nouveau mot de passe. Est-ce que le lien ne s'ouvre pas ? Copiez et collez la ligne suivante dans la barre d'adresse de votre navigateur internet:</p>."
+"<p>{$passResetUrl}<p>"
+"<p>Le lien est valable pour une durée de 7 jours.</p>."
+"<p>Si vous ne souhaitez pas changer votre mot de passe, veuillez considérer ce message comme non envoyé.</p>"
+
+msgid "GET_NEW_PASSWORD"
+msgstr "Nouveau mot de passe"
+
+msgid "THANKS_QUESTIONS_FOOTER_TEXT"
+msgstr "Merci de votre confiance en Sawiday. Si, toutefois, vous avez encore des questions, n’hésitez pas à prendre contact avec nous."
+
+msgid "QUEUEING_PASSWORD_RESET_MAIL_FAILED"
+msgstr "Le courriel avec lequel vous pouvez rétablir votre mot de passe, ne pouvait pas être envoyé. Réessayez plus tard, s'il vous plait !"
+
+msgid "NO_CONFIG_ERROR"
+msgstr "Une erreur non-défini c'est produite (code : 300)"
+
+msgid "ACCOUNT_ACTIVATION_BODY_DEPRECATED"
+msgstr ""
+"<p>Cher / Chère {$name},</p>"
+"<p>Merci pour votre enregistrement ! Pour finaliser votre inscription, cliquez simplement sur le lien d'activation de votre compte. Le lien ne s'ouvre pas ? Copiez et collez le lien ci-dessous dans la barre d'adresse de votre navigateur Internet :</p>"
+"<p>{$activationUrl}<p>"
+"<p>Le lien est valable durant 14 jours. Ne tardez donc pas d'activer votre compte.</p>"
+"<p>Si vous ne voulez pas activer votre compte, veuillez ignorer le présent courriel.</p>"
+
+msgid "ACCOUNT_ACTIVATION_EMAIL_SUBJECT"
+msgstr "Activer votre compte"
+
+msgid "QUEUEING_ACCOUNT_ACTIVATION_MAIL_FAILED"
+msgstr "Ce n'était pas possible de vous envoyer un courriel. Réessayez plus tard, s'il vous plait !"
+
+msgid "ACTIVATION_NOT_ALLOWED_ERROR"
+msgstr "Vous ne pouvez pas activer ce compte."
+
+msgid "PASSWORD_MISMATCH"
+msgstr "Les mots de passe ne sont pas identiques."
+
+msgid "SET_PASSWORD"
+msgstr "Créer mot de passe."
+
+msgid "CHOOSE_PASSWORD_TO_ACTIVATE"
+msgstr "Choisissez un mot de passe afin d'activer votre compte."
+
+msgid "CHOOSE_NEW_PASSWORD"
+msgstr "Choisissez un nouveau mot de passe"
+
+msgid "REPEAT_PASSWORD"
+msgstr "Répétez le mot de passe"
+
+msgid "INITIAL_PASSWORD_SAVED"
+msgstr "Votre mot de passe est enregistré et votre compte est activé. Dès maintenant, vous pouvez vous identifier avec vos données."
+
+msgid "ACTIVATION_SUCCEEDED"
+msgstr "Activation réussie !"
+
+msgid "ACTIVATION_SUCCEEDED_HEADER"
+msgstr "Activation réussie !"
+
+msgid "ACTIVATION_MAIL_SENT_HEADER"
+msgstr "Courriel d'activation envoyé"
+
+msgid "ACTIVATION_FAILED_HEADER"
+msgstr "L'activation de votre compte n'a pas réussie."
+
+msgid "ACTIVATION_FAILED_TEXT"
+msgstr "Nous ne pouvons pas activer votre compte. Contrôlez le suivant:"
+
+msgid "ACTIVATION_SUCCEEDED_TEXT"
+msgstr "Votre compte a été activé."
+
+msgid "RESEND_ACTIVATION_EMAIL_TEXT"
+msgstr "Envoyez vos données d'activation vers l'adresse e-mail suivante :"
+
+msgid "ACTIVATION_MAIL_SENT_TEXT"
+msgstr "Le courriel d'activation a été envoyé il y a un instant. Contrôlez votre boîte de réception ou votre courrier indésirable."
+
+msgid "RESEND_ACTIVATION_EMAIL_HEADER"
+msgstr "Envoyez vos données d'activation."
+
+msgid "ACTIVATION_ALREADY_SUCCEEDED"
+msgstr "Votre compte a déjà été activé"
+
+msgid "REQUEST_NEW_PASSWORD_CONFIRMATION"
+msgstr "Un mail a été envoyé avec un lien avec lequel vous pouvez créer un nouveau mot de passe."
+
+msgid "NEW_PASSWORD_SAVED"
+msgstr "Votre nouveau mot de passe a été sauvegardé."
+
+msgid "SECONDS"
+msgstr "seconde(s)"
+
+msgid "INVALID_PASSWORD_ERROR_2"
+msgstr "Mot de passe ne réponds pas aux exigences ou ils ne sont pas identiques."
+
+msgid "SERVICE_REQUEST_HASERRORS"
+msgstr "Malheureusement, quelque chose ne marche pas. Contrôlez les champs ci-dessous et réessayez."
+
+msgid "BRANDS_COPY"
+msgstr "Découvrez sur Sawiday.be toutes les grandes marques pour la salle de bain et les WC au meilleur prix."
+
+msgid "BRANDS_SEARCH_HEADING"
+msgstr "Trouvez une marque :"
+
+msgid "TRUSTPILOT_TEXT_COUNTREVIEWS"
+msgstr "Résultat à base de <span class=\"ratingCountTrustPilot tp-reviews\"></span> avis."
+
+msgid "LATEST_REVIEW"
+msgstr "Avis le plus récent :"
+
+msgid "PHONENUMBER"
+msgstr "(+32)(0)68480114"
+
+msgid "FILTERS_REVIEW_OVERVIEW_PRODUCT"
+msgstr "<p>Par <b class=\"c-kblue productRatingCount\">%s</b> de clients ce produit est en moyenne noté avec <b class=\"c-kblue productReviewStars\">%s</b> sur 10.</p>"
+
+msgid "TRUSTPILOT_REVIEW_TITLE_PRODUCT"
+msgstr "Avis produit"
+
+msgid "TRUSTPILOT_REVIEW_TITLE"
+msgstr "Avis service"
+
+msgid "TAGLINE"
+msgstr "Ma salle de bains me va bien !"
+
+msgid "NAVIGATION_USP_6"
+msgstr ""
+"<div class=\"t-usp\" data-gtm-event=\"click\" data-gtm-category=\"Header\" data-gtm-action=\"USP's\" data-gtm-label=\"Livraison gratuite\">"
+"    <span class=\"truck top-icon\"></span>"
+"    <a href=\"https://service.sawiday.com/hc/fr-be/sections/9878561634717-Livraison-et-enlèvement\">"
+"        <span class=\"c-orange\">Livraison gratuite</span>"
+"        <span> à partir de 150€</span>"
+"    </a>"
+"</div>"
+
+msgid "SEARCH_RESULT_SOOQR"
+msgstr "Découvrez ci-dessous les résultats de vos recherches :"
+
+msgid "MENU"
+msgstr "Menu"
+
+msgid "BY_US"
+msgstr "par nous"
+
+msgid "BY_YOU"
+msgstr "par vous"
+
+msgid "REMOVE_ALL_FILTERS"
+msgstr "Supprimer tous les filtres"
+
+msgid "QUICK_TO"
+msgstr "Vers"
+
+msgid "RESULTS"
+msgstr "Résultats"
+
+msgid "NO_SEARCH_RESULTS"
+msgstr ""
+"    <p>Malheureusement, il n'y a pas de résultats pour votre recherche. Veuillez changer les mots de recherche. Faites usage d'un synonyme ou changez l'orthographe par exemple. Vous pouvez aussi chercher une marque ou numéro d'article.</p>"
+""
+"<p>Vous voulez en savoir plus sur nos services ? Découvrez notre <a href=\"https://service.sawiday.com/hc/fr-be\">page service client</a>.</p>"
+""
+"<p>Vous êtes à la recherche d'inspiration ou de conseils ? Visitez l'une des pages suivantes :"
+"<ul>"
+"<li><a href=\"/fr-be/inspiration/\">Inspiration</a></li>"
+"<li><a href=\"/fr-be/conseil/\">Conseils</a></li>"
+"</ul>"
+"</p>"
+"<p>"
+"<ul>"
+"<a href=\"/fr-be/\">Retourner vers l'accueil</a>"
+"</ul>"
+"</p>"
+
+msgid "SEARCH_NO_RESULTS_TITLE"
+msgstr "Aucun résultat trouvé pour le mot de recherche %s"
+
+msgid "SEARCH_RESULTS_CORRECTED"
+msgstr "Vous avez cherché '%s', vous voyez les résultats pour '%s'."
+
+msgid "HEADERNAV_CUSTOM_TEXT_1"
+msgstr "Inspiration"
+
+msgid "HEADERNAV_CUSTOM_LINK_1"
+msgstr "/fr-be/inspiration/"
+
+msgid "HEADERNAV_CUSTOM_TEXT_2"
+msgstr ""
+"Conseil"
+""
+
+msgid "HEADERNAV_CUSTOM_LINK_2"
+msgstr "/fr-be/conseil/"
+
+msgid "NEAREST_SHOWROOM"
+msgstr "Magasin le plus proche"
+
+msgid "SELECT_SHOWROOM"
+msgstr "Sélectionnez un magasin"
+
+msgid "UPLOAD_QUOTE"
+msgstr "Télécharger le devis"
+
+msgid "CHOOSE_FILE"
+msgstr "Choisir un fichier"
+
+msgid "PDF_OR_IMAGE"
+msgstr ".pdf ou image"
+
+msgid "PAGE_COMPAREQUOTE_TITLE"
+msgstr "Nos prix sont imbattables !"
+
+msgid "PAGE_COMPAREQUOTE_TEXT"
+msgstr "<p>Vous avez repéré la salle de bains de vos rêves dans un autre magasin, mais vous ne l'avez pas encore achetée ? Envoyez-nous le devis que vous avez reçu à l'aide du formulaire ci-joint et recevez une proposition de prix encore plus intéressante de la part de Sawiday !</p><p>Pour recevoir votre nouveau devis, veuillez remplir le formulaire ci-joint. Nous vous contacterons dès que possible.</p>"
+
+msgid "FORM_COMPAREQUOTE_TITLE"
+msgstr "Formulaire « Demande nouveau devis »"
+
+msgid "SIDEBAR_COMPAREQUOTE_TITLE"
+msgstr "Vous avez des questions ou des doutes ? N’hésitez pas à nous contacter !"
+
+msgid "SIDEBAR_COMPAREQUOTE_TEXT"
+msgstr "<p>Sawiday est synonyme de qualité et de conseils professionnels. Notre équipe de vente se fera un plaisir de vous aider à faire les bons choix !</p>"
+
+msgid "FLOWBOX_PAGE_BREADCRUMB"
+msgstr "#mysawiday"
+
+msgid "FLOWBOX_PAGE_TITLE"
+msgstr "Salle de bain moderne : 200+ idées & inspirations sur #mysawiday"
+
+msgid "FLOWBOX_PAGE_CONTENT"
+msgstr ""
+"Les plus belles salles de bains se trouvent dans les maisons de nos clients. Nous les partageons volontiers pour vous inspirer. Découvrez-les ci-dessous et utilisez les filtres pour découvrir votre style !<br><br>"
+""
+"Vous voulez voir votre photo ici ? Partagez-la ensuite sur Instagram avec #mysawiday et marquez @sawiday.be. Ou envoyez les photos (haute résolution) de votre salle de bains ou de vos toilettes à marketing@sawiday.be. Chaque mois, nous désignerons un gagnant qui remportera un crédit d'achat de 100 €. <a href=\"/fr-be/yessawi/concours/\">Voilà comment vous participez.</a></p></a></p>"
+""
+
+msgid "ERROR_OCCURRED"
+msgstr "Malheureusement, il c'est produit une erreur."
+
+msgid "FLOWBOX_PAGE_CONTENT_BOTTOM"
+msgstr ""
+
+msgid "ACTIVATION_MAIL_LINK"
+msgstr "Envoyer à nouveau l'e-mail d'activation."
+
+msgid "BACK_TO_GLOSSARY"
+msgstr "Retour au glossaire"
+
+msgid "FLOWBOX_FILTER_TAG_ALL"
+msgstr "Tous"
+
+msgid "FLOWBOX_FILTER_TAG_SCANDINAVIAN"
+msgstr "Scandinave"
+
+msgid "FLOWBOX_FILTER_TAG_INDUSTRIAL"
+msgstr "Industriel"
+
+msgid "FLOWBOX_FILTER_TAG_DARK"
+msgstr "Foncé"
+
+msgid "FLOWBOX_FILTER_TAG_LIGHT"
+msgstr "Clair"
+
+msgid "FLOWBOX_FILTER_TAG_CONCRETE"
+msgstr "Effet béton"
+
+msgid "FLOWBOX_FILTER_TAG_LUXURY"
+msgstr "Luxe"
+
+msgid "FLOWBOX_FILTER_TAG_HERRINGBONE"
+msgstr "Carrelage en chevron"
+
+msgid "FLOWBOX_FILTER_TAG_MODERN"
+msgstr "Moderne"
+
+msgid "FLOWBOX_FILTER_TAG_TERRAZZO"
+msgstr "Terrazzo"
+
+msgid "FLOWBOX_FILTER_TAG_COLOR"
+msgstr "Couleur"
+
+msgid "FLOWBOX_PAGE_SOCIAL_BUTTON_URL"
+msgstr "https://www.instagram.com/sawiday.be/"
+
+msgid "FLOWBOX_PAGE_SOCIAL_BUTTON_TEXT"
+msgstr "Suivez @sawiday.be sur Instagram pour plus d'inspiration."
+
+msgid "TAGLINE_HTML"
+msgstr "Ma salle de <br>bains me va bien !</br>"
+
+msgid "PICTURE_OF"
+msgstr "Photo de"
+
+msgid "ABOUT_THE_AUTHOR"
+msgstr "A propos de l'auteur"
+
+msgid "OF"
+msgstr "par"
+
+msgid "MEET_AUTHOR"
+msgstr "Rencontrer"
+
+msgid "REVIEW_ANONYMIZED_USER"
+msgstr "Avis importé"
+
+msgid "WITH"
+msgstr "de"
+
