@@ -38,7 +38,7 @@
             "nl-NL"
           ],
           "file_format": "gettext_po",
-          "path": ".<language>/checkout.po",
+          "path": "./<language>/checkout.po",
           "tag": "app:checkout.po"
         },
         {
@@ -46,7 +46,7 @@
             "nl-NL"
           ],
           "file_format": "gettext_po",
-          "path": ".<language>/compare.po",
+          "path": "./<language>/compare.po",
           "tag": "app:compare.po"
         }
       ]
