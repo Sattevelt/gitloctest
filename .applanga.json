@@ -1,0 +1,55 @@
+{
+  "app": {
+    "base_language": "nl-NL",
+    "push": {
+      "source": [
+        {
+          "language": "nl-NL",
+          "file_format": "gettext_po",
+          "path": "./nl_NL/category.po",
+          "tag": "app:category.po"
+        },
+        {
+          "language": "nl-NL",
+          "file_format": "gettext_po",
+          "path": "./nl_NL/checkout.po",
+          "tag": "app:checkout.po"
+        },
+        {
+          "language": "nl-NL",
+          "file_format": "gettext_po",
+          "path": "./nl_NL/compare.po",
+          "tag": "app:compare.po"
+        }
+      ]
+    },
+    "pull": {
+      "target": [
+        {
+          "exclude_languages": [
+            "nl-NL"
+          ],
+          "file_format": "gettext_po",
+          "path": "./<language>/category.po",
+          "tag": "app:category.po"
+        },
+        {
+          "exclude_languages": [
+            "nl-NL"
+          ],
+          "file_format": "gettext_po",
+          "path": ".<language>/checkout.po",
+          "tag": "app:checkout.po"
+        },
+        {
+          "exclude_languages": [
+            "nl-NL"
+          ],
+          "file_format": "gettext_po",
+          "path": ".<language>/compare.po",
+          "tag": "app:compare.po"
+        }
+      ]
+    }
+  }
+}
